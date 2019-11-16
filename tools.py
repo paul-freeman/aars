@@ -48,22 +48,46 @@ def parse_fasta(path):
     return fasta_data
 
 
+def search_data_folder(fasta_data, ext):
+    """Glob the `data` folder looking for matches"""
+    if fasta_data['pdb']:
+        f = '{}*_' + ext
+    else:
+        f = '{}{}_{}_{}'.format(
+            fasta_data['letter'],
+            fasta_data['genus'],
+            fasta_data['aa'],
+            ext
+        )
+    return glob.glob('data/**/*' + f, recursive=True)
+
+
+def search_supplemental_folder(fasta_data, ext):
+    """Glob the `supplemental` folder looking for matches"""
+    if fasta_data['pdb']:
+        f = '{}_*_{}_*_{}.fasta'.format(
+            fasta_data['aa'],
+            fasta_data['pdb'],
+            ('aa' if ext == 'aa' else 'gene')
+        )
+    else:
+        f = 'skldajfkldjsafkldsjfksajkf'
+    return glob.glob('data/supplemental/*' + f, recursive=False)
+
+
 def write_standardized_data(fasta_data):
     """Look through Alex's data and write file (if found) in standard format."""
     for ext in ['aa', 'nuc']:
         out_path = 'data/{}.{}'.format(make_filename(fasta_data), ext)
         if not os.path.exists(out_path):
-            if fasta_data['pdb']:
-                f = '{}*_' + ext
-            else:
-                f = '{}{}_{}_{}'.format(
-                    fasta_data['letter'],
-                    fasta_data['genus'],
-                    fasta_data['aa'],
-                    ext
-                )
+            g1 = search_data_folder(fasta_data, ext)
 
-            g = glob.glob('data/**/*' + f, recursive=True)
+            # possible location in supplemental data
+            g2 = []
+            if not g1:
+                g2 = search_supplemental_folder(fasta_data, ext)
+
+            g = g1 + g2
 
             # SPECIAL CASE 1
             if fasta_data['genus'] == 'obscuriglobus':
@@ -103,8 +127,10 @@ def write_standardized_data(fasta_data):
 def write_binary_data(filename):
     for fasta_data in parse_fasta(filename):
         prefix = make_filename(fasta_data)
-        aa_dat = read_fasta_file('data/{}.aa'.format(prefix))[2]
-        nuc_dat = read_fasta_file('data/{}.nuc'.format(prefix))[2]
+        aa_file = 'data/{}.aa'.format(prefix)
+        nuc_file = 'data/{}.nuc'.format(prefix)
+        aa_dat = read_fasta_file(aa_file)[2]
+        nuc_dat = read_fasta_file(nuc_file)[2]
         if not aa_dat or not nuc_dat:
             print("Missing data for", prefix)
             continue
@@ -112,6 +138,8 @@ def write_binary_data(filename):
             nuc_dat = nuc_dat[:-3]
         if len(aa_dat) * 3 != len(nuc_dat):
             print("Data incorrect length:", prefix, len(aa_dat), len(nuc_dat))
+            os.rename(aa_file, aa_file + '.bad')
+            os.rename(nuc_file, nuc_file + '.bad')
 
 
 def make_filename(fasta_data):

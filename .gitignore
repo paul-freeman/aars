@@ -2,3 +2,4 @@
 data/Archaea/*
 data/Bacteria/*
 data/Eukaryotes/*
+data/*.bad
