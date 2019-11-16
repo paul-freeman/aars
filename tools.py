@@ -136,10 +136,23 @@ def write_binary_data(filename):
             continue
         if len(aa_dat) * 3 + 3 == len(nuc_dat):
             nuc_dat = nuc_dat[:-3]
+            continue
         if len(aa_dat) * 3 != len(nuc_dat):
             print("Data incorrect length:", prefix, len(aa_dat), len(nuc_dat))
-            os.rename(aa_file, aa_file + '.bad')
-            os.rename(nuc_file, nuc_file + '.bad')
+            try:
+                os.rename(aa_file, aa_file + '.bad')
+            except FileExistsError:
+                try:
+                    os.remove(aa_file)
+                except FileNotFoundError:
+                    pass
+            try:
+                os.rename(nuc_file, nuc_file + '.bad')
+            except FileExistsError:
+                try:
+                    os.remove(aa_file)
+                except FileNotFoundError:
+                    pass
 
 
 def make_filename(fasta_data):
