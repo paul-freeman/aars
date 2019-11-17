@@ -1,5 +1,4 @@
 READING STANDARDIZED DATA
-Data incorrect length: arg_bact_A_aeolicus 686 1752 (expected 2058)
 Data incorrect length: cys_bact_B_licheniformis 420 1404 (expected 1260)
 Data incorrect length: glu_bact_D_radiodurans 852 1578 (expected 2556)
 Missing data for glu_bact_3pnv_M_tuberulosis
