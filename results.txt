@@ -11,4 +11,3 @@ Missing data for met_bact_R_palustris
 Missing data for met_bact_E_faecalis
 Data incorrect length: trp_bact_3n9i_Y_pestis 342 1041 (expected 1026)
 Data incorrect length: trp_bact_3sz3_V_cholerae 338 1098 (expected 1014)
-Missing data for trp_bact_U_unknown
