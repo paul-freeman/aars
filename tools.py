@@ -192,7 +192,7 @@ def read_fasta_file(path):
             for next_dat in path_p.readlines():
                 if next_dat.strip() == '':
                     continue
-                if next_dat.strip()[0] == '>':
+                if next_dat[0] == '>':
                     header = next_dat.strip()
                     if next_dat[0:4] == '>gi|':
                         try:
