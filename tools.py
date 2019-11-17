@@ -71,7 +71,13 @@ def search_supplemental_folder(fasta_data, ext):
             ('aa' if ext == 'aa' else 'gene')
         )
     else:
-        f = 'skldajfkldjsafkldsjfksajkf'
+        f = '{}_{}_{}_{}_{}.fasta'.format(
+            fasta_data['aa'],
+            fasta_data['kingdom'],
+            fasta_data['letter'],
+            fasta_data['genus'],
+            ('aa' if ext == 'aa' else 'gene')
+        )
     return glob.glob('data/supplemental/*' + f, recursive=False)
 
 
@@ -80,12 +86,12 @@ def write_standardized_data(fasta_data):
     for ext in ['aa', 'nuc']:
         out_path = 'data/{}.{}'.format(make_filename(fasta_data), ext)
         if not os.path.exists(out_path):
-            g1 = search_data_folder(fasta_data, ext)
+            g1 = search_supplemental_folder(fasta_data, ext)
 
-            # possible location in supplemental data
+            # possible location in Alex's data
             g2 = []
             if not g1:
-                g2 = search_supplemental_folder(fasta_data, ext)
+                g2 = search_data_folder(fasta_data, ext)
 
             g = g1 + g2
 
