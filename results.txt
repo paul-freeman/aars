@@ -1,0 +1,21 @@
+READING STANDARDIZED DATA
+Data incorrect length: arg_bact_A_aeolicus 583 1437 (expected 1749)
+Data incorrect length: arg_bact_P_mikurensis 579 1884 (expected 1737)
+Data incorrect length: cys_bact_B_licheniformis 451 924 (expected 1353)
+Data incorrect length: cys_bact_E_coli 461 1287 (expected 1383)
+Data incorrect length: gln_bact_B_thailandensis 569 2625 (expected 1707)
+Data incorrect length: glu_bact_D_radiodurans 852 1578 (expected 2556)
+Missing data for glu_bact_3pnv_M_tuberulosis
+Missing data for ile_bact_E_faecalis
+Data incorrect length: ile_bact_G_obscuriglobus 1154 3463 (expected 3462)
+Missing data for ile_bact_M_rferi8a-tran
+Missing data for ile_bact_S_haemolyticus
+Missing data for leu_bact_1h3n_T_thermophilus
+Data incorrect length: met_bact_1woy_T_therm 618 1851 (expected 1854)
+Missing data for met_bact_R_palustris
+Missing data for met_bact_E_faecalis
+Data incorrect length: trp_bact_3n9i_Y_pestis 342 1041 (expected 1026)
+Data incorrect length: trp_bact_3sz3_V_cholerae 338 1098 (expected 1014)
+Missing data for trp_bact_U_unknown
+Data incorrect length: val_bact_B_licheniformis 921 2643 (expected 2763)
+Data incorrect length: val_bact_G_stearothermophilus 880 2937 (expected 2640)
