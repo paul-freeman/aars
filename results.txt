@@ -3,7 +3,6 @@ Data incorrect length: cys_bact_B_licheniformis 420 1404 (expected 1260)
 Data incorrect length: glu_bact_D_radiodurans 852 1578 (expected 2556)
 Missing data for glu_bact_3pnv_M_tuberulosis
 Missing data for ile_bact_E_faecalis
-Data incorrect length: ile_bact_G_obscuriglobus 1154 3463 (expected 3462)
 Missing data for ile_bact_M_rferi8a-tran
 Missing data for ile_bact_S_haemolyticus
 Missing data for leu_bact_1h3n_T_thermophilus

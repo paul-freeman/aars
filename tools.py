@@ -93,33 +93,32 @@ def write_standardized_data(fasta_data):
             if not g1:
                 g2 = search_data_folder(fasta_data, ext)
 
+                # SPECIAL CASE 1
+                if fasta_data['genus'] == 'obscuriglobus':
+                    f = 'Gemmata_{}_{}'.format(
+                        fasta_data['aa'], ext
+                    )
+                    g2 = glob.glob('data/**/*' + f, recursive=True)
+
+                # SPECIAL CASE 2
+                if fasta_data['aa'] == 'leu' and not g2:
+                    f = '{}{}_{}ALPHA_{}'.format(
+                        fasta_data['letter'],
+                        fasta_data['genus'],
+                        fasta_data['aa'],
+                        ext
+                    )
+                    g2 = glob.glob('data/**/*' + f, recursive=True)
+
+                # SPECIAL CASE 3
+                if fasta_data['genus'] == 'asiaticus':
+                    f = 'CAmoebophilusAsiaticus_{}_{}'.format(
+                        fasta_data['aa'],
+                        ext
+                    )
+                    g2 = glob.glob('data/**/*' + f, recursive=True)
+
             g = g1 + g2
-
-            # SPECIAL CASE 1
-            if fasta_data['genus'] == 'obscuriglobus':
-                f = 'Gemmata_{}_{}'.format(
-                    fasta_data['aa'], ext
-                )
-                g = glob.glob('data/**/*' + f, recursive=True)
-
-            # SPECIAL CASE 2
-            if fasta_data['aa'] == 'leu' and not g:
-                f = '{}{}_{}ALPHA_{}'.format(
-                    fasta_data['letter'],
-                    fasta_data['genus'],
-                    fasta_data['aa'],
-                    ext
-                )
-                g = glob.glob('data/**/*' + f, recursive=True)
-
-            # SPECIAL CASE 3
-            if fasta_data['genus'] == 'asiaticus':
-                f = 'CAmoebophilusAsiaticus_{}_{}'.format(
-                    fasta_data['aa'],
-                    ext
-                )
-                g = glob.glob('data/**/*' + f, recursive=True)
-
             if not g:
                 # print('Missing data for: {}'.format(out_path))
                 continue
