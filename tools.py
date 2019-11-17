@@ -216,5 +216,8 @@ def main(filename):
 
 
 if __name__ == "__main__":
+    print('ALL2')
     main('ALL2.fasta')
-    # main('ALL3.fasta')
+    print()
+    print('ALL3')
+    main('ALL3.fasta')

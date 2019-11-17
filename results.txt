@@ -1,8 +1,16 @@
+ALL2
 READING STANDARDIZED DATA
 Data incorrect length: cys_bact_B_licheniformis 420 1404 (expected 1260)
-Data incorrect length: glu_bact_D_radiodurans 852 1578 (expected 2556)
 Missing data for glu_bact_3pnv_M_tuberulosis
-Missing data for ile_bact_S_haemolyticus
+Missing data for leu_bact_1h3n_T_thermophilus
+Data incorrect length: met_bact_1woy_T_therm 618 1851 (expected 1854)
+Data incorrect length: trp_bact_3n9i_Y_pestis 342 1041 (expected 1026)
+Data incorrect length: trp_bact_3sz3_V_cholerae 338 1098 (expected 1014)
+
+ALL3
+READING STANDARDIZED DATA
+Data incorrect length: cys_bact_B_licheniformis 420 1404 (expected 1260)
+Missing data for glu_bact_3pnv_M_tuberulosis
 Missing data for leu_bact_1h3n_T_thermophilus
 Data incorrect length: met_bact_1woy_T_therm 618 1851 (expected 1854)
 Data incorrect length: trp_bact_3n9i_Y_pestis 342 1041 (expected 1026)
