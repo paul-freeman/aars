@@ -135,6 +135,14 @@ def write_binary_data(filename):
         prefix = make_filename(fasta_data)
         aa_file = 'data/{}.aa'.format(prefix)
         nuc_file = 'data/{}.nuc'.format(prefix)
+        try:
+            os.remove(aa_file + '.bad')
+        except FileNotFoundError:
+            pass
+        try:
+            os.remove(nuc_file + '.bad')
+        except FileNotFoundError:
+            pass
         aa_dat = read_fasta_file(aa_file)[2]
         nuc_dat = read_fasta_file(nuc_file)[2]
         if not aa_dat or not nuc_dat:
@@ -151,18 +159,11 @@ def write_binary_data(filename):
                 len(aa_dat) * 3
             ))
             try:
-                try:
-                    os.remove(aa_file + '.bad')
-                except FileNotFoundError:
-                    pass
+
                 os.rename(aa_file, aa_file + '.bad')
             except FileExistsError:
                 pass
             try:
-                try:
-                    os.remove(nuc_file + '.bad')
-                except FileNotFoundError:
-                    pass
                 os.rename(nuc_file, nuc_file + '.bad')
             except FileExistsError:
                 pass
