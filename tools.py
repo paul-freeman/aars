@@ -1,5 +1,6 @@
 import glob
 import os.path
+import json
 
 AA_LIST = ['gln', 'leu', 'glu', 'ile',
            'arg', 'met', 'val', 'cys', 'trp', 'tyr']
@@ -130,7 +131,8 @@ def write_standardized_data(fasta_data):
 
 
 def write_binary_data(filename):
-    for fasta_data in parse_fasta(filename):
+    dat = parse_fasta(filename)
+    for fasta_data in dat:
         prefix = make_filename(fasta_data)
         aa_file = 'data/{}.aa'.format(prefix)
         nuc_file = 'data/{}.nuc'.format(prefix)
@@ -145,20 +147,18 @@ def write_binary_data(filename):
         aa_dat = read_fasta_file(aa_file)[2]
         nuc_dat = read_fasta_file(nuc_file)[2]
         if not aa_dat or not nuc_dat:
-            print("Missing data for", prefix)
-            continue
+            err = "Missing data for " + prefix
+            raise RuntimeError(err)
         if len(aa_dat) * 3 + 3 == len(nuc_dat):
             nuc_dat = nuc_dat[:-3]
-            continue
-        if len(aa_dat) * 3 != len(nuc_dat):
-            print("Data incorrect length: {} {} {} (expected {})".format(
+        elif len(aa_dat) * 3 != len(nuc_dat):
+            err = "Data incorrect length: {} {} {} (expected {})".format(
                 prefix,
                 len(aa_dat),
                 len(nuc_dat),
                 len(aa_dat) * 3
-            ))
+            )
             try:
-
                 os.rename(aa_file, aa_file + '.bad')
             except FileExistsError:
                 pass
@@ -166,6 +166,11 @@ def write_binary_data(filename):
                 os.rename(nuc_file, nuc_file + '.bad')
             except FileExistsError:
                 pass
+            raise RuntimeError(err)
+        fasta_data['aa_dat'] = aa_dat
+        fasta_data['nuc_dat'] = nuc_dat
+    with open(filename + '.json', 'w') as json_file:
+        json.dump(dat, json_file, indent=2)
 
 
 def make_filename(fasta_data):
