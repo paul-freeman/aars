@@ -214,8 +214,8 @@ def read_fasta_file(path):
 
 
 def main(filename):
-    # for fasta_data in parse_fasta(filename):
-    #     write_standardized_data(fasta_data)
+    for fasta_data in parse_fasta(filename):
+        write_standardized_data(fasta_data)
     print("READING STANDARDIZED DATA")
     write_binary_data(filename)
 
