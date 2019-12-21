@@ -56,9 +56,61 @@ def main(filepath):
                     errs += 1
                     record_bad_alignment(r, n, err_fp, err_fp_summary)
             if errs != 0:
-                raise RuntimeError(
-                    "{:d} Errors - see error report".format(errs))
-            print(json.dumps(fasta_dat, indent=2))
+                print("{:d} Errors - see error report".format(errs))
+    with open(filepath + '.csv', 'w') as csv_file:
+        write_csv(fasta_dat, csv_file)
+
+
+def write_csv(fasta_dat, csv_file):
+    '''write CSV data'''
+    header = 'Identifier,Amino Acid'
+    counter = 1
+    total = len(fasta_dat)
+    indices = [0 for _ in fasta_dat]
+    strings = ['{},{}'.format(
+        pretty(r), r['aa']) for r in fasta_dat]
+    gap = True
+
+    while any(i < len(r['aligned']) for i, r in zip(indices, fasta_dat)):
+        header += ',{}'.format(counter)
+        counter += 1
+
+        # first, check if in a non-gap area with a removed section (i.e. a '.' character)
+        dot = not gap and any(
+            i < len(r['aligned']) and r['aligned'][i] == '.' for i, r in zip(indices, fasta_dat))
+
+        for i, r in enumerate(fasta_dat):
+            # check if at end of alignment
+            if indices[i] >= len(r['aligned']):
+                continue  # no need to write anything
+
+            # get character
+            c = r['aligned'][indices[i]]
+
+            strings[i] += ','
+            if gap and c == '-':  # only '-' alignments may advance
+                strings[i] += '-'
+                indices[i] += 1
+                continue
+            elif dot and c == '.':  # only '.' alignments may advance
+                strings[i] += '.'
+                indices[i] += 1
+                continue
+            elif not gap and c not in '.-':
+                strings[i] += str(indices[i] + 1)
+                indices[i] += 1
+                continue
+
+        # if all indices are not '-', we change to non-gap
+        if all(i >= len(r['aligned']) or r['aligned'][i] != '-' for i, r in zip(indices, fasta_dat)):
+            gap = False
+        # if all indices are '-', we change to gap
+        if all(i >= len(r['aligned']) or r['aligned'][i] == '-' for i, r in zip(indices, fasta_dat)):
+            gap = True
+        # otherwise, gap status stays the same
+
+    csv_file.write(header + '\n')
+    csv_file.write('\n'.join(strings) + '\n')
 
 
 def record_bad_translation(r, n, n_rev, fp, fp_summary):
@@ -147,7 +199,8 @@ def print_translation_errors(r, fp, line_length=60):
             aas = ' ' + '  '.join(r['ungapped'][i:i+(line_length // 3)]) + ' '
             tns = ' ' + '  '.join(aa_trans[i:i+(line_length // 3)]) + ' '
             err = ' ' + '  '.join(bad[i:i+(line_length // 3)]) + ' '
-            print("nuc: {}".format(r['nucleotide'][i:i+line_length]), file=fp)
+            print("nuc: {}".format(r['nucleotide']
+                                   [i:i+line_length]), file=fp)
             print("aas: {}".format(aas), file=fp)
             print("tns: {}".format(tns), file=fp)
             print("err: {}\n".format(err), file=fp)
