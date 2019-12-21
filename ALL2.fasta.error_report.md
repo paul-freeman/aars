@@ -10141,67 +10141,6 @@ err:
 
 ```
 
-## cys_bact_H_aurantiacus
-
-The amino acids provided in the FASTA alignment data
-do not align with amino acids in the source data file.
-
-There are 38 amino acids that do not align.
-
-This could indicate a problem with the processing used to
-generate the data in the FASTA file.
-
-### Original amino acid data
-
-```text
->gi|159892666|gb|ABX05746.1| cysteinyl-tRNA synthetase [Herpetosiphon aurantiacus DSM 785]
-MALAIYNTLTRQTEPFTPLVADHVSMYVCGPTVYSDAHIGHAMSAVVFDVVRRYLEWSGYTVRHVMNFTD
-VDDKIIRRANEQGRDPMELAESYTLAFLDQLGQLNVLPATAYPRVSTTIPQIIQFIEGLIAKDAAYHASN
-GDVYFRVRADEDYGKLSRRAVDDMRSGARIAPDEAKDDPLDFALWKSAKPGEPAWESPWGQGRPGWHIEC
-SAMSLHELAEQIDIHGGGNDLIFPHHENEIAQTESLTGKNFAQVWMHNGMLQLAGEKMSKSLGNLITIDQ
-FLSEHSADIMRLLVLSGSYRAPLVYNDEVLADTQRKLERIMSALKPAHGTATNGPVVETLNAIVAKAPAD
-FRAAMDSDFNSAAALAVLFDLVRSINAARDAGVGGEPFAAGQARLRELAAVLGLRLEAPSASKTDAAPFI
-ELLIELRAELRKAKQWALSDLVRNRLSELDVQLEDSPNGTTWTTKG
-
-```
-
-### Alignment errors
-
-```text
-aas: MALAIYNTLTRQTEPFTPLVADHVSMYVCGPTVYSDAHIGHAMSAVVFDVVRRYLEWSGY
-ali: -----------------------VRMYVCGVTPYDTTHMGHARTYVVYDTIRRYLEWQGL
-err:                         X     X X XXX X   XXX  X XX      X X
-
-aas: TVRHVMNFTDVDDKIIRRANEQGRDPMELAESYTLAFLDQLGQLNVLPATAYPRVSTTIP
-ali: PVLYVQNVTDID.....R...Q--------E..TERFL...............RDM....
-err: X XX X X  X                       XX                  XX    
-
-aas: QIIQFIEGLIAKDAAYHASNGDVYFRVRADEDYGKLSRRAVDDMRSGARIAPDEAKDDPL
-ali: ............DAL....N..V..RV.......K....ATD-----KII----------
-err:               X                         X      XX           
-
-aas: DFALWKSAKPGEPAWESPWGQGRPGWHIECSAMSLHELAEQIDIHGGGNDLIFPHHENEI
-ali: -----------EVN..S..G-GRPGWHIECTAMVL.EY-----IHGGGSDLQFPHH....
-err:             XX                X  X   X          X  X        
-
-aas: AQTESLTGKNFAQVWMHNGMLQLAGEKMSKSLGNLITIDQFLSEHSADIMRLLVLSGSYR
-ali: AC.E.L.....AQ..........A.E.......N......F-------------------
-err:  X                                                          
-
-aas: APLVYNDEVLADTQRKLERIMSALKPAHGTATNGPVVETLNAIVAKAPADFRAAMDSDFN
-ali: ----------AW.........S.....H..............I--K........M.....
-err:            X                                                
-
-aas: SAAALAVLFDLVRSINAARDAGVGGEPFAAGQARLRELAAVLGLRLEAPSASKTDAAPFI
-ali: ...................................................SK.......
-err:                                                             
-
-aas: ELLIELRAELRKAKQWALSDLVRNRLSELDVQLEDSPNGTTWTTKG
-ali: ..................S---------------------------
-err:                                               
-
-```
-
 ## gln_bact_C_jejuni
 
 The amino acids provided in the FASTA alignment data
