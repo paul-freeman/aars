@@ -69,7 +69,7 @@ def search_supplemental_folder(fasta_data, ext):
         f = '{}_*_{}_*_{}.fasta'.format(
             fasta_data['aa'],
             fasta_data['pdb'],
-            ('aa' if ext == 'aa' else 'gene')
+            ('aa' if ext == 'aa' else 'nuc')
         )
     else:
         f = '{}_{}_{}_{}_{}.fasta'.format(
@@ -77,7 +77,7 @@ def search_supplemental_folder(fasta_data, ext):
             fasta_data['kingdom'],
             fasta_data['letter'],
             fasta_data['genus'],
-            ('aa' if ext == 'aa' else 'gene')
+            ('aa' if ext == 'aa' else 'nuc')
         )
     return glob.glob('data/supplemental/*' + f, recursive=False)
 
