@@ -1,5 +1,12 @@
 *.fasta
-data/Archaea/*
-data/Bacteria/*
-data/Eukaryotes/*
+data/Archaea
+data/Bacteria
+data/Eukaryotes
+data/supplemental
 data/*.bad
+.vscode
+*error_report.md
+*error_report.pdf
+aars_algorithms_fast.cp36-win_amd64.pyd
+aars_algorithms_fast.c
+__pycache__
