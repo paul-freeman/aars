@@ -37,28 +37,33 @@ def main(filepath):
             print(r1)
             raise RuntimeError("no match found")
     with open(filepath + '.error_report.md', 'w') as err_fp:
-        errs = 0
-        for r in fasta_dat:
-            n, n_rev = validate_translation(r['nucleotide'], r['ungapped'])
-            if n >= 0.95:
-                continue
-            elif n < 0.95 and n_rev >= 0.95:
-                errs += 1
-                record_reverse_complement_translation(r, n, err_fp)
-            else:
-                errs += 1
-                record_bad_translation(r, n, n_rev, err_fp)
-        for r in fasta_dat:
-            n = count_misalignments(r['ungapped'], r['aligned'])
-            if n != 0:
-                errs += 1
-                record_bad_alignment(r, n, err_fp)
-        if errs != 0:
-            raise RuntimeError("{:d} Errors - see error report".format(errs))
-        print(json.dumps(fasta_dat, indent=2))
+        with open(filepath + '.error_report_summary.txt', 'w') as err_fp_summary:
+            errs = 0
+            for r in fasta_dat:
+                n, n_rev = validate_translation(r['nucleotide'], r['ungapped'])
+                if n >= 0.95:
+                    continue
+                elif n < 0.95 and n_rev >= 0.95:
+                    errs += 1
+                    record_reverse_complement_translation(
+                        r, n, err_fp, err_fp_summary)
+                else:
+                    errs += 1
+                    record_bad_translation(r, n, n_rev, err_fp, err_fp_summary)
+            for r in fasta_dat:
+                n = count_misalignments(r['ungapped'], r['aligned'])
+                if n != 0:
+                    errs += 1
+                    record_bad_alignment(r, n, err_fp, err_fp_summary)
+            if errs != 0:
+                raise RuntimeError(
+                    "{:d} Errors - see error report".format(errs))
+            print(json.dumps(fasta_dat, indent=2))
 
 
-def record_bad_translation(r, n, n_rev, fp):
+def record_bad_translation(r, n, n_rev, fp, fp_summary):
+    print('{} - bad translation ({:.2f}% incorrect)'.format(pretty(r),
+                                                            100 - n*100), file=fp_summary)
     print('## {}\n'.format(pretty(r)), file=fp)
     print('This record seems to be incorrectly translated from', file=fp)
     print('nucleotides to amino acids. Variation up to 5.00% is', file=fp)
@@ -72,7 +77,8 @@ def record_bad_translation(r, n, n_rev, fp):
     print_translation_errors(r, fp)
 
 
-def record_reverse_complement_translation(r, n, fp):
+def record_reverse_complement_translation(r, n, fp, fp_summary):
+    print('{} - reverse complement needed'.format(pretty(r)), file=fp_summary)
     print('## {}\n'.format(pretty(r)), file=fp)
     print('The translation of the nucleotides to', file=fp)
     print('amino acids seems to be the reverse complement.\n', file=fp)
@@ -82,7 +88,8 @@ def record_reverse_complement_translation(r, n, fp):
     print_reverse_complement_translation_errors(r, fp)
 
 
-def record_bad_alignment(r, n, fp):
+def record_bad_alignment(r, n, fp, fp_summary):
+    print('{} - bad alignment ({} errors)'.format(pretty(r), n), file=fp_summary)
     print('## {}\n'.format(pretty(r)), file=fp)
     print('The amino acids provided in the FASTA alignment data', file=fp)
     print('do not align with amino acids in the source data file.\n', file=fp)
