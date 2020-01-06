@@ -41,16 +41,27 @@ def main(filepath):
         with open(filepath + '.error_report_summary.txt', 'w') as err_fp_summary:
             errs = 0
             for r in fasta_dat:
-                n, n_rev = validate_translation(r['nucleotide'], r['ungapped'])
+                n, n_rev, n_comp, n_rev_comp = validate_translation(
+                    r['nucleotide'], r['ungapped'])
                 if n >= 0.95:
                     continue
-                elif n < 0.95 and n_rev >= 0.95:
+                elif n_rev >= 0.95:
                     errs += 1
-                    record_reverse_complement_translation(
+                    record_reverse_translation(
                         r, n, err_fp, err_fp_summary)
+                elif n_comp >= 0.95:
+                    errs += 1
+                    record_complement_translation(
+                        r, n, err_fp, err_fp_summary)
+                elif n_rev_comp >= 0.95:
+                    r['nucleotide'] = reverse_complement(r['nucleotide'])
+                    # errs += 1
+                    # record_reverse_complement_translation(
+                    #     r, n, err_fp, err_fp_summary)
                 else:
                     errs += 1
-                    record_bad_translation(r, n, n_rev, err_fp, err_fp_summary)
+                    record_bad_translation(
+                        r, n, n_rev, n_comp, n_rev_comp, err_fp, err_fp_summary)
             for r in fasta_dat:
                 n = count_misalignments(r['ungapped'], r['aligned'])
                 if n != 0:
@@ -67,7 +78,6 @@ def write_csv(fasta_dat, csv_file):
     '''write CSV data'''
     header = 'Identifier,Amino Acid'
     counter = 1
-    total = len(fasta_dat)
     indices = [0 for _ in fasta_dat]
     strings = ['{},{}'.format(
         pretty(r), r['aa']) for r in fasta_dat]
@@ -115,7 +125,7 @@ def write_csv(fasta_dat, csv_file):
     csv_file.write('\n'.join(strings) + '\n')
 
 
-def record_bad_translation(r, n, n_rev, fp, fp_summary):
+def record_bad_translation(r, n, n_rev, n_comp, n_rev_comp, fp, fp_summary):
     print('{} - bad translation ({:.2f}% incorrect)'.format(pretty(r),
                                                             100 - n*100), file=fp_summary)
     print('## {}\n'.format(pretty(r)), file=fp)
@@ -125,10 +135,33 @@ def record_bad_translation(r, n, n_rev, fp, fp_summary):
     print('translation is {:.2f}%.\n'.format(100 - n*100), file=fp)
     print('Additionally, taking the reverse complement', file=fp)
     print('of the nucleotide sequence still results in a variation', file=fp)
-    print('of {:.2f}%.\n'.format(100 - n_rev*100), file=fp)
+    print('of {:.2f}%.\n'.format(100 - n_rev_comp*100), file=fp)
     print_nucleotide_file_data(r, fp)
     print_amino_acid_file_data(r, fp)
     print_translation_errors(r, fp)
+    print_reverse_complement_translation_errors(r, fp)
+
+
+def record_reverse_translation(r, n, fp, fp_summary):
+    print('{} - reverse needed'.format(pretty(r)), file=fp_summary)
+    print('## {}\n'.format(pretty(r)), file=fp)
+    print('The translation of the nucleotides to', file=fp)
+    print('amino acids seems to be the reverse.\n', file=fp)
+    print_nucleotide_file_data(r, fp)
+    print_reverse_nucleotide_file_data(r, fp)
+    print_amino_acid_file_data(r, fp)
+    print_reverse_translation_errors(r, fp)
+
+
+def record_complement_translation(r, n, fp, fp_summary):
+    print('{} - complement needed'.format(pretty(r)), file=fp_summary)
+    print('## {}\n'.format(pretty(r)), file=fp)
+    print('The translation of the nucleotides to', file=fp)
+    print('amino acids seems to be the complement.\n', file=fp)
+    print_nucleotide_file_data(r, fp)
+    print_complement_nucleotide_file_data(r, fp)
+    print_amino_acid_file_data(r, fp)
+    print_complement_translation_errors(r, fp)
 
 
 def record_reverse_complement_translation(r, n, fp, fp_summary):
@@ -168,8 +201,30 @@ def print_nucleotide_file_data(r, fp):
     print('\n```\n', file=fp)
 
 
+def print_reverse_nucleotide_file_data(r, fp, line_length=60):
+    rev = reverse(r['nucleotide'])
+    print('### Reverse nucleotide data\n', file=fp)
+    print('```text', file=fp)
+    i = 0
+    while rev[i:i+line_length] != "":
+        print(rev[i:i+line_length], file=fp)
+        i = i + line_length
+    print('\n```\n', file=fp)
+
+
+def print_complement_nucleotide_file_data(r, fp, line_length=60):
+    comp = complement(r['nucleotide'])
+    print('### Complement nucleotide data\n', file=fp)
+    print('```text', file=fp)
+    i = 0
+    while comp[i:i+line_length] != "":
+        print(comp[i:i+line_length], file=fp)
+        i = i + line_length
+    print('\n```\n', file=fp)
+
+
 def print_reverse_complement_nucleotide_file_data(r, fp, line_length=60):
-    rev = reverse_seq(r['nucleotide'])
+    rev = reverse_complement(r['nucleotide'])
     print('### Reverse complement nucleotide data\n', file=fp)
     print('```text', file=fp)
     i = 0
@@ -210,9 +265,51 @@ def print_translation_errors(r, fp, line_length=60):
         print('```\n', file=fp)
 
 
+def print_reverse_translation_errors(r, fp, line_length=60):
+    print('### Reverse translation errors\n', file=fp)
+    rev = reverse(r['nucleotide'])
+    aa_trans = translate(rev)
+    if len(r['ungapped']) != 0:
+        bad = ['X' if x1 != x2 else ' ' for (
+            x1, x2) in zip(r['ungapped'], aa_trans)]
+        print('```text', file=fp)
+        i = 0
+        while bad[i:i+(line_length // 3)] != []:
+            aas = ' ' + '  '.join(r['ungapped'][i:i+(line_length // 3)]) + ' '
+            tns = ' ' + '  '.join(aa_trans[i:i+(line_length // 3)]) + ' '
+            err = ' ' + '  '.join(bad[i:i+(line_length // 3)]) + ' '
+            print("rev: {}".format(rev[i:i+line_length]), file=fp)
+            print("aas: {}".format(aas), file=fp)
+            print("tns: {}".format(tns), file=fp)
+            print("err: {}\n".format(err), file=fp)
+            i = i + line_length
+        print('```\n', file=fp)
+
+
+def print_complement_translation_errors(r, fp, line_length=60):
+    print('### Complement translation errors\n', file=fp)
+    comp = complement(r['nucleotide'])
+    aa_trans = translate(comp)
+    if len(r['ungapped']) != 0:
+        bad = ['X' if x1 != x2 else ' ' for (
+            x1, x2) in zip(r['ungapped'], aa_trans)]
+        print('```text', file=fp)
+        i = 0
+        while bad[i:i+(line_length // 3)] != []:
+            aas = ' ' + '  '.join(r['ungapped'][i:i+(line_length // 3)]) + ' '
+            tns = ' ' + '  '.join(aa_trans[i:i+(line_length // 3)]) + ' '
+            err = ' ' + '  '.join(bad[i:i+(line_length // 3)]) + ' '
+            print("com: {}".format(comp[i:i+line_length]), file=fp)
+            print("aas: {}".format(aas), file=fp)
+            print("tns: {}".format(tns), file=fp)
+            print("err: {}\n".format(err), file=fp)
+            i = i + line_length
+        print('```\n', file=fp)
+
+
 def print_reverse_complement_translation_errors(r, fp, line_length=60):
     print('### Reverse complement translation errors\n', file=fp)
-    rev = reverse_seq(r['nucleotide'])
+    rev = reverse_complement(r['nucleotide'])
     aa_trans = translate(rev)
     if len(r['ungapped']) != 0:
         bad = ['X' if x1 != x2 else ' ' for (
@@ -351,17 +448,40 @@ def validate_translation(nuc_seq, aa_seq):
     x = [1 if x1 == x2 else 0 for (x1, x2) in zip(aa_seq, aa_trans)]
     n = (max(0, sum(x) - bad)) / len(aa_seq)
 
-    # check reverse complement
-    rev_nuc_seq = reverse_seq(nuc_seq)
+    # check reverse
+    rev_nuc_seq = reverse(nuc_seq)
     aa_trans = translate(rev_nuc_seq)
     bad = abs(len(aa_seq) - len(aa_trans))
     x = [1 if x1 == x2 else 0 for (x1, x2) in zip(aa_seq, aa_trans)]
     n_rev = (max(0, sum(x) - bad)) / len(aa_seq)
-    return n, n_rev
+
+    # check complement
+    comp_nuc_seq = complement(nuc_seq)
+    aa_trans = translate(comp_nuc_seq)
+    bad = abs(len(aa_seq) - len(aa_trans))
+    x = [1 if x1 == x2 else 0 for (x1, x2) in zip(aa_seq, aa_trans)]
+    n_comp = (max(0, sum(x) - bad)) / len(aa_seq)
+
+    # check reverse complement
+    rev_comp_nuc_seq = reverse_complement(nuc_seq)
+    aa_trans = translate(rev_comp_nuc_seq)
+    bad = abs(len(aa_seq) - len(aa_trans))
+    x = [1 if x1 == x2 else 0 for (x1, x2) in zip(aa_seq, aa_trans)]
+    n_rev_comp = (max(0, sum(x) - bad)) / len(aa_seq)
+
+    return n, n_rev, n_comp, n_rev_comp
 
 
-def reverse_seq(nuc_seq):
-    return "".join([alt_nuc(i) for i in reversed(nuc_seq)])
+def reverse(nuc_seq):
+    return "".join([i for i in reversed(nuc_seq[3:] + "GTA")])
+
+
+def complement(nuc_seq):
+    return "".join([alt_nuc(i) for i in nuc_seq])
+
+
+def reverse_complement(nuc_seq):
+    return "".join([alt_nuc(i) for i in reversed(nuc_seq[3:] + "GTA")])
 
 
 def alt_nuc(i):
