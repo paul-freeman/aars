@@ -1,4 +1,5 @@
 import sys
+import os
 import json
 
 try:
@@ -59,6 +60,7 @@ def main(filepath):
                 print("{:d} Errors - see error report".format(errs))
     with open(filepath + '.csv', 'w') as csv_file:
         write_csv(fasta_dat, csv_file)
+    os.remove(filepath + ".json")
 
 
 def write_csv(fasta_dat, csv_file):
