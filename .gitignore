@@ -11,3 +11,4 @@ __pycache__
 *.fasta.csv
 data/data.zip
 *.fasta.json
+*tmp.html
