@@ -10,3 +10,4 @@ aars_algorithms_fast.c
 __pycache__
 *.fasta.csv
 data/data.zip
+*.fasta.json
