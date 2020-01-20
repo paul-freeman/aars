@@ -1,10 +1,11 @@
+import sys
 import glob
 import os.path
 import json
 
-AA_LIST = ['gln', 'leu', 'glu', 'ile',
+AA_LIST = ['gln', 'leu', 'glu', 'ile', 'lys',
            'arg', 'met', 'val', 'cys', 'trp', 'tyr']
-KINGDOM_LIST = ['bact']
+KINGDOM_LIST = ['bact', 'arch', 'reg']
 
 
 def parse_fasta(path):
@@ -15,29 +16,34 @@ def parse_fasta(path):
                 xs = line[1:].strip().split('_')
                 if not (xs and xs[0] and xs[0].lower() in AA_LIST):
                     raise RuntimeError(
-                        "Amino Acid ({}) not recognized".format(
-                            xs[0]
+                        "Amino Acid ({}) not recognized in {}".format(
+                            xs[0], line
                         )
                     )
                 aa = xs.pop(0).lower()
                 if not (xs and xs[0] and xs[0].lower() in KINGDOM_LIST):
                     raise RuntimeError(
-                        "Kingdom ({}) not recognized".format(
-                            xs[0]
+                        "Kingdom ({}) not recognized in {}".format(
+                            xs[0], line
                         )
                     )
                 kingdom = xs.pop(0).lower()
+                if kingdom == 'reg':
+                    kingdom = 'bact'
                 pdb = None
                 if xs and xs[0] and len(xs[0]) == 4:
                     pdb = xs.pop(0).lower()
                 if not (xs and xs[0] and len(xs[0]) == 1):
                     raise RuntimeError(
-                        "'{}' not recognized as first letter of genus".format(
-                            xs[0]
+                        "'{}' not recognized as first letter of genus in {}".format(
+                            xs[0], line
                         )
                     )
                 letter = xs.pop(0).upper()
-                genus, num = '_'.join(xs).lower().split('/')
+                try:
+                    genus, num = '_'.join(xs).lower().split('/')
+                except ValueError:
+                    genus, num = xs[0].lower(), "0"
                 fasta_data.append({
                     'aa': aa,
                     'kingdom': kingdom,
@@ -132,6 +138,7 @@ def write_standardized_data(fasta_data):
 
 def write_binary_data(filename):
     dat = parse_fasta(filename)
+    isMissingData = False
     for fasta_data in dat:
         prefix = make_filename(fasta_data)
         aa_file = 'data/{}.aa'.format(prefix)
@@ -147,8 +154,9 @@ def write_binary_data(filename):
         aa_dat = read_fasta_file(aa_file)[2]
         nuc_dat = read_fasta_file(nuc_file)[2]
         if not aa_dat or not nuc_dat:
-            err = "Missing data for " + prefix
-            raise RuntimeError(err)
+            print("Missing data for " + prefix)
+            isMissingData = True
+            continue
         if len(aa_dat) * 3 + 3 == len(nuc_dat):
             nuc_dat = nuc_dat[:-3]
         elif len(aa_dat) * 3 != len(nuc_dat):
@@ -169,6 +177,8 @@ def write_binary_data(filename):
             raise RuntimeError(err)
         fasta_data['aa_dat'] = aa_dat
         fasta_data['nuc_dat'] = nuc_dat
+    if isMissingData:
+        sys.exit()
     with open(filename + '.json', 'w') as json_file:
         json.dump(dat, json_file, indent=2)
 
@@ -221,8 +231,4 @@ def main(filename):
 
 
 if __name__ == "__main__":
-    print('ALL2')
-    main('ALL2.fasta')
-    print()
-    print('ALL3')
-    main('ALL3.fasta')
+    main(sys.argv[1])

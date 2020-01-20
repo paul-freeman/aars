@@ -13,7 +13,7 @@ except ImportError:
 AA_LIST = ['gln', 'leu', 'glu', 'ile',
            'arg', 'met', 'val', 'cys',
            'trp', 'tyr']
-KINGDOM_LIST = ['bact']
+KINGDOM_LIST = ['bact', 'reg']
 
 
 def main(filepath):
@@ -367,6 +367,8 @@ def parse_fasta(path):
                         )
                     )
                 kingdom = xs.pop(0).lower()
+                if kingdom == 'reg':
+                    kingdom = 'bact'
                 pdb = None
                 if xs and xs[0] and len(xs[0]) == 4:
                     pdb = xs.pop(0).lower()
@@ -377,7 +379,10 @@ def parse_fasta(path):
                         )
                     )
                 letter = xs.pop(0).upper()
-                genus, num = '_'.join(xs).lower().split('/')
+                try:
+                    genus, num = '_'.join(xs).lower().split('/')
+                except ValueError:
+                    genus, num = xs[0].lower(), "0"
                 fasta_data.append({
                     'aa': aa,
                     'kingdom': kingdom,
