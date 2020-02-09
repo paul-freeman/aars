@@ -5,7 +5,7 @@ import json
 
 AA_LIST = ['gln', 'leu', 'glu', 'ile', 'lys',
            'arg', 'met', 'val', 'cys', 'trp', 'tyr']
-KINGDOM_LIST = ['bact', 'arch', 'reg']
+KINGDOM_LIST = ['bact', 'arch']
 
 
 def parse_fasta(path):
@@ -21,6 +21,11 @@ def parse_fasta(path):
                         )
                     )
                 aa = xs.pop(0).lower()
+                if (xs and xs[0] and xs[0].lower() == 'reg'):
+                    xs.pop(0)
+                    regions = True
+                else:
+                    regions = False
                 if not (xs and xs[0] and xs[0].lower() in KINGDOM_LIST):
                     raise RuntimeError(
                         "Kingdom ({}) not recognized in {}".format(
@@ -28,8 +33,6 @@ def parse_fasta(path):
                         )
                     )
                 kingdom = xs.pop(0).lower()
-                if kingdom == 'reg':
-                    kingdom = 'bact'
                 pdb = None
                 if xs and xs[0] and len(xs[0]) == 4:
                     pdb = xs.pop(0).lower()
@@ -47,6 +50,7 @@ def parse_fasta(path):
                 fasta_data.append({
                     'aa': aa,
                     'kingdom': kingdom,
+                    'regions': regions,
                     'pdb': pdb,
                     'letter': letter,
                     'genus': genus,
@@ -226,7 +230,6 @@ def read_fasta_file(path):
 def main(filename):
     for fasta_data in parse_fasta(filename):
         write_standardized_data(fasta_data)
-    print("READING STANDARDIZED DATA")
     write_binary_data(filename)
 
 

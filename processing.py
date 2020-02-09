@@ -1,6 +1,9 @@
 import sys
 import os
 import json
+import os.path
+
+import preprocessing
 
 try:
     from aars_algorithms_fast import levenshtein_distance_c as levenshtein_distance
@@ -13,7 +16,7 @@ except ImportError:
 AA_LIST = ['gln', 'leu', 'glu', 'ile',
            'arg', 'met', 'val', 'cys',
            'trp', 'tyr']
-KINGDOM_LIST = ['bact', 'reg']
+KINGDOM_LIST = ['bact']
 
 
 def main(filepath):
@@ -24,27 +27,29 @@ def main(filepath):
         for r2 in db:
             if r1['aa'] == r2['aa']:
                 if r1['kingdom'] == r2['kingdom']:
-                    if r1['pdb'] == r2['pdb']:
-                        if r1['letter'] == r2['letter']:
-                            if r1['genus'] == r2['genus']:
-                                r1['ungapped'] = r2['aa_dat']
-                                r1['aligned'] = align(
-                                    r1['gapped'], r1['ungapped']
-                                )
-
-                                r1['nucleotide'] = r2['nuc_dat']
-                                break
+                    if r1['regions'] == r2['regions']:
+                        if r1['pdb'] == r2['pdb']:
+                            if r1['letter'] == r2['letter']:
+                                if r1['genus'] == r2['genus']:
+                                    r1['ungapped'] = r2['aa_dat']
+                                    r1['aligned'] = align(
+                                        r1['gapped'], r1['ungapped']
+                                    )
+                                    r1['nucleotide'] = r2['nuc_dat']
+                                    break
         else:
             print(r1)
             raise RuntimeError("no match found")
+    properly_translated_dat = []
+    good_fasta_dat = []
     with open(filepath + '.error_report.md', 'w') as err_fp:
         with open(filepath + '.error_report_summary.txt', 'w') as err_fp_summary:
             errs = 0
             for r in fasta_dat:
-                n, n_rev, n_comp, n_rev_comp = validate_translation(
+                n, n_rev, n_comp, n_rev_comp, n_rev_comp_shift_left, n_rev_comp_shift_right = validate_translation(
                     r['nucleotide'], r['ungapped'])
                 if n >= 0.95:
-                    continue
+                    pass
                 elif n_rev >= 0.95:
                     errs += 1
                     record_reverse_translation(
@@ -55,23 +60,141 @@ def main(filepath):
                         r, n, err_fp, err_fp_summary)
                 elif n_rev_comp >= 0.95:
                     r['nucleotide'] = reverse_complement(r['nucleotide'])
-                    # errs += 1
-                    # record_reverse_complement_translation(
-                    #     r, n, err_fp, err_fp_summary)
+                    errs += 1
+                    record_reverse_complement_translation(
+                        r, n, err_fp, err_fp_summary)
+                elif n_rev_comp_shift_left >= 0.95:
+                    r['nucleotide'] = reverse_complement_shift_left(
+                        r['nucleotide'])
+                    errs += 1
+                    record_reverse_complement_shift_left_translation(
+                        r, n, err_fp, err_fp_summary)
+                elif n_rev_comp_shift_right >= 0.95:
+                    r['nucleotide'] = reverse_complement_shift_right(
+                        r['nucleotide'])
+                    errs += 1
+                    record_reverse_complement_shift_right_translation(
+                        r, n, err_fp, err_fp_summary)
                 else:
                     errs += 1
                     record_bad_translation(
                         r, n, n_rev, n_comp, n_rev_comp, err_fp, err_fp_summary)
-            for r in fasta_dat:
+                    continue
+                properly_translated_dat.append(r)
+            for r in properly_translated_dat:
                 n = count_misalignments(r['ungapped'], r['aligned'])
-                if n != 0:
+                if n > 0:
                     errs += 1
                     record_bad_alignment(r, n, err_fp, err_fp_summary)
+                else:
+                    good_fasta_dat.append(r)
             if errs != 0:
                 print("{:d} Errors - see error report".format(errs))
-    with open(filepath + '.csv', 'w') as csv_file:
-        write_csv(fasta_dat, csv_file)
+    if errs == 0:
+        os.remove(filepath + '.error_report.md')
+        os.remove(filepath + '.error_report_summary.txt')
+    write_master_files(good_fasta_dat)
+    write_middle_base_regions(good_fasta_dat, filepath)
+    # with open(filepath + '.csv', 'w') as csv_file:
+    #     write_csv(fasta_dat, csv_file)
     os.remove(filepath + ".json")
+
+
+def write_master_files(fasta_dat):
+    dropbox = os.path.join(os.path.expanduser(
+        '~'), 'UniDropbox\\Dropbox\\With Paul Freeman')
+    for r in fasta_dat:
+        if r['regions']:
+            continue
+        filename = preprocessing.make_filename(r)
+        for r2 in fasta_dat:
+            if r['aa'] == r2['aa']:
+                if r['kingdom'] == r2['kingdom']:
+                    if r2['regions'] == True:
+                        if r['pdb'] == r2['pdb']:
+                            if r['letter'] == r2['letter']:
+                                if r['genus'] == r2['genus']:
+                                    regions = r2
+                                    break
+        else:
+            raise RuntimeError(
+                'could not find regions for {}'.format(filename))
+        with open(os.path.join(dropbox, filename + '_master.txt'), 'w') as f:
+            i = 0
+            while i < len(r['nucleotide']):
+                bad = ['X' if c1 not in '-.*?' and c2 not in '*?' and c1 != c2 else ' '
+                       for c1, c2 in zip(r['aligned'], r['ungapped'])]
+                bad_regions = ['X' if c1 not in '-.*?' and c2 not in '*?' and c1 != c2 else ' '
+                               for c1, c2 in zip(regions['aligned'], regions['ungapped'])]
+                print(''.join(['{:^3s}'.format(str((n+1) % 1000))
+                               for n in range(i//3, (i+78)//3)]), file=f)
+                print(r['nucleotide'][i:i+78], file=f)
+                print(''.join(['{:^3s}'.format(n)
+                               for n in r['ungapped'][i//3:(i+78)//3]]), file=f)
+                print(''.join(['{:^3s}'.format(n)
+                               for n in r['aligned'][i//3:(i+78)//3]]), file=f)
+                print(''.join(['{:^3s}'.format(n)
+                               for n in bad[i//3:(i+78)//3]]), file=f)
+                print(''.join(['{:^3s}'.format(n)
+                               for n in regions['aligned'][i//3:(i+78)//3]]), file=f)
+                print(''.join(['{:^3s}'.format(n)
+                               for n in bad_regions[i//3:(i+78)//3]]), file=f)
+                print('', file=f)
+                i += 78
+
+
+def write_middle_base_regions(fasta_dat, filepath, max_width=10000):
+    filepath = os.path.splitext(filepath)[0]
+    with open(filepath + "_middle_base_regions.txt", 'w') as f:
+        for r in fasta_dat:
+            if r['regions']:
+                continue
+            for r2 in fasta_dat:
+                if r['aa'] == r2['aa']:
+                    if r['kingdom'] == r2['kingdom']:
+                        if r2['regions'] == True:
+                            if r['pdb'] == r2['pdb']:
+                                if r['letter'] == r2['letter']:
+                                    if r['genus'] == r2['genus']:
+                                        regions = r2
+                                        break
+            else:
+                raise RuntimeError(
+                    'could not find regions for {}'.format(filename))
+            filename = preprocessing.make_filename(r)
+            middle_base = "".join([x if i % 3 == 1 else ' ' for i,
+                                   x in enumerate(r['nucleotide'])])
+            print("> {}".format(filename), file=f)
+            i = 0
+            while i < len(middle_base):
+                aa_nums = ''.join(['{:^3s}'.format(str((n+1) % 1000))
+                                   for n in range(i//3, (i+max_width)//3)])
+                middles = middle_base[i:i+max_width]
+                regs = ''.join(['{:^3s}'.format(n)
+                                for n in regions['aligned'][i//3:(i+max_width)//3]])
+                i += max_width
+            aa_nums_final = ""
+            middles_final = ""
+            regs_final = ""
+            i = 0
+            gap = False
+            while i < len(middle_base):
+                if regs[i+1] == '-' and gap == False:
+                    aa_nums_final += ' | '
+                    middles_final += ' | '
+                    regs_final += ' | '
+                    gap = True
+                if regs[i+1] != '-':
+                    aa_nums_final += aa_nums[i:i+3]
+                    middles_final += middles[i:i+3]
+                    regs_final += regs[i:i+3]
+                    gap = False
+                i += 3
+
+            print(aa_nums_final, file=f)
+            print(middles_final, file=f)
+            print(regs_final, file=f)
+            print('', file=f)
 
 
 def write_csv(fasta_dat, csv_file):
@@ -147,6 +270,8 @@ def record_reverse_translation(r, n, fp, fp_summary):
     print('## {}\n'.format(pretty(r)), file=fp)
     print('The translation of the nucleotides to', file=fp)
     print('amino acids seems to be the reverse.\n', file=fp)
+    print('This has been automatically been done, but the source', file=fp)
+    print('data files should be updated.\n', file=fp)
     print_nucleotide_file_data(r, fp)
     print_reverse_nucleotide_file_data(r, fp)
     print_amino_acid_file_data(r, fp)
@@ -158,6 +283,8 @@ def record_complement_translation(r, n, fp, fp_summary):
     print('## {}\n'.format(pretty(r)), file=fp)
     print('The translation of the nucleotides to', file=fp)
     print('amino acids seems to be the complement.\n', file=fp)
+    print('This has been automatically been done, but the source', file=fp)
+    print('data files should be updated.\n', file=fp)
     print_nucleotide_file_data(r, fp)
     print_complement_nucleotide_file_data(r, fp)
     print_amino_acid_file_data(r, fp)
@@ -169,6 +296,36 @@ def record_reverse_complement_translation(r, n, fp, fp_summary):
     print('## {}\n'.format(pretty(r)), file=fp)
     print('The translation of the nucleotides to', file=fp)
     print('amino acids seems to be the reverse complement.\n', file=fp)
+    print('This has been automatically been done, but the source', file=fp)
+    print('data files should be updated.\n', file=fp)
+    print_nucleotide_file_data(r, fp)
+    print_reverse_complement_nucleotide_file_data(r, fp)
+    print_amino_acid_file_data(r, fp)
+    print_reverse_complement_translation_errors(r, fp)
+
+
+def record_reverse_complement_shift_left_translation(r, n, fp, fp_summary):
+    print('{} - reverse complement needed (left-shifted)'.format(pretty(r)), file=fp_summary)
+    print('## {}\n'.format(pretty(r)), file=fp)
+    print('The translation of the nucleotides to', file=fp)
+    print('amino acids seems to be the reverse complement.\n', file=fp)
+    print('It also needs to be left-shifted by one place.\n', file=fp)
+    print('This has been automatically been done, but the source', file=fp)
+    print('data files should be updated.\n', file=fp)
+    print_nucleotide_file_data(r, fp)
+    print_reverse_complement_nucleotide_file_data(r, fp)
+    print_amino_acid_file_data(r, fp)
+    print_reverse_complement_translation_errors(r, fp)
+
+
+def record_reverse_complement_shift_right_translation(r, n, fp, fp_summary):
+    print('{} - reverse complement needed (right-shifted)'.format(pretty(r)), file=fp_summary)
+    print('## {}\n'.format(pretty(r)), file=fp)
+    print('The translation of the nucleotides to', file=fp)
+    print('amino acids seems to be the reverse complement.\n', file=fp)
+    print('It also needs to be right-shifted by one place.\n', file=fp)
+    print('This has been automatically been done, but the source', file=fp)
+    print('data files should be updated.\n', file=fp)
     print_nucleotide_file_data(r, fp)
     print_reverse_complement_nucleotide_file_data(r, fp)
     print_amino_acid_file_data(r, fp)
@@ -360,6 +517,11 @@ def parse_fasta(path):
                         )
                     )
                 aa = xs.pop(0).lower()
+                if (xs and xs[0] and xs[0].lower() == 'reg'):
+                    xs.pop(0)
+                    regions = True
+                else:
+                    regions = False
                 if not (xs and xs[0] and xs[0].lower() in KINGDOM_LIST):
                     raise RuntimeError(
                         "Kingdom ({}) not recognized".format(
@@ -367,8 +529,6 @@ def parse_fasta(path):
                         )
                     )
                 kingdom = xs.pop(0).lower()
-                if kingdom == 'reg':
-                    kingdom = 'bact'
                 pdb = None
                 if xs and xs[0] and len(xs[0]) == 4:
                     pdb = xs.pop(0).lower()
@@ -386,6 +546,7 @@ def parse_fasta(path):
                 fasta_data.append({
                     'aa': aa,
                     'kingdom': kingdom,
+                    'regions': regions,
                     'pdb': pdb,
                     'letter': letter,
                     'genus': genus,
@@ -474,7 +635,21 @@ def validate_translation(nuc_seq, aa_seq):
     x = [1 if x1 == x2 else 0 for (x1, x2) in zip(aa_seq, aa_trans)]
     n_rev_comp = (max(0, sum(x) - bad)) / len(aa_seq)
 
-    return n, n_rev, n_comp, n_rev_comp
+    # check reverse complement (shift left)
+    rev_comp_shift_left_nuc_seq = reverse_complement_shift_left(nuc_seq)
+    aa_trans = translate(rev_comp_shift_left_nuc_seq)
+    bad = abs(len(aa_seq) - len(aa_trans))
+    x = [1 if x1 == x2 else 0 for (x1, x2) in zip(aa_seq, aa_trans)]
+    n_rev_comp_shift_left = (max(0, sum(x) - bad)) / len(aa_seq)
+
+    # check reverse complement (shift left)
+    rev_comp_shift_right_nuc_seq = reverse_complement_shift_right(nuc_seq)
+    aa_trans = translate(rev_comp_shift_right_nuc_seq)
+    bad = abs(len(aa_seq) - len(aa_trans))
+    x = [1 if x1 == x2 else 0 for (x1, x2) in zip(aa_seq, aa_trans)]
+    n_rev_comp_shift_right = (max(0, sum(x) - bad)) / len(aa_seq)
+
+    return n, n_rev, n_comp, n_rev_comp, n_rev_comp_shift_left, n_rev_comp_shift_right
 
 
 def reverse(nuc_seq):
@@ -487,6 +662,14 @@ def complement(nuc_seq):
 
 def reverse_complement(nuc_seq):
     return "".join([alt_nuc(i) for i in reversed(nuc_seq[3:] + "GTA")])
+
+
+def reverse_complement_shift_left(nuc_seq):
+    return "".join([alt_nuc(i) for i in reversed(nuc_seq[6:] + "GTAGTA")])
+
+
+def reverse_complement_shift_right(nuc_seq):
+    return "".join([alt_nuc(i) for i in reversed(nuc_seq)])
 
 
 def alt_nuc(i):
@@ -510,4 +693,5 @@ def alt_nuc(i):
 
 
 if __name__ == "__main__":
+    preprocessing.main(sys.argv[1])
     main(sys.argv[1])
