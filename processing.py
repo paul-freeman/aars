@@ -15,14 +15,16 @@ except ImportError:
 
 AA_LIST = ['gln', 'leu', 'glu', 'ile',
            'arg', 'met', 'val', 'cys',
-           'trp', 'tyr']
-KINGDOM_LIST = ['bact']
+           'trp', 'tyr', 'lys']
+KINGDOM_LIST = ['bact', 'arch']
 
 
-def main(filepath):
+def main(filepath, reverse_complement_errors=False):
     with open(filepath + ".json") as f:
         db = json.load(f)
     fasta_dat = parse_fasta(filepath)
+    accounted_fasta_dat = []
+    missing_data_files = []
     for r1 in fasta_dat:
         for r2 in db:
             if r1['aa'] == r2['aa']:
@@ -36,14 +38,18 @@ def main(filepath):
                                         r1['gapped'], r1['ungapped']
                                     )
                                     r1['nucleotide'] = r2['nuc_dat']
+                                    accounted_fasta_dat.append(r1)
                                     break
         else:
-            print(r1)
-            raise RuntimeError("no match found")
+            missing_data_files.append(preprocessing.make_filename(r1))
+            # raise RuntimeError("no match found")
+    fasta_dat = accounted_fasta_dat
     properly_translated_dat = []
     good_fasta_dat = []
     with open(filepath + '.error_report.md', 'w') as err_fp:
         with open(filepath + '.error_report_summary.txt', 'w') as err_fp_summary:
+            for missing in missing_data_files:
+                print('{} - missing data'.format(missing), file=err_fp_summary)
             errs = 0
             for r in fasta_dat:
                 n, n_rev, n_comp, n_rev_comp, n_rev_comp_shift_left, n_rev_comp_shift_right = validate_translation(
@@ -51,30 +57,35 @@ def main(filepath):
                 if n >= 0.95:
                     pass
                 elif n_rev >= 0.95:
-                    errs += 1
-                    record_reverse_translation(
-                        r, n, err_fp, err_fp_summary)
+                    if reverse_complement_errors:
+                        errs += 1
+                        record_reverse_translation(
+                            r, n, err_fp, err_fp_summary)
                 elif n_comp >= 0.95:
-                    errs += 1
-                    record_complement_translation(
-                        r, n, err_fp, err_fp_summary)
+                    if reverse_complement_errors:
+                        errs += 1
+                        record_complement_translation(
+                            r, n, err_fp, err_fp_summary)
                 elif n_rev_comp >= 0.95:
-                    r['nucleotide'] = reverse_complement(r['nucleotide'])
-                    errs += 1
-                    record_reverse_complement_translation(
-                        r, n, err_fp, err_fp_summary)
+                    if reverse_complement_errors:
+                        r['nucleotide'] = reverse_complement(r['nucleotide'])
+                        errs += 1
+                        record_reverse_complement_translation(
+                            r, n, err_fp, err_fp_summary)
                 elif n_rev_comp_shift_left >= 0.95:
-                    r['nucleotide'] = reverse_complement_shift_left(
-                        r['nucleotide'])
-                    errs += 1
-                    record_reverse_complement_shift_left_translation(
-                        r, n, err_fp, err_fp_summary)
+                    if reverse_complement_errors:
+                        r['nucleotide'] = reverse_complement_shift_left(
+                            r['nucleotide'])
+                        errs += 1
+                        record_reverse_complement_shift_left_translation(
+                            r, n, err_fp, err_fp_summary)
                 elif n_rev_comp_shift_right >= 0.95:
-                    r['nucleotide'] = reverse_complement_shift_right(
-                        r['nucleotide'])
-                    errs += 1
-                    record_reverse_complement_shift_right_translation(
-                        r, n, err_fp, err_fp_summary)
+                    if reverse_complement_errors:
+                        r['nucleotide'] = reverse_complement_shift_right(
+                            r['nucleotide'])
+                        errs += 1
+                        record_reverse_complement_shift_right_translation(
+                            r, n, err_fp, err_fp_summary)
                 else:
                     errs += 1
                     record_bad_translation(
@@ -94,6 +105,7 @@ def main(filepath):
         os.remove(filepath + '.error_report.md')
         os.remove(filepath + '.error_report_summary.txt')
     write_master_files(good_fasta_dat)
+    write_aars_regions(good_fasta_dat, filepath)
     write_middle_base_regions(good_fasta_dat, filepath)
     # with open(filepath + '.csv', 'w') as csv_file:
     #     write_csv(fasta_dat, csv_file)
@@ -101,8 +113,12 @@ def main(filepath):
 
 
 def write_master_files(fasta_dat):
-    dropbox = os.path.join(os.path.expanduser(
-        '~'), 'UniDropbox\\Dropbox\\With Paul Freeman')
+    dropbox_masters = os.path.join(os.path.expanduser(
+        '~'), 'UniDropbox\\Dropbox\\With Paul Freeman\\master')
+    try:
+        os.makedirs(dropbox_masters)
+    except FileExistsError:
+        pass
     for r in fasta_dat:
         if r['regions']:
             continue
@@ -119,7 +135,7 @@ def write_master_files(fasta_dat):
         else:
             raise RuntimeError(
                 'could not find regions for {}'.format(filename))
-        with open(os.path.join(dropbox, filename + '_master.txt'), 'w') as f:
+        with open(os.path.join(dropbox_masters, filename + '_master.txt'), 'w') as f:
             i = 0
             while i < len(r['nucleotide']):
                 bad = ['X' if c1 not in '-.*?' and c2 not in '*?' and c1 != c2 else ' '
@@ -180,9 +196,9 @@ def write_middle_base_regions(fasta_dat, filepath, max_width=10000):
             gap = False
             while i < len(middle_base):
                 if regs[i+1] == '-' and gap == False:
-                    aa_nums_final += ' | '
-                    middles_final += ' | '
-                    regs_final += ' | '
+                    aa_nums_final += ' - '
+                    middles_final += ' - '
+                    regs_final += ' - '
                     gap = True
                 if regs[i+1] != '-':
                     aa_nums_final += aa_nums[i:i+3]
@@ -190,9 +206,81 @@ def write_middle_base_regions(fasta_dat, filepath, max_width=10000):
                     regs_final += regs[i:i+3]
                     gap = False
                 i += 3
+            if aa_nums_final[0:3] == ' - ':
+                aa_nums_final = aa_nums_final[3:]
+            if middles_final[0:3] == ' - ':
+                middles_final = middles_final[3:]
+            if aa_nums_final[-3:] == ' - ':
+                aa_nums_final = aa_nums_final[:-3]
+            if middles_final[-3:] == ' - ':
+                middles_final = middles_final[:-3]
 
             print(aa_nums_final, file=f)
             print(middles_final, file=f)
+            # print(regs_final, file=f)
+            print('', file=f)
+
+
+def write_aars_regions(fasta_dat, filepath, max_width=10000):
+    filepath = os.path.splitext(filepath)[0]
+    with open(filepath + "_aars_regions.txt", 'w') as f:
+        for r in fasta_dat:
+            if r['regions']:
+                continue
+            for r2 in fasta_dat:
+                if r['aa'] == r2['aa']:
+                    if r['kingdom'] == r2['kingdom']:
+                        if r2['regions'] == True:
+                            if r['pdb'] == r2['pdb']:
+                                if r['letter'] == r2['letter']:
+                                    if r['genus'] == r2['genus']:
+                                        regions = r2
+                                        break
+            else:
+                raise RuntimeError(
+                    'could not find regions for {}'.format(filename))
+            filename = preprocessing.make_filename(r)
+            print("> {}".format(filename), file=f)
+            i = 0
+            while i < len(r['nucleotide']):
+                aa_nums = ''.join(['{:^3s}'.format(str((n+1) % 1000))
+                                   for n in range(i//3, (i+max_width)//3)])
+                nucs = r['nucleotide'][i:i+max_width]
+                regs = ''.join(['{:^3s}'.format(n)
+                                for n in regions['aligned'][i//3:(i+max_width)//3]])
+                i += max_width
+            aa_nums_final = ""
+            nuc_final = ""
+            regs_final = ""
+            i = 0
+            gap = False
+            while i < len(r['nucleotide']):
+                if regs[i+1] == '-' and gap == False:
+                    aa_nums_final += ' - '
+                    nuc_final += ' - '
+                    regs_final += ' - '
+                    gap = True
+                if regs[i+1] != '-':
+                    aa_nums_final += aa_nums[i:i+3]
+                    nuc_final += nucs[i:i+3]
+                    regs_final += regs[i:i+3]
+                    gap = False
+                i += 3
+            if aa_nums_final[0:3] == ' - ':
+                aa_nums_final = aa_nums_final[3:]
+            if nuc_final[0:3] == ' - ':
+                nuc_final = nuc_final[3:]
+            if regs_final[0:3] == ' - ':
+                regs_final = regs_final[3:]
+            if aa_nums_final[-3:] == ' - ':
+                aa_nums_final = aa_nums_final[:-3]
+            if nuc_final[-3:] == ' - ':
+                nuc_final = nuc_final[:-3]
+            if regs_final[-3:] == ' - ':
+                regs_final = regs_final[:-3]
+
+            print(aa_nums_final, file=f)
+            print(nuc_final, file=f)
             print(regs_final, file=f)
             print('', file=f)
 
