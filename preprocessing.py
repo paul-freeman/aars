@@ -3,8 +3,8 @@ import glob
 import os.path
 import json
 
-AA_LIST = ['gln', 'leu', 'glu', 'ile', 'lys',
-           'arg', 'met', 'val', 'cys', 'trp', 'tyr']
+AA_LIST = ['ala', 'asn', 'asp', 'gln', 'leu', 'glu', 'gly', 'his', 'ile', 'lys',
+           'arg', 'met', 'phe', 'pro', 'pyl', 'sep', 'ser', 'thr', 'val', 'cys', 'trp', 'tyr']
 KINGDOM_LIST = ['bact', 'arch']
 
 
@@ -204,6 +204,9 @@ def write_binary_data(filename):
                 os.rename(nuc_file, nuc_file + '.bad')
             except FileExistsError:
                 pass
+            print(err)
+            isMissingData = True
+            continue
             raise RuntimeError(err)
         fasta_data['aa_dat'] = aa_dat
         fasta_data['nuc_dat'] = nuc_dat

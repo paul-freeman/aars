@@ -13,9 +13,8 @@ except ImportError:
     from aars_algorithms_slow import levenshtein_distance_py as levenshtein_distance
     from aars_algorithms_slow import align_py as align
 
-AA_LIST = ['gln', 'leu', 'glu', 'ile',
-           'arg', 'met', 'val', 'cys',
-           'trp', 'tyr', 'lys']
+AA_LIST = ['ala', 'asn', 'asp', 'gln', 'leu', 'glu', 'gly', 'his', 'ile', 'lys',
+           'arg', 'met', 'phe', 'pro', 'pyl', 'sep', 'ser', 'thr', 'val', 'cys', 'trp', 'tyr']
 KINGDOM_LIST = ['bact', 'arch']
 
 
@@ -134,8 +133,11 @@ def write_master_files(fasta_dat):
                                     regions = r2
                                     break
         else:
-            raise RuntimeError(
-                'could not find regions for {}'.format(filename))
+            err = 'could not find regions for {}'.format(filename)
+            isMissingData = True
+            print(err)
+            continue
+            raise RuntimeError(err)
         with open(os.path.join(dropbox_masters, filename + '_master.txt'), 'w') as f:
             i = 0
             while i < len(r['nucleotide']):
@@ -166,6 +168,7 @@ def write_middle_base_regions(fasta_dat, filepath, max_width=10000):
         for r in fasta_dat:
             if r['regions']:
                 continue
+            filename = preprocessing.make_filename(r)
             for r2 in fasta_dat:
                 if r['aa'] == r2['aa']:
                     if r['kingdom'] == r2['kingdom']:
@@ -176,9 +179,11 @@ def write_middle_base_regions(fasta_dat, filepath, max_width=10000):
                                         regions = r2
                                         break
             else:
-                raise RuntimeError(
-                    'could not find regions for {}'.format(filename))
-            filename = preprocessing.make_filename(r)
+                err = 'could not find regions for {}'.format(filename)
+                isMissingData = True
+                print(err)
+                continue
+                raise RuntimeError(err)
             middle_base = "".join([x if i % 3 == 1 else ' ' for i,
                                    x in enumerate(r['nucleotide'])])
             print("> {}".format(filename), file=f)
@@ -228,6 +233,7 @@ def write_aars_regions(fasta_dat, filepath, max_width=10000):
         for r in fasta_dat:
             if r['regions']:
                 continue
+            filename = preprocessing.make_filename(r)
             for r2 in fasta_dat:
                 if r['aa'] == r2['aa']:
                     if r['kingdom'] == r2['kingdom']:
@@ -238,9 +244,11 @@ def write_aars_regions(fasta_dat, filepath, max_width=10000):
                                         regions = r2
                                         break
             else:
-                raise RuntimeError(
-                    'could not find regions for {}'.format(filename))
-            filename = preprocessing.make_filename(r)
+                err = 'could not find regions for {}'.format(filename)
+                isMissingData = True
+                print(err)
+                continue
+                raise RuntimeError(err)
             print("> {}".format(filename), file=f)
             i = 0
             while i < len(r['nucleotide']):
