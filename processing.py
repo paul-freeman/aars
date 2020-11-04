@@ -104,6 +104,7 @@ def main(filepath, reverse_complement_errors=False):
     if errs == 0:
         os.remove(filepath + '.error_report.md')
         os.remove(filepath + '.error_report_summary.txt')
+    # sys.exit()
     write_master_files(good_fasta_dat)
     write_aars_regions(good_fasta_dat, filepath)
     write_middle_base_regions(good_fasta_dat, filepath)
@@ -638,6 +639,8 @@ def parse_fasta(path):
                 letter = xs.pop(0).upper()
                 try:
                     genus, num = '_'.join(xs).lower().split('/')
+                    if genus[-4:] == "_aln":
+                        genus = genus[:-4]
                 except ValueError:
                     genus, num = xs[0].lower(), "0"
                 fasta_data.append({

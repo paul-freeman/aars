@@ -3,6 +3,8 @@ data/Bacteria
 data/Eukaryotes
 data/supplemental
 data/*.bad
+data/*_aln.nuc
+data/*_aln.aa
 .vscode
 *error_report.pdf
 aars_algorithms_fast.cp36-win_amd64.pyd

@@ -45,6 +45,8 @@ def parse_fasta(path):
                 letter = xs.pop(0).upper()
                 try:
                     genus, num = '_'.join(xs).lower().split('/')
+                    if genus[-3:] == "aln":
+                        genus = genus[:-4]
                 except ValueError:
                     genus, num = xs[0].lower(), "0"
                 fasta_data.append({
@@ -89,7 +91,27 @@ def search_supplemental_folder(fasta_data, ext):
             fasta_data['genus'],
             ('aa' if ext == 'aa' else 'nuc')
         )
-    return glob.glob('data/supplemental/*' + f, recursive=False)
+    fastas = glob.glob('data/supplemental/*' + f, recursive=False)
+    if fastas:
+        return fastas
+
+    # nothing found: check for txt extension
+    if fasta_data['pdb']:
+        f = '{}_*_{}_*_{}.txt'.format(
+            fasta_data['aa'],
+            fasta_data['pdb'],
+            ('aa' if ext == 'aa' else 'nuc')
+        )
+    else:
+        f = '{}_{}_{}_{}_{}.txt'.format(
+            fasta_data['aa'],
+            fasta_data['kingdom'],
+            fasta_data['letter'],
+            fasta_data['genus'],
+            ('aa' if ext == 'aa' else 'nuc')
+        )
+    txts = glob.glob('data/supplemental/*' + f, recursive=False)
+    return txts
 
 
 def search_downloads_folder(fasta_data, ext):
