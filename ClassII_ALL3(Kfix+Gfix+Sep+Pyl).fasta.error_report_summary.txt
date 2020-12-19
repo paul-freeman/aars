@@ -1,13 +1,7 @@
-asn_arch_1nnh_P_furiosis - missing data
 asp_bact_5w25_M_tuberculosis - missing data
-lys_bact_3g1z_S_typhimurium - missing data
-lys_bact_3g1z_S_typhimurium - missing data
 phe_bact_3pco_E_coli - missing data
-phe_bact_4p71_P_aeruginosa_c - missing data
 pyl_arch_M_soligelidi - missing data
 sep_arch_2du7_M_jannacshii - missing data
-ser_bact_1ser_T_thermophilus - missing data
-thr_bact_B_bacillaceae - missing data
 gly_bact_1ati_T_thermophilus - bad translation (6.13% incorrect)
 lys_bact_B_licheniformis - bad translation (94.20% incorrect)
 ala_bact_D_radiodurans - bad alignment (53 errors)
@@ -26,6 +20,7 @@ phe_bact_G_obscuriglobus - bad alignment (2 errors)
 pro_bact_H_aurantiacus - bad alignment (33 errors)
 pyl_arch_2znj_D_hafniense_a - bad alignment (43 errors)
 pyl_arch_M_methylutens - bad alignment (8 errors)
+thr_bact_B_bacillaceae - bad alignment (5 errors)
 thr_bact_B_licheniformis - bad alignment (26 errors)
 thr_bact_G_obscuriglobus - bad alignment (1 errors)
 thr_bact_C_thermalis - bad alignment (28 errors)

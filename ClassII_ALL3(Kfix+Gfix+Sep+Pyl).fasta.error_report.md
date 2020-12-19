@@ -1268,6 +1268,82 @@ err:
 
 ```
 
+## thr_bact_B_bacillaceae
+
+The amino acids provided in the FASTA alignment data
+do not align with amino acids in the source data file.
+
+There are 5 amino acids that do not align.
+
+This could indicate a problem with the processing used to
+generate the data in the FASTA file.
+
+### Original amino acid data
+
+```text
+>tr|A0A3E0JU86|A0A3E0JU86_9BACI Threonine--tRNA ligase OS=Bacillaceae bacterium OX=1889774 GN=thrS PE=3 SV=1
+MKEAIKITFPDGSVKEFPYGTTTEEIAASISPGLKKKAIAGKINGKLIDLKTPIEQDGQI
+EILTPDTKEALEILRHSTAHLMAQAIKRLYPNVKLGVGPVIENGFYYDIDMDETISHEDL
+PKIEKEMKKIVGENLPVIRKEVSRDEAKKMYEEIGDHLKLELIDDIPEGEIISIYEQGEF
+FDLCRGVHVPSTGKIKEFKLLSVAGAYWRGDSKNKMLQRIYGTAFFTKEELKEHLRMLEE
+AKERDHRKLGKELNLFTTSQKVGQGLPLWLPKGATIRRIIERYIVDKEIKLGYQHVYTPV
+LGSVDLYKASGHWDHYQDDMFPPMKMDNEELVLRPMNCPHHMMIYKNEIHSYRELPIRIA
+ELGTMHRYEMSGALTGLQRVRGMTLNDAHIFVRPDQIKDEFIRVVRLIEEVYEDFGIKDY
+SFRLSYRDPEDKEKYYDDDEMWEKAQSMLKAAMDELGLDYYEAEGEAAFYGPKLDVQVRT
+ALGKDETLSTVQLDFLLPERLDLTYVGEDGKHHRPVVIHRGVVSTMERFVAFLIEEFKGA
+FPTWLAPVQVKVIPVSPEVHLDYAKTVEQRLQQEGLRVEVDIRDEKIGYKIREAQMQKIP
+YMVVVGDQEAENETVNVRKYGEQKSESMPLETFAVSVGKEGRK
+```
+
+### Alignment errors
+
+```text
+aas: MKEAIKITFPDGSVKEFPYGTTTEEIAASISPGLKKKAIAGKINGKLIDLKTPIEQDGQI
+ali: ------------------------------------------------------------
+err:                                                             
+
+aas: EILTPDTKEALEILRHSTAHLMAQAIKRLYPNVKLGVGPVIENGFYYDIDMDETISHEDL
+ali: ------------I.R............R..........................I.....
+err:                                                             
+
+aas: PKIEKEMKKIVGENLPVIRKEVSRDEAKKMYEEIGDHLKLELIDDIPEGEIISIYEQGEF
+ali: ..IE...................R..............................Y.....
+err:                                                             
+
+aas: FDLCRGVHVPSTGKIKEFKLLSVAGAYWRGDSKNKMLQRIYGTAFFTKEELKEHLRMLEE
+ali: ..............I.......V.....................................
+err:                                                             
+
+aas: AKERDHRKLGKELNLFTTSQKVGQGLPLWLPKGATIRRIIERYIVDKEIKLGYQHVYTPV
+ali: ....D.....KE...........................IE.........LGYDHVYTPV
+err:                                                      X      
+
+aas: LGSVDLYKASGHWDHYQDDMFPPMKMDNEELVLRPMNCPHHMMIYKNEIHSYRELPIRIA
+ali: LG------------------------------LRPMNCPHHMMIYK-----------RIA
+err:                                                             
+
+aas: ELGTMHRYEMSGALTGLQRVRGMTLNDAHIFVRPDQIKDEFIRVVRLIEEVYEDFGIKDY
+ali: ELGTMHRY-------------GMTLNDAHIFV--------FKRVVNLILEVYKDF----Y
+err:                                          X   X  X   X       
+
+aas: SFRLSYRDPEDKEKYYDDDEMWEKAQSMLKAAMDELGLDYYEAEGEAAFYGPKLDVQVRT
+ali: SFRL-----------------------------------------------PKLDVQV--
+err:                                                             
+
+aas: ALGKDETLSTVQLDFLLPERLDLTYVGEDGKHHRPVVIHRGVVSTMERFVAFLIEEFKGA
+ali: ------TLSTVQLDF-------------------PVVIHRGV..TMERFVAFLI------
+err:                                                             
+
+aas: FPTWLAPVQVKVIPVSPEVHLDYAKTVEQRLQQEGLRVEVDIRDEKIGYKIREAQMQKIP
+ali: ------------------------------------------------------------
+err:                                                             
+
+aas: YMVVVGDQEAENETVNVRKYGEQKSESMPLETFAVSVGKEGRK
+ali: -------------------------------------------
+err:                                            
+
+```
+
 ## thr_bact_B_licheniformis
 
 The amino acids provided in the FASTA alignment data
