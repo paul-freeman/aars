@@ -1,7 +1,4 @@
-asp_bact_5w25_M_tuberculosis - missing data
-phe_bact_3pco_E_coli - missing data
 pyl_arch_M_soligelidi - missing data
-sep_arch_2du7_M_jannacshii - missing data
 gly_bact_1ati_T_thermophilus - bad translation (6.13% incorrect)
 lys_bact_B_licheniformis - bad translation (94.20% incorrect)
 ala_bact_D_radiodurans - bad alignment (53 errors)

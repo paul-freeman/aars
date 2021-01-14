@@ -212,7 +212,7 @@ def write_binary_data(filename):
         if len(aa_dat) * 3 + 3 == len(nuc_dat):
             nuc_dat = nuc_dat[:-3]
         elif len(aa_dat) * 3 != len(nuc_dat):
-            err = "Data incorrect length: {} {} {} (expected {})".format(
+            err = "Data incorrect length: {}: ({} aas) ({} nucs): expected ({} nucs)".format(
                 prefix,
                 len(aa_dat),
                 len(nuc_dat),
