@@ -1,14 +1,5 @@
-ala_bact_1yfs_A_aeolicus - missing data
-ala_bact_3hxv_E_coli - missing data
-asn_bact_5zg8_T_thermophilus - missing data
-asp_bact_5w25_M_tuberculosis - missing data
-asp_bact_E_faecalis - missing data
-asp_bact_S_haemolyticus - missing data
-his_bact_1adj_T_thermophilus - missing data
-phe_bact_3pco_E_coli - missing data
-phe_bact_E_faecalis - missing data
-ser_bact_2dq3_A_aeolicus - missing data
 gly_bact_1ati_T_thermophilus - bad translation (6.13% incorrect)
+ala_bact_3hxv_E_coli - bad alignment (3 errors)
 ala_bact_D_radiodurans - bad alignment (62 errors)
 ala_bact_R_palustris - bad alignment (2 errors)
 asp_bact_B_licheniformis - bad alignment (47 errors)
@@ -20,6 +11,7 @@ his_bact_3net_N_nostoc - bad alignment (3 errors)
 his_bact_C_aggregans - bad alignment (48 errors)
 phe_bact_G_obscuriglobus - bad alignment (3 errors)
 pro_bact_H_aurantiacus - bad alignment (41 errors)
+ser_bact_2dq3_A_aeolicus - bad alignment (1 errors)
 thr_bact_B_licheniformis - bad alignment (37 errors)
 thr_bact_B_bacillaceae - bad alignment (6 errors)
 thr_bact_C_thermalis - bad alignment (33 errors)

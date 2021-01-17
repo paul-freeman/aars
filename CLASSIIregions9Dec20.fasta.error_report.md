@@ -157,6 +157,102 @@ err:
 
 ```
 
+## ala_bact_3hxv_E_coli
+
+The amino acids provided in the FASTA alignment data
+do not align with amino acids in the source data file.
+
+There are 3 amino acids that do not align.
+
+This could indicate a problem with the processing used to
+generate the data in the FASTA file.
+
+### Original amino acid data
+
+```text
+>sp|P00957|SYA_ECOLI Alanine--tRNA ligase OS=Escherichia coli (strain K12) OX=83333 GN=alaS PE=1 SV=2
+MSKSTAEIRQAFLDFFHSKGHQVVASSSLVPHNDPTLLFTNAGMNQFKDVFLGLDKRNYS
+RATTSQRCVRAGGKHNDLENVGYTARHHTFFEMLGNFSFGDYFKHDAIQFAWELLTSEKW
+FALPKERLWVTVYESDDEAYEIWEKEVGIPRERIIRIGDNKGAPYASDNFWQMGDTGPCG
+PCTEIFYDHGDHIWGGPPGSPEEDGDRYIEIWNIVFMQFNRQADGTMEPLPKPSVDTGMG
+LERIAAVLQHVNSNYDIDLFRTLIQAVAKVTGATDLSNKSLRVIADHIRSCAFLIADGVM
+PSNENRGYVLRRIIRRAVRHGNMLGAKETFFYKLVGPLIDVMGSAGEDLKRQQAQVEQVL
+KTEEEQFARTLERGLALLDEELAKLSGDTLDGETAFRLYDTYGFPVDLTADVCRERNIKV
+DEAGFEAAMEEQRRRAREASGFGADYNAMIRVDSASEFKGYDHLELNGKVTALFVDGKAV
+DAINAGQEAVVVLDQTPFYAESGGQVGDKGELKGANFSFAVEDTQKYGQAIGHIGKLAAG
+SLKVGDAVQADVDEARRARIRLNHSATHLMHAALRQVLGTHVSQKGSLVNDKVLRFDFSH
+NEAMKPEEIRAVEDLVNTQIRRNLPIETNIMDLEAAKAKGAMALFGEKYDERVRVLSMGD
+FSTELCGGTHASRTGDIGLFRIISESGTAAGVRRIEAVTGEGAIATVHADSDRLSEVAHL
+LKGDSNNLADKVRSVLERTRQLEKELQQLKEQAAAQESANLSSKAIDVNGVKLLVSELSG
+VEPKMLRTMVDDLKNQLGSTIIVLATVVEGKVSLIAGVSKDVTDRVKAGELIGMVAQQVG
+GKGGGRPDMAQAGGTDAAALPAALASVKGWVSAKLQ
+```
+
+### Alignment errors
+
+```text
+aas: MSKSTAEIRQAFLDFFHSKGHQVVASSSLVPHNDPTLLFTNAGMNQFKDVFLGLDKRNYS
+ali: ---STAEIRQAFLDFFHSKGHQVVASS.LVP----TLLFTNAGMNQFKDVFL------YS
+err:                                                             
+
+aas: RATTSQRCVRAGGKHNDLENVGYTARHHTFFEMLGNFSFGDYFKHDAIQFAWELLTSEKW
+ali: RATTSQRCVRA--------------RHHTFFEMLGNFSFG---KLDAILFAWLLLT----
+err:                                             X   X   X       
+
+aas: FALPKERLWVTVYESDDEAYEIWEKEVGIPRERIIRIGDNKGAPYASDNFWQMGDTGPCG
+ali: ------RLWVTV------------------------------------------------
+err:                                                             
+
+aas: PCTEIFYDHGDHIWGGPPGSPEEDGDRYIEIWNIVFMQFNRQADGTMEPLPKPSVDTGMG
+ali: PCTEIFYD-------------------YIEIWNIVFMQ------------PKPSVDTGMG
+err:                                                             
+
+aas: LERIAAVLQHVNSNYDIDLFRTLIQAVAKVTGATDLSNKSLRVIADHIRSCAFLIADGVM
+ali: LERIAAVLQH--------------------------------------------------
+err:                                                             
+
+aas: PSNENRGYVLRRIIRRAVRHGNMLGAKETFFYKLVGPLIDVMGSAGEDLKRQQAQVEQVL
+ali: ------------------------------------------------------------
+err:                                                             
+
+aas: KTEEEQFARTLERGLALLDEELAKLSGDTLDGETAFRLYDTYGFPVDLTADVCRERNIKV
+ali: ------------------------------------------------------------
+err:                                                             
+
+aas: DEAGFEAAMEEQRRRAREASGFGADYNAMIRVDSASEFKGYDHLELNGKVTALFVDGKAV
+ali: ------------------------------------------------------------
+err:                                                             
+
+aas: DAINAGQEAVVVLDQTPFYAESGGQVGDKGELKGANFSFAVEDTQKYGQAIGHIGKLAAG
+ali: ------------------------------------------------------------
+err:                                                             
+
+aas: SLKVGDAVQADVDEARRARIRLNHSATHLMHAALRQVLGTHVSQKGSLVNDKVLRFDFSH
+ali: ------------------------------------------------------------
+err:                                                             
+
+aas: NEAMKPEEIRAVEDLVNTQIRRNLPIETNIMDLEAAKAKGAMALFGEKYDERVRVLSMGD
+ali: ------------------------------------------------------------
+err:                                                             
+
+aas: FSTELCGGTHASRTGDIGLFRIISESGTAAGVRRIEAVTGEGAIATVHADSDRLSEVAHL
+ali: ------------------------------------------------------------
+err:                                                             
+
+aas: LKGDSNNLADKVRSVLERTRQLEKELQQLKEQAAAQESANLSSKAIDVNGVKLLVSELSG
+ali: ------------------------------------------------------------
+err:                                                             
+
+aas: VEPKMLRTMVDDLKNQLGSTIIVLATVVEGKVSLIAGVSKDVTDRVKAGELIGMVAQQVG
+ali: ------------------------------------------------------------
+err:                                                             
+
+aas: GKGGGRPDMAQAGGTDAAALPAALASVKGWVSAKLQ
+ali: ------------------------------------
+err:                                     
+
+```
+
 ## ala_bact_D_radiodurans
 
 The amino acids provided in the FASTA alignment data
@@ -815,6 +911,67 @@ err:
 aas: QRATGVVETIALDQVVKSIKNIEHRA
 ali: ...........L.........IE---
 err:                           
+
+```
+
+## ser_bact_2dq3_A_aeolicus
+
+The amino acids provided in the FASTA alignment data
+do not align with amino acids in the source data file.
+
+There is 1 amino acid that does not align.
+
+This could indicate a problem with the processing used to
+generate the data in the FASTA file.
+
+### Original amino acid data
+
+```text
+>sp|O66647|SYS_AQUAE Serine--tRNA ligase OS=Aquifex aeolicus (strain VF5) OX=224324 GN=serS PE=1 SV=1
+MIDINLIREKPDYVKERLATRDKELVSLVDKVLELDKRRREIIKRLEALRSERNKLSKEI
+GKLKREGKDTTEIQNRVKELKEEIDRLEEELRKVEEELKNTLLWIPNLPHPSVPVGEDEK
+DNVEVRRWGEPRKFDFEPKPHWEIGERLGILDFKRGAKLSGSRFTVIAGWGARLERALIN
+FMLDLHTKKGYKEICPPHLVKPEILIGTGQLPKFEEDLYKCERDNLYLIPTAEVPLTNLY
+REEILKEENLPIYLTAYTPCYRREAGAYGKDIRGIIRQHQFDKVELVKIVHPDTSYDELE
+KLVKDAEEVLQLLGLPYRVVELCTGDLGFSAAKTYDIEVWFPSQNKYREISSCSNCEDFQ
+ARRMNTRFKDSKTGKNRFVHTLNGSGLAVGRTLAAILENYQQEDGSVVVPEVLRDYVGTD
+VIRPE
+```
+
+### Alignment errors
+
+```text
+aas: MIDINLIREKPDYVKERLATRDKELVSLVDKVLELDKRRREIIKRLEALRSERNKLSKEI
+ali: ------------------------------------------------------------
+err:                                                             
+
+aas: GKLKREGKDTTEIQNRVKELKEEIDRLEEELRKVEEELKNTLLWIPNLPHPSVPVGEDEK
+ali: ------------------------------------------------------------
+err:                                                             
+
+aas: DNVEVRRWGEPRKFDFEPKPHWEIGERLGILDFKRGAKLSGSRFTVIAGWGARLERALIN
+ali: -----------------------------------------------------LERALIN
+err:                                                             
+
+aas: FMLDLHTKKGYKEICPPHLVKPEILIGTGQLPKFEEDLYKCERDNLYLIPTAEVPLTNLY
+ali: FXLDLHTKKGYKEICPPHLVK----------------LYKCE--NLYLIPTAEVPLTNLY
+err:  X                                                          
+
+aas: REEILKEENLPIYLTAYTPCYRREAGAYGKDIRGIIRQHQFDKVELVKIVHPDTSYDELE
+ali: R--------LPIYLTAYTPCYRR------------IRQHQFDKVELVKIV--------LE
+err:                                                             
+
+aas: KLVKDAEEVLQLLGLPYRVVELCTGDLGFSAAKTYDIEVWFPSQNKYREISSCSNCEDFQ
+ali: KLVKDAEEVLQ----PYRVVE-----------KTYDIEVW------YREISSCSNCE---
+err:                                                             
+
+aas: ARRMNTRFKDSKTGKNRFVHTLNGSGLAVGRTLAAILENYQQEDGSVVVPEVLRDYVGTD
+ali: -----------------FVHTLNGS.LAVGRTLAAILE----------------------
+err:                                                             
+
+aas: VIRPE
+ali: -----
+err:      
 
 ```
 

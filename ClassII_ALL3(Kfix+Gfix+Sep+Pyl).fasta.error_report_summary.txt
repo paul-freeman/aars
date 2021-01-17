@@ -1,4 +1,3 @@
-pyl_arch_M_soligelidi - missing data
 gly_bact_1ati_T_thermophilus - bad translation (6.13% incorrect)
 lys_bact_B_licheniformis - bad translation (94.20% incorrect)
 ala_bact_D_radiodurans - bad alignment (53 errors)
