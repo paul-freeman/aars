@@ -1,0 +1,13 @@
+phe_bact_4p71_P_aeruginosa - missing data
+ala_bact_3hxv_E_coli - bad alignment (3 errors)
+ala_bact_R_palustris - bad alignment (2 errors)
+gly_bact_1ati_T_thermophilus - bad alignment (4 errors)
+gly_bact_B_thailandensis - bad alignment (1 errors)
+gly_bact_E_coli - bad alignment (1 errors)
+his_bact_T_thermophilus - bad alignment (43 errors)
+lys_bact_B_licheniformis - bad alignment (1 errors)
+phe_bact_G_obscuriglobus - bad alignment (4 errors)
+pro_bact_H_aurantiacus - bad alignment (42 errors)
+thr_bact_B_licheniformis - bad alignment (38 errors)
+thr_bact_B_bacillaceae - bad alignment (7 errors)
+thr_bact_T_thermalis - bad alignment (34 errors)
