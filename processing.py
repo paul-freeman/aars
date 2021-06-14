@@ -104,7 +104,6 @@ def main(filepath, reverse_complement_errors=False):
     if errs == 0:
         os.remove(filepath + '.error_report.md')
         os.remove(filepath + '.error_report_summary.txt')
-    # sys.exit()
     write_master_files(good_fasta_dat)
     write_aars_regions(good_fasta_dat, filepath)
     write_middle_base_regions(good_fasta_dat, filepath)
@@ -115,7 +114,7 @@ def main(filepath, reverse_complement_errors=False):
 
 def write_master_files(fasta_dat):
     dropbox_masters = os.path.join(os.path.expanduser(
-        '~'), 'UniDropbox\\Dropbox\\With Paul Freeman\\master')
+        '~'), 'UniDropbox\\Dropbox\\With Paul Freeman\\master\\temp')
     try:
         os.makedirs(dropbox_masters)
     except FileExistsError:
@@ -134,18 +133,15 @@ def write_master_files(fasta_dat):
                                     regions = r2
                                     break
         else:
-            err = 'could not find regions for {}'.format(filename)
-            isMissingData = True
-            print(err)
-            continue
-            raise RuntimeError(err)
+            regions = None
         with open(os.path.join(dropbox_masters, filename + '_master.txt'), 'w') as f:
             i = 0
             while i < len(r['nucleotide']):
                 bad = ['X' if c1 not in '-.*?' and c2 not in '*?' and c1 != c2 else ' '
                        for c1, c2 in zip(r['aligned'], r['ungapped'])]
-                bad_regions = ['X' if c1 not in '-.*?' and c2 not in '*?' and c1 != c2 else ' '
-                               for c1, c2 in zip(regions['aligned'], regions['ungapped'])]
+                if regions:
+                    bad_regions = ['X' if c1 not in '-.*?' and c2 not in '*?' and c1 != c2 else ' '
+                                   for c1, c2 in zip(regions['aligned'], regions['ungapped'])]
                 print(''.join(['{:^3s}'.format(str((n+1) % 1000))
                                for n in range(i//3, (i+78)//3)]), file=f)
                 print(r['nucleotide'][i:i+78], file=f)
@@ -155,10 +151,11 @@ def write_master_files(fasta_dat):
                                for n in r['aligned'][i//3:(i+78)//3]]), file=f)
                 print(''.join(['{:^3s}'.format(n)
                                for n in bad[i//3:(i+78)//3]]), file=f)
-                print(''.join(['{:^3s}'.format(n)
-                               for n in regions['aligned'][i//3:(i+78)//3]]), file=f)
-                print(''.join(['{:^3s}'.format(n)
-                               for n in bad_regions[i//3:(i+78)//3]]), file=f)
+                if regions:
+                    print(''.join(['{:^3s}'.format(n)
+                                   for n in regions['aligned'][i//3:(i+78)//3]]), file=f)
+                    print(''.join(['{:^3s}'.format(n)
+                                   for n in bad_regions[i//3:(i+78)//3]]), file=f)
                 print('', file=f)
                 i += 78
 
@@ -180,11 +177,10 @@ def write_middle_base_regions(fasta_dat, filepath, max_width=10000):
                                         regions = r2
                                         break
             else:
-                err = 'could not find regions for {}'.format(filename)
-                isMissingData = True
+                err = 'could not find regions while writing middle base regions'.format(
+                    filename)
                 print(err)
-                continue
-                raise RuntimeError(err)
+                return
             middle_base = "".join([x if i % 3 == 1 else ' ' for i,
                                    x in enumerate(r['nucleotide'])])
             print("> {}".format(filename), file=f)
@@ -245,11 +241,10 @@ def write_aars_regions(fasta_dat, filepath, max_width=10000):
                                         regions = r2
                                         break
             else:
-                err = 'could not find regions for {}'.format(filename)
-                isMissingData = True
+                err = 'could not find regions while writing aars regions'.format(
+                    filename)
                 print(err)
-                continue
-                raise RuntimeError(err)
+                return
             print("> {}".format(filename), file=f)
             i = 0
             while i < len(r['nucleotide']):
