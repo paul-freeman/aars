@@ -2,6 +2,7 @@ import sys
 import os
 import json
 import os.path
+import argparse
 
 import preprocessing
 
@@ -19,10 +20,13 @@ AA_LIST = ['ala', 'asn', 'asp', 'gln', 'leu', 'glu', 'gly', 'his', 'ile', 'lys',
 KINGDOM_LIST = ['bact', 'arch']
 
 
-def main(filepath, reverse_complement_errors=False):
+def main(filepath, regions, reverse_complement_errors=False):
+    # parse regions
+    reg = json.loads(regions)
+
     with open(filepath + ".json") as f:
         db = json.load(f)
-    fasta_dat = parse_fasta(filepath)
+    fasta_dat = parse_fasta(filepath, reg)
     accounted_fasta_dat = []
     missing_data_files = []
     for r1 in fasta_dat:
@@ -42,7 +46,7 @@ def main(filepath, reverse_complement_errors=False):
                                     break
         else:
             missing_data_files.append(preprocessing.make_filename(r1))
-            # raise RuntimeError("no match found")
+            raise RuntimeError("no match found")
     fasta_dat = accounted_fasta_dat
     properly_translated_dat = []
     good_fasta_dat = []
@@ -106,8 +110,8 @@ def main(filepath, reverse_complement_errors=False):
         os.remove(filepath + '.error_report.md')
         os.remove(filepath + '.error_report_summary.txt')
     # write_master_files(good_fasta_dat)
-    write_aars_regions(good_fasta_dat, filepath)
-    write_middle_base_regions(good_fasta_dat, filepath)
+    # write_aars_regions(good_fasta_dat, filepath)
+    # write_middle_base_regions(good_fasta_dat, filepath)
     write_middle_bases_with_numbers(good_fasta_dat, filepath)
     write_middle_bases_no_numbers(good_fasta_dat, filepath)
     write_whole_codon_with_numbers(good_fasta_dat, filepath)
@@ -231,270 +235,121 @@ def write_middle_base_regions(fasta_dat, filepath, max_width=10000):
             print('', file=f)
 
 
-def write_middle_bases_with_numbers(fasta_dat, filepath, max_width=10000):
+def write_middle_bases_no_numbers(fasta_dat, filepath):
+    write_result_data(
+        fasta_dat,
+        filepath,
+        "_middle_bases_no_numbers.txt",
+        printMiddleBases=True
+    )
+
+
+def write_middle_bases_with_numbers(fasta_dat, filepath):
+    write_result_data(
+        fasta_dat,
+        filepath,
+        "_middle_bases_with_numbers.txt",
+        printNumbers=True,
+        printMiddleBases=True
+    )
+
+
+def write_whole_codon_no_numbers(fasta_dat, filepath):
+    write_result_data(
+        fasta_dat,
+        filepath,
+        "_whole_codon_no_numbers.txt",
+        printCodons=True
+    )
+
+
+def write_whole_codon_with_numbers(fasta_dat, filepath):
+    write_result_data(
+        fasta_dat,
+        filepath,
+        "_whole_codon_with_numbers.txt",
+        printNumbers=True,
+        printCodons=True
+    )
+
+
+def write_amino_acids_no_numbers(fasta_dat, filepath):
+    write_result_data(
+        fasta_dat,
+        filepath,
+        "_amino_acids_no_numbers.txt",
+        printAminoAcids=True
+    )
+
+
+def write_amino_acids_with_numbers(fasta_dat, filepath):
+    write_result_data(
+        fasta_dat,
+        filepath,
+        "_amino_acids_with_numbers.txt",
+        printNumbers=True,
+        printAminoAcids=True
+    )
+
+
+def write_result_data(fasta_dat, filepath, outputSuffix, printNumbers=False, printCodons=False, printMiddleBases=False, printAminoAcids=False):
     filepath = os.path.splitext(filepath)[0]
-    with open(filepath + "_middle_bases_with_numbers.txt", 'w') as f:
+    with open(filepath + outputSuffix, 'w') as f:
         for r in fasta_dat:
+
+            # print fasta name
             filename = preprocessing.make_filename(r)
-            middle_base = "".join([x if i % 3 == 1 else ' ' for i,
-                                   x in enumerate(r['nucleotide'])])
             print("> {}".format(filename), file=f)
+
+            # get middle bases of nucleotide
+            codons = []
+            middle_bases = []
+            for i, x in enumerate(r['nucleotide']):
+                if i % 3 == 1:
+                    codons.append(r['nucleotide'][i-1:i+2])
+                    middle_bases.append(x)
+
+            # check lengths
+            if len(middle_bases) != len(r['aligned']):
+                raise RuntimeError("middle bases have length {}, but aligned amino acids have length {}".format(
+                    len(middle_bases), len(r['aligned'])))
+
+            # get amino acid
+            xs = []
+            for i, x in enumerate(middle_bases):
+                xs.append({
+                    "num": i+1,
+                    "codon": codons[i],
+                    "middle_base": x,
+                    "aa": r['aligned'][i]
+                })
+
+            final_numbers = ''
+            final_codons = ''
+            final_middle_bases = ''
+            final_amino_acids = ''
             i = 0
-            while i < len(middle_base):
-                aa_nums = ''.join(['{:^3s}'.format(str((n+1) % 1000))
-                                   for n in range(i//3, (i+max_width)//3)])
-                middles = middle_base[i:i+max_width]
-                regs = ''.join(['{:^3s}'.format(n)
-                                for n in r['aligned'][i//3:(i+max_width)//3]])
-                i += max_width
-            aa_nums_final = ""
-            middles_final = ""
-            regs_final = ""
-            i = 0
-            gap = False
-            while i < len(middle_base):
-                if regs[i+1] == '-' and gap == False:
-                    aa_nums_final += ' - '
-                    middles_final += ' - '
-                    regs_final += ' - '
-                    gap = True
-                if regs[i+1] != '-':
-                    aa_nums_final += aa_nums[i:i+3]
-                    middles_final += middles[i:i+3]
-                    regs_final += regs[i:i+3]
-                    gap = False
-                i += 3
-            if aa_nums_final[0:3] == ' - ':
-                aa_nums_final = aa_nums_final[3:]
-            if middles_final[0:3] == ' - ':
-                middles_final = middles_final[3:]
-            if aa_nums_final[-3:] == ' - ':
-                aa_nums_final = aa_nums_final[:-3]
-            if middles_final[-3:] == ' - ':
-                middles_final = middles_final[:-3]
-
-            print(aa_nums_final, file=f)
-            print(middles_final, file=f)
-            # print(regs_final, file=f)
-            print('', file=f)
-
-
-def write_middle_bases_no_numbers(fasta_dat, filepath, max_width=10000):
-    filepath = os.path.splitext(filepath)[0]
-    with open(filepath + "_middle_bases_no_numbers.txt", 'w') as f:
-        for r in fasta_dat:
-            filename = preprocessing.make_filename(r)
-            middle_base = "".join([x if i % 3 == 1 else ' ' for i,
-                                   x in enumerate(r['nucleotide'])])
-            print("> {}".format(filename), file=f)
-            i = 0
-            while i < len(middle_base):
-                middles = middle_base[i:i+max_width]
-                regs = ''.join(['{:^3s}'.format(n)
-                                for n in r['aligned'][i//3:(i+max_width)//3]])
-                i += max_width
-            middles_final = ""
-            i = 0
-            gap = False
-            while i < len(middle_base):
-                if regs[i+1] == '-' and gap == False:
-                    middles_final += ' - '
-                    gap = True
-                if regs[i+1] != '-':
-                    middles_final += middles[i:i+3]
-                    gap = False
-                i += 3
-            if middles_final[0:3] == ' - ':
-                middles_final = middles_final[3:]
-            if middles_final[-3:] == ' - ':
-                middles_final = middles_final[:-3]
-
-            print(middles_final.replace(" ", ""), file=f)
-            print('', file=f)
-
-
-def write_whole_codon_with_numbers(fasta_dat, filepath, max_width=10000):
-    filepath = os.path.splitext(filepath)[0]
-    with open(filepath + "_whole_codon_with_numbers.txt", 'w') as f:
-        for r in fasta_dat:
-            filename = preprocessing.make_filename(r)
-            all_codons = r['nucleotide']
-            print("> {}".format(filename), file=f)
-            i = 0
-            while i < len(all_codons):
-                aa_nums = ''.join(['{:^3s}'.format(str((n+1) % 1000))
-                                   for n in range(i//3, (i+max_width)//3)])
-                codons = all_codons[i:i+max_width]
-                regs = ''.join(['{:^3s}'.format(n)
-                                for n in r['aligned'][i//3:(i+max_width)//3]])
-                i += max_width
-            aa_nums_final = ""
-            codons_final = ""
-            regs_final = ""
-            i = 0
-            gap = False
-            while i < len(all_codons):
-                if regs[i+1] == '-' and gap == False:
-                    aa_nums_final += ' - '
-                    codons_final += ' - '
-                    regs_final += ' - '
-                    gap = True
-                if regs[i+1] != '-':
-                    aa_nums_final += aa_nums[i:i+3]
-                    codons_final += codons[i:i+3]
-                    regs_final += regs[i:i+3]
-                    gap = False
-                i += 3
-            if aa_nums_final[0:3] == ' - ':
-                aa_nums_final = aa_nums_final[3:]
-            if codons_final[0:3] == ' - ':
-                codons_final = codons_final[3:]
-            if aa_nums_final[-3:] == ' - ':
-                aa_nums_final = aa_nums_final[:-3]
-            if codons_final[-3:] == ' - ':
-                codons_final = codons_final[:-3]
-
-            print(aa_nums_final, file=f)
-            print(codons_final, file=f)
-            # print(regs_final, file=f)
-            print('', file=f)
-
-
-def write_whole_codon_no_numbers(fasta_dat, filepath, max_width=10000):
-    filepath = os.path.splitext(filepath)[0]
-    with open(filepath + "_whole_codon_no_numbers.txt", 'w') as f:
-        for r in fasta_dat:
-            filename = preprocessing.make_filename(r)
-            all_codons = r['nucleotide']
-            print("> {}".format(filename), file=f)
-            i = 0
-            while i < len(all_codons):
-                codons = all_codons[i:i+max_width]
-                regs = ''.join(['{:^3s}'.format(n)
-                                for n in r['aligned'][i//3:(i+max_width)//3]])
-                i += max_width
-            codons_final = ""
-            i = 0
-            gap = False
-            while i < len(all_codons):
-                if regs[i+1] == '-' and gap == False:
-                    codons_final += ' - '
-                    gap = True
-                if regs[i+1] != '-':
-                    codons_final += codons[i:i+3]
-                    gap = False
-                i += 3
-            if codons_final[0:3] == ' - ':
-                codons_final = codons_final[3:]
-            if codons_final[-3:] == ' - ':
-                codons_final = codons_final[:-3]
-
-            print(codons_final.replace(" ", ""), file=f)
-            print('', file=f)
-
-
-def write_amino_acids_with_numbers(fasta_dat, filepath, max_width=10000):
-    filepath = os.path.splitext(filepath)[0]
-    with open(filepath + "_amino_acids_with_numbers.txt", 'w') as f:
-        for r in fasta_dat:
-            filename = preprocessing.make_filename(r)
-            middle_base = "".join([x if i % 3 == 1 else ' ' for i,
-                                   x in enumerate(r['nucleotide'])])
-            print("> {}".format(filename), file=f)
-            i = 0
-            while i < len(middle_base):
-                aa_nums = ''.join(['{:^3s}'.format(str((n+1) % 1000))
-                                   for n in range(i//3, (i+max_width)//3)])
-                middles = middle_base[i:i+max_width]
-                regs = ''.join(['{:^3s}'.format(n)
-                                for n in r['aligned'][i//3:(i+max_width)//3]])
-                i += max_width
-            aa_nums_final = ""
-            middles_final = ""
-            regs_final = ""
-            i = 0
-            gap = False
-            while i < len(middle_base):
-                if regs[i+1] == '-' and gap == False:
-                    aa_nums_final += ' - '
-                    middles_final += ' - '
-                    regs_final += ' - '
-                    gap = True
-                if regs[i+1] != '-':
-                    aa_nums_final += aa_nums[i:i+3]
-                    middles_final += middles[i:i+3]
-                    regs_final += regs[i:i+3]
-                    gap = False
-                i += 3
-            if aa_nums_final[0:3] == ' - ':
-                aa_nums_final = aa_nums_final[3:]
-            if middles_final[0:3] == ' - ':
-                middles_final = middles_final[3:]
-            if regs_final[0:3] == ' - ':
-                regs_final = regs_final[3:]
-            if aa_nums_final[-3:] == ' - ':
-                aa_nums_final = aa_nums_final[:-3]
-            if middles_final[-3:] == ' - ':
-                middles_final = middles_final[:-3]
-            if regs_final[-3:] == ' - ':
-                regs_final = regs_final[:-3]
-
-            print(aa_nums_final, file=f)
-            # print(middles_final, file=f)
-            print(regs_final, file=f)
-            print('', file=f)
-
-
-def write_amino_acids_no_numbers(fasta_dat, filepath, max_width=10000):
-    filepath = os.path.splitext(filepath)[0]
-    with open(filepath + "_amino_acids_no_numbers.txt", 'w') as f:
-        for r in fasta_dat:
-            filename = preprocessing.make_filename(r)
-            middle_base = "".join([x if i % 3 == 1 else ' ' for i,
-                                   x in enumerate(r['nucleotide'])])
-            print("> {}".format(filename), file=f)
-            i = 0
-            while i < len(middle_base):
-                aa_nums = ''.join(['{:^3s}'.format(str((n+1) % 1000))
-                                   for n in range(i//3, (i+max_width)//3)])
-                middles = middle_base[i:i+max_width]
-                regs = ''.join(['{:^3s}'.format(n)
-                                for n in r['aligned'][i//3:(i+max_width)//3]])
-                i += max_width
-            aa_nums_final = ""
-            middles_final = ""
-            regs_final = ""
-            i = 0
-            gap = False
-            while i < len(middle_base):
-                if regs[i+1] == '-' and gap == False:
-                    aa_nums_final += ' - '
-                    middles_final += ' - '
-                    regs_final += ' - '
-                    gap = True
-                if regs[i+1] != '-':
-                    aa_nums_final += aa_nums[i:i+3]
-                    middles_final += middles[i:i+3]
-                    regs_final += regs[i:i+3]
-                    gap = False
-                i += 3
-            if aa_nums_final[0:3] == ' - ':
-                aa_nums_final = aa_nums_final[3:]
-            if middles_final[0:3] == ' - ':
-                middles_final = middles_final[3:]
-            if regs_final[0:3] == ' - ':
-                regs_final = regs_final[3:]
-            if aa_nums_final[-3:] == ' - ':
-                aa_nums_final = aa_nums_final[:-3]
-            if middles_final[-3:] == ' - ':
-                middles_final = middles_final[:-3]
-            if regs_final[-3:] == ' - ':
-                regs_final = regs_final[:-3]
-
-            # print(aa_nums_final, file=f)
-            # print(middles_final, file=f)
-            print(regs_final.replace(" ", ""), file=f)
-            print('', file=f)
+            for p in r['underscored']:
+                if p == '_' or p == '-':
+                    final_numbers += ' - '
+                    final_codons += ' - '
+                    final_middle_bases += ' - '
+                    final_amino_acids += ' - '
+                    continue
+                while xs[i]['aa'] != p:
+                    i += 1
+                final_numbers += '{:^3s}'.format(str(xs[i]['num']))
+                final_codons += '{:^3s}'.format(xs[i]['codon'])
+                final_middle_bases += '{:^3s}'.format(xs[i]['middle_base'])
+                final_amino_acids += '{:^3s}'.format(p)
+            if printNumbers:
+                print(final_numbers, file=f)
+            if printCodons:
+                print(final_codons, file=f)
+            if printMiddleBases:
+                print(final_middle_bases, file=f)
+            if printAminoAcids:
+                print(final_amino_acids, file=f)
 
 
 def write_aars_regions(fasta_dat, filepath, max_width=10000):
@@ -865,7 +720,13 @@ def print_alignment_error(r, fp, line_length=60):
     print('```\n', file=fp)
 
 
-def parse_fasta(path):
+def parse_fasta(path, regionsList):
+    regionsXs = []
+    for rs in regionsList:
+        if len(regionsXs) != 0:
+            regionsXs.append('-')
+        regionsXs.append("X" * rs)
+    regionsXs = "".join(regionsXs)
     fasta_data = []
     gapped_sequence = None
     with open(path) as lines:
@@ -873,6 +734,16 @@ def parse_fasta(path):
             if line[0] == '>':
                 # store previous gapped sequence
                 if gapped_sequence:
+                    underscored = []
+                    for i in range(len(regionsXs)):
+                        if regionsXs[i] == '-':
+                            underscored.append('-')
+                        elif gapped_sequence[i] == '-':
+                            underscored.append('_')
+                        else:
+                            underscored.append(gapped_sequence[i])
+                    underscored = "".join(underscored)
+                    fasta_data[-1]['underscored'] = underscored
                     fasta_data[-1]['gapped'] = gapped_sequence
                 gapped_sequence = ""
                 xs = line[1:].strip().split('_')
@@ -922,6 +793,16 @@ def parse_fasta(path):
                 })
             else:
                 gapped_sequence += line.strip()
+    underscored = []
+    for i in range(len(regionsXs)):
+        if regionsXs[i] == '-':
+            underscored.append('-')
+        elif gapped_sequence[i] == '-':
+            underscored.append('_')
+        else:
+            underscored.append(gapped_sequence[i])
+    underscored = "".join(underscored)
+    fasta_data[-1]['underscored'] = underscored
     fasta_data[-1]['gapped'] = gapped_sequence
     return fasta_data
 
@@ -1061,5 +942,11 @@ def alt_nuc(i):
 
 
 if __name__ == "__main__":
-    preprocessing.main(sys.argv[1])
-    main(sys.argv[1])
+    parser = argparse.ArgumentParser(description='Process a fasta file.')
+    parser.add_argument('fasta_file', metavar='FILE',
+                        help='the fasta file to process')
+    parser.add_argument('--regions', required=True,
+                        help='the regions to use with this file (ex. "[10,5,10,20]"')
+    args = parser.parse_args()
+    preprocessing.main(args.fasta_file)
+    main(args.fasta_file, args.regions)

@@ -1,618 +1,412 @@
 > ala_bact_1yfs_A_aeolicus
-SAHEIRELFLSFFEKKGHTRVK.APLVP-TLLFVNAGMVPFKNVFL-YKRATSCQKCLRV-RHHTFFEMLGNFSFG-KKEAIEYAWEFVT.VL-KLYVSV-PSSEIYVD-YLEIWNLVFMQ-PHPNIDTGMGLERIASVLQG
-
+ S  A  H  E  I  R  E  L  F  L  S  F  F  E  K  K  G  H  T  R  V  K  A  P  L  V  P  -  -  -  -  -  -  -  -  T  L  L  F  V  N  A  G  M  V  P  F  K  N  V  F  L  -  Y  K  R  A  T  S  C  Q  K  C  L  R  V  -  R  H  H  T  F  F  E  M  L  G  N  F  S  F  G  -  K  K  E  A  I  E  Y  A  W  E  F  V  T  V  L  -  K  L  Y  V  S  V  -  P  S  S  E  I  Y  V  D  -  Y  L  E  I  W  N  L  V  F  M  Q  -  P  H  P  N  I  D  T  G  M  G  L  E  R  I  A  S  V  L  Q  G 
 > ala_bact_3hxv_E_coli
-STAEIRQAFLDFFHSKGHQVVASS.LVP-TLLFTNAGMNQFKDVFL-YSRATTSQRCVRA-RHHTFFEMLGNFSFG-KHDAIQFAWELLT...WF-RLWVTV-PCTEIFYD-YIEIWNIVFMQ-PKPSVDTGMGLERIAAVLQH
-
+ S  T  A  E  I  R  Q  A  F  L  D  F  F  H  S  K  G  H  Q  V  V  A  S  S  L  V  P  -  -  -  -  -  -  -  -  T  L  L  F  T  N  A  G  M  N  Q  F  K  D  V  F  L  -  Y  S  R  A  T  T  S  Q  R  C  V  R  A  -  R  H  H  T  F  F  E  M  L  G  N  F  S  F  G  -  K  H  D  A  I  Q  F  A  W  E  L  L  T  W  F  -  R  L  W  V  T  V  -  P  C  T  E  I  F  Y  D  -  Y  I  E  I  W  N  I  V  F  M  Q  -  P  K  P  S  V  D  T  G  M  G  L  E  R  I  A  A  V  L  Q  H 
 > ala_bact_A_asiaticus
-CSSNIRQKFVDFFKQKDHHHVKA.PIVN-TLLFTNAGMNQFKDFFL-YQRAISTQPCLRV-YHHTMFEMLGNWSFG-KEEAIACAWELLT.VY-RLYVTV-PCSEIHVD-VIEIWNLVFIQ-PAKHVDTGMGFERLTMVLQG
-
+ C  S  S  N  I  R  Q  K  F  V  D  F  F  K  Q  K  D  H  H  H  V  K  A  P  I  V  N  -  -  -  -  -  -  -  -  T  L  L  F  T  N  A  G  M  N  Q  F  K  D  F  F  L  -  Y  Q  R  A  I  S  T  Q  P  C  L  R  V  -  Y  H  H  T  M  F  E  M  L  G  N  W  S  F  G  -  K  E  E  A  I  A  C  A  W  E  L  L  T  V  Y  -  R  L  Y  V  T  V  -  P  C  S  E  I  H  V  D  -  V  I  E  I  W  N  L  V  F  I  Q  -  P  A  K  H  V  D  T  G  M  G  F  E  R  L  T  M  V  L  Q  G 
 > ala_bact_B_burgdorferi
-TLNKLRKKYIDFFKSKKHFEIM.KSLVP-TVLFNTAGMQPLIPYLL-GDMLVNVQKCLRT-SHLTFFEMLGNWSLG-KEYSVKCSFEFLT...YL-SLYVSV-PDTEIYVD-YFEIWNNVFMQ-GRKCVDTGMGLERTIAFLQG
-
+ T  L  N  K  L  R  K  K  Y  I  D  F  F  K  S  K  K  H  F  E  I  M  K  S  L  V  P  -  -  -  -  -  -  -  -  T  V  L  F  N  T  A  G  M  Q  P  L  I  P  Y  L  L  -  G  D  M  L  V  N  V  Q  K  C  L  R  T  -  S  H  L  T  F  F  E  M  L  G  N  W  S  L  G  -  K  E  Y  S  V  K  C  S  F  E  F  L  T  Y  L  -  S  L  Y  V  S  V  -  P  D  T  E  I  Y  V  D  -  Y  F  E  I  W  N  N  V  F  M  Q  -  G  R  K  C  V  D  T  G  M  G  L  E  R  T  I  A  F  L  Q  G 
 > ala_bact_B_fragilis
-TAKETRDSFKNFFESKGHQIVP.APMVI-TLMFTNAGMNQFKDIIL-YHRVADSQKCLRV-YHHTMFEMLGNWSFG-KKEAISWAWEYLV.VL-HLYATV-PCSEIHID-VIEIWNLVFMQ-PAKVIDTGMGFERLCMALQG
-
+ T  A  K  E  T  R  D  S  F  K  N  F  F  E  S  K  G  H  Q  I  V  P  A  P  M  V  I  -  -  -  -  -  -  -  -  T  L  M  F  T  N  A  G  M  N  Q  F  K  D  I  I  L  -  Y  H  R  V  A  D  S  Q  K  C  L  R  V  -  Y  H  H  T  M  F  E  M  L  G  N  W  S  F  G  -  K  K  E  A  I  S  W  A  W  E  Y  L  V  V  L  -  H  L  Y  A  T  V  -  P  C  S  E  I  H  I  D  -  V  I  E  I  W  N  L  V  F  M  Q  -  P  A  K  V  I  D  T  G  M  G  F  E  R  L  C  M  A  L  Q  G 
 > ala_bact_B_licheniformis
-TSAQVRQMFLDFFKEKGHAVEP.ASLIP-SLLWINSGVATLKKYFD-NPRICNAQKSIRT-RHHTFFEMLGNFSIG-KEEAIEWAWEFLT...WI-RLSVTV-PNTEIFYD-YLEVWNLVFSE-PKKNIDTGMGLERMVSVIQD
-
+ T  S  A  Q  V  R  Q  M  F  L  D  F  F  K  E  K  G  H  A  V  E  P  A  S  L  I  P  -  -  -  -  -  -  -  -  S  L  L  W  I  N  S  G  V  A  T  L  K  K  Y  F  D  -  N  P  R  I  C  N  A  Q  K  S  I  R  T  -  R  H  H  T  F  F  E  M  L  G  N  F  S  I  G  -  K  E  E  A  I  E  W  A  W  E  F  L  T  W  I  -  R  L  S  V  T  V  -  P  N  T  E  I  F  Y  D  -  Y  L  E  V  W  N  L  V  F  S  E  -  P  K  K  N  I  D  T  G  M  G  L  E  R  M  V  S  V  I  Q  D 
 > ala_bact_B_thailandensis
-KAAEIREKFLKFFESKGHTIVRSS.LVP-TLLFTNSGMVQFKDVFL-YSRATTAQRSVRA-RHHTFFEMLGNFSFG-KRDAIHYAWELLT.VY-KLWVTV-PCSEIFYD-IEIWNLVFMQ-PKPCVDTGMGLERIAAVLQH
-
+ K  A  A  E  I  R  E  K  F  L  K  F  F  E  S  K  G  H  T  I  V  R  S  S  L  V  P  -  -  -  -  -  -  -  -  T  L  L  F  T  N  S  G  M  V  Q  F  K  D  V  F  L  -  Y  S  R  A  T  T  A  Q  R  S  V  R  A  -  R  H  H  T  F  F  E  M  L  G  N  F  S  F  G  -  K  R  D  A  I  H  Y  A  W  E  L  L  T  V  Y  -  K  L  W  V  T  V  -  P  C  S  E  I  F  Y  D  -  I  -  E  I  W  N  L  V  F  M  Q  -  P  K  P  C  V  D  T  G  M  G  L  E  R  I  A  A  V  L  Q  H 
 > ala_bact_C_aggregans
-TAAQIRETFISFFKRHGHTHVPSS.LVV-TLLFANSGMVQFKDVFL-YTRAVTAQKCLRV-RHHTFFEMLGNFSFG-KAEAIRLAWKLLTE.F-RLWFTV-PCSEITIY-YVEIWNNVFMQ-PRPSVDTGMGLERMAMVMQG
-
+ T  A  A  Q  I  R  E  T  F  I  S  F  F  K  R  H  G  H  T  H  V  P  S  S  L  V  V  -  -  -  -  -  -  -  -  T  L  L  F  A  N  S  G  M  V  Q  F  K  D  V  F  L  -  Y  T  R  A  V  T  A  Q  K  C  L  R  V  -  R  H  H  T  F  F  E  M  L  G  N  F  S  F  G  -  K  A  E  A  I  R  L  A  W  K  L  L  T  E  F  -  R  L  W  F  T  V  -  P  C  S  E  I  T  I  Y  -  Y  V  E  I  W  N  N  V  F  M  Q  -  P  R  P  S  V  D  T  G  M  G  L  E  R  M  A  M  V  M  Q  G 
 > ala_bact_C_thermalis
-SGNEIRQKFLEFYSQRGHQILA.ASLVP-TVLLTIAGMLPFKPIFL-FKRATSSQKCIRT-RHHTFFEMLGNFSFG-KEQAIAWGWEIST.VF-RLVASV-PCSEIYYD-I-EFYNLVFMQ-AKKNIDTGMGLERMAQILQK
-
+ S  G  N  E  I  R  Q  K  F  L  E  F  Y  S  Q  R  G  H  Q  I  L  A  A  S  L  V  P  -  -  -  -  -  -  -  -  T  V  L  L  T  I  A  G  M  L  P  F  K  P  I  F  L  -  F  K  R  A  T  S  S  Q  K  C  I  R  T  -  R  H  H  T  F  F  E  M  L  G  N  F  S  F  G  -  K  E  Q  A  I  A  W  G  W  E  I  S  T  V  F  -  R  L  V  A  S  V  -  P  C  S  E  I  Y  Y  D  -  I  -  E  F  Y  N  L  V  F  M  Q  -  A  K  K  N  I  D  T  G  M  G  L  E  R  M  A  Q  I  L  Q  K 
 > ala_bact_D_radiodurans
-TTAEIRERYLYFFETKGHLRLP.HSTIA-TTLFTVAGMQPFKENFM-SKRVTTAQKCVRV-RHLSLFEMMGNFSFG-KRDAIHWAWEFLT...WM-KMYVTV-PCSEIYYD-FLEVWNLVFPQ-PFKNIDTGMGLERVASVVQD
-
+ T  T  A  E  I  R  E  R  Y  L  Y  F  F  E  T  K  G  H  L  R  L  P  H  S  T  I  A  -  -  -  -  -  -  -  -  T  T  L  F  T  V  A  G  M  Q  P  F  K  E  N  F  M  -  S  K  R  V  T  T  A  Q  K  C  V  R  V  -  R  H  L  S  L  F  E  M  M  G  N  F  S  F  G  -  K  R  D  A  I  H  W  A  W  E  F  L  T  W  M  -  K  M  Y  V  T  V  -  P  C  S  E  I  Y  Y  D  -  F  L  E  V  W  N  L  V  F  P  Q  -  P  F  K  N  I  D  T  G  M  G  L  E  R  V  A  S  V  V  Q  D 
 > ala_bact_E_faecalis
-TSSQVRQMYLDFFKSKGHSVEP.ASLVP-TLLWINSGVATLKKYFD-NPRITNAQKSIRT-RHHTMFEMLGNFSIG-KNEAIHWAWEFLT...WL-KLYVTV-PDTEIFYD-YLEIWNLVFSE-PHKNIDTGMGLERVVSIIQD
-
+ T  S  S  Q  V  R  Q  M  Y  L  D  F  F  K  S  K  G  H  S  V  E  P  A  S  L  V  P  -  -  -  -  -  -  -  -  T  L  L  W  I  N  S  G  V  A  T  L  K  K  Y  F  D  -  N  P  R  I  T  N  A  Q  K  S  I  R  T  -  R  H  H  T  M  F  E  M  L  G  N  F  S  I  G  -  K  N  E  A  I  H  W  A  W  E  F  L  T  W  L  -  K  L  Y  V  T  V  -  P  D  T  E  I  F  Y  D  -  Y  L  E  I  W  N  L  V  F  S  E  -  P  H  K  N  I  D  T  G  M  G  L  E  R  V  V  S  I  I  Q  D 
 > ala_bact_G_obscuriglobus
-SSSEIRQQFVDFFCKKH.HTNIAS.PVVP-TLLFANAGMNQFKPYFL-VVRVANTQKCIRA-YHHTFFEMLGNWSFG-KKDAIAWAWELLT.VW-RLHVTV-PCTEIHID-VIEIWNLVFIQ-PAQHVDTGMGFERICSVVQG
-
+ S  S  S  E  I  R  Q  Q  F  V  D  F  F  C  K  K  H  H  T  N  I  A  S  P  V  V  P  -  -  -  -  -  -  -  -  T  L  L  F  A  N  A  G  M  N  Q  F  K  P  Y  F  L  -  V  V  R  V  A  N  T  Q  K  C  I  R  A  -  Y  H  H  T  F  F  E  M  L  G  N  W  S  F  G  -  K  K  D  A  I  A  W  A  W  E  L  L  T  V  W  -  R  L  H  V  T  V  -  P  C  T  E  I  H  I  D  -  V  I  E  I  W  N  L  V  F  I  Q  -  P  A  Q  H  V  D  T  G  M  G  F  E  R  I  C  S  V  V  Q  G 
 > ala_bact_G_stearothermophilus
-TSAEVRRMFLEFFQEKGHTVEP.ASLIP-SLLWINSGVATLKKYFD-NPRICNAQKSIRT-RHHTFFEMLGNFSIG-KREAIHWAWEFLT...WI-RLSVTV-PNTEIFYD-L-EVWNLVFSQ-PKKNIDTGMGLERMCSILQD
-
+ T  S  A  E  V  R  R  M  F  L  E  F  F  Q  E  K  G  H  T  V  E  P  A  S  L  I  P  -  -  -  -  -  -  -  -  S  L  L  W  I  N  S  G  V  A  T  L  K  K  Y  F  D  -  N  P  R  I  C  N  A  Q  K  S  I  R  T  -  R  H  H  T  F  F  E  M  L  G  N  F  S  I  G  -  K  R  E  A  I  H  W  A  W  E  F  L  T  W  I  -  R  L  S  V  T  V  -  P  N  T  E  I  F  Y  D  -  L  -  E  V  W  N  L  V  F  S  Q  -  P  K  K  N  I  D  T  G  M  G  L  E  R  M  C  S  I  L  Q  D 
 > ala_bact_H_aurantiacus
-KGSELRQRFLDYFARQGHAVVPSS.LIP-TLLFTVAGMVQFNDVFL-YSRAVSSQKCLRI-RHHTFFEMLGNFSFG-KKDAIRFAWEFLT.EI-RMWVSI-PCSEIHYY-YMEIWNLVFMQ-PKPSIDTGMSLERLAIVKQG
-
+ K  G  S  E  L  R  Q  R  F  L  D  Y  F  A  R  Q  G  H  A  V  V  P  S  S  L  I  P  -  -  -  -  -  -  -  -  T  L  L  F  T  V  A  G  M  V  Q  F  N  D  V  F  L  -  Y  S  R  A  V  S  S  Q  K  C  L  R  I  -  R  H  H  T  F  F  E  M  L  G  N  F  S  F  G  -  K  K  D  A  I  R  F  A  W  E  F  L  T  E  I  -  R  M  W  V  S  I  -  P  C  S  E  I  H  Y  Y  -  Y  M  E  I  W  N  L  V  F  M  Q  -  P  K  P  S  I  D  T  G  M  S  L  E  R  L  A  I  V  K  Q  G 
 > ala_bact_P_mikurensis
-SAKDVRQQFLDFFAQKH.HKVVP.APVVP-TLLFANAGMNPFKPYFL-DKRVCDTQKCIRA-YHHTFFEMLGNWSFG-KKEAIRWAWELLV.VW-RLHATY-PCSELHYD-VIEIWNLVFIQ-PAKHVDTGMGFERIVRVLQG
-
+ S  A  K  D  V  R  Q  Q  F  L  D  F  F  A  Q  K  H  H  K  V  V  P  A  P  V  V  P  -  -  -  -  -  -  -  -  T  L  L  F  A  N  A  G  M  N  P  F  K  P  Y  F  L  -  D  K  R  V  C  D  T  Q  K  C  I  R  A  -  Y  H  H  T  F  F  E  M  L  G  N  W  S  F  G  -  K  K  E  A  I  R  W  A  W  E  L  L  V  V  W  -  R  L  H  A  T  Y  -  P  C  S  E  L  H  Y  D  -  V  I  E  I  W  N  L  V  F  I  Q  -  P  A  K  H  V  D  T  G  M  G  F  E  R  I  V  R  V  L  Q  G 
 > ala_bact_R_palustris
-GVNEIRSTFLNYFAKNGHEIVSS.PLVP-TLMFTNAGMVQFKNVFT-YQRATTSQKCVRA-RHLTFFEMLGNFSFG-KERAIELAWNLIT.DF-KLLVTV-PCSEIFID-LEFWNLVFMQ-PRPSIDTGMGLERMASILQG
-
+ G  V  N  E  I  R  S  T  F  L  N  Y  F  A  K  N  G  H  E  I  V  S  S  P  L  V  P  -  -  -  -  -  -  -  -  T  L  M  F  T  N  A  G  M  V  Q  F  K  N  V  F  T  -  Y  Q  R  A  T  T  S  Q  K  C  V  R  A  -  R  H  L  T  F  F  E  M  L  G  N  F  S  F  G  -  K  E  R  A  I  E  L  A  W  N  L  I  T  D  F  -  K  L  L  V  T  V  -  P  C  S  E  I  F  I  D  -  -  L  E  F  W  N  L  V  F  M  Q  -  P  R  P  S  I  D  T  G  M  G  L  E  R  M  A  S  I  L  Q  G 
 > ala_bact_S_elongatus
-SGDQIRETFLKFFEGKGHRRLP.ASLIP-TVLLTIAGMLPFKPIFL-VPRATTSQKCIRT-RHHTFFEMLGNFSFG-KKEAIAFAWELVT.VF-RLAVSV-PCSEIYY-FIEVYNLVFMQ-EKQNIDTGMGLERMAQVLQG
-
+ S  G  D  Q  I  R  E  T  F  L  K  F  F  E  G  K  G  H  R  R  L  P  A  S  L  I  P  -  -  -  -  -  -  -  -  T  V  L  L  T  I  A  G  M  L  P  F  K  P  I  F  L  -  V  P  R  A  T  T  S  Q  K  C  I  R  T  -  R  H  H  T  F  F  E  M  L  G  N  F  S  F  G  -  K  K  E  A  I  A  F  A  W  E  L  V  T  V  F  -  R  L  A  V  S  V  -  P  C  S  E  I  Y  Y  -  -  F  I  E  V  Y  N  L  V  F  M  Q  -  E  K  Q  N  I  D  T  G  M  G  L  E  R  M  A  Q  V  L  Q  G 
 > ala_bact_S_haemolyticus
-KASEIRQKYIDFFVEKGHMVEP.APLVP-SLLWINSGVATLKKYFD-KPRIVNSQKAIRT-RHHTFFEMLGNFSIG-KKEAIHFAWEFLT...WM-KLYVTI-PNTEIFYD-YLEVWNLVFSE-PNKNIDTGMGLERMASVSQN
-
+ K  A  S  E  I  R  Q  K  Y  I  D  F  F  V  E  K  G  H  M  V  E  P  A  P  L  V  P  -  -  -  -  -  -  -  -  S  L  L  W  I  N  S  G  V  A  T  L  K  K  Y  F  D  -  K  P  R  I  V  N  S  Q  K  A  I  R  T  -  R  H  H  T  F  F  E  M  L  G  N  F  S  I  G  -  K  K  E  A  I  H  F  A  W  E  F  L  T  W  M  -  K  L  Y  V  T  I  -  P  N  T  E  I  F  Y  D  -  Y  L  E  V  W  N  L  V  F  S  E  -  P  N  K  N  I  D  T  G  M  G  L  E  R  M  A  S  V  S  Q  N 
 > ala_bact_T_thermophilus
-RTAEIREKFLSFFEGKGHLRLP.FSLIP-SLLFTSAGMAPLKPYFL-WRRVTTCQECLRV-RHNTYFEMLGNFSFG-KKEAILWAWEFLT.HL-RLWVTV-PCSEIFYD-FVEIWNLVFTQ-PQKNIDTGMGLYRVAAILQD
-
+ R  T  A  E  I  R  E  K  F  L  S  F  F  E  G  K  G  H  L  R  L  P  F  S  L  I  P  -  -  -  -  -  -  -  -  S  L  L  F  T  S  A  G  M  A  P  L  K  P  Y  F  L  -  W  R  R  V  T  T  C  Q  E  C  L  R  V  -  R  H  N  T  Y  F  E  M  L  G  N  F  S  F  G  -  K  K  E  A  I  L  W  A  W  E  F  L  T  H  L  -  R  L  W  V  T  V  -  P  C  S  E  I  F  Y  D  -  F  V  E  I  W  N  L  V  F  T  Q  -  P  Q  K  N  I  D  T  G  M  G  L  Y  R  V  A  A  I  L  Q  D 
 > asn_bact_6pqh_E_anophelis
-VRHAVSFAIHSFFNDRQFFYLNTPVITG-MFGVT-KTNLTVSGQLEGETAAM-LGRIYTFGPTFRA-RHLAEFWMVEPEVAF-LEDNIDLAEDFLKYV-CPVVLF-AAMDVLFPGI.EIIGGSQRE-SVPHSGFGLGLERLVLFVTG
-
+ V  R  H  A  V  S  F  A  I  H  S  F  F  N  D  R  Q  F  F  Y  L  N  T  P  V  I  T  G  -  M  F  G  V  T  -  K  T  N  L  T  V  S  G  Q  L  E  G  E  T  A  A  M  -  L  G  R  I  Y  T  F  G  P  T  F  R  A  -  R  H  L  A  E  F  W  M  V  E  P  E  V  A  F  -  L  E  D  N  I  D  L  A  E  D  F  L  K  Y  V  -  C  P  V  V  L  F  -  A  A  M  D  V  L  F  P  -  G  I  E  I  I  G  G  S  Q  R  E  -  S  V  P  H  S  G  F  G  L  G  L  E  R  L  V  L  F  V  T  G 
 > asn_bact_3m4p_E_histolytica
-LRSEIQWYFRKYYHDNHFTEIQPPTIVK-LFKLQ-PAYLTQSSQLYLESVIA-LGKSFCMLSSYRA-RHLAEYLHLEAELPF-FEDLLNHLEDLVCTV-CPIFMI-ESVDLLMPGV.EIVGGSMRI-SCPHGGYGLGVERLVMWLLG
-
+ L  R  S  E  I  Q  W  Y  F  R  K  Y  Y  H  D  N  H  F  T  E  I  Q  P  P  T  I  V  K  -  L  F  K  L  Q  -  P  A  Y  L  T  Q  S  S  Q  L  Y  L  E  S  V  I  A  -  L  G  K  S  F  C  M  L  S  S  Y  R  A  -  R  H  L  A  E  Y  L  H  L  E  A  E  L  P  F  -  F  E  D  L  L  N  H  L  E  D  L  V  C  T  V  -  C  P  I  F  M  I  -  E  S  V  D  L  L  M  P  -  G  V  E  I  V  G  G  S  M  R  I  -  S  C  P  H  G  G  Y  G  L  G  V  E  R  L  V  M  W  L  L  G 
 > asn_bact_5zg8_T_thermophilus
-IRDELERAIHEFFGERGFLRFDAPILTP-LFEVE-KAYLSQSGQLYAEAGAL-FAKVYTFGPTF-RHLLEFWMVEPEVAF-HEENMALQEELVSFL-RPVFVE-LNDDLLAP-GY.EIIGGSQRI-SVPHSGFGLGLERTVAWICG
-
+ I  R  D  E  L  E  R  A  I  H  E  F  F  G  E  R  G  F  L  R  F  D  A  P  I  L  T  P  -  L  F  E  V  E  -  K  A  Y  L  S  Q  S  G  Q  L  Y  A  E  A  G  A  L  -  F  A  K  V  Y  T  F  G  P  T  F  -  -  -  R  H  L  L  E  F  W  M  V  E  P  E  V  A  F  -  H  E  E  N  M  A  L  Q  E  E  L  V  S  F  L  -  R  P  V  F  V  E  -  L  N  D  D  L  L  A  P  -  G  Y  E  I  I  G  G  S  Q  R  I  -  S  V  P  H  S  G  F  G  L  G  L  E  R  T  V  A  W  I  C  G 
 > asn_bact_T_thermophilus
-IRDELERAIHEFFGERGFLRFDAPILTP-LFEVE-KAYLSQSGQLYAEAGAL-FAKVYTFGPTFRA-RHLLEFWMVEPEVAF-HEENMALQEELVSFL-RPVFVE-LNDDLLAP-GY.EIIGGSQRI-SVPHSGFGLGLERTVAWICG
-
+ I  R  D  E  L  E  R  A  I  H  E  F  F  G  E  R  G  F  L  R  F  D  A  P  I  L  T  P  -  L  F  E  V  E  -  K  A  Y  L  S  Q  S  G  Q  L  Y  A  E  A  G  A  L  -  F  A  K  V  Y  T  F  G  P  T  F  R  A  -  R  H  L  L  E  F  W  M  V  E  P  E  V  A  F  -  H  E  E  N  M  A  L  Q  E  E  L  V  S  F  L  -  R  P  V  F  V  E  -  L  N  D  D  L  L  A  P  -  G  Y  E  I  I  G  G  S  Q  R  I  -  S  V  P  H  S  G  F  G  L  G  L  E  R  T  V  A  W  I  C  G 
 > asn_bact_A_asiaticus
-IRHAISYAIHQFFHEQGFVYLHTPIITA-MFSVT-KTSLTVSGQLEAEAAAL-LAEVYTFGPTFRA-RHLAEFWMVEPEMAF-LADNIALAERFLKYV-KPVIIT-AAMDILFPGI.EIIGGSQRE-TVPHSGFGLGLERLVQFVTG
-
+ I  R  H  A  I  S  Y  A  I  H  Q  F  F  H  E  Q  G  F  V  Y  L  H  T  P  I  I  T  A  -  M  F  S  V  T  -  K  T  S  L  T  V  S  G  Q  L  E  A  E  A  A  A  L  -  L  A  E  V  Y  T  F  G  P  T  F  R  A  -  R  H  L  A  E  F  W  M  V  E  P  E  M  A  F  -  L  A  D  N  I  A  L  A  E  R  F  L  K  Y  V  -  K  P  V  I  I  T  -  A  A  M  D  I  L  F  P  -  G  I  E  I  I  G  G  S  Q  R  E  -  T  V  P  H  S  G  F  G  L  G  L  E  R  L  V  Q  F  V  T  G 
 > asn_bact_B_burgdorferi
-VRNKISYKIHEYFQKNGFFYINTPIITS-MFRVS-EAFLSVTGQLHGEAYAM-LSKIYTFGPTFRA-RHASEFWMIEPEMAF-LNDNIALAEDLLKYL-KPVVVI-KGMDILVP-I.EIIGGSERE-SAPHSGFGLGLERLVQYSTG
-
+ V  R  N  K  I  S  Y  K  I  H  E  Y  F  Q  K  N  G  F  F  Y  I  N  T  P  I  I  T  S  -  M  F  R  V  S  -  E  A  F  L  S  V  T  G  Q  L  H  G  E  A  Y  A  M  -  L  S  K  I  Y  T  F  G  P  T  F  R  A  -  R  H  A  S  E  F  W  M  I  E  P  E  M  A  F  -  L  N  D  N  I  A  L  A  E  D  L  L  K  Y  L  -  K  P  V  V  V  I  -  K  G  M  D  I  L  V  P  -  -  I  E  I  I  G  G  S  E  R  E  -  S  A  P  H  S  G  F  G  L  G  L  E  R  L  V  Q  Y  S  T  G 
 > asn_bact_B_fragilis
-IRHNMAIAIHKFFHEKGFFYFHTPIITA-MFQVT-QASLTVSGQLEGELAAT-LGAIYTFGPTFRA-RHLAEFWMIEPEVAF-IQENMDLAEEFIKYC-RPVILT-RAMDVLFP-I.EIIGGSERE-TCPHSGFGLGFERLLLFVTG
-
+ I  R  H  N  M  A  I  A  I  H  K  F  F  H  E  K  G  F  F  Y  F  H  T  P  I  I  T  A  -  M  F  Q  V  T  -  Q  A  S  L  T  V  S  G  Q  L  E  G  E  L  A  A  T  -  L  G  A  I  Y  T  F  G  P  T  F  R  A  -  R  H  L  A  E  F  W  M  I  E  P  E  V  A  F  -  I  Q  E  N  M  D  L  A  E  E  F  I  K  Y  C  -  R  P  V  I  L  T  -  R  A  M  D  V  L  F  P  -  -  I  E  I  I  G  G  S  E  R  E  -  T  C  P  H  S  G  F  G  L  G  F  E  R  L  L  L  F  V  T  G 
 > asn_bact_C_aggregans
-IRAEVIAAAQEWLNEQGFVRFDTPILTA-LFATD-KAYLAQTGQLYVEAGMM-FGKVYCFGPTFRA-RHLTEFWMIEPEVAF-HEDNMRLQEQFVSAI-RPVFVE-LCADLLAP-GY.EIIGGSQRI-TVPHSGFGMGIERVVAWITG
-
+ I  R  A  E  V  I  A  A  A  Q  E  W  L  N  E  Q  G  F  V  R  F  D  T  P  I  L  T  A  -  L  F  A  T  D  -  K  A  Y  L  A  Q  T  G  Q  L  Y  V  E  A  G  M  M  -  F  G  K  V  Y  C  F  G  P  T  F  R  A  -  R  H  L  T  E  F  W  M  I  E  P  E  V  A  F  -  H  E  D  N  M  R  L  Q  E  Q  F  V  S  A  I  -  R  P  V  F  V  E  -  L  C  A  D  L  L  A  P  -  G  Y  E  I  I  G  G  S  Q  R  I  -  T  V  P  H  S  G  F  G  M  G  I  E  R  V  V  A  W  I  T  G 
 > asn_bact_C_thermalis
-VRNACATAIHQFFQERSFLWVHTPVITR-LFTVT-QAFLTVSGQLEAEVMAM-FSNVYTFGPTFRA-RHLAEFWMVEPEMAF-LVGNMDLAEAFLKHI-KPVIVT-RAMDVLAP-I.EIIGGSQRE-TVPHAGFGLGFERLVQFMTG
-
+ V  R  N  A  C  A  T  A  I  H  Q  F  F  Q  E  R  S  F  L  W  V  H  T  P  V  I  T  R  -  L  F  T  V  T  -  Q  A  F  L  T  V  S  G  Q  L  E  A  E  V  M  A  M  -  F  S  N  V  Y  T  F  G  P  T  F  R  A  -  R  H  L  A  E  F  W  M  V  E  P  E  M  A  F  -  L  V  G  N  M  D  L  A  E  A  F  L  K  H  I  -  K  P  V  I  V  T  -  R  A  M  D  V  L  A  P  -  -  I  E  I  I  G  G  S  Q  R  E  -  T  V  P  H  A  G  F  G  L  G  F  E  R  L  V  Q  F  M  T  G 
 > asn_bact_D_radiodurans
-VRDCVQRGIVEFFHGEGFVRFDAPFFTP-LFEID-KAYLSQTGQLHAEAGAF-LRQGLHFGPTFRA-RHLLEFWMVEPEVAP-HAENMALQERMVSHL-RPVMVE-LCDDMIAP-GY.EIIGGSERI-SMPHAGYGMGLERFIAWMTG
-
+ V  R  D  C  V  Q  R  G  I  V  E  F  F  H  G  E  G  F  V  R  F  D  A  P  F  F  T  P  -  L  F  E  I  D  -  K  A  Y  L  S  Q  T  G  Q  L  H  A  E  A  G  A  F  -  L  R  Q  G  L  H  F  G  P  T  F  R  A  -  R  H  L  L  E  F  W  M  V  E  P  E  V  A  P  -  H  A  E  N  M  A  L  Q  E  R  M  V  S  H  L  -  R  P  V  M  V  E  -  L  C  D  D  M  I  A  P  -  G  Y  E  I  I  G  G  S  E  R  I  -  S  M  P  H  A  G  Y  G  M  G  L  E  R  F  I  A  W  M  T  G 
 > asn_bact_E_coli
-VRHTLAQALHRFFNEQGFFWVSTPLITA-MFRVS-ESFLTVSGQLNGETYAC-LSKIYTFGPTFRA-RHLAEFWMLEPEVAF-LNDIAGLAEAMLKYV-APVVVK-AAMDVLAPGI.EIIGGSQRE-TVPHSGFGLGFERLIAYVTG
-
+ V  R  H  T  L  A  Q  A  L  H  R  F  F  N  E  Q  G  F  F  W  V  S  T  P  L  I  T  A  -  M  F  R  V  S  -  E  S  F  L  T  V  S  G  Q  L  N  G  E  T  Y  A  C  -  L  S  K  I  Y  T  F  G  P  T  F  R  A  -  R  H  L  A  E  F  W  M  L  E  P  E  V  A  F  -  L  N  D  I  A  G  L  A  E  A  M  L  K  Y  V  -  A  P  V  V  V  K  -  A  A  M  D  V  L  A  P  -  G  I  E  I  I  G  G  S  Q  R  E  -  T  V  P  H  S  G  F  G  L  G  F  E  R  L  I  A  Y  V  T  G 
 > asn_bact_G_obscuriglobus
-VRHQVSISIHQFFHERGFYYVHTPVITA-MFRVS-PAYLTVSGQLQGEAFAC-LGKIYTFGPTFRA-RHLAEFWMIEPEMAF-LTDNMDLAEAFLKRI-CPVILY-RAMDVLVPGV.EIIGGSQRE-TVPHSGFGLGLERTILFLSG
-
+ V  R  H  Q  V  S  I  S  I  H  Q  F  F  H  E  R  G  F  Y  Y  V  H  T  P  V  I  T  A  -  M  F  R  V  S  -  P  A  Y  L  T  V  S  G  Q  L  Q  G  E  A  F  A  C  -  L  G  K  I  Y  T  F  G  P  T  F  R  A  -  R  H  L  A  E  F  W  M  I  E  P  E  M  A  F  -  L  T  D  N  M  D  L  A  E  A  F  L  K  R  I  -  C  P  V  I  L  Y  -  R  A  M  D  V  L  V  P  -  G  V  E  I  I  G  G  S  Q  R  E  -  T  V  P  H  S  G  F  G  L  G  L  E  R  T  I  L  F  L  S  G 
 > asn_bact_H_aurantiacus
-IRAQVIAAAQEYLNSEHFVRYDSPILTA-LFATE-NAYLAQTGQLYVESGMA-FGRVYCFGPTFRA-RHLTEFWMIEPEFAF-QDDNMELQENFVSYI-KPLFIY-RCADLIAP-GY.EIIGGSQRI-SVPHSGFGMGIERCVAWLAG
-
+ I  R  A  Q  V  I  A  A  A  Q  E  Y  L  N  S  E  H  F  V  R  Y  D  S  P  I  L  T  A  -  L  F  A  T  E  -  N  A  Y  L  A  Q  T  G  Q  L  Y  V  E  S  G  M  A  -  F  G  R  V  Y  C  F  G  P  T  F  R  A  -  R  H  L  T  E  F  W  M  I  E  P  E  F  A  F  -  Q  D  D  N  M  E  L  Q  E  N  F  V  S  Y  I  -  K  P  L  F  I  Y  -  R  C  A  D  L  I  A  P  -  G  Y  E  I  I  G  G  S  Q  R  I  -  S  V  P  H  S  G  F  G  M  G  I  E  R  C  V  A  W  L  A  G 
 > asn_bact_M_mobile
-IRSTLALEIHKFYNERGYLWVSSPIITG-SFVVD-KATLGVTGQLHAEAYAL-FSKVYTFAPTFRA-KHAAEFWMMEPEVAF-LKDLIKMSDDMLRQV-GPVAVI-AAYDLLVPGI.EVIGGSKRE-QASSAGFGLGFERLIMYITG
-
+ I  R  S  T  L  A  L  E  I  H  K  F  Y  N  E  R  G  Y  L  W  V  S  S  P  I  I  T  G  -  S  F  V  V  D  -  K  A  T  L  G  V  T  G  Q  L  H  A  E  A  Y  A  L  -  F  S  K  V  Y  T  F  A  P  T  F  R  A  -  K  H  A  A  E  F  W  M  M  E  P  E  V  A  F  -  L  K  D  L  I  K  M  S  D  D  M  L  R  Q  V  -  G  P  V  A  V  I  -  A  A  Y  D  L  L  V  P  -  G  I  E  V  I  G  G  S  K  R  E  -  Q  A  S  S  A  G  F  G  L  G  F  E  R  L  I  M  Y  I  T  G 
 > asn_bact_S_aureus
-IRNEVIRATYEFFNKDGFTKVDPPILTA-LFHTK-DAFLSQSGQLYLEAAAM-HGKVFSFGPTFRA-RHLIEFWMIEGEMAF-HAESLEIQEQYVTHV-LPVFIT-LCADLIAP-GY.EIIGGSERV-SVPHCGFGLGLERTVAWISG
-
+ I  R  N  E  V  I  R  A  T  Y  E  F  F  N  K  D  G  F  T  K  V  D  P  P  I  L  T  A  -  L  F  H  T  K  -  D  A  F  L  S  Q  S  G  Q  L  Y  L  E  A  A  A  M  -  H  G  K  V  F  S  F  G  P  T  F  R  A  -  R  H  L  I  E  F  W  M  I  E  G  E  M  A  F  -  H  A  E  S  L  E  I  Q  E  Q  Y  V  T  H  V  -  L  P  V  F  I  T  -  L  C  A  D  L  I  A  P  -  G  Y  E  I  I  G  G  S  E  R  V  -  S  V  P  H  C  G  F  G  L  G  L  E  R  T  V  A  W  I  S  G 
 > asn_bact_S_elongatus
-VRNAAATAIHDFFQERGFLWVHTPIITA-LFTVT-RAYLTVSGQLEAEIMAL-FSNVYTFGPTFRA-RHLAEFWMVEPEMAF-LGGDMDLAEAFLKFV-KPLIVY-AAMDVLAPGI.EIIGGSQRE-SVPHAGFGLGFERLVQFITG
-
+ V  R  N  A  A  A  T  A  I  H  D  F  F  Q  E  R  G  F  L  W  V  H  T  P  I  I  T  A  -  L  F  T  V  T  -  R  A  Y  L  T  V  S  G  Q  L  E  A  E  I  M  A  L  -  F  S  N  V  Y  T  F  G  P  T  F  R  A  -  R  H  L  A  E  F  W  M  V  E  P  E  M  A  F  -  L  G  G  D  M  D  L  A  E  A  F  L  K  F  V  -  K  P  L  I  V  Y  -  A  A  M  D  V  L  A  P  -  G  I  E  I  I  G  G  S  Q  R  E  -  S  V  P  H  A  G  F  G  L  G  F  E  R  L  V  Q  F  I  T  G 
 > asp_bact_1c0a_E_coli
-TRAKITSLVRRFMDDHGFLDIETPMLTK-DYLVP-FYALPQSPQLFKQLLMM-FDRYYQIVKCFRD-DRQPEFTQIDVETSF-APQVREVMEALVRHL-APLWVI-NAYDMVINGYEVGGGSVRI-TPPHAGLAFGLDRLTMLLTG
-
+ T  R  A  K  I  T  S  L  V  R  R  F  M  D  D  H  G  F  L  D  I  E  T  P  M  L  T  K  -  D  Y  L  V  P  -  F  Y  A  L  P  Q  S  P  Q  L  F  K  Q  L  L  M  M  -  F  D  R  Y  Y  Q  I  V  K  C  F  R  D  -  D  R  Q  P  E  F  T  Q  I  D  V  E  T  S  F  -  A  P  Q  V  R  E  V  M  E  A  L  V  R  H  L  -  A  P  L  W  V  I  -  N  A  Y  D  M  V  I  N  -  G  Y  E  V  G  G  G  S  V  R  I  -  T  P  P  H  A  G  L  A  F  G  L  D  R  L  T  M  L  L  T  G 
 > asp_bact_5w25_M_tuberculosis
-LRSRVNAAARAVLARHDFVEIETPTITR-DFLVP-FYALPQSPQLFKQLLMV-MERYYQIARCYRD-DRQPEFTQLDMEMSF-AEDIIAISEEVLTEL-AFVWVV-DAYDIVCNGHEIGGGSVRI-APPHGGIAFGWDRTTALLAG
-
+ L  R  S  R  V  N  A  A  A  R  A  V  L  A  R  H  D  F  V  E  I  E  T  P  T  I  T  R  -  D  F  L  V  P  -  F  Y  A  L  P  Q  S  P  Q  L  F  K  Q  L  L  M  V  -  M  E  R  Y  Y  Q  I  A  R  C  Y  R  D  -  D  R  Q  P  E  F  T  Q  L  D  M  E  M  S  F  -  A  E  D  I  I  A  I  S  E  E  V  L  T  E  L  -  A  F  V  W  V  V  -  D  A  Y  D  I  V  C  N  -  G  H  E  I  G  G  G  S  V  R  I  -  A  P  P  H  G  G  I  A  F  G  W  D  R  T  T  A  L  L  A  G 
 > asp_bact_5w25_M_tuberculosis
-LRSRVNAAARAVLARHDFVEIETPTITR-DFLVP-FYALPQSPQLFKQLLMV-MERYYQIARCYRD-DRQPEFTQLDMEMSF-AEDIIAISEEVLTEL-AFVWVV-DAYDIVCNGHEIGGGSVRI-APPHGGIAFGWDRTTALLAG
-
+ L  R  S  R  V  N  A  A  A  R  A  V  L  A  R  H  D  F  V  E  I  E  T  P  T  I  T  R  -  D  F  L  V  P  -  F  Y  A  L  P  Q  S  P  Q  L  F  K  Q  L  L  M  V  -  M  E  R  Y  Y  Q  I  A  R  C  Y  R  D  -  D  R  Q  P  E  F  T  Q  L  D  M  E  M  S  F  -  A  E  D  I  I  A  I  S  E  E  V  L  T  E  L  -  A  F  V  W  V  V  -  D  A  Y  D  I  V  C  N  -  G  H  E  I  G  G  G  S  V  R  I  -  A  P  P  H  G  G  I  A  F  G  W  D  R  T  T  A  L  L  A  G 
 > asp_bact_4wj4_P_aeruginosa
-LRARITSSIRRYLDDNGFLDVETPILGR-DYLVP-FFALPQSPQLFKQLLMV-FDRYYQIAKCFRD-DRQPEFTQIDIETSF-ESDIIGITEKMVRQL-APMWVV-RAYDMVLNGTELGGGSIRI-APPHGGLAFGLDRLVMLMTG
-
+ L  R  A  R  I  T  S  S  I  R  R  Y  L  D  D  N  G  F  L  D  V  E  T  P  I  L  G  R  -  D  Y  L  V  P  -  F  F  A  L  P  Q  S  P  Q  L  F  K  Q  L  L  M  V  -  F  D  R  Y  Y  Q  I  A  K  C  F  R  D  -  D  R  Q  P  E  F  T  Q  I  D  I  E  T  S  F  -  E  S  D  I  I  G  I  T  E  K  M  V  R  Q  L  -  A  P  M  W  V  V  -  R  A  Y  D  M  V  L  N  -  G  T  E  L  G  G  G  S  I  R  I  -  A  P  P  H  G  G  L  A  F  G  L  D  R  L  V  M  L  M  T  G 
 > asp_bact_1efw_T_thermophilus
-LRHRVIKAIWDFLDREGFVQVETPFLTK-DFLVP-FYALPQSPQLFKQMLMV-LDRYFQIARCFRD-DRQPDFTQLDLEMSF-VEDVLELNERLMAHV-RFLWVV-LAYDLVLNGVEVGGGSIRI-APPHGGIAWGLDRLLALMTG
-
+ L  R  H  R  V  I  K  A  I  W  D  F  L  D  R  E  G  F  V  Q  V  E  T  P  F  L  T  K  -  D  F  L  V  P  -  F  Y  A  L  P  Q  S  P  Q  L  F  K  Q  M  L  M  V  -  L  D  R  Y  F  Q  I  A  R  C  F  R  D  -  D  R  Q  P  D  F  T  Q  L  D  L  E  M  S  F  -  V  E  D  V  L  E  L  N  E  R  L  M  A  H  V  -  R  F  L  W  V  V  -  L  A  Y  D  L  V  L  N  -  G  V  E  V  G  G  G  S  I  R  I  -  A  P  P  H  G  G  I  A  W  G  L  D  R  L  L  A  L  M  T  G 
 > asp_bact_1efw_T_thermophilus
-LRHRVIKAIWDFLDREGFVQVETPFLTK-DFLVP-FYALPQSPQLFKQMLMV-LDRYFQIARCFRD-DRQPDFTQLDLEMSF-VEDVLELNERLMAHV-RFLWVV-LAYDLVLNGVEVGGGSIRI-APPHGGIAWGLDRLLALMTG
-
+ L  R  H  R  V  I  K  A  I  W  D  F  L  D  R  E  G  F  V  Q  V  E  T  P  F  L  T  K  -  D  F  L  V  P  -  F  Y  A  L  P  Q  S  P  Q  L  F  K  Q  M  L  M  V  -  L  D  R  Y  F  Q  I  A  R  C  F  R  D  -  D  R  Q  P  D  F  T  Q  L  D  L  E  M  S  F  -  V  E  D  V  L  E  L  N  E  R  L  M  A  H  V  -  R  F  L  W  V  V  -  L  A  Y  D  L  V  L  N  -  G  V  E  V  G  G  G  S  I  R  I  -  A  P  P  H  G  G  I  A  W  G  L  D  R  L  L  A  L  M  T  G 
 > asp_bact_A_aeolicus
-FRHRVYQITRNFFTKEGFIEIETPFLTK-DFLVP-FYALPQSPQLFKQILMI-FDRYFQIVKCFRD-DRQPEFTQIDYEMSF-EEEVMDVAERLIATL-DVFWIV-RAYDMVLNGEEIGGGSIRI-APPHGGLAFGLDRVVALMLG
-
+ F  R  H  R  V  Y  Q  I  T  R  N  F  F  T  K  E  G  F  I  E  I  E  T  P  F  L  T  K  -  D  F  L  V  P  -  F  Y  A  L  P  Q  S  P  Q  L  F  K  Q  I  L  M  I  -  F  D  R  Y  F  Q  I  V  K  C  F  R  D  -  D  R  Q  P  E  F  T  Q  I  D  Y  E  M  S  F  -  E  E  E  V  M  D  V  A  E  R  L  I  A  T  L  -  D  V  F  W  I  V  -  R  A  Y  D  M  V  L  N  -  G  E  E  I  G  G  G  S  I  R  I  -  A  P  P  H  G  G  L  A  F  G  L  D  R  V  V  A  L  M  L  G 
 > asp_bact_B_burgdorferi
-LRCQATHLIRNFLIKRKFLELETPTFVK-DFVIP-FYALPQSPQLYKQLIMI-FDKYFQIARCYRD-DRQPEFTQLDLEMSF-KENIFKLIENMLFLI-EFLWVY-EIYDLVLNGVELGSGSIRI-APNHGGIAIGIDRLIMLMTK
-
+ L  R  C  Q  A  T  H  L  I  R  N  F  L  I  K  R  K  F  L  E  L  E  T  P  T  F  V  K  -  D  F  V  I  P  -  F  Y  A  L  P  Q  S  P  Q  L  Y  K  Q  L  I  M  I  -  F  D  K  Y  F  Q  I  A  R  C  Y  R  D  -  D  R  Q  P  E  F  T  Q  L  D  L  E  M  S  F  -  K  E  N  I  F  K  L  I  E  N  M  L  F  L  I  -  E  F  L  W  V  Y  -  E  I  Y  D  L  V  L  N  -  G  V  E  L  G  S  G  S  I  R  I  -  A  P  N  H  G  G  I  A  I  G  I  D  R  L  I  M  L  M  T  K 
 > asp_bact_B_fragilis
-LRHKMTIEVRSYLDKLGFLEVETPVLIG-DFVVP-FYALPQSPQTLKQLLMV-FDRYFQIAKCFRD-DRQPEFTQIDCEMSF-QEDVITTFEGMAKHL-ACLWVV-NAYDMVINGVEVGGGSIRI-APPHGGLAYGLDRWVSLFAG
-
+ L  R  H  K  M  T  I  E  V  R  S  Y  L  D  K  L  G  F  L  E  V  E  T  P  V  L  I  G  -  D  F  V  V  P  -  F  Y  A  L  P  Q  S  P  Q  T  L  K  Q  L  L  M  V  -  F  D  R  Y  F  Q  I  A  K  C  F  R  D  -  D  R  Q  P  E  F  T  Q  I  D  C  E  M  S  F  -  Q  E  D  V  I  T  T  F  E  G  M  A  K  H  L  -  A  C  L  W  V  V  -  N  A  Y  D  M  V  I  N  -  G  V  E  V  G  G  G  S  I  R  I  -  A  P  P  H  G  G  L  A  Y  G  L  D  R  W  V  S  L  F  A  G 
 > asn_bact_B_licheniformis
-IRNEIIRATYEFFNKEGFVKVDPPILTG-LFATK-DAYLSQSGQLYMEAAAM-LGKVFSFGPTFRA-RHLIEFWMIEPEMAF-FNENLEVQENYVSFI-PVFIT-LCADLIAP-GY.EIIGGSERI-SVPHSGFGLGLERTVAWICG
-
+ I  R  N  E  I  I  R  A  T  Y  E  F  F  N  K  E  G  F  V  K  V  D  P  P  I  L  T  G  -  L  F  A  T  K  -  D  A  Y  L  S  Q  S  G  Q  L  Y  M  E  A  A  A  M  -  L  G  K  V  F  S  F  G  P  T  F  R  A  -  R  H  L  I  E  F  W  M  I  E  P  E  M  A  F  -  F  N  E  N  L  E  V  Q  E  N  Y  V  S  F  I  -  -  P  V  F  I  T  -  L  C  A  D  L  I  A  P  -  G  Y  E  I  I  G  G  S  E  R  I  -  S  V  P  H  S  G  F  G  L  G  L  E  R  T  V  A  W  I  C  G 
 > asp_bact_B_thailandensis
-LRYRVAIEARKYLDEQGFIDIETPMLTK-DYLVP-FFALPQSPQLFKQLLMV-FDRYYQITKCFRD-DRQPEFTQIDCETSF-EQEIRDLFEDMIRHI-KPLWVV-KAYDMVLNGWEIGGGSVRI-APPHGGIAFGLDRIVTMMAG
-
+ L  R  Y  R  V  A  I  E  A  R  K  Y  L  D  E  Q  G  F  I  D  I  E  T  P  M  L  T  K  -  D  Y  L  V  P  -  F  F  A  L  P  Q  S  P  Q  L  F  K  Q  L  L  M  V  -  F  D  R  Y  Y  Q  I  T  K  C  F  R  D  -  D  R  Q  P  E  F  T  Q  I  D  C  E  T  S  F  -  E  Q  E  I  R  D  L  F  E  D  M  I  R  H  I  -  K  P  L  W  V  V  -  K  A  Y  D  M  V  L  N  -  G  W  E  I  G  G  G  S  V  R  I  -  A  P  P  H  G  G  I  A  F  G  L  D  R  I  V  T  M  M  A  G 
 > asp_bact_C_aggregans
-LRHRVVKFIRDFLDAEGFIEIETPILIK-DYLVP-FYALPQSPQQLKQLLMV-YDKYFQIARCFRD-DRQPEFTQLDMEMSF-QEDVINLIERLFTEL-CFAWVV-KAYDLILNGYEAGGGSIRI-APPHGGIAPGIDRLVMILAD
-
+ L  R  H  R  V  V  K  F  I  R  D  F  L  D  A  E  G  F  I  E  I  E  T  P  I  L  I  K  -  D  Y  L  V  P  -  F  Y  A  L  P  Q  S  P  Q  Q  L  K  Q  L  L  M  V  -  Y  D  K  Y  F  Q  I  A  R  C  F  R  D  -  D  R  Q  P  E  F  T  Q  L  D  M  E  M  S  F  -  Q  E  D  V  I  N  L  I  E  R  L  F  T  E  L  -  C  F  A  W  V  V  -  K  A  Y  D  L  I  L  N  -  G  Y  E  A  G  G  G  S  I  R  I  -  A  P  P  H  G  G  I  A  P  G  I  D  R  L  V  M  I  L  A  D 
 > asp_bact_C_jejuni
-LRSKACIAARNSLANMGFLEVETPILTK-DYLVP-FYALPQSPQLFKQLLMC-FDRYFQIAKCFRD-DRQPEFTQIDVEMSF-QKDVIKVAETFLKDI-EFLWVV-IAYDVVLNGVELGGGSIRI-APPHGGIAIGLDRLIMLVTG
-
+ L  R  S  K  A  C  I  A  A  R  N  S  L  A  N  M  G  F  L  E  V  E  T  P  I  L  T  K  -  D  Y  L  V  P  -  F  Y  A  L  P  Q  S  P  Q  L  F  K  Q  L  L  M  C  -  F  D  R  Y  F  Q  I  A  K  C  F  R  D  -  D  R  Q  P  E  F  T  Q  I  D  V  E  M  S  F  -  Q  K  D  V  I  K  V  A  E  T  F  L  K  D  I  -  E  F  L  W  V  V  -  I  A  Y  D  V  V  L  N  -  G  V  E  L  G  G  G  S  I  R  I  -  A  P  P  H  G  G  I  A  I  G  L  D  R  L  I  M  L  V  T  G 
 > asp_bact_A_asiaticus
-LRQLVAQHARAYLEQHHFVDVETPLLIK-DFVVP-FYALPQSPQIFKQLLMV-LDRYYQIAKCFRD-DRQPEFTQIDCELSF-QADILHIFENFTKYI-APLWVV-NAYDLVINGMEIGGGSIRI-APPHGGIAFGFDRLCAIIGR
-
+ L  R  Q  L  V  A  Q  H  A  R  A  Y  L  E  Q  H  H  F  V  D  V  E  T  P  L  L  I  K  -  D  F  V  V  P  -  F  Y  A  L  P  Q  S  P  Q  I  F  K  Q  L  L  M  V  -  L  D  R  Y  Y  Q  I  A  K  C  F  R  D  -  D  R  Q  P  E  F  T  Q  I  D  C  E  L  S  F  -  Q  A  D  I  L  H  I  F  E  N  F  T  K  Y  I  -  A  P  L  W  V  V  -  N  A  Y  D  L  V  I  N  -  G  M  E  I  G  G  G  S  I  R  I  -  A  P  P  H  G  G  I  A  F  G  F  D  R  L  C  A  I  I  G  R 
 > asp_bact_D_radiodurans
-VQAELVDAFRAHLRGEGFTEISTPKIVS-LFPID-PAYLAQSPQLYKQIMV-FERVFEVAAVYRA-RHLNEYLSLDVEMGF-EEDVMGLENRLLASI-DFVFVT-RGFDLLFRGIEITSGGQRI-MPPHGGFAIGAERLTAKLLG
-
+ V  Q  A  E  L  V  D  A  F  R  A  H  L  R  G  E  G  F  T  E  I  S  T  P  K  I  V  S  -  L  F  P  I  D  -  P  A  Y  L  A  Q  S  P  Q  L  Y  K  Q  I  -  M  V  -  F  E  R  V  F  E  V  A  A  V  Y  R  A  -  R  H  L  N  E  Y  L  S  L  D  V  E  M  G  F  -  E  E  D  V  M  G  L  E  N  R  L  L  A  S  I  -  D  F  V  F  V  T  -  R  G  F  D  L  L  F  R  -  G  I  E  I  T  S  G  G  Q  R  I  -  M  P  P  H  G  G  F  A  I  G  A  E  R  L  T  A  K  L  L  G 
 > asp_bact_E_faecalis
-LRHQVTKTIRHYLDNHDFLDIETPYLGK-DYLVP-FYALPQSPQLFKQLLMG-FDRYYQIVRCFRD-DRQPEFTQIDIETTF-PEEIQTYTENMLAEV-NFLWIV-EAYDVVLNGYELGGGSLRI-FPPHGGIALGLDRLAMLLAG
-
+ L  R  H  Q  V  T  K  T  I  R  H  Y  L  D  N  H  D  F  L  D  I  E  T  P  Y  L  G  K  -  D  Y  L  V  P  -  F  Y  A  L  P  Q  S  P  Q  L  F  K  Q  L  L  M  G  -  F  D  R  Y  Y  Q  I  V  R  C  F  R  D  -  D  R  Q  P  E  F  T  Q  I  D  I  E  T  T  F  -  P  E  E  I  Q  T  Y  T  E  N  M  L  A  E  V  -  N  F  L  W  I  V  -  E  A  Y  D  V  V  L  N  -  G  Y  E  L  G  G  G  S  L  R  I  -  F  P  P  H  G  G  I  A  L  G  L  D  R  L  A  M  L  L  A  G 
 > asp_bact_G_stearothermophilus
-LRHKVTKAVRDFLDSERFLEIETPMLTK-DYLVP-FYALPQSPQIFKQLLMV-VERYYQIARCFRD-DRQPEFTQIDIEMSF-QKDIMDLTERMMAAV-AFLWVT-QAYDLVLNGYELGGGSLRI-TPPHGGIALGLDRLVMLLAG
-
+ L  R  H  K  V  T  K  A  V  R  D  F  L  D  S  E  R  F  L  E  I  E  T  P  M  L  T  K  -  D  Y  L  V  P  -  F  Y  A  L  P  Q  S  P  Q  I  F  K  Q  L  L  M  V  -  V  E  R  Y  Y  Q  I  A  R  C  F  R  D  -  D  R  Q  P  E  F  T  Q  I  D  I  E  M  S  F  -  Q  K  D  I  M  D  L  T  E  R  M  M  A  A  V  -  A  F  L  W  V  T  -  Q  A  Y  D  L  V  L  N  -  G  Y  E  L  G  G  G  S  L  R  I  -  T  P  P  H  G  G  I  A  L  G  L  D  R  L  V  M  L  L  A  G 
 > asp_bact_H_aurantiacus
-LRHRTIKFMRDWMDREGFWEIETPILMK-DYLVP-FYALPQSPQQLKQLLMV-IDKYFQIARCMRD-DRQPEFTQLDIEMSF-QDDVLDVVERLMTEL-HFAWVI-ASYDLVCNGYELASGSIRI-APPHGGMAPGIDRLVMLLAD
-
+ L  R  H  R  T  I  K  F  M  R  D  W  M  D  R  E  G  F  W  E  I  E  T  P  I  L  M  K  -  D  Y  L  V  P  -  F  Y  A  L  P  Q  S  P  Q  Q  L  K  Q  L  L  M  V  -  I  D  K  Y  F  Q  I  A  R  C  M  R  D  -  D  R  Q  P  E  F  T  Q  L  D  I  E  M  S  F  -  Q  D  D  V  L  D  V  V  E  R  L  M  T  E  L  -  H  F  A  W  V  I  -  A  S  Y  D  L  V  C  N  -  G  Y  E  L  A  S  G  S  I  R  I  -  A  P  P  H  G  G  M  A  P  G  I  D  R  L  V  M  L  L  A  D 
 > asp_bact_M_mobile
-LRHKVTRSMRNFLDRNNYINIETPNLGR-DFIVP-FFSLPQSPQLYKQLLMA-FEKYYQIARAFRD-DRQLEFTQLDIEMAY-EEIVIHLIENLFKEI-AFTWVI-RAYDIVLNGYEVGGGSIRI-FPPHGGIALGIDRLLSILTN
-
+ L  R  H  K  V  T  R  S  M  R  N  F  L  D  R  N  N  Y  I  N  I  E  T  P  N  L  G  R  -  D  F  I  V  P  -  F  F  S  L  P  Q  S  P  Q  L  Y  K  Q  L  L  M  A  -  F  E  K  Y  Y  Q  I  A  R  A  F  R  D  -  D  R  Q  L  E  F  T  Q  L  D  I  E  M  A  Y  -  E  E  I  V  I  H  L  I  E  N  L  F  K  E  I  -  A  F  T  W  V  I  -  R  A  Y  D  I  V  L  N  -  G  Y  E  V  G  G  G  S  I  R  I  -  F  P  P  H  G  G  I  A  L  G  I  D  R  L  L  S  I  L  T  N 
 > asp_bact_M_smegmatis
-LRSKVNAAARSVLAEHDFVEIETPTLTR-DFLVP-FYALPQSPQLFKQLLMV-MERYYQIARCYRD-DRQPEFTQLDMEMSF-ADDVIAISEQVLKAV-AFTWVV-DAYDIVCNGNEIGGGSIRI-APPHGGIAFGWDRITALLAG
-
+ L  R  S  K  V  N  A  A  A  R  S  V  L  A  E  H  D  F  V  E  I  E  T  P  T  L  T  R  -  D  F  L  V  P  -  F  Y  A  L  P  Q  S  P  Q  L  F  K  Q  L  L  M  V  -  M  E  R  Y  Y  Q  I  A  R  C  Y  R  D  -  D  R  Q  P  E  F  T  Q  L  D  M  E  M  S  F  -  A  D  D  V  I  A  I  S  E  Q  V  L  K  A  V  -  A  F  T  W  V  V  -  D  A  Y  D  I  V  C  N  -  G  N  E  I  G  G  G  S  I  R  I  -  A  P  P  H  G  G  I  A  F  G  W  D  R  I  T  A  L  L  A  G 
 > asp_bact_P_mikurensis
-KRHRVTKTVRDFCDEHGFLEIETPFLCR-DFLVP-FYALPQSPQLFKQLLMI-AERYVQIVRCFRD-DRQAEFTQVDLEMSF-QEDVIGLCEGMIRRI-AWVWIV-KAYDLVLNGSELGGGSIRV-APPHGGLAFGLDRVVMHLVG
-
+ K  R  H  R  V  T  K  T  V  R  D  F  C  D  E  H  G  F  L  E  I  E  T  P  F  L  C  R  -  D  F  L  V  P  -  F  Y  A  L  P  Q  S  P  Q  L  F  K  Q  L  L  M  I  -  A  E  R  Y  V  Q  I  V  R  C  F  R  D  -  D  R  Q  A  E  F  T  Q  V  D  L  E  M  S  F  -  Q  E  D  V  I  G  L  C  E  G  M  I  R  R  I  -  A  W  V  W  I  V  -  K  A  Y  D  L  V  L  N  -  G  S  E  L  G  G  G  S  I  R  V  -  A  P  P  H  G  G  L  A  F  G  L  D  R  V  V  M  H  L  V  G 
 > asp_bact_S_aureus
-MRHQITRSIRQYLDDEGFFDIETPVLTK-DYLVP-FYALPQSPQLFKQLLMI-FDKYYQIVKCFRD-DRQPEFTQVDIEMSF-QEDVMQMGEEMLKKV-NFLWVT-NAYDIVLNGYELGGGSIRI-APPHGGIALGLDRLVMLLTN
-
+ M  R  H  Q  I  T  R  S  I  R  Q  Y  L  D  D  E  G  F  F  D  I  E  T  P  V  L  T  K  -  D  Y  L  V  P  -  F  Y  A  L  P  Q  S  P  Q  L  F  K  Q  L  L  M  I  -  F  D  K  Y  Y  Q  I  V  K  C  F  R  D  -  D  R  Q  P  E  F  T  Q  V  D  I  E  M  S  F  -  Q  E  D  V  M  Q  M  G  E  E  M  L  K  K  V  -  N  F  L  W  V  T  -  N  A  Y  D  I  V  L  N  -  G  Y  E  L  G  G  G  S  I  R  I  -  A  P  P  H  G  G  I  A  L  G  L  D  R  L  V  M  L  L  T  N 
 > asp_bact_S_elongatus
-LRHQVVKAIRRFL.DEEQFIEIETPVLTK-DYLVP-WFALPQSPQLFKQLLMV-FDRYYQIARCFRD-DRQPEFTQLDMEMSF-QEEIIDLNERLIAHI-NLLWVV-QAYDIVLNGLEIGGGSLRI-TPPHGGIAYGLDRLVMLLTG
-
+ L  R  H  Q  V  V  K  A  I  R  R  F  L  D  E  E  Q  F  I  E  I  E  T  P  V  L  T  K  -  D  Y  L  V  P  -  W  F  A  L  P  Q  S  P  Q  L  F  K  Q  L  L  M  V  -  F  D  R  Y  Y  Q  I  A  R  C  F  R  D  -  D  R  Q  P  E  F  T  Q  L  D  M  E  M  S  F  -  Q  E  E  I  I  D  L  N  E  R  L  I  A  H  I  -  N  L  L  W  V  V  -  Q  A  Y  D  I  V  L  N  -  G  L  E  I  G  G  G  S  L  R  I  -  T  P  P  H  G  G  I  A  Y  G  L  D  R  L  V  M  L  L  T  G 
 > asp_bact_S_haemolyticus
-MRHQTTRAIREYLDNNGFFDIETPVLTK-DYLVP-FYALPQSPQLFKQLLMI-FDKYYQIVKCFRD-DRQPEFTQVDIEMSF-QEDVIQMGEEMLRKV-NFLWVT-NAYDIVLNGYELGGGSIRI-APPHGGIALGLDRLVMLLTN
-
+ M  R  H  Q  T  T  R  A  I  R  E  Y  L  D  N  N  G  F  F  D  I  E  T  P  V  L  T  K  -  D  Y  L  V  P  -  F  Y  A  L  P  Q  S  P  Q  L  F  K  Q  L  L  M  I  -  F  D  K  Y  Y  Q  I  V  K  C  F  R  D  -  D  R  Q  P  E  F  T  Q  V  D  I  E  M  S  F  -  Q  E  D  V  I  Q  M  G  E  E  M  L  R  K  V  -  N  F  L  W  V  T  -  N  A  Y  D  I  V  L  N  -  G  Y  E  L  G  G  G  S  I  R  I  -  A  P  P  H  G  G  I  A  L  G  L  D  R  L  V  M  L  L  T  N 
 > asp_bact_T_maritima
-LRYRISKIIRDYFDELGFLEIETPFLTR-DFLVP-FYALPQSPQLFKQILMI-FDRYFQIVRCFRD-DRQPEFTQVDVEMSF-VEDVLNVSEGMVSRV-VLWVV-KAYDLVINGYEVGGGSIRI-VPPHGGIAFGLDRLVSIIAG
-
+ L  R  Y  R  I  S  K  I  I  R  D  Y  F  D  E  L  G  F  L  E  I  E  T  P  F  L  T  R  -  D  F  L  V  P  -  F  Y  A  L  P  Q  S  P  Q  L  F  K  Q  I  L  M  I  -  F  D  R  Y  F  Q  I  V  R  C  F  R  D  -  D  R  Q  P  E  F  T  Q  V  D  V  E  M  S  F  -  V  E  D  V  L  N  V  S  E  G  M  V  S  R  V  -  -  V  L  W  V  V  -  K  A  Y  D  L  V  I  N  -  G  Y  E  V  G  G  G  S  I  R  I  -  V  P  P  H  G  G  I  A  F  G  L  D  R  L  V  S  I  I  A  G 
 > gly_bact_1ati_T_thermophilus
-LKNNLKQAWWRRN.YERD.MEGLDASVLTH-MFK.......DE-LAYLRPETAQGIFVNFK-PFGIAQIGKAFRN-FRVREFEQMEIEYFV-HRYWVEERLKWWQEM-NLVPYQ-ATVDILYR-GLE.LEGIANRT-VPYVIEPSAGVDRGVLALLA
-
+ L  K  N  N  L  K  Q  A  W  W  R  R  N  Y  E  R  D  M  E  G  L  D  A  S  V  L  T  H  -  M  F  K  D  E  -  L  A  Y  L  R  P  E  T  A  Q  G  I  F  V  N  F  K  -  P  F  G  I  A  Q  I  G  K  A  F  R  N  -  F  R  V  R  E  F  E  Q  M  E  I  E  Y  F  V  -  H  R  Y  W  V  E  E  R  L  K  W  W  Q  E  M  -  N  L  V  P  Y  Q  -  A  T  V  D  I  L  Y  R  -  G  L  E  L  E  G  I  A  N  R  T  -  V  P  Y  V  I  E  P  S  A  G  V  D  R  G  V  L  A  L  L  A 
 > gly_bact_A_asiaticus
-LKRNVQNLWWQSM.QLHS.IVGMDAAILMH-MFATK-TIYLRPETAQGIFVNFL-PFGIAQIGKAFRN-FRMREFEQMEMQFFI-FNYWQQARWQWHIAL-KLRIKP-AAVDIEYQ-YKEIEGIHARS-LPHVIETSLGSDRLILMLLC
-
+ L  K  R  N  V  Q  N  L  W  W  Q  S  M  Q  L  H  S  I  V  G  M  D  A  A  I  L  M  H  -  M  F  A  T  K  -  T  I  Y  L  R  P  E  T  A  Q  G  I  F  V  N  F  L  -  P  F  G  I  A  Q  I  G  K  A  F  R  N  -  F  R  M  R  E  F  E  Q  M  E  M  Q  F  F  I  -  F  N  Y  W  Q  Q  A  R  W  Q  W  H  I  A  L  -  K  L  R  I  K  P  -  A  A  V  D  I  E  Y  Q  -  Y  K  E  I  E  G  I  H  A  R  S  -  L  P  H  V  I  E  T  S  L  G  S  D  R  L  I  L  M  L  L  C 
 > gly_bact_B_burgdorferi
-LKKNIKKEWWKSM.YLHE.IVGLDSAIFMR-MFKTH-EVYLRPETAQGIFVNFR-PFGIAQVGKAFRN-FRTCEFEQMEMQFFV-FCYWQQNRMNFFI.TL-RLRFKA-AAFDIEYE-FQEVEGIHNRG-VPYVIETSAGLTRSVLMTLC
-
+ L  K  K  N  I  K  K  E  W  W  K  S  M  Y  L  H  E  I  V  G  L  D  S  A  I  F  M  R  -  M  F  K  T  H  -  E  V  Y  L  R  P  E  T  A  Q  G  I  F  V  N  F  R  -  P  F  G  I  A  Q  V  G  K  A  F  R  N  -  F  R  T  C  E  F  E  Q  M  E  M  Q  F  F  V  -  F  C  Y  W  Q  Q  N  R  M  N  F  F  I  T  L  -  R  L  R  F  K  A  -  A  A  F  D  I  E  Y  E  -  F  Q  E  V  E  G  I  H  N  R  G  -  V  P  Y  V  I  E  T  S  A  G  L  T  R  S  V  L  M  T  L  C 
 > gly_bact_B_fragilis
-LKNNIKKYWWDSM.LLHE.IVGIDSAIFMH-MFSTD-KIYLRPETAQGIFVNYL-PFGIAQIGKAFRN-FRMREFEQMEMQFFV-FKKWKEIRLKWHKAL-HYRFHD-AATDIEFL-FKEVEGIHSRT-TPYVIETSIGVDRMFLSIMS
-
+ L  K  N  N  I  K  K  Y  W  W  D  S  M  L  L  H  E  I  V  G  I  D  S  A  I  F  M  H  -  M  F  S  T  D  -  K  I  Y  L  R  P  E  T  A  Q  G  I  F  V  N  Y  L  -  P  F  G  I  A  Q  I  G  K  A  F  R  N  -  F  R  M  R  E  F  E  Q  M  E  M  Q  F  F  V  -  F  K  K  W  K  E  I  R  L  K  W  H  K  A  L  -  H  Y  R  F  H  D  -  A  A  T  D  I  E  F  L  -  F  K  E  V  E  G  I  H  S  R  T  -  T  P  Y  V  I  E  T  S  I  G  V  D  R  M  F  L  S  I  M  S 
 > gly_bact_C_aggregans
-LKNNIIADWWRTN.YERD.MEGLDAAILMN-MFRTQ-FAYLRPETAQGIFVNFA-PFGIAQVGKAFRN-FRVREFEQMEIEYFV-HQRWLEARLAWWEQI-RITIYD-RTFDLMYD-VQEIEGIANRT-VPYVIEPSAGVGRCMLAVMC
-
+ L  K  N  N  I  I  A  D  W  W  R  T  N  Y  E  R  D  M  E  G  L  D  A  A  I  L  M  N  -  M  F  R  T  Q  -  F  A  Y  L  R  P  E  T  A  Q  G  I  F  V  N  F  A  -  P  F  G  I  A  Q  V  G  K  A  F  R  N  -  F  R  V  R  E  F  E  Q  M  E  I  E  Y  F  V  -  H  Q  R  W  L  E  A  R  L  A  W  W  E  Q  I  -  R  I  T  I  Y  D  -  R  T  F  D  L  M  Y  D  -  V  Q  E  I  E  G  I  A  N  R  T  -  V  P  Y  V  I  E  P  S  A  G  V  G  R  C  M  L  A  V  M  C 
 > gly_bact_D_radiodurans
-LKNNIKAAWWRSN.YERD.MEGLDASIIMH-M..........EESYGYLRPETAQGIFTNFK-PFGIAQIGKAFRN-FRVRELEQMEIEFFV-HEHWLEKRLKWWEDQ-KIEILD-RTYDLMYD-HEEIEGIANRS-VPFVIEPSAGVDRAMLAVLS
-
+ L  K  N  N  I  K  A  A  W  W  R  S  N  Y  E  R  D  M  E  G  L  D  A  S  I  I  M  H  -  M  E  E  S  Y  -  -  G  Y  L  R  P  E  T  A  Q  G  I  F  T  N  F  K  -  P  F  G  I  A  Q  I  G  K  A  F  R  N  -  F  R  V  R  E  L  E  Q  M  E  I  E  F  F  V  -  H  E  H  W  L  E  K  R  L  K  W  W  E  D  Q  -  K  I  E  I  L  D  -  R  T  Y  D  L  M  Y  D  -  H  E  E  I  E  G  I  A  N  R  S  -  V  P  F  V  I  E  P  S  A  G  V  D  R  A  M  L  A  V  L  S 
 > gly_bact_G_obscuriglobus
-LKRNIKEAWWQDM.RN-MVGLDCSIIMN-MFESH-KVYLRPETAQGIFANYK-PFGIAQVGKAFRN-FRSREFEQMEIEFFC-YEYWRDLRRQWYSRL-NLVPRE-GTTDIEYM-PQELEGVAHRG-VPHVIEPSAGADRFTLAVLC
-
+ L  K  R  N  I  K  E  A  W  W  Q  D  M  R  N  -  -  M  V  G  L  D  C  S  I  I  M  N  -  M  F  E  S  H  -  K  V  Y  L  R  P  E  T  A  Q  G  I  F  A  N  Y  K  -  P  F  G  I  A  Q  V  G  K  A  F  R  N  -  F  R  S  R  E  F  E  Q  M  E  I  E  F  F  C  -  Y  E  Y  W  R  D  L  R  R  Q  W  Y  S  R  L  -  N  L  V  P  R  E  -  G  T  T  D  I  E  Y  M  -  P  Q  E  L  E  G  V  A  H  R  G  -  V  P  H  V  I  E  P  S  A  G  A  D  R  F  T  L  A  V  L  C 
 > gly_bact_G_stearothermophilus
-LKNNIKRAWWKKF.QESP.NVGLDAAILMN-EIYLRPETAQGIFVNFK-PFGIAQIGKSFRN-FRTREFEQMELEFFC-FDYWKQFCKDWLLSL-NIRLRD-ATTDIEYH-WGELWGIASRT-IPYCIEPSLGADRVTLAFMI
-
+ L  K  N  N  I  K  R  A  W  W  K  K  F  Q  E  S  P  N  V  G  L  D  A  A  I  L  M  N  -  -  -  -  -  -  -  E  I  Y  L  R  P  E  T  A  Q  G  I  F  V  N  F  K  -  P  F  G  I  A  Q  I  G  K  S  F  R  N  -  F  R  T  R  E  F  E  Q  M  E  L  E  F  F  C  -  F  D  Y  W  K  Q  F  C  K  D  W  L  L  S  L  -  N  I  R  L  R  D  -  A  T  T  D  I  E  Y  H  -  W  G  E  L  W  G  I  A  S  R  T  -  I  P  Y  C  I  E  P  S  L  G  A  D  R  V  T  L  A  F  M  I 
 > gly_bact_H_aurantiacus
-LKNNLKAAWWRAM.YERD.VEGLDASILTH-MFKTA-FAYLRPETAQGIFTNFK-PFGIAQIGKAFRN-FRVREFEQMELEFFV-HSQWVEARLQWWRDQ-NLQAYH-ATVDILYQ-LEELEGIANRT-VPFVIEPSAGVDRGVLAILT
-
+ L  K  N  N  L  K  A  A  W  W  R  A  M  Y  E  R  D  V  E  G  L  D  A  S  I  L  T  H  -  M  F  K  T  A  -  F  A  Y  L  R  P  E  T  A  Q  G  I  F  T  N  F  K  -  P  F  G  I  A  Q  I  G  K  A  F  R  N  -  F  R  V  R  E  F  E  Q  M  E  L  E  F  F  V  -  H  S  Q  W  V  E  A  R  L  Q  W  W  R  D  Q  -  N  L  Q  A  Y  H  -  A  T  V  D  I  L  Y  Q  -  L  E  E  L  E  G  I  A  N  R  T  -  V  P  F  V  I  E  P  S  A  G  V  D  R  G  V  L  A  I  L  T 
 > gly_bact_P_mikurensis
-LKNHVRDHWWHQT.EC-VLGLDSAIIQN-MLDTY-KAYLRPETAQGIFLNYL-PFGIAQIGKSFRN-FRSREFEQMEMEWFC-YDFWKHERMRWWESL-NLRFRD-ACVDVEYR-FGELEGVAHRG-TPHVIEPASGLTRAVLVLLC
-
+ L  K  N  H  V  R  D  H  W  W  H  Q  T  E  C  -  -  V  L  G  L  D  S  A  I  I  Q  N  -  M  L  D  T  Y  -  K  A  Y  L  R  P  E  T  A  Q  G  I  F  L  N  Y  L  -  P  F  G  I  A  Q  I  G  K  S  F  R  N  -  F  R  S  R  E  F  E  Q  M  E  M  E  W  F  C  -  Y  D  F  W  K  H  E  R  M  R  W  W  E  S  L  -  N  L  R  F  R  D  -  A  C  V  D  V  E  Y  R  -  F  G  E  L  E  G  V  A  H  R  G  -  T  P  H  V  I  E  P  A  S  G  L  T  R  A  V  L  V  L  L  C 
 > gly_bact_S_aureus
-LKNNVKKAWWQKF.TQSP.NVGIDAAILMN-MFKTF-EIFLRPETAQGIFVNYK-PFGIGQIGKSFRN-FRTREFEQMELEFFC-QNYWKTFASDWLTSL-NMRLRD-ATTDIEYK-WGELWGIASRT-IPYCIEPSLGADRVTLAFLC
-
+ L  K  N  N  V  K  K  A  W  W  Q  K  F  T  Q  S  P  N  V  G  I  D  A  A  I  L  M  N  -  M  F  K  T  F  -  E  I  F  L  R  P  E  T  A  Q  G  I  F  V  N  Y  K  -  P  F  G  I  G  Q  I  G  K  S  F  R  N  -  F  R  T  R  E  F  E  Q  M  E  L  E  F  F  C  -  Q  N  Y  W  K  T  F  A  S  D  W  L  T  S  L  -  N  M  R  L  R  D  -  A  T  T  D  I  E  Y  K  -  W  G  E  L  W  G  I  A  S  R  T  -  I  P  Y  C  I  E  P  S  L  G  A  D  R  V  T  L  A  F  L  C 
 > gly_bact_5f5w_A_aeolicus
-YFQDIIMTLHKFWAEKGCLIWQ.YDVEVGAGTMN..TFLKVL-PWNVAYVEPSRRP-NRLQHYYQFQVILKP-RNPQEIYLESLERL-H.IRFVE-LGWEVWLDGMEITQFTYFQ-DEISVEITYGLERIAMYIQD
-
+ Y  F  Q  D  I  I  M  T  L  H  K  F  W  A  E  K  G  C  L  I  W  Q  Y  D  V  -  -  -  -  -  -  -  -  -  -  -  -  -  E  V  G  A  G  T  M  N  T  F  L  K  V  L  -  P  W  N  V  A  Y  V  E  P  S  R  R  P  -  N  R  L  Q  H  Y  Y  Q  F  Q  V  I  L  K  P  -  -  R  N  P  Q  E  I  Y  L  E  S  L  E  R  L  -  H  I  R  F  V  E  -  L  G  W  E  V  W  L  D  -  G  M  E  I  T  Q  F  T  Y  F  Q  -  D  E  I  S  V  E  I  T  Y  G  L  E  R  I  A  M  Y  I  Q  D 
 > gly_bact_3ufg_C_jejuni
-TFSQMILNLQNYWQEQGCAIMQ.YDMPAGAGTFH..TFLRSL-PWAAAYVAPSRRP-NRLGAYYQFQVLIKP-DNIQELYLKSLENL-H.IRFVE-LGWEVWLDGMEVTQFTYFQ-DLVSAEITYGLERIAMYLQN
-
+ T  F  S  Q  M  I  L  N  L  Q  N  Y  W  Q  E  Q  G  C  A  I  M  Q  Y  D  M  -  -  -  -  -  -  -  -  -  -  -  -  -  P  A  G  A  G  T  F  H  T  F  L  R  S  L  -  P  W  A  A  A  Y  V  A  P  S  R  R  P  -  N  R  L  G  A  Y  Y  Q  F  Q  V  L  I  K  P  -  -  D  N  I  Q  E  L  Y  L  K  S  L  E  N  L  -  H  I  R  F  V  E  -  L  G  W  E  V  W  L  D  -  G  M  E  V  T  Q  F  T  Y  F  Q  -  D  L  V  S  A  E  I  T  Y  G  L  E  R  I  A  M  Y  L  Q  N 
 > gly_bact_1j5w_T_maritima
-YLQDVIMKLNDFWASKGCLLEQ.YDMEVGAGTFH..TFFGSL-PWKVAYVQPSRRP-NRLQRYFQYQVIIKP-ENSQELYLESLEYL-H.IRFVE-VGWEVWLDGMEITQFTYFQ-KDIPLEITYGLERIAMYLQG
-
+ Y  L  Q  D  V  I  M  K  L  N  D  F  W  A  S  K  G  C  L  L  E  Q  Y  D  M  -  -  -  -  -  -  -  -  -  -  -  -  -  E  V  G  A  G  T  F  H  T  F  F  G  S  L  -  P  W  K  V  A  Y  V  Q  P  S  R  R  P  -  N  R  L  Q  R  Y  F  Q  Y  Q  V  I  I  K  P  -  -  E  N  S  Q  E  L  Y  L  E  S  L  E  Y  L  -  H  I  R  F  V  E  -  V  G  W  E  V  W  L  D  -  G  M  E  I  T  Q  F  T  Y  F  Q  -  K  D  I  P  L  E  I  T  Y  G  L  E  R  I  A  M  Y  L  Q  G 
 > gly_bact_B_thailandensis
-FQQIILTLQSYWDRQGCALLQ.IDMEVGAGTSH..TFLRAI-PWRAAYVQPSRRP-NRLQHYYQYQVVLKP-ENILDLYLGSLEAL-N.VRFVE-LGWEVWLNGMEVTQFTYFQ-KPVLGEITYGLERLAMYLQK
-
+ -  F  Q  Q  I  I  L  T  L  Q  S  Y  W  D  R  Q  G  C  A  L  L  Q  I  D  M  -  -  -  -  -  -  -  -  -  -  -  -  -  E  V  G  A  G  T  S  H  T  F  L  R  A  I  -  P  W  R  A  A  Y  V  Q  P  S  R  R  P  -  N  R  L  Q  H  Y  Y  Q  Y  Q  V  V  L  K  P  -  -  E  N  I  L  D  L  Y  L  G  S  L  E  A  L  -  N  V  R  F  V  E  -  L  G  W  E  V  W  L  N  -  G  M  E  V  T  Q  F  T  Y  F  Q  -  K  P  V  L  G  E  I  T  Y  G  L  E  R  L  A  M  Y  L  Q  K 
 > gly_bact_E_coli
-TFQGLILTLQDYWARQGCTIVQ.LDMEVGAGTSH..TCLREL-PMAAAYVQPSRRP-NRLQHYYQFQVVIKP-DNIQELYLGSLKEL-H.IRFVE-LGWEVWLNGMEVTQFTYFQ-KPVTGEITYGLERLAMYIQG
-
+ T  F  Q  G  L  I  L  T  L  Q  D  Y  W  A  R  Q  G  C  T  I  V  Q  L  D  M  -  -  -  -  -  -  -  -  -  -  -  -  -  E  V  G  A  G  T  S  H  T  C  L  R  E  L  -  P  M  A  A  A  Y  V  Q  P  S  R  R  P  -  N  R  L  Q  H  Y  Y  Q  F  Q  V  V  I  K  P  -  -  D  N  I  Q  E  L  Y  L  G  S  L  K  E  L  -  H  I  R  F  V  E  -  L  G  W  E  V  W  L  N  -  G  M  E  V  T  Q  F  T  Y  F  Q  -  K  P  V  T  G  E  I  T  Y  G  L  E  R  L  A  M  Y  I  Q  G 
 > his_bact_3rac_A_acidocaldarius
-RRRAVETRLLSFVEDAGYEPVTSGLFEY-WIRLF-AVALRPEMTPSIARMAA-PIRWCYCERVYRR-AESTQVGIERIG-DMDVLRLLHEASAAA-HHRIVV-LVFEMFAP-PIAQGGRYD-GAPAVGFAFEVERVMAVLEA
-
+ R  R  R  A  V  E  T  R  L  L  S  F  V  E  D  A  G  Y  E  P  V  T  S  G  L  F  E  Y  -  W  I  R  L  F  -  A  V  A  L  R  P  E  M  T  P  S  I  A  R  M  A  A  -  P  I  R  W  C  Y  C  E  R  V  Y  R  R  -  -  -  -  A  E  S  T  Q  V  G  I  E  R  I  G  -  D  M  D  V  L  R  L  L  H  E  A  S  A  A  A  -  H  H  R  I  V  V  -  L  V  F  E  M  F  A  P  -  -  -  P  I  A  Q  G  G  R  Y  D  -  G  A  P  A  V  G  F  A  F  E  V  E  R  V  M  A  V  L  E  A 
 > his_bact_5e3i_A_baumann
-AWRRLEQHLASLMDAYGYQQIRLPIVEQ-MYTFF-SLTLRPEGTAGCVRALV-TPRVWYMGPMFRY-GRYRQFHQFGVETFG-DAELIMLTARLWKRM-MVQLEL-TVFEWTTT-TVCAGGRYD-SVPAVGFAMGMERLLLLLEQ
-
+ A  W  R  R  L  E  Q  H  L  A  S  L  M  D  A  Y  G  Y  Q  Q  I  R  L  P  I  V  E  Q  -  M  Y  T  F  F  -  S  L  T  L  R  P  E  G  T  A  G  C  V  R  A  L  V  -  T  P  R  V  W  Y  M  G  P  M  F  R  Y  -  G  R  Y  R  Q  F  H  Q  F  G  V  E  T  F  G  -  D  A  E  L  I  M  L  T  A  R  L  W  K  R  M  -  M  V  Q  L  E  L  -  T  V  F  E  W  T  T  T  -  -  -  T  V  C  A  G  G  R  Y  D  -  S  V  P  A  V  G  F  A  M  G  M  E  R  L  L  L  L  L  E  Q 
 > his_bact_4e51_B_thailandensis
-LWEFFEATVKSLLRAYGYQNIRTPIVEH-MYSFV-NLTLRPENTAAVVRAAI-PKRLWYIGPMFRH-P...RYRQFHQVGVEALG-DAEIVMMCQRLWEDL-GIKLEI-TVFEWVTD-TVAAGGRYD-PTAACGWAMGIERILELLKE
-
+ L  W  E  F  F  E  A  T  V  K  S  L  L  R  A  Y  G  Y  Q  N  I  R  T  P  I  V  E  H  -  M  Y  S  F  V  -  N  L  T  L  R  P  E  N  T  A  A  V  V  R  A  A  I  -  P  K  R  L  W  Y  I  G  P  M  F  R  H  -  P  R  Y  R  Q  F  H  Q  V  G  V  E  A  L  G  -  D  A  E  I  V  M  M  C  Q  R  L  W  E  D  L  -  G  I  K  L  E  I  -  T  V  F  E  W  V  T  D  -  -  -  T  V  A  A  G  G  R  Y  D  -  P  T  A  A  C  G  W  A  M  G  I  E  R  I  L  E  L  L  K  E 
 > his_bact_1htt_E_coli
-IWQRIEGTLKNVLGSYGYSEIRLPIVEQ-MYTFE-SLTLRPEGTAGCVRAGI-EQRLWYIGPMFRH-GRYRQFHQLGCEVFG-DAELIMLTARWWRAL-HVTLEL-TVFEWVT-TVCAGGRYD-ATPAVGFAMGLERLVLLVQA
-
+ I  W  Q  R  I  E  G  T  L  K  N  V  L  G  S  Y  G  Y  S  E  I  R  L  P  I  V  E  Q  -  M  Y  T  F  E  -  S  L  T  L  R  P  E  G  T  A  G  C  V  R  A  G  I  -  E  Q  R  L  W  Y  I  G  P  M  F  R  H  -  G  R  Y  R  Q  F  H  Q  L  G  C  E  V  F  G  -  D  A  E  L  I  M  L  T  A  R  W  W  R  A  L  -  H  V  T  L  E  L  -  T  V  F  E  W  V  T  -  -  -  -  T  V  C  A  G  G  R  Y  D  -  A  T  P  A  V  G  F  A  M  G  L  E  R  L  V  L  L  V  Q  A 
 > his_bact_3net_N_nostoc
-LELYLLDTIRRVYESYGFTPIETPAVER-IYGLE-ARALKFDQTVPLAAYIA-PFARYQMDVVFRG-FRQFRQCDIDVVG-DAQMPAIITEIFEAV-DFVIRI-TVYETTLI-SICSGGRYE-KMPGVGISIGLTRLISRLL.A
-
+ L  E  L  Y  L  L  D  T  I  R  R  V  Y  E  S  Y  G  F  T  P  I  E  T  P  A  V  E  R  -  I  Y  G  L  E  -  A  R  A  L  K  F  D  Q  T  V  P  L  A  A  Y  I  A  -  P  F  A  R  Y  Q  M  D  V  V  F  R  G  -  -  -  F  R  Q  F  R  Q  C  D  I  D  V  V  G  -  D  A  Q  M  P  A  I  I  T  E  I  F  E  A  V  -  D  F  V  I  R  I  -  T  V  Y  E  T  T  L  I  -  -  -  S  I  C  S  G  G  R  Y  E  -  K  M  P  G  V  G  I  S  I  G  L  T  R  L  I  S  R  L  L  A 
 > his_bact_1qe0_S_aureus
-KWRYIENQLDELMTFYNYKEIRTPIFES-MYTFK-SITLRPEGTAAVVRSYI-PIKLYYNGPMFRY-YRQFNQFGVEAIG-DAEVLAMVMHIYQSF-HLKLVI-TAFELMMD-TLCGGGRYN-SETGIGFALSIERLLLALEE
-
+ K  W  R  Y  I  E  N  Q  L  D  E  L  M  T  F  Y  N  Y  K  E  I  R  T  P  I  F  E  S  -  M  Y  T  F  K  -  S  I  T  L  R  P  E  G  T  A  A  V  V  R  S  Y  I  -  P  I  K  L  Y  Y  N  G  P  M  F  R  Y  -  -  -  Y  R  Q  F  N  Q  F  G  V  E  A  I  G  -  D  A  E  V  L  A  M  V  M  H  I  Y  Q  S  F  -  H  L  K  L  V  I  -  T  A  F  E  L  M  M  D  -  -  -  T  L  C  G  G  G  R  Y  N  -  S  E  T  G  I  G  F  A  L  S  I  E  R  L  L  L  A  L  E  E 
 > his_bact_1adj_T_thermophilus
-MHQRIVATARKVLEAAGALELVTPIFEE-MFTFQ-SLTLRPEGTAAMVRAYL-PVRLWMAGPMFRA-GRYRQFHQVNYEALG-DAEAVVLLYECLKEL-RLKVKL-TAFEVHHE-ALGGGGRYD-RVPGVGFAFGVERVALALEA
-
+ M  H  Q  R  I  V  A  T  A  R  K  V  L  E  A  A  G  A  L  E  L  V  T  P  I  F  E  E  -  M  F  T  F  Q  -  S  L  T  L  R  P  E  G  T  A  A  M  V  R  A  Y  L  -  P  V  R  L  W  M  A  G  P  M  F  R  A  -  G  R  Y  R  Q  F  H  Q  V  N  Y  E  A  L  G  -  D  A  E  A  V  V  L  L  Y  E  C  L  K  E  L  -  R  L  K  V  K  L  -  T  A  F  E  V  H  H  E  -  -  -  A  L  G  G  G  G  R  Y  D  -  R  V  P  G  V  G  F  A  F  G  V  E  R  V  A  L  A  L  E  A 
 > his_bact_A_asiaticus
-QRSYIFDTIRQVYQKYGFSPLETPALEY-VFRVL-EKGLRYDLTVPLMRYVA-PFRRYQIQPVWRA-GRYREFYQCDADVVG-EAEILAMAYEVLQRL-DFIIHL-AVFEVKLP-SIAGGGRYD-SLTGVGFSFGVDRLYVAMEQ
-
+ Q  R  S  Y  I  F  D  T  I  R  Q  V  Y  Q  K  Y  G  F  S  P  L  E  T  P  A  L  E  Y  -  V  F  R  V  L  -  E  K  G  L  R  Y  D  L  T  V  P  L  M  R  Y  V  A  -  P  F  R  R  Y  Q  I  Q  P  V  W  R  A  -  G  R  Y  R  E  F  Y  Q  C  D  A  D  V  V  G  -  E  A  E  I  L  A  M  A  Y  E  V  L  Q  R  L  -  D  F  I  I  H  L  -  A  V  F  E  V  K  L  P  -  -  -  S  I  A  G  G  G  R  Y  D  -  S  L  T  G  V  G  F  S  F  G  V  D  R  L  Y  V  A  M  E  Q 
 > his_bact_B_burgdorferi
-IRIHIVRQIFSVLNSYNFDLIDTPVLEY-IYRFK-DVSMRFDLTVPFARFVA-PFRRSQFGKVFRG-GRYREFMQFDFDIVG-DAEILSVVYYGLEEI-KFIIHY-IVFESEVF-SVCSGGRYD-KISGVGGSFGVDRIKDIIDL
-
+ I  R  I  H  I  V  R  Q  I  F  S  V  L  N  S  Y  N  F  D  L  I  D  T  P  V  L  E  Y  -  I  Y  R  F  K  -  D  V  S  M  R  F  D  L  T  V  P  F  A  R  F  V  A  -  P  F  R  R  S  Q  F  G  K  V  F  R  G  -  G  R  Y  R  E  F  M  Q  F  D  F  D  I  V  G  -  D  A  E  I  L  S  V  V  Y  Y  G  L  E  E  I  -  K  F  I  I  H  Y  -  I  V  F  E  S  E  V  F  -  -  -  S  V  C  S  G  G  R  Y  D  -  K  I  S  G  V  G  G  S  F  G  V  D  R  I  K  D  I  I  D  L 
 > his_bact_B_fragilis
-KRNYIFNTIRDVYHLYGFQQIETPSMEM-LFKIQ-EKGLRYDLTVPFARYVV-PFKRYQIQPVWRA-GRYREFYQCDADVVG-EVELMQIVDTVFTRF-VCIKI-AIFEVKAL-SITGGGRYD-GVSGVGISFGADRIFDVLNQ
-
+ K  R  N  Y  I  F  N  T  I  R  D  V  Y  H  L  Y  G  F  Q  Q  I  E  T  P  S  M  E  M  -  L  F  K  I  Q  -  E  K  G  L  R  Y  D  L  T  V  P  F  A  R  Y  V  V  -  P  F  K  R  Y  Q  I  Q  P  V  W  R  A  -  G  R  Y  R  E  F  Y  Q  C  D  A  D  V  V  G  -  E  V  E  L  M  Q  I  V  D  T  V  F  T  R  F  -  -  V  C  I  K  I  -  A  I  F  E  V  K  A  L  -  -  -  S  I  T  G  G  G  R  Y  D  -  G  V  S  G  V  G  I  S  F  G  A  D  R  I  F  D  V  L  N  Q 
 > his_bact_B_licheniformis
-RWQYVEKIARETCHAYQYKEIRTPIFEH-MYTFA-SLTLRPEGTASAVRSFV-PTKLYYIGPMFRY-GRYRQFYQFGIEAIG-DAEVIALAMSVYRKA-NLKLVI-TAFEIMSN-TLAGGGRYD-KAPGIGFAMSIERLLAALDA
-
+ R  W  Q  Y  V  E  K  I  A  R  E  T  C  H  A  Y  Q  Y  K  E  I  R  T  P  I  F  E  H  -  M  Y  T  F  A  -  S  L  T  L  R  P  E  G  T  A  S  A  V  R  S  F  V  -  P  T  K  L  Y  Y  I  G  P  M  F  R  Y  -  G  R  Y  R  Q  F  Y  Q  F  G  I  E  A  I  G  -  D  A  E  V  I  A  L  A  M  S  V  Y  R  K  A  -  N  L  K  L  V  I  -  T  A  F  E  I  M  S  N  -  -  -  T  L  A  G  G  G  R  Y  D  -  K  A  P  G  I  G  F  A  M  S  I  E  R  L  L  A  A  L  D  A 
 > his_bact_C_aggregans
-TSRHIQTILERTIAGFGYQMIDAPIIEH-VYEFS-DLALRPEWTASVLRAYV-PLRLSYAGPVFRY-HTYRQFTQVGGEIIG-DAEVIALACAGLNAA-DYTVRI-LIFEIYDS-QLCGGGRYD-SVPAVGFAYGLERVVAAAT
-
+ T  S  R  H  I  Q  T  I  L  E  R  T  I  A  G  F  G  Y  Q  M  I  D  A  P  I  I  E  H  -  V  Y  E  F  S  -  D  L  A  L  R  P  E  W  T  A  S  V  L  R  A  Y  V  -  P  L  R  L  S  Y  A  G  P  V  F  R  Y  -  H  T  Y  R  Q  F  T  Q  V  G  G  E  I  I  G  -  D  A  E  V  I  A  L  A  C  A  G  L  N  A  A  -  D  Y  T  V  R  I  -  L  I  F  E  I  Y  D  S  -  -  -  Q  L  C  G  G  G  R  Y  D  -  S  V  P  A  V  G  F  A  Y  G  L  E  R  V  V  A  A  A  T  - 
 > his_bact_C_jejuni
-YYEKVIKICEEVAKNYGFTFINTPHLEL-MYEFI-HVCMRPEGTAGVVRAYI-VKRWFYYGSMFRY-GRLREFHQFGVESLG-DASIILMLVEIFSRL-FKLQL-TAFEFISD-AIAGGGRYD-SGYGIGFAMGIERIITILEQ
-
+ Y  Y  E  K  V  I  K  I  C  E  E  V  A  K  N  Y  G  F  T  F  I  N  T  P  H  L  E  L  -  M  Y  E  F  I  -  H  V  C  M  R  P  E  G  T  A  G  V  V  R  A  Y  I  -  V  K  R  W  F  Y  Y  G  S  M  F  R  Y  -  G  R  L  R  E  F  H  Q  F  G  V  E  S  L  G  -  D  A  S  I  I  L  M  L  V  E  I  F  S  R  L  -  -  F  K  L  Q  L  -  T  A  F  E  F  I  S  D  -  -  -  A  I  A  G  G  G  R  Y  D  -  S  G  Y  G  I  G  F  A  M  G  I  E  R  I  I  T  I  L  E  Q 
 > his_bact_C_thermalis
-QKHWVEERLQQVFHRWGYHRIITSTLER-VIQVQ-ELGLRPELTASIARTAV-PQRLYYNANVFCR-RQLEFYQTGVELLG-DAEVLLLLAECLNEL-NWQLIL-IVFEVIGN-ILGQGGRYD-TIPGVGFVLNTEDLQQALLS
-
+ Q  K  H  W  V  E  E  R  L  Q  Q  V  F  H  R  W  G  Y  H  R  I  I  T  S  T  L  E  R  -  V  I  Q  V  Q  -  E  L  G  L  R  P  E  L  T  A  S  I  A  R  T  A  V  -  P  Q  R  L  Y  Y  N  A  N  V  F  C  R  -  -  R  Q  L  E  F  Y  Q  T  G  V  E  L  L  G  -  D  A  E  V  L  L  L  L  A  E  C  L  N  E  L  -  N  W  Q  L  I  L  -  I  V  F  E  V  I  G  N  -  -  -  I  L  G  Q  G  G  R  Y  D  -  T  I  P  G  V  G  F  V  L  N  T  E  D  L  Q  Q  A  L  L  S 
 > his_bact_G_obscuriglobus
-AREEVLRRAREVYRSYGFTPIDTPACES-VYRVL-EMGLRFDLTVPFARFSA-PFKRYAMGPVWRG-GRYREFWQCDFDTIG-DIEAALVINDLFTAL-RFEIRI-TIYETFLT-SVCSGGRYD-VLPGVGASLGVDRLIAAMEE
-
+ A  R  E  E  V  L  R  R  A  R  E  V  Y  R  S  Y  G  F  T  P  I  D  T  P  A  C  E  S  -  V  Y  R  V  L  -  E  M  G  L  R  F  D  L  T  V  P  F  A  R  F  S  A  -  P  F  K  R  Y  A  M  G  P  V  W  R  G  -  G  R  Y  R  E  F  W  Q  C  D  F  D  T  I  G  -  D  I  E  A  A  L  V  I  N  D  L  F  T  A  L  -  R  F  E  I  R  I  -  T  I  Y  E  T  F  L  T  -  -  -  S  V  C  S  G  G  R  Y  D  -  V  L  P  G  V  G  A  S  L  G  V  D  R  L  I  A  A  M  E  E 
 > his_bact_G_stearothermophilus
-KWQHVEQVVRSLCGRYGYEEIRTPIFEH-MYTFE-ALTLRPEGTAPVARAFV-PVKLYYTGPMFRY-GRFRQFVQFGVEVLG-DAEVIALAMHIYNEL-HIRLVI-TTFEIMSD-TLCGGGRYN-ETPGIGFALSIERLLAALEA
-
+ K  W  Q  H  V  E  Q  V  V  R  S  L  C  G  R  Y  G  Y  E  E  I  R  T  P  I  F  E  H  -  M  Y  T  F  E  -  A  L  T  L  R  P  E  G  T  A  P  V  A  R  A  F  V  -  P  V  K  L  Y  Y  T  G  P  M  F  R  Y  -  G  R  F  R  Q  F  V  Q  F  G  V  E  V  L  G  -  D  A  E  V  I  A  L  A  M  H  I  Y  N  E  L  -  H  I  R  L  V  I  -  T  T  F  E  I  M  S  D  -  -  -  T  L  C  G  G  G  R  Y  N  -  E  T  P  G  I  G  F  A  L  S  I  E  R  L  L  A  A  L  E  A 
 > his_bact_H_aurantiacus
-LRRFITDTLIGILERYGFEPLSTPIVEY-LYRLK-ALTLRYDQTVPLARVVA-PFKRYALGQSYRG-GRYREFWQLDADIVG-DAEIVAVVVEGLRAL-GAKVLL-CVFEAVLD-SLLGGGRYD-SLPTVGCAFGLERLFDLMLE
-
+ L  R  R  F  I  T  D  T  L  I  G  I  L  E  R  Y  G  F  E  P  L  S  T  P  I  V  E  Y  -  L  Y  R  L  K  -  A  L  T  L  R  Y  D  Q  T  V  P  L  A  R  V  V  A  -  P  F  K  R  Y  A  L  G  Q  S  Y  R  G  -  G  R  Y  R  E  F  W  Q  L  D  A  D  I  V  G  -  D  A  E  I  V  A  V  V  V  E  G  L  R  A  L  -  G  A  K  V  L  L  -  C  V  F  E  A  V  L  D  -  -  -  S  L  L  G  G  G  R  Y  D  -  S  L  P  T  V  G  C  A  F  G  L  E  R  L  F  D  L  M  L  E 
 > his_bact_M_mobile
-LFQYILDTFRKEAELFNYSYIQTPILEF-MFIFN-KMALRPEKTAGVIRSLV-ENKFYYYGSMFRY-GRYREFTQIGCEWIE-DFEILLFASKFLGNF-KVILKI-LVFEFVYY-TILGGGRYS-KKDAIGFAAGVERLMILLKE
-
+ L  F  Q  Y  I  L  D  T  F  R  K  E  A  E  L  F  N  Y  S  Y  I  Q  T  P  I  L  E  F  -  M  F  I  F  N  -  K  M  A  L  R  P  E  K  T  A  G  V  I  R  S  L  V  -  E  N  K  F  Y  Y  Y  G  S  M  F  R  Y  -  G  R  Y  R  E  F  T  Q  I  G  C  E  W  I  E  -  D  F  E  I  L  L  F  A  S  K  F  L  G  N  F  -  K  V  I  L  K  I  -  L  V  F  E  F  V  Y  Y  -  -  -  T  I  L  G  G  G  R  Y  S  -  K  K  D  A  I  G  F  A  A  G  V  E  R  L  M  I  L  L  K  E 
 > his_bact_P_mikurensis
-RHRRLLDAWRRVSLRNGFEEVDGPIFET-LFSFR-DYALRAEFTPTLARMVA-PIKWFATPNFCRA-GRLREFWQWNVDFLG-DAEVVFVLVDLLREL-QVQVRI-TVFEAFET-ALAGGGRYD-AMPAVGFGMGDVVLANLLRD
-
+ R  H  R  R  L  L  D  A  W  R  R  V  S  L  R  N  G  F  E  E  V  D  G  P  I  F  E  T  -  L  F  S  F  R  -  D  Y  A  L  R  A  E  F  T  P  T  L  A  R  M  V  A  -  P  I  K  W  F  A  T  P  N  F  C  R  A  -  G  R  L  R  E  F  W  Q  W  N  V  D  F  L  G  -  D  A  E  V  V  F  V  L  V  D  L  L  R  E  L  -  Q  V  Q  V  R  I  -  T  V  F  E  A  F  E  T  -  -  -  A  L  A  G  G  G  R  Y  D  -  A  M  P  A  V  G  F  G  M  G  D  V  V  L  A  N  L  L  R  D 
 > his_bact_S_aureus
-KWRYIENQLDELMTFYNYKEIRTPIFES-MYTFK-SITLRPEGTAAVVRSYI-PIKLYYNGPMFRY-GRYRQFNQFGVEAIG-DAEVLAMVMHIYQSF-HLKLVI-TAFELMMD-TLCGGGRYN-SETGIGFALSIERLLLALEE
-
+ K  W  R  Y  I  E  N  Q  L  D  E  L  M  T  F  Y  N  Y  K  E  I  R  T  P  I  F  E  S  -  M  Y  T  F  K  -  S  I  T  L  R  P  E  G  T  A  A  V  V  R  S  Y  I  -  P  I  K  L  Y  Y  N  G  P  M  F  R  Y  -  G  R  Y  R  Q  F  N  Q  F  G  V  E  A  I  G  -  D  A  E  V  L  A  M  V  M  H  I  Y  Q  S  F  -  H  L  K  L  V  I  -  T  A  F  E  L  M  M  D  -  -  -  T  L  C  G  G  G  R  Y  N  -  S  E  T  G  I  G  F  A  L  S  I  E  R  L  L  L  A  L  E  E 
 > his_bact_S_elongatus
-QKRWIESRLQQVFQQWGYQRIITPTLER-VIQVQ-GLGLRPELTASIARAAV-PLRLYYLANVFRP-LQQRELFQAGVELLG-DAEVLHVLADALAEL-WHLVV-IVFEVVYE-VLAQGGRYD-GQPGIGFSCNIENLQQVLLA
-
+ Q  K  R  W  I  E  S  R  L  Q  Q  V  F  Q  Q  W  G  Y  Q  R  I  I  T  P  T  L  E  R  -  V  I  Q  V  Q  -  G  L  G  L  R  P  E  L  T  A  S  I  A  R  A  A  V  -  P  L  R  L  Y  Y  L  A  N  V  F  R  P  -  L  Q  Q  R  E  L  F  Q  A  G  V  E  L  L  G  -  D  A  E  V  L  H  V  L  A  D  A  L  A  E  L  -  -  W  H  L  V  V  -  I  V  F  E  V  V  Y  E  -  -  -  V  L  A  Q  G  G  R  Y  D  -  G  Q  P  G  I  G  F  S  C  N  I  E  N  L  Q  Q  V  L  L  A 
 > his_bact_T_maritima
-YWRYVEETFRNVCESAGIEEIRTPIFEQ-MYTFQ-SITLRPEGTAPVVRAFL-QQRYYYIGPMFRY-GRLRQFHQVGFEIIG-DFEVIMLVDTFLRRL-KYKIHL-TVFEVRHE-AIAGGGRYD-SVPALGFAGGIERIILALKA
-
+ Y  W  R  Y  V  E  E  T  F  R  N  V  C  E  S  A  G  I  E  E  I  R  T  P  I  F  E  Q  -  M  Y  T  F  Q  -  S  I  T  L  R  P  E  G  T  A  P  V  V  R  A  F  L  -  Q  Q  R  Y  Y  Y  I  G  P  M  F  R  Y  -  G  R  L  R  Q  F  H  Q  V  G  F  E  I  I  G  -  D  F  E  V  I  M  L  V  D  T  F  L  R  R  L  -  K  Y  K  I  H  L  -  T  V  F  E  V  R  H  E  -  -  -  A  I  A  G  G  G  R  Y  D  -  S  V  P  A  L  G  F  A  G  G  I  E  R  I  I  L  A  L  K  A 
 > lys_bact_4ex5_B_thailandensis
-ARTKAIASIRKFMGDADFMEVETPMLHP-PFVTH-EMFLRIAPELYLKRLIV-FERVFEINRNFRN-RHNPEFTMMEFYAAY-YRWLMDFTERLIRQA-EPTFII-ERFELFITGREIANGFSEL-MPPTGGCGIGIDRLVMLLTD
-
+ A  R  T  K  A  I  A  S  I  R  K  F  M  G  D  A  D  F  M  E  V  E  T  P  M  L  H  P  -  P  F  V  T  H  -  E  M  F  L  R  I  A  P  E  L  Y  L  K  R  L  I  V  -  F  E  R  V  F  E  I  N  R  N  F  R  N  -  R  H  N  P  E  F  T  M  M  E  F  Y  A  A  Y  -  Y  R  W  L  M  D  F  T  E  R  L  I  R  Q  A  -  E  P  T  F  I  I  -  E  R  F  E  L  F  I  T  -  G  R  E  I  A  N  G  F  S  E  L  -  M  P  P  T  G  G  C  G  I  G  I  D  R  L  V  M  L  L  T  D 
 > lys_bact_6ns0_C_trachomatis
-TRSRILKLIREYMDQQSFLEVETPILQT-PFVTT-EMFLRISLEIALKKLLV-MSRVYEIGKVFRN-THNPEFTMIEAYAAY-YNDVMKCVENLVEYI-APHHIT-ERFESFCLGKELCNAYSEL-MPPAGGFGIGIDRLVMMLTD
-
+ T  R  S  R  I  L  K  L  I  R  E  Y  M  D  Q  Q  S  F  L  E  V  E  T  P  I  L  Q  T  -  P  F  V  T  T  -  E  M  F  L  R  I  S  L  E  I  A  L  K  K  L  L  V  -  M  S  R  V  Y  E  I  G  K  V  F  R  N  -  T  H  N  P  E  F  T  M  I  E  A  Y  A  A  Y  -  Y  N  D  V  M  K  C  V  E  N  L  V  E  Y  I  -  A  P  H  H  I  T  -  E  R  F  E  S  F  C  L  -  G  K  E  L  C  N  A  Y  S  E  L  -  M  P  P  A  G  G  F  G  I  G  I  D  R  L  V  M  M  L  T  D 
 > lys_bact_1e1o_E_coli
-VRSKILAAIRQFMVARGFMEVETPMMQV-PFITH-DMYLRIAPELYLKRLVV-FERVFEINRNFRN-HNPEFTMMELYMAY-YHDLIELTESLFRTL-QPTFIT-DRFEFFIGGREIGNGFSEL-LPPTAGLGIGIDRMIMLFTN
-
+ V  R  S  K  I  L  A  A  I  R  Q  F  M  V  A  R  G  F  M  E  V  E  T  P  M  M  Q  V  -  P  F  I  T  H  -  D  M  Y  L  R  I  A  P  E  L  Y  L  K  R  L  V  V  -  F  E  R  V  F  E  I  N  R  N  F  R  N  -  -  H  N  P  E  F  T  M  M  E  L  Y  M  A  Y  -  Y  H  D  L  I  E  L  T  E  S  L  F  R  T  L  -  Q  P  T  F  I  T  -  D  R  F  E  F  F  I  G  -  G  R  E  I  G  N  G  F  S  E  L  -  L  P  P  T  A  G  L  G  I  G  I  D  R  M  I  M  L  F  T  N 
 > lys_bact_E_coli
-VRSQILSGIRQFMVNRGFMEVETPMMQV-PFITH-DMYLRIAPELYLKRLVV-FERVFEINRNFRN-RHNPEFTMMELYMAY-YKDLIELTESLFRTL-QPTFIT-DRFEFFIGGREIGNGFSEL-LPPTAGLGIGIDRMVMLFTN
-
+ V  R  S  Q  I  L  S  G  I  R  Q  F  M  V  N  R  G  F  M  E  V  E  T  P  M  M  Q  V  -  P  F  I  T  H  -  D  M  Y  L  R  I  A  P  E  L  Y  L  K  R  L  V  V  -  F  E  R  V  F  E  I  N  R  N  F  R  N  -  R  H  N  P  E  F  T  M  M  E  L  Y  M  A  Y  -  Y  K  D  L  I  E  L  T  E  S  L  F  R  T  L  -  Q  P  T  F  I  T  -  D  R  F  E  F  F  I  G  -  G  R  E  I  G  N  G  F  S  E  L  -  L  P  P  T  A  G  L  G  I  G  I  D  R  M  V  M  L  F  T  N 
 > lys_bact_3e9h_G_stearothermophilus
-TRSLIIQSMRRYLDSHGYLEVETPMMHA-PFITH-TLYMRIAIELHLKRLIV-LEKVYEIGRVFRN-RHNPEFTMLELYEAY-FRDIMKLTENLIAHI-QPTFIY-DRFELFIVGREHANAFTEL-MPPTGGLGIGVDRLVMLLTN
-
+ T  R  S  L  I  I  Q  S  M  R  R  Y  L  D  S  H  G  Y  L  E  V  E  T  P  M  M  H  A  -  P  F  I  T  H  -  T  L  Y  M  R  I  A  I  E  L  H  L  K  R  L  I  V  -  L  E  K  V  Y  E  I  G  R  V  F  R  N  -  R  H  N  P  E  F  T  M  L  E  L  Y  E  A  Y  -  F  R  D  I  M  K  L  T  E  N  L  I  A  H  I  -  Q  P  T  F  I  Y  -  D  R  F  E  L  F  I  V  -  G  R  E  H  A  N  A  F  T  E  L  -  M  P  P  T  G  G  L  G  I  G  V  D  R  L  V  M  L  L  T  N 
 > lys_bact_6aqh_M_thermosresistibile
-QRIAVMRAIRSALERRGFLEVETPMLQT-PFVTH-ELYLRIAPELFLKRCLV-FERVFELNRVFRN-THSPEFVMLETYQAY-YDDSAVVTRELIQEV-APTFVK-EKWDLYVRRIELATGYSEL-MPPSTGTGMGIDRLMMTLTG
-
+ Q  R  I  A  V  M  R  A  I  R  S  A  L  E  R  R  G  F  L  E  V  E  T  P  M  L  Q  T  -  P  F  V  T  H  -  E  L  Y  L  R  I  A  P  E  L  F  L  K  R  C  L  V  -  F  E  R  V  F  E  L  N  R  V  F  R  N  -  T  H  S  P  E  F  V  M  L  E  T  Y  Q  A  Y  -  Y  D  D  S  A  V  V  T  R  E  L  I  Q  E  V  -  A  P  T  F  V  K  -  E  K  W  D  L  Y  V  R  -  R  I  E  L  A  T  G  Y  S  E  L  -  M  P  P  S  T  G  T  G  M  G  I  D  R  L  M  M  T  L  T  G 
 > lys_bact_6aqg_M_ulcerans
-QRIAVIRAVRNALERRGFLEVETPMLQT-PFVTH-DLYLRIAPELFLKRCIV-FDRVFELNRVFRN-THSPEFSMLETYQTY-YDDSALITRELIQEV-APTFVK-EKWDLYVRGVELATGYSEL-MPPCTGTGMGIDRLLMCLTG
-
+ Q  R  I  A  V  I  R  A  V  R  N  A  L  E  R  R  G  F  L  E  V  E  T  P  M  L  Q  T  -  P  F  V  T  H  -  D  L  Y  L  R  I  A  P  E  L  F  L  K  R  C  I  V  -  F  D  R  V  F  E  L  N  R  V  F  R  N  -  T  H  S  P  E  F  S  M  L  E  T  Y  Q  T  Y  -  Y  D  D  S  A  L  I  T  R  E  L  I  Q  E  V  -  A  P  T  F  V  K  -  E  K  W  D  L  Y  V  R  -  G  V  E  L  A  T  G  Y  S  E  L  -  M  P  P  C  T  G  T  G  M  G  I  D  R  L  L  M  C  L  T  G 
 > lys_bact_A_aeolicus
-LRTKLITEMRKFFEMHGFIEVETPILQP-PFVTY-ELYLRIAPELYLKRLIV-FPRVYEIGKNFRN-THNPEFTMVEFYAAY-YHDLIKFTEDMFVYL-QPTFVI-ERFELIIARYEVANAYTEL-MPPTAGEGIGIDRLVMILAN
-
+ L  R  T  K  L  I  T  E  M  R  K  F  F  E  M  H  G  F  I  E  V  E  T  P  I  L  Q  P  -  P  F  V  T  Y  -  E  L  Y  L  R  I  A  P  E  L  Y  L  K  R  L  I  V  -  F  P  R  V  Y  E  I  G  K  N  F  R  N  -  T  H  N  P  E  F  T  M  V  E  F  Y  A  A  Y  -  Y  H  D  L  I  K  F  T  E  D  M  F  V  Y  L  -  Q  P  T  F  V  I  -  E  R  F  E  L  I  I  A  -  R  Y  E  V  A  N  A  Y  T  E  L  -  M  P  P  T  A  G  E  G  I  G  I  D  R  L  V  M  I  L  A  N 
 > lys_bact_A_asiaticus
-KRTQMIQAIRQYLNSQGYDEVETPILQP-PFKTH-SLYLRIANELYLKRLIV-YEGVYEFAKDFRN-FHNPEFTMLELYVAY-YKWMMNLTEELLEQV-QPTFIT-ERFEVICNGKEICNAFSEL-MPPTAGLGIGIDRLAMIMTN
-
+ K  R  T  Q  M  I  Q  A  I  R  Q  Y  L  N  S  Q  G  Y  D  E  V  E  T  P  I  L  Q  P  -  P  F  K  T  H  -  S  L  Y  L  R  I  A  N  E  L  Y  L  K  R  L  I  V  -  Y  E  G  V  Y  E  F  A  K  D  F  R  N  -  F  H  N  P  E  F  T  M  L  E  L  Y  V  A  Y  -  Y  K  W  M  M  N  L  T  E  E  L  L  E  Q  V  -  Q  P  T  F  I  T  -  E  R  F  E  V  I  C  N  -  G  K  E  I  C  N  A  F  S  E  L  -  M  P  P  T  A  G  L  G  I  G  I  D  R  L  A  M  I  M  T  N 
 > lys_bact_B_fragilis
-KRSKVYSSMREYFNSKGYMEVETPILQA-PFMTH-PLYMRIASELYLKRLIV-FEGVYEIGKNFRN-THNPEFTCMEIYVAY-YNWMMEFTEKMIEKI-QPTFIT-ERFELMVNGKELCNAYSEL-MPPTSGMGIGMDRLTMLMTG
-
+ K  R  S  K  V  Y  S  S  M  R  E  Y  F  N  S  K  G  Y  M  E  V  E  T  P  I  L  Q  A  -  P  F  M  T  H  -  P  L  Y  M  R  I  A  S  E  L  Y  L  K  R  L  I  V  -  F  E  G  V  Y  E  I  G  K  N  F  R  N  -  T  H  N  P  E  F  T  C  M  E  I  Y  V  A  Y  -  Y  N  W  M  M  E  F  T  E  K  M  I  E  K  I  -  Q  P  T  F  I  T  -  E  R  F  E  L  M  V  N  -  G  K  E  L  C  N  A  Y  S  E  L  -  M  P  P  T  S  G  M  G  I  G  M  D  R  L  T  M  L  M  T  G 
 > lys_bact_B_licheniformis
-TRSKIIQSMRRYLDDHGYLEVETPTMHA-PFITH-PLYMRIAIELHLKRLIV-LEKVYEIGRVFRN-RHNPEFTMIELYEAY-YKDIMRLTENLIAHI-QPTFIY-DRFELFIVGREHANAFTEL-MPPTGGLGIGIDRLIMLLTN
-
+ T  R  S  K  I  I  Q  S  M  R  R  Y  L  D  D  H  G  Y  L  E  V  E  T  P  T  M  H  A  -  P  F  I  T  H  -  P  L  Y  M  R  I  A  I  E  L  H  L  K  R  L  I  V  -  L  E  K  V  Y  E  I  G  R  V  F  R  N  -  R  H  N  P  E  F  T  M  I  E  L  Y  E  A  Y  -  Y  K  D  I  M  R  L  T  E  N  L  I  A  H  I  -  Q  P  T  F  I  Y  -  D  R  F  E  L  F  I  V  -  G  R  E  H  A  N  A  F  T  E  L  -  M  P  P  T  G  G  L  G  I  G  I  D  R  L  I  M  L  L  T  N 
 > lys_bact_C_aggregans
-ARAQVMSTMRRVLDDRGFLEVETPVLQP-PFVTY-NLYLRIATELYLKRLIV-FPGVYEIGKNFRN-SHNPEFTMMECYQAY-YHAMMTLVEEMLGEI-QPTFII-ERFEAFIAGMEIGNAFTEL-MPPTGGLGIGIDRLVMVLTD
-
+ A  R  A  Q  V  M  S  T  M  R  R  V  L  D  D  R  G  F  L  E  V  E  T  P  V  L  Q  P  -  P  F  V  T  Y  -  N  L  Y  L  R  I  A  T  E  L  Y  L  K  R  L  I  V  -  F  P  G  V  Y  E  I  G  K  N  F  R  N  -  S  H  N  P  E  F  T  M  M  E  C  Y  Q  A  Y  -  Y  H  A  M  M  T  L  V  E  E  M  L  G  E  I  -  Q  P  T  F  I  I  -  E  R  F  E  A  F  I  A  -  G  M  E  I  G  N  A  F  T  E  L  -  M  P  P  T  G  G  L  G  I  G  I  D  R  L  V  M  V  L  T  D 
 > lys_bact_C_jejuni
-VRSKVVSLIRHFFENKGFLEVETPMMHP-PFVTF-ERFLRIAPELYLKRLIV-FEAVFEINRCFRN-THNPEFTTIEFYWAY-YKDLMDLTEELFALL-NPTFVI-ERFELFICGRELANGFNEL-MPPTAGQGIGIDRLVMLLTN
-
+ V  R  S  K  V  V  S  L  I  R  H  F  F  E  N  K  G  F  L  E  V  E  T  P  M  M  H  P  -  P  F  V  T  F  -  E  R  F  L  R  I  A  P  E  L  Y  L  K  R  L  I  V  -  F  E  A  V  F  E  I  N  R  C  F  R  N  -  T  H  N  P  E  F  T  T  I  E  F  Y  W  A  Y  -  Y  K  D  L  M  D  L  T  E  E  L  F  A  L  L  -  N  P  T  F  V  I  -  E  R  F  E  L  F  I  C  -  G  R  E  L  A  N  G  F  N  E  L  -  M  P  P  T  A  G  Q  G  I  G  I  D  R  L  V  M  L  L  T  N 
 > lys_bact_D_radiodurans
-ARSRMIRYIRNELDERGFMEVEGPTLQV-PFMTH-DFKLRISLELYLKRLLV-FERVYEIGRVYRN-THNPEFTMLELYWAY-YSDIAKLVEDLLSGL-NPTFVM-ERFEVFCSGFELANAFSEL-MPPAGGLGIGIDRLAMLLTD
-
+ A  R  S  R  M  I  R  Y  I  R  N  E  L  D  E  R  G  F  M  E  V  E  G  P  T  L  Q  V  -  P  F  M  T  H  -  D  F  K  L  R  I  S  L  E  L  Y  L  K  R  L  L  V  -  F  E  R  V  Y  E  I  G  R  V  Y  R  N  -  T  H  N  P  E  F  T  M  L  E  L  Y  W  A  Y  -  Y  S  D  I  A  K  L  V  E  D  L  L  S  G  L  -  N  P  T  F  V  M  -  E  R  F  E  V  F  C  S  -  G  F  E  L  A  N  A  F  S  E  L  -  M  P  P  A  G  G  L  G  I  G  I  D  R  L  A  M  L  L  T  D 
 > lys_bact_G_obscuriglobus
-QRVKIIRTIRTHLDAQGYMEVETPTLHA-PFETH-DLFVRIALELPLKRLLV-IEKVYELGRVFRN-RHNPEFTMLELYQAY-YRSMMDLTEGLIVAC-GPVFVY-ERFELYVHGMELANAYTEL-MPPAGGLGIGIDRLVMLLTN
-
+ Q  R  V  K  I  I  R  T  I  R  T  H  L  D  A  Q  G  Y  M  E  V  E  T  P  T  L  H  A  -  P  F  E  T  H  -  D  L  F  V  R  I  A  L  E  L  P  L  K  R  L  L  V  -  I  E  K  V  Y  E  L  G  R  V  F  R  N  -  R  H  N  P  E  F  T  M  L  E  L  Y  Q  A  Y  -  Y  R  S  M  M  D  L  T  E  G  L  I  V  A  C  -  G  P  V  F  V  Y  -  E  R  F  E  L  Y  V  H  -  G  M  E  L  A  N  A  Y  T  E  L  -  M  P  P  A  G  G  L  G  I  G  I  D  R  L  V  M  L  L  T  N 
 > lys_bact_H_aurantiacus
-IRARLITAMRRYLDERGFLEVETPVLQG-PFTTH-DLYLRIATELYLKRLIV-FDGVYEIGKNFRN-THNPEFTMIEVYQAY-YESIMQLTEGMIRFA-QPTFIT-ERFELFMLGAEIANAFSEL-MPPTGGLGIGIDRLCLLFTN
-
+ I  R  A  R  L  I  T  A  M  R  R  Y  L  D  E  R  G  F  L  E  V  E  T  P  V  L  Q  G  -  P  F  T  T  H  -  D  L  Y  L  R  I  A  T  E  L  Y  L  K  R  L  I  V  -  F  D  G  V  Y  E  I  G  K  N  F  R  N  -  T  H  N  P  E  F  T  M  I  E  V  Y  Q  A  Y  -  Y  E  S  I  M  Q  L  T  E  G  M  I  R  F  A  -  Q  P  T  F  I  T  -  E  R  F  E  L  F  M  L  -  G  A  E  I  A  N  A  F  S  E  L  -  M  P  P  T  G  G  L  G  I  G  I  D  R  L  C  L  L  F  T  N 
 > lys_bact_M_mobile
-LRSRIISLIRKYFDNLEYLEVDTPVLQP-PFITK-NFYLRIATELPLKKLVV-FDRVYEIGRIFRN-THNPEFTSIEYYEAY-NEGMMNRTEDLFKFI-QPTFVY-DRAELFIGTKEYANMFTEL-LPPTGGCGIGIDRLVMLFTN
-
+ L  R  S  R  I  I  S  L  I  R  K  Y  F  D  N  L  E  Y  L  E  V  D  T  P  V  L  Q  P  -  P  F  I  T  K  -  N  F  Y  L  R  I  A  T  E  L  P  L  K  K  L  V  V  -  F  D  R  V  Y  E  I  G  R  I  F  R  N  -  T  H  N  P  E  F  T  S  I  E  Y  Y  E  A  Y  -  N  E  G  M  M  N  R  T  E  D  L  F  K  F  I  -  Q  P  T  F  V  Y  -  D  R  A  E  L  F  I  G  -  T  K  E  Y  A  N  M  F  T  E  L  -  L  P  P  T  G  G  C  G  I  G  I  D  R  L  V  M  L  F  T  N 
 > lys_bact_P_mikurensis
-TRSRLIKATRDFFEGRGFLEVETPMMQP-PFVTH-ELFLRIAPELYLKRLLV-LPRVFEINRNFRN-SHNPEFTMLELYEAY-LESILHHTQGLVEHL-QPTFVV-ERFELFVAGMELANAYTEL-MPPAGGLGIGIDRLVMLLTN
-
+ T  R  S  R  L  I  K  A  T  R  D  F  F  E  G  R  G  F  L  E  V  E  T  P  M  M  Q  P  -  P  F  V  T  H  -  E  L  F  L  R  I  A  P  E  L  Y  L  K  R  L  L  V  -  L  P  R  V  F  E  I  N  R  N  F  R  N  -  S  H  N  P  E  F  T  M  L  E  L  Y  E  A  Y  -  L  E  S  I  L  H  H  T  Q  G  L  V  E  H  L  -  Q  P  T  F  V  V  -  E  R  F  E  L  F  V  A  -  G  M  E  L  A  N  A  Y  T  E  L  -  M  P  P  A  G  G  L  G  I  G  I  D  R  L  V  M  L  L  T  N 
 > lys_bact_S_aureus
-NRSKIIQEMRNYLNNKGFLEVETPMMHQ-PFVTH-TLYMRIAIELHLKRLIV-LEKVYEIGRVFRN-RHNPEFTMIELYEAY-YHDIMDLTESMVRHI-QPTFIY-DRFELFIVGREHANAFTEL-MPPTGGLGIGIDRLVMLLTD
-
+ N  R  S  K  I  I  Q  E  M  R  N  Y  L  N  N  K  G  F  L  E  V  E  T  P  M  M  H  Q  -  P  F  V  T  H  -  T  L  Y  M  R  I  A  I  E  L  H  L  K  R  L  I  V  -  L  E  K  V  Y  E  I  G  R  V  F  R  N  -  R  H  N  P  E  F  T  M  I  E  L  Y  E  A  Y  -  Y  H  D  I  M  D  L  T  E  S  M  V  R  H  I  -  Q  P  T  F  I  Y  -  D  R  F  E  L  F  I  V  -  G  R  E  H  A  N  A  F  T  E  L  -  M  P  P  T  G  G  L  G  I  G  I  D  R  L  V  M  L  L  T  D 
 > lys_bact_S_elongatus
-RRAKITAAIRRHLEDQGFIEIETPVLQA-PFITY-DLYLRIATELHLKRLIV-FEKVFELGRIFRN-RHNPEFTSIEVYQAY-YEDMMRLTETLIAQV-QPTFVI-ERFELFIVGRETANSFSEL-MPPTGGLGIGIDRLVMLLTD
-
+ R  R  A  K  I  T  A  A  I  R  R  H  L  E  D  Q  G  F  I  E  I  E  T  P  V  L  Q  A  -  P  F  I  T  Y  -  D  L  Y  L  R  I  A  T  E  L  H  L  K  R  L  I  V  -  F  E  K  V  F  E  L  G  R  I  F  R  N  -  R  H  N  P  E  F  T  S  I  E  V  Y  Q  A  Y  -  Y  E  D  M  M  R  L  T  E  T  L  I  A  Q  V  -  Q  P  T  F  V  I  -  E  R  F  E  L  F  I  V  -  G  R  E  T  A  N  S  F  S  E  L  -  M  P  P  T  G  G  L  G  I  G  I  D  R  L  V  M  L  L  T  D 
 > lys_bact_T_maritima
-KRFKAVRVIREFLNSRGFIEVETPILHY-PFVTH-DMYLRIAPELYLKRLIV-FEKIYEIGKNFRN-KHSPEFTSIEIYQAY-YNDMMDLTEELIVEV-NPTFII-ERFELIIFGREIANAFSEL-MPPTGGLGIGLDRLFMFITD
-
+ K  R  F  K  A  V  R  V  I  R  E  F  L  N  S  R  G  F  I  E  V  E  T  P  I  L  H  Y  -  P  F  V  T  H  -  D  M  Y  L  R  I  A  P  E  L  Y  L  K  R  L  I  V  -  F  E  K  I  Y  E  I  G  K  N  F  R  N  -  K  H  S  P  E  F  T  S  I  E  I  Y  Q  A  Y  -  Y  N  D  M  M  D  L  T  E  E  L  I  V  E  V  -  N  P  T  F  I  I  -  E  R  F  E  L  I  I  F  -  G  R  E  I  A  N  A  F  S  E  L  -  M  P  P  T  G  G  L  G  I  G  L  D  R  L  F  M  F  I  T  D 
 > lys_bact_T_thermophilus
-RRSEIVRYIRRFFEAKGFLEVETPILQP-PFKTY-EFYLRISLELYLKRLLV-YEKVFEIGRNFRN-NHNPEFTMLEAYWAY-YQDMAGLVEELLSGL-DPTFVF-ERWDLYAGGMELAPCYSEL-MPPAAGLGLGIDRLAMLLTD
-
+ R  R  S  E  I  V  R  Y  I  R  R  F  F  E  A  K  G  F  L  E  V  E  T  P  I  L  Q  P  -  P  F  K  T  Y  -  E  F  Y  L  R  I  S  L  E  L  Y  L  K  R  L  L  V  -  Y  E  K  V  F  E  I  G  R  N  F  R  N  -  N  H  N  P  E  F  T  M  L  E  A  Y  W  A  Y  -  Y  Q  D  M  A  G  L  V  E  E  L  L  S  G  L  -  D  P  T  F  V  F  -  E  R  W  D  L  Y  A  G  -  G  M  E  L  A  P  C  Y  S  E  L  -  M  P  P  A  A  G  L  G  L  G  I  D  R  L  A  M  L  L  T  D 
 > phe_bact_3pco_E_coli
-PVTRTIDRIESFFGELGFTVATGPEIED-TFWFD-TRLLRTQTSGVQIRTMK-PIRIIAPGRVYRN-THTPMFHQMEGLIVD-FTNLKGTLHDFLRNF-QIRFRP-PSAEVDV-WLEVLGCGM.HP-P..YSGFAFGMGMERLTMLRYG
-
+ P  V  T  R  T  I  D  R  I  E  S  F  F  G  E  L  G  F  T  V  A  T  G  P  E  I  E  D  -  T  F  W  F  D  -  T  R  L  L  R  T  Q  T  S  G  V  Q  I  R  T  M  K  -  P  I  R  I  I  A  P  G  R  V  Y  R  N  -  T  H  T  P  M  F  H  Q  M  E  G  L  I  V  D  -  F  T  N  L  K  G  T  L  H  D  F  L  R  N  F  -  Q  I  R  F  R  P  -  P  S  A  E  V  D  V  -  -  W  L  E  V  L  G  C  G  M  H  P  -  P  Y  S  G  F  A  F  G  M  G  M  E  R  L  T  M  L  R  Y  G 
 > phe_bact_2rhq_S_haemolyticus
-PLTRTVEEIEDLFLGLGYEIVDGYEVEQ-SFYIT-EILMRTHTSPVQARTME-PVKIICPGKVYRR-THSHQFTQIEGLVVD-MSDLKGTLELVAKKL-EIRLRP-PSVEVDVS-WIEILGAGM.HP-S..YSGFAFGMGPDRIAMLKYG
-
+ P  L  T  R  T  V  E  E  I  E  D  L  F  L  G  L  G  Y  E  I  V  D  G  Y  E  V  E  Q  -  S  F  Y  I  T  -  E  I  L  M  R  T  H  T  S  P  V  Q  A  R  T  M  E  -  P  V  K  I  I  C  P  G  K  V  Y  R  R  -  T  H  S  H  Q  F  T  Q  I  E  G  L  V  V  D  -  M  S  D  L  K  G  T  L  E  L  V  A  K  K  L  -  E  I  R  L  R  P  -  P  S  V  E  V  D  V  S  -  W  I  E  I  L  G  A  G  M  H  P  -  S  Y  S  G  F  A  F  G  M  G  P  D  R  I  A  M  L  K  Y  G 
 > phe_bact_2aly_T_thermophilus
-PITLMERELVEIFRALGYQAVEGPEVES-TFWLT-RLLLRTHTSPMQVRYMV-PFRIVVPGRVFRF-THEAVFHQLEGLVVG-MAHLKGAIYELAQAL-KVRFQP-PGAQFAVW-WLELGGAGM.HP-VTGFAFGLGVERLAMLRYG
-
+ P  I  T  L  M  E  R  E  L  V  E  I  F  R  A  L  G  Y  Q  A  V  E  G  P  E  V  E  S  -  T  F  W  L  T  -  R  L  L  L  R  T  H  T  S  P  M  Q  V  R  Y  M  V  -  P  F  R  I  V  V  P  G  R  V  F  R  F  -  T  H  E  A  V  F  H  Q  L  E  G  L  V  V  G  -  M  A  H  L  K  G  A  I  Y  E  L  A  Q  A  L  -  K  V  R  F  Q  P  -  P  G  A  Q  F  A  V  W  -  W  L  E  L  G  G  A  G  M  H  P  -  -  V  T  G  F  A  F  G  L  G  V  E  R  L  A  M  L  R  Y  G 
 > phe_bact_A_aeolicus
-PITVTLERIVTIFRGMGFEVEEGPEVER-TFYVN-GYLLRTHTSPVQIRTML-PIQIIAPGKVYRR-THSPMFHQVEGLVVN-FRHMKYVIEEFLKKF-PVRFRT-PSAEVDIG-WLEVMGCGM.HP-T..YQGFAFGMGVERLAMLLFG
-
+ P  I  T  V  T  L  E  R  I  V  T  I  F  R  G  M  G  F  E  V  E  E  G  P  E  V  E  R  -  T  F  Y  V  N  -  G  Y  L  L  R  T  H  T  S  P  V  Q  I  R  T  M  L  -  P  I  Q  I  I  A  P  G  K  V  Y  R  R  -  T  H  S  P  M  F  H  Q  V  E  G  L  V  V  N  -  F  R  H  M  K  Y  V  I  E  E  F  L  K  K  F  -  P  V  R  F  R  T  -  P  S  A  E  V  D  I  G  -  W  L  E  V  M  G  C  G  M  H  P  -  T  Y  Q  G  F  A  F  G  M  G  V  E  R  L  A  M  L  L  F  G 
 > phe_bact_A_asiaticus
-PISILKDRILEIFEKIGFSIVEGPEIED-TFFIS-DILLRTHTSSVQIRVAE-PIRAISIGRVYRN-RSHCMFHQVDAFYVN-FVELKQVLLYFLRSL-KMRIRP-PSVEIDIN-WLEIMGAGM.DP-P..YTGYAFGMGLERIAMLMYQ
-
+ P  I  S  I  L  K  D  R  I  L  E  I  F  E  K  I  G  F  S  I  V  E  G  P  E  I  E  D  -  T  F  F  I  S  -  D  I  L  L  R  T  H  T  S  S  V  Q  I  R  V  A  E  -  P  I  R  A  I  S  I  G  R  V  Y  R  N  -  R  S  H  C  M  F  H  Q  V  D  A  F  Y  V  N  -  F  V  E  L  K  Q  V  L  L  Y  F  L  R  S  L  -  K  M  R  I  R  P  -  P  S  V  E  I  D  I  N  -  W  L  E  I  M  G  A  G  M  D  P  -  P  Y  T  G  Y  A  F  G  M  G  L  E  R  I  A  M  L  M  Y  Q 
 > phe_bact_B_fragilis
-PLSIVRNEIIDIFARLGFNIAEGPEIED-TFFIE-DVLLRTHTSSVQSRVME-PIRIICPGRVYRN-RAHCFFHQVEALYVD-FTDLKQVLLLFAKEM-KIRLRP-PSAEMDIS-WVEILGCGM.DP-S..YSGYALGMGIERITNLKYQ
-
+ P  L  S  I  V  R  N  E  I  I  D  I  F  A  R  L  G  F  N  I  A  E  G  P  E  I  E  D  -  T  F  F  I  E  -  D  V  L  L  R  T  H  T  S  S  V  Q  S  R  V  M  E  -  P  I  R  I  I  C  P  G  R  V  Y  R  N  -  R  A  H  C  F  F  H  Q  V  E  A  L  Y  V  D  -  F  T  D  L  K  Q  V  L  L  L  F  A  K  E  M  -  K  I  R  L  R  P  -  P  S  A  E  M  D  I  S  -  W  V  E  I  L  G  C  G  M  D  P  -  S  Y  S  G  Y  A  L  G  M  G  I  E  R  I  T  N  L  K  Y  Q 
 > phe_bact_B_licheniformis
-PLTIVIEEIEDLFISMGYSVEEGPEVET-SFYIT-DTLMRTQTSPVQTRTME-PVKIICPGKVYRR-THSHQFMQIEGLCVD-MSDLKGTLETVAKKM-EIRLRP-PSVEVDVS-WIEILGAGM.HP-S..YQGFAFGMGVERIAMLKYG
-
+ P  L  T  I  V  I  E  E  I  E  D  L  F  I  S  M  G  Y  S  V  E  E  G  P  E  V  E  T  -  S  F  Y  I  T  -  D  T  L  M  R  T  Q  T  S  P  V  Q  T  R  T  M  E  -  P  V  K  I  I  C  P  G  K  V  Y  R  R  -  T  H  S  H  Q  F  M  Q  I  E  G  L  C  V  D  -  M  S  D  L  K  G  T  L  E  T  V  A  K  K  M  -  E  I  R  L  R  P  -  P  S  V  E  V  D  V  S  -  W  I  E  I  L  G  A  G  M  H  P  -  S  Y  Q  G  F  A  F  G  M  G  V  E  R  I  A  M  L  K  Y  G 
 > phe_bact_B_thailandensis
-PVMRTWERVEQIFRSIGFDVADGPEIET-TFYVD-RLLLRTHTSPMQVRYAR-PIKVIAPGRTYRV-THSPMFNQVEGLWID-FADLKGVYTDFLKKF-LVRFRP-PSAEIDMM-WLEISGSGQ.HP-P..YIGFAFGSGLERLTMLRYG
-
+ P  V  M  R  T  W  E  R  V  E  Q  I  F  R  S  I  G  F  D  V  A  D  G  P  E  I  E  T  -  T  F  Y  V  D  -  R  L  L  L  R  T  H  T  S  P  M  Q  V  R  Y  A  R  -  P  I  K  V  I  A  P  G  R  T  Y  R  V  -  T  H  S  P  M  F  N  Q  V  E  G  L  W  I  D  -  F  A  D  L  K  G  V  Y  T  D  F  L  K  K  F  -  L  V  R  F  R  P  -  P  S  A  E  I  D  M  M  -  W  L  E  I  S  G  S  G  Q  H  P  -  P  Y  I  G  F  A  F  G  S  G  L  E  R  L  T  M  L  R  Y  G 
 > phe_bact_C_aggregans
-LTNQILRQVQQIFAEMGFQVWESPEVEY-TFYVE-SVLLRTHTSPGQIHAMR-PLRVLIPGKVYRN-RSEMMFHQFEFLAVG-MADLKGTLSFFAERM-QVRLRP-PSAEMDVT-WLEIGGCGM.HP-P..FSGFAGGFGPERVAMLKYG
-
+ L  T  N  Q  I  L  R  Q  V  Q  Q  I  F  A  E  M  G  F  Q  V  W  E  S  P  E  V  E  Y  -  T  F  Y  V  E  -  S  V  L  L  R  T  H  T  S  P  G  Q  I  H  A  M  R  -  P  L  R  V  L  I  P  G  K  V  Y  R  N  -  R  S  E  M  M  F  H  Q  F  E  F  L  A  V  G  -  M  A  D  L  K  G  T  L  S  F  F  A  E  R  M  -  Q  V  R  L  R  P  -  P  S  A  E  M  D  V  T  -  W  L  E  I  G  G  C  G  M  H  P  -  P  F  S  G  F  A  G  G  F  G  P  E  R  V  A  M  L  K  Y  G 
 > phe_bact_C_jejuni
-PVMSTMDKIIEYFIALNFSIEKGPLIED-TFYFD-KRLLRTQTSPVQIRTML-PIRMIAPGAVFRR-THTPMFHQVEGLVVE-FANLKSVLEDFLRYM-KVRFRP-PSAEVDIS-WLEVLGCGI.DPN-SGYAFGLGVERFAMLLHQ
-
+ P  V  M  S  T  M  D  K  I  I  E  Y  F  I  A  L  N  F  S  I  E  K  G  P  L  I  E  D  -  T  F  Y  F  D  -  K  R  L  L  R  T  Q  T  S  P  V  Q  I  R  T  M  L  -  P  I  R  M  I  A  P  G  A  V  F  R  R  -  T  H  T  P  M  F  H  Q  V  E  G  L  V  V  E  -  F  A  N  L  K  S  V  L  E  D  F  L  R  Y  M  -  K  V  R  F  R  P  -  P  S  A  E  V  D  I  S  -  W  L  E  V  L  G  C  G  I  D  P  -  N  -  S  G  Y  A  F  G  L  G  V  E  R  F  A  M  L  L  H  Q 
 > phe_bact_C_thermalis
-PLNSTTDRIIDIFVGLGYTVATGPEIES-TLYLP-GNLLRTHTSNGQIHYME-PVRIVVPGRCYRR-THAAVFHQIEFFAVD-FTDLKGTIQIFLQEM-PIRFRA-PSAEVDVQ-WLEVMGCGA.DP-P..YTGFAAGMGVERLAMVLHQ
-
+ P  L  N  S  T  T  D  R  I  I  D  I  F  V  G  L  G  Y  T  V  A  T  G  P  E  I  E  S  -  T  L  Y  L  P  -  G  N  L  L  R  T  H  T  S  N  G  Q  I  H  Y  M  E  -  P  V  R  I  V  V  P  G  R  C  Y  R  R  -  T  H  A  A  V  F  H  Q  I  E  F  F  A  V  D  -  F  T  D  L  K  G  T  I  Q  I  F  L  Q  E  M  -  P  I  R  F  R  A  -  P  S  A  E  V  D  V  Q  -  W  L  E  V  M  G  C  G  A  D  P  -  P  Y  T  G  F  A  A  G  M  G  V  E  R  L  A  M  V  L  H  Q 
 > phe_bact_D_radiodurans
-PISRVLDDLIGIYRQMGYAVIEGPEVEE-TFWLE-GRLLRTHTSPMQIRYMV-PFKIVVRGKVYRY-THEAMFHQLEGLVVG-MSDLKGTIAEMARGL-KARFQP-PGADFAVY-WLELGGCGM.HP-KTGFAFGLGLERIAMLKYG
-
+ P  I  S  R  V  L  D  D  L  I  G  I  Y  R  Q  M  G  Y  A  V  I  E  G  P  E  V  E  E  -  T  F  W  L  E  -  G  R  L  L  R  T  H  T  S  P  M  Q  I  R  Y  M  V  -  P  F  K  I  V  V  R  G  K  V  Y  R  Y  -  T  H  E  A  M  F  H  Q  L  E  G  L  V  V  G  -  M  S  D  L  K  G  T  I  A  E  M  A  R  G  L  -  K  A  R  F  Q  P  -  P  G  A  D  F  A  V  Y  -  W  L  E  L  G  G  C  G  M  H  P  -  -  K  T  G  F  A  F  G  L  G  L  E  R  I  A  M  L  K  Y  G 
 > phe_bact_E_faecalis
-ILTQVMEEIEDIFLGMGYQVVEGYEVES-TFYIS-EMLIRTHTSPVQARTME-ALRMISPGKVFRR-THSHQFHQIEGLVVD-MGDLKGTLEVMMKKM-KIRLRP-PSVEVDVS-WIEILGAGM.HP-P..YSGFAFGLGPDRVAMLRYG
-
+ I  L  T  Q  V  M  E  E  I  E  D  I  F  L  G  M  G  Y  Q  V  V  E  G  Y  E  V  E  S  -  T  F  Y  I  S  -  E  M  L  I  R  T  H  T  S  P  V  Q  A  R  T  M  E  -  A  L  R  M  I  S  P  G  K  V  F  R  R  -  T  H  S  H  Q  F  H  Q  I  E  G  L  V  V  D  -  M  G  D  L  K  G  T  L  E  V  M  M  K  K  M  -  K  I  R  L  R  P  -  P  S  V  E  V  D  V  S  -  W  I  E  I  L  G  A  G  M  H  P  -  P  Y  S  G  F  A  F  G  L  G  P  D  R  V  A  M  L  R  Y  G 
 > phe_bact_G_obscuriglobus
-PATQILRQIYTIFADLGFQVYRTNEVET-TFFTT-GVVLRTHTSPGQIHVMR-PIRVILPGMCYRN-RSEIQFYQVEGLVVG-MADLKGTITAFARRM-QVRIRS-PSIEVDID-WLEILGAGM.HP-P..VTGFAFGMGPQRMLMLKHA
-
+ P  A  T  Q  I  L  R  Q  I  Y  T  I  F  A  D  L  G  F  Q  V  Y  R  T  N  E  V  E  T  -  T  F  F  T  T  -  G  V  V  L  R  T  H  T  S  P  G  Q  I  H  V  M  R  -  P  I  R  V  I  L  P  G  M  C  Y  R  N  -  R  S  E  I  Q  F  Y  Q  V  E  G  L  V  V  G  -  M  A  D  L  K  G  T  I  T  A  F  A  R  R  M  -  Q  V  R  I  R  S  -  P  S  I  E  V  D  I  D  -  W  L  E  I  L  G  A  G  M  H  P  -  P  V  T  G  F  A  F  G  M  G  P  Q  R  M  L  M  L  K  H  A 
 > phe_bact_H_aurantiacus
-PSTQSLRRIQHIFAEMGFQVWESREVES-TFYVQ-KVVLRTHTSPGQIHVMR-PIRVILPGKCYRY-RSEMMFHQVEGLVIG-MADLKGTLANFARRM-KVRYRP-PSVEVDIE-WLEILGAGM.HP-P..WSGFAFGMGPERQTMLRYD
-
+ P  S  T  Q  S  L  R  R  I  Q  H  I  F  A  E  M  G  F  Q  V  W  E  S  R  E  V  E  S  -  T  F  Y  V  Q  -  K  V  V  L  R  T  H  T  S  P  G  Q  I  H  V  M  R  -  P  I  R  V  I  L  P  G  K  C  Y  R  Y  -  R  S  E  M  M  F  H  Q  V  E  G  L  V  I  G  -  M  A  D  L  K  G  T  L  A  N  F  A  R  R  M  -  K  V  R  Y  R  P  -  P  S  V  E  V  D  I  E  -  W  L  E  I  L  G  A  G  M  H  P  -  P  W  S  G  F  A  F  G  M  G  P  E  R  Q  T  M  L  R  Y  D 
 > phe_bact_M_mobile
-PLTLIENRFRTWFLNNGYYETEGSEITT-SLYLE-QLLLRTHNTGFSIIELI-AFSAFSIGKVYRN-THSHQFSQVDVIVAG-FPNLMWLLKSLLSYV-KIRLRP-PSCEVDVF-WIEVLGSGI.HE-MNALAWGIGIERIAMIKYG
-
+ P  L  T  L  I  E  N  R  F  R  T  W  F  L  N  N  G  Y  Y  E  T  E  G  S  E  I  T  T  -  S  L  Y  L  E  -  Q  L  L  L  R  T  H  N  T  G  F  S  I  I  E  L  I  -  A  F  S  A  F  S  I  G  K  V  Y  R  N  -  T  H  S  H  Q  F  S  Q  V  D  V  I  V  A  G  -  F  P  N  L  M  W  L  L  K  S  L  L  S  Y  V  -  K  I  R  L  R  P  -  P  S  C  E  V  D  V  F  -  W  I  E  V  L  G  S  G  I  H  E  -  -  M  N  A  L  A  W  G  I  G  I  E  R  I  A  M  I  K  Y  G 
 > phe_bact_M_smegmatis
-PITILAENIADTFVAMGWELAEGPEVET-TFQIA-RQVLRTHTSPVQIRALL-PVYIISIGRTFRT-THTPVFHQVEGLAVD-MAHLRGTLDAFARAQ-RTRFRP-PSAEVDIW-WVEWGGCGM.NP-P..YSGFAFGMGLERTLQFRNG
-
+ P  I  T  I  L  A  E  N  I  A  D  T  F  V  A  M  G  W  E  L  A  E  G  P  E  V  E  T  -  T  F  Q  I  A  -  R  Q  V  L  R  T  H  T  S  P  V  Q  I  R  A  L  L  -  P  V  Y  I  I  S  I  G  R  T  F  R  T  -  T  H  T  P  V  F  H  Q  V  E  G  L  A  V  D  -  M  A  H  L  R  G  T  L  D  A  F  A  R  A  Q  -  R  T  R  F  R  P  -  P  S  A  E  V  D  I  W  -  W  V  E  W  G  G  C  G  M  N  P  -  P  Y  S  G  F  A  F  G  M  G  L  E  R  T  L  Q  F  R  N  G 
 > phe_bact_P_mikurensis
-VISQTVDELLEVFGRMGFDVAEGPELED-NFYVA-TSLMRSQTSTVQIRVLE-PVRIVSTGRVYRP-THTSMFHQIEGLCVD-MVDLKTTLIQFAKAV-EVKLVP-PSAELYVK-WMEIGGCGM.DP-P..WTGFAFGLGIERLVMRKHD
-
+ V  I  S  Q  T  V  D  E  L  L  E  V  F  G  R  M  G  F  D  V  A  E  G  P  E  L  E  D  -  N  F  Y  V  A  -  T  S  L  M  R  S  Q  T  S  T  V  Q  I  R  V  L  E  -  P  V  R  I  V  S  T  G  R  V  Y  R  P  -  T  H  T  S  M  F  H  Q  I  E  G  L  C  V  D  -  M  V  D  L  K  T  T  L  I  Q  F  A  K  A  V  -  E  V  K  L  V  P  -  P  S  A  E  L  Y  V  K  -  W  M  E  I  G  G  C  G  M  D  P  -  P  W  T  G  F  A  F  G  L  G  I  E  R  L  V  M  R  K  H  D 
 > pro_bact_2j3m_E_faecalis
-VLEKLKTIMREEFEKIDAVEMLMPALLP-LYRLK-DYILGPTHEETFTELIR-PLNLYQIQTKYRD-LRGREFIMKDGYSFH-SYRDYEKAYSRIF.RC-EFRAII-DSKEFMAI-GIEIGHIFKLG-SVIMGCYGIGVSRLLSAIVE
-
+ V  L  E  K  L  K  T  I  M  R  E  E  F  E  K  I  D  A  V  E  M  L  M  P  A  L  L  P  -  L  Y  R  L  K  -  D  Y  I  L  G  P  T  H  E  E  T  F  T  E  L  I  R  -  P  L  N  L  Y  Q  I  Q  T  K  Y  R  D  -  L  R  G  R  E  F  I  M  K  D  G  Y  S  F  H  -  S  Y  R  D  Y  E  K  A  Y  S  R  I  F  R  C  -  E  F  R  A  I  I  -  D  S  K  E  F  M  A  I  -  G  I  E  I  G  H  I  F  K  L  G  -  S  V  I  M  G  C  Y  G  I  G  V  S  R  L  L  S  A  I  V  E 
 > pro_bact_5ucm_P_aeruginosa
-VLRKVETIVREEMNAAGALEVLMPAVQP-LLRLK-EFCVGPTHEEVITDLAR-PINFYQIQTKFRD-MRGREFIMKDAYSFH-TYDGMYQAYSKIF.RL-DFRPVQ-GSHEFHVL-GIEVGHIFQLG-NLIMGCYGIGVSRVVAAAIE
-
+ V  L  R  K  V  E  T  I  V  R  E  E  M  N  A  A  G  A  L  E  V  L  M  P  A  V  Q  P  -  L  L  R  L  K  -  E  F  C  V  G  P  T  H  E  E  V  I  T  D  L  A  R  -  P  I  N  F  Y  Q  I  Q  T  K  F  R  D  -  M  R  G  R  E  F  I  M  K  D  A  Y  S  F  H  -  T  Y  D  G  M  Y  Q  A  Y  S  K  I  F  R  L  -  D  F  R  P  V  Q  -  G  S  H  E  F  H  V  L  -  G  I  E  V  G  H  I  F  Q  L  G  -  N  L  I  M  G  C  Y  G  I  G  V  S  R  V  V  A  A  A  I  E 
 > pro_bact_2i4l_R_palustris
-VLKKIEQIVREEQNRAGAIELLMPTLQL-MLRIA-ELLYGPTNEEMITEIFR-PLNLYHIQWKFRD-MRGREFLMKDAYSFD-SYNKMFVAYLRTF.RM-KAIPMR-LSHEFIVL-GIEVGQIFYFG-PIHGGSYGVGVSRLLGAIIE
-
+ V  L  K  K  I  E  Q  I  V  R  E  E  Q  N  R  A  G  A  I  E  L  L  M  P  T  L  Q  L  -  M  L  R  I  A  -  E  L  L  Y  G  P  T  N  E  E  M  I  T  E  I  F  R  -  P  L  N  L  Y  H  I  Q  W  K  F  R  D  -  M  R  G  R  E  F  L  M  K  D  A  Y  S  F  D  -  S  Y  N  K  M  F  V  A  Y  L  R  T  F  R  M  -  K  A  I  P  M  R  -  L  S  H  E  F  I  V  L  -  G  I  E  V  G  Q  I  F  Y  F  G  -  P  I  H  G  G  S  Y  G  V  G  V  S  R  L  L  G  A  I  I  E 
 > pro_bact_5znj_S_aureus
-VLNNITAIVRQEMERIDSVEILMPALQQ-LMRLQ-QFALGPTHEELVTSIVR-PMTLFQIQSKFRD-LRGREFIMKDAYSFH-TYQDMYQAYSRIF.RV-NARPVV-HTHEFMAL-GIEVGQVFKLG-PLIMGCYGIGISRTLSAIVE
-
+ V  L  N  N  I  T  A  I  V  R  Q  E  M  E  R  I  D  S  V  E  I  L  M  P  A  L  Q  Q  -  L  M  R  L  Q  -  Q  F  A  L  G  P  T  H  E  E  L  V  T  S  I  V  R  -  P  M  T  L  F  Q  I  Q  S  K  F  R  D  -  L  R  G  R  E  F  I  M  K  D  A  Y  S  F  H  -  T  Y  Q  D  M  Y  Q  A  Y  S  R  I  F  R  V  -  N  A  R  P  V  V  -  H  T  H  E  F  M  A  L  -  G  I  E  V  G  Q  V  F  K  L  G  -  P  L  I  M  G  C  Y  G  I  G  I  S  R  T  L  S  A  I  V  E 
 > pro_bact_S_aureus
-VLNNITAIVRQEMERIDSVEILMPALQQ-LMRLQ-QFALGPTHEELVTSIVR-PMTLFQIQSKFRD-LRGREFIMKDAYSFH-TYQDMYQAYSRIF.RV-NARPVV-HTHEFMAL-GIEVGQVFKLG-PLIMGCYGIGISRTLSAIVE
-
+ V  L  N  N  I  T  A  I  V  R  Q  E  M  E  R  I  D  S  V  E  I  L  M  P  A  L  Q  Q  -  L  M  R  L  Q  -  Q  F  A  L  G  P  T  H  E  E  L  V  T  S  I  V  R  -  P  M  T  L  F  Q  I  Q  S  K  F  R  D  -  L  R  G  R  E  F  I  M  K  D  A  Y  S  F  H  -  T  Y  Q  D  M  Y  Q  A  Y  S  R  I  F  R  V  -  N  A  R  P  V  V  -  H  T  H  E  F  M  A  L  -  G  I  E  V  G  Q  V  F  K  L  G  -  P  L  I  M  G  C  Y  G  I  G  I  S  R  T  L  S  A  I  V  E 
 > pro_bact_1hc7_T_thermophilus
-IWENIQQVLDRMFKETGHQNAYFPLFIP-LAVVT-PLAVRPTSETVIGYMWS-PQLLNQWGNVVRW-LRTSEFLWQEGHTAH-VRRMLSIYARLAR.YA-PVIEGL-YTTTIEAL-ALQAGTSHYLG-YVHTTSWGLSWRFIGAIIM
-
+ I  W  E  N  I  Q  Q  V  L  D  R  M  F  K  E  T  G  H  Q  N  A  Y  F  P  L  F  I  P  -  L  A  V  V  T  -  P  L  A  V  R  P  T  S  E  T  V  I  G  Y  M  W  S  -  P  Q  L  L  N  Q  W  G  N  V  V  R  W  -  L  R  T  S  E  F  L  W  Q  E  G  H  T  A  H  -  V  R  R  M  L  S  I  Y  A  R  L  A  R  Y  A  -  P  V  I  E  G  L  -  Y  T  T  T  I  E  A  L  -  A  L  Q  A  G  T  S  H  Y  L  G  -  Y  V  H  T  T  S  W  G  L  S  -  W  R  F  I  G  A  I  I  M 
 > pro_bact_A_aeolicus
-VLKKVESIIRKEMDRSGAQELLLTVLNP-LFKLK-EYCLGPTHEEEITDLVR-PVILYQIQVKFRD-IRAREFIMKDAYSFD-SYEAMKFAYQRIF.KL-NVIMAE-MSHEFIAF-GLELGHIFLLG-PIIMGCYGIGVSRILAALVE
-
+ V  L  K  K  V  E  S  I  I  R  K  E  M  D  R  S  G  A  Q  E  L  L  L  T  V  L  N  P  -  L  F  K  L  K  -  E  Y  C  L  G  P  T  H  E  E  E  I  T  D  L  V  R  -  P  V  I  L  Y  Q  I  Q  V  K  F  R  D  -  I  R  A  R  E  F  I  M  K  D  A  Y  S  F  D  -  S  Y  E  A  M  K  F  A  Y  Q  R  I  F  K  L  -  N  V  I  M  A  E  -  M  S  H  E  F  I  A  F  -  G  L  E  L  G  H  I  F  L  L  G  -  P  I  I  M  G  C  Y  G  I  G  V  S  R  I  L  A  A  L  V  E 
 > pro_bact_A_asiaticus
-IWEKMQAILDKAFKATGHENAYFPIFIP-CAVVT-ELIVRPTSETIIWNSYK-PLLINQWCNVVRW-LRTAEFLWQEGHTAH-EALQMLNIYADFG..YL-PFLKGI-ETYTIEAL-ALQAGTSHFLG-YVWGTSWGLTTRLIGALVM
-
+ I  W  E  K  M  Q  A  I  L  D  K  A  F  K  A  T  G  H  E  N  A  Y  F  P  I  F  I  P  -  C  A  V  V  T  -  E  L  I  V  R  P  T  S  E  T  I  I  W  N  S  Y  K  -  P  L  L  I  N  Q  W  C  N  V  V  R  W  -  L  R  T  A  E  F  L  W  Q  E  G  H  T  A  H  -  E  A  L  Q  M  L  N  I  Y  A  D  F  G  Y  L  -  P  F  L  K  G  I  -  E  T  Y  T  I  E  A  L  -  A  L  Q  A  G  T  S  H  F  L  G  -  Y  V  W  G  T  S  W  G  L  T  -  T  R  L  I  G  A  L  V  M 
 > pro_bact_B_burgdorferi
-IWSKIQSILDKKFKETGHENAYFPMLIP-FAIIK-PLVLRPTSETIIWNMYS-PLKINQWANVVRW-LRTTEFLWQEGHTAH-ETLLILDVYKRFI..YL-PVFCGK-STYSIEAL-ALQAATSHYLG-HVFASSWGVSTRLIGALIM
-
+ I  W  S  K  I  Q  S  I  L  D  K  K  F  K  E  T  G  H  E  N  A  Y  F  P  M  L  I  P  -  F  A  I  I  K  -  P  L  V  L  R  P  T  S  E  T  I  I  W  N  M  Y  S  -  P  L  K  I  N  Q  W  A  N  V  V  R  W  -  L  R  T  T  E  F  L  W  Q  E  G  H  T  A  H  -  E  T  L  L  I  L  D  V  Y  K  R  F  I  Y  L  -  P  V  F  C  G  K  -  S  T  Y  S  I  E  A  L  -  A  L  Q  A  A  T  S  H  Y  L  G  -  H  V  F  A  S  S  W  G  V  S  -  T  R  L  I  G  A  L  I  M 
 > pro_bact_B_fragilis
-IWEKMQRQLDDMFKETGHVNAYFPLLIP-CAVVT-ELIIRPTSETIIWNTYK-PILCNQWANVFRW-LRTAEFLWQEGHTAH-EAIRMLNVYAEFA..YM-PVVKGV-DTYTIEAM-ALQSGTSHFLG-YVWATSWGVSTRLMGALIM
-
+ I  W  E  K  M  Q  R  Q  L  D  D  M  F  K  E  T  G  H  V  N  A  Y  F  P  L  L  I  P  -  C  A  V  V  T  -  E  L  I  I  R  P  T  S  E  T  I  I  W  N  T  Y  K  -  P  I  L  C  N  Q  W  A  N  V  F  R  W  -  L  R  T  A  E  F  L  W  Q  E  G  H  T  A  H  -  E  A  I  R  M  L  N  V  Y  A  E  F  A  Y  M  -  P  V  V  K  G  V  -  D  T  Y  T  I  E  A  M  -  A  L  Q  S  G  T  S  H  F  L  G  -  Y  V  W  A  T  S  W  G  V  S  -  T  R  L  M  G  A  L  I  M 
 > pro_bact_B_licheniformis
-VIHKIQSIVRQEMEKINAVEMLMPALQQ-LMRLK-EFALGATHEEVITSIVR-PLTLYQIQSKFRD-LRGREFIMKDAYSFH-TYNDMYQAYTNVF.RC-NFRPVI-DTHEFMAL-GIEVGQVFKLG-PMLMGCYGIGISRTLSAIVE
-
+ V  I  H  K  I  Q  S  I  V  R  Q  E  M  E  K  I  N  A  V  E  M  L  M  P  A  L  Q  Q  -  L  M  R  L  K  -  E  F  A  L  G  A  T  H  E  E  V  I  T  S  I  V  R  -  P  L  T  L  Y  Q  I  Q  S  K  F  R  D  -  L  R  G  R  E  F  I  M  K  D  A  Y  S  F  H  -  T  Y  N  D  M  Y  Q  A  Y  T  N  V  F  R  C  -  N  F  R  P  V  I  -  D  T  H  E  F  M  A  L  -  G  I  E  V  G  Q  V  F  K  L  G  -  P  M  L  M  G  C  Y  G  I  G  I  S  R  T  L  S  A  I  V  E 
 > pro_bact_B_thailandensis
-SIRKVEAIVREEMNRAGAIELLMPAVQP-LLRFK-EFVIGPTHEEVVTDIAR-PVNFYQIQTKFRD-MRGREFIMKDAYSFD-SYKKMYDAYVRIF.RI-EFRPVA-GSHEFHVI-GIEVGHVFQLG-PMVMGCYGIGVTRILGAAIE
-
+ S  I  R  K  V  E  A  I  V  R  E  E  M  N  R  A  G  A  I  E  L  L  M  P  A  V  Q  P  -  L  L  R  F  K  -  E  F  V  I  G  P  T  H  E  E  V  V  T  D  I  A  R  -  P  V  N  F  Y  Q  I  Q  T  K  F  R  D  -  M  R  G  R  E  F  I  M  K  D  A  Y  S  F  D  -  S  Y  K  K  M  Y  D  A  Y  V  R  I  F  R  I  -  E  F  R  P  V  A  -  G  S  H  E  F  H  V  I  -  G  I  E  V  G  H  V  F  Q  L  G  -  P  M  V  M  G  C  Y  G  I  G  V  T  R  I  L  G  A  A  I  E 
 > pro_bact_C_aggregans
-IWELMQRALDDRIKATGHANVQFPLLIP-VAEVT-PYVIRPTSETIIGYFYS-PLLYNQWANVMRW-LRTAEFWWQEGHTAH-ETLRILHEVYADF...EM-PVIRGL-RSYCIEAM-ALQAGTSHNLG-YAWTTSWGVSTRLIGALIM
-
+ I  W  E  L  M  Q  R  A  L  D  D  R  I  K  A  T  G  H  A  N  V  Q  F  P  L  L  I  P  -  V  A  E  V  T  -  P  Y  V  I  R  P  T  S  E  T  I  I  G  Y  F  Y  S  -  P  L  L  Y  N  Q  W  A  N  V  M  R  W  -  L  R  T  A  E  F  W  W  Q  E  G  H  T  A  H  -  E  T  L  R  I  L  H  E  V  Y  A  D  F  E  M  -  P  V  I  R  G  L  -  R  S  Y  C  I  E  A  M  -  A  L  Q  A  G  T  S  H  N  L  G  -  Y  A  W  T  T  S  W  G  V  S  -  T  R  L  I  G  A  L  I  M 
 > pro_bact_C_jejuni
-VLDKIKNIVKEEMDKAGAQEVNLSFITP-LLRFK-EFVLGPTHEEAMLSLVK-PLHLYQIGLKFRD-LRCREFLMKDGYSFH-EFELMYKTYSQIL.RM-DFRAVE-GSKEFMVL-GIEVGHIFKLG-PFYMGCYGIGVSRLLAVAIE
-
+ V  L  D  K  I  K  N  I  V  K  E  E  M  D  K  A  G  A  Q  E  V  N  L  S  F  I  T  P  -  L  L  R  F  K  -  E  F  V  L  G  P  T  H  E  E  A  M  L  S  L  V  K  -  P  L  H  L  Y  Q  I  G  L  K  F  R  D  -  L  R  C  R  E  F  L  M  K  D  G  Y  S  F  H  -  E  F  E  L  M  Y  K  T  Y  S  Q  I  L  R  M  -  D  F  R  A  V  E  -  G  S  K  E  F  M  V  L  -  G  I  E  V  G  H  I  F  K  L  G  -  P  F  Y  M  G  C  Y  G  I  G  V  S  R  L  L  A  V  A  I  E 
 > pro_bact_C_thermalis
-IWEKMQQTLDGMFKDTGHTNAYFPVFIP-CAVVT-PLVVRPTSETIIWSAYR-PILLNQWANICRW-LRTTEFLWQEGHTAH-EARQMLEIYKTFV..YL-PVFAGR-HTYTIETM-AIQVGTSHNLG-YPFATSWGITTRMIGTLIM
-
+ I  W  E  K  M  Q  Q  T  L  D  G  M  F  K  D  T  G  H  T  N  A  Y  F  P  V  F  I  P  -  C  A  V  V  T  -  P  L  V  V  R  P  T  S  E  T  I  I  W  S  A  Y  R  -  P  I  L  L  N  Q  W  A  N  I  C  R  W  -  L  R  T  T  E  F  L  W  Q  E  G  H  T  A  H  -  E  A  R  Q  M  L  E  I  Y  K  T  F  V  Y  L  -  P  V  F  A  G  R  -  H  T  Y  T  I  E  T  M  -  A  I  Q  V  G  T  S  H  N  L  G  -  Y  P  F  A  T  S  W  G  I  T  -  T  R  M  I  G  T  L  I  M 
 > pro_bact_D_radiodurans
-LWENIQRWLDDRFKASGHESLIFPTLIP-LFTVN-PYVMRPTSETIIGHMWS-PFLHYQWGSVFRA-LRTSEFFWHEGHTAH-EVRQQLDLYHEFC..VL-PVVRGE-ATYSIEGM-ALQSGTSHYLG-FAHTTSWAISSRIIGAIIM
-
+ L  W  E  N  I  Q  R  W  L  D  D  R  F  K  A  S  G  H  E  S  L  I  F  P  T  L  I  P  -  L  F  T  V  N  -  P  Y  V  M  R  P  T  S  E  T  I  I  G  H  M  W  S  -  P  F  L  H  Y  Q  W  G  S  V  F  R  A  -  L  R  T  S  E  F  F  W  H  E  G  H  T  A  H  -  E  V  R  Q  Q  L  D  L  Y  H  E  F  C  V  L  -  P  V  V  R  G  E  -  A  T  Y  S  I  E  G  M  -  A  L  Q  S  G  T  S  H  Y  L  G  -  F  A  H  T  T  S  W  A  I  S  -  S  R  I  I  G  A  I  I  M 
 > pro_bact_E_coli
-VLKKVENIVREEMNNAGAIEVLMPVVQP-LLRIA-PFVLGPTHEEVITDLIR-PLNFYQIQTKFRD-MRSREFLMKDAYSFH-TYDAMYAAYSKIF.RM-DFRAVQ-ASHEFQVL-GIEVGHIFQLG-ILTMGCYGIGVTRVVAAAIE
-
+ V  L  K  K  V  E  N  I  V  R  E  E  M  N  N  A  G  A  I  E  V  L  M  P  V  V  Q  P  -  L  L  R  I  A  -  P  F  V  L  G  P  T  H  E  E  V  I  T  D  L  I  R  -  P  L  N  F  Y  Q  I  Q  T  K  F  R  D  -  M  R  S  R  E  F  L  M  K  D  A  Y  S  F  H  -  T  Y  D  A  M  Y  A  A  Y  S  K  I  F  R  M  -  D  F  R  A  V  Q  -  A  S  H  E  F  Q  V  L  -  G  I  E  V  G  H  I  F  Q  L  G  -  I  L  T  M  G  C  Y  G  I  G  V  T  R  V  V  A  A  A  I  E 
 > pro_bact_G_obscuriglobus
-LWEKMQRALDRLFKDTGHVNAYFPLFIP-CAVVT-PLIIRPTSETIIWNTYK-PLLINQWANVVRW-LRTAEFLWQEGHTAH-ETLQMVRVYQKFA..WM-PVLVGP-YTLCIEAM-ALQAGTSHFLG-FAWATSWGVSTRLIGGLIM
-
+ L  W  E  K  M  Q  R  A  L  D  R  L  F  K  D  T  G  H  V  N  A  Y  F  P  L  F  I  P  -  C  A  V  V  T  -  P  L  I  I  R  P  T  S  E  T  I  I  W  N  T  Y  K  -  P  L  L  I  N  Q  W  A  N  V  V  R  W  -  L  R  T  A  E  F  L  W  Q  E  G  H  T  A  H  -  E  T  L  Q  M  V  R  V  Y  Q  K  F  A  W  M  -  P  V  L  V  G  P  -  Y  T  L  C  I  E  A  M  -  A  L  Q  A  G  T  S  H  F  L  G  -  F  A  W  A  T  S  W  G  V  S  -  T  R  L  I  G  G  L  I  M 
 > pro_bact_G_stearothermophilus
-VLQKIEAIIREEMNRIGGMELLMPALQP-LMRLK-DFALGPTHEEMITAIVR-PLVLYQIQTKFRD-LRGREFMMKDAYSFH-TYNDMYNAYSNIFR.C-NFRAVI-DTHEFMVL-GIEVGHVFKLG-TMIMGCYGIGVSRLVAAIAE
-
+ V  L  Q  K  I  E  A  I  I  R  E  E  M  N  R  I  G  G  M  E  L  L  M  P  A  L  Q  P  -  L  M  R  L  K  -  D  F  A  L  G  P  T  H  E  E  M  I  T  A  I  V  R  -  P  L  V  L  Y  Q  I  Q  T  K  F  R  D  -  L  R  G  R  E  F  M  M  K  D  A  Y  S  F  H  -  T  Y  N  D  M  Y  N  A  Y  S  N  I  F  R  C  -  N  F  R  A  V  I  -  D  T  H  E  F  M  V  L  -  G  I  E  V  G  H  V  F  K  L  G  -  T  M  I  M  G  C  Y  G  I  G  V  S  R  L  V  A  A  I  A  E 
 > pro_bact_H_aurantiacus
-STQKISQIIREEMDAIDGQELLMPVVTS-LLRFK-DMVLNMTHEEVVTDIMR-PVMVYQIQTKYRD-IRLREFTMKDAYSFH-YYEQVLNAYKRIY.RC-PVEVVQ-IAHEFMAV-AIEVGNIFKLG-PAIMGCYGIGVQRILASLIE
-
+ S  T  Q  K  I  S  Q  I  I  R  E  E  M  D  A  I  D  G  Q  E  L  L  M  P  V  V  T  S  -  L  L  R  F  K  -  D  M  V  L  N  M  T  H  E  E  V  V  T  D  I  M  R  -  P  V  M  V  Y  Q  I  Q  T  K  Y  R  D  -  I  R  L  R  E  F  T  M  K  D  A  Y  S  F  H  -  Y  Y  E  Q  V  L  N  A  Y  K  R  I  Y  R  C  -  P  V  E  V  V  Q  -  I  A  H  E  F  M  A  V  -  A  I  E  V  G  N  I  F  K  L  G  -  P  A  I  M  G  C  Y  G  I  G  V  Q  R  I  L  A  S  L  I  E 
 > pro_bact_M_mobile
-IWENVQSNFNKIIKELNVKNLYLPTLIP-LITVE-KLFLRPTSEVLFAEYFK-PLLLNQWANVFRW-LRNSEFLWQEGHTSH-FSKKMIQIYANFF..FL-PVIIGQ-TTYTIEAM-ALQSGTSHYLG-FVYQTSWGISTRLIGAIIM
-
+ I  W  E  N  V  Q  S  N  F  N  K  I  I  K  E  L  N  V  K  N  L  Y  L  P  T  L  I  P  -  L  I  T  V  E  -  K  L  F  L  R  P  T  S  E  V  L  F  A  E  Y  F  K  -  P  L  L  L  N  Q  W  A  N  V  F  R  W  -  L  R  N  S  E  F  L  W  Q  E  G  H  T  S  H  -  F  S  K  K  M  I  Q  I  Y  A  N  F  F  F  L  -  P  V  I  I  G  Q  -  T  T  Y  T  I  E  A  M  -  A  L  Q  S  G  T  S  H  Y  L  G  -  F  V  Y  Q  T  S  W  G  I  S  -  T  R  L  I  G  A  I  I  M 
 > pro_bact_M_smegmatis
-VLRKIENVVRSEMNAIGAQEILLPALLP-LFRLQ-DYLLGPTHEELFTLTVK-PVILYQIQTKYRD-LRGREFVMKDSYSFD-AYYQHREAYQRIF.RL-RYVIVS-ASEEFLAE-GIEIGHIFQLG-RLTMGSYGIGVSRLVAVIAE
-
+ V  L  R  K  I  E  N  V  V  R  S  E  M  N  A  I  G  A  Q  E  I  L  L  P  A  L  L  P  -  L  F  R  L  Q  -  D  Y  L  L  G  P  T  H  E  E  L  F  T  L  T  V  K  -  P  V  I  L  Y  Q  I  Q  T  K  Y  R  D  -  L  R  G  R  E  F  V  M  K  D  S  Y  S  F  D  -  A  Y  Y  Q  H  R  E  A  Y  Q  R  I  F  R  L  -  R  Y  V  I  V  S  -  A  S  E  E  F  L  A  E  -  G  I  E  I  G  H  I  F  Q  L  G  -  R  L  T  M  G  S  Y  G  I  G  V  S  R  L  V  A  V  I  A  E 
 > pro_bact_P_mikurensis
-SLRKVERIIREEQHAAGAVEVSLPCLQP-LFVVN-EAALAPTAEEAVADLVG-PRNVYQIQTKFRD-LRSREFLMKDGYSFH-TYRAQYAAYERIF.RC-DYAVVE-ASHQFTVL-GIEVGQVFKLG-TPLMGCYGIGVNRVLASAIE
-
+ S  L  R  K  V  E  R  I  I  R  E  E  Q  H  A  A  G  A  V  E  V  S  L  P  C  L  Q  P  -  L  F  V  V  N  -  E  A  A  L  A  P  T  A  E  E  A  V  A  D  L  V  G  -  P  R  N  V  Y  Q  I  Q  T  K  F  R  D  -  L  R  S  R  E  F  L  M  K  D  G  Y  S  F  H  -  T  Y  R  A  Q  Y  A  A  Y  E  R  I  F  R  C  -  D  Y  A  V  V  E  -  A  S  H  Q  F  T  V  L  -  G  I  E  V  G  Q  V  F  K  L  G  -  T  P  L  M  G  C  Y  G  I  G  V  N  R  V  L  A  S  A  I  E 
 > pro_bact_S_elongatus
-VLRKVSQIVREEMDATGAQETLLPQLQP-MFSLD-QLGLGPTHEEVITAVAR-PQNLYQIQTKFRD-MRGREFIMKDAYSFH-TYAAMDQAYRNIFR.C-QFRAVE-ASQEFMIL-GIEAGHIFQLG-PLWMGCYGIGVSRVAQAAVE
-
+ V  L  R  K  V  S  Q  I  V  R  E  E  M  D  A  T  G  A  Q  E  T  L  L  P  Q  L  Q  P  -  M  F  S  L  D  -  Q  L  G  L  G  P  T  H  E  E  V  I  T  A  V  A  R  -  P  Q  N  L  Y  Q  I  Q  T  K  F  R  D  -  M  R  G  R  E  F  I  M  K  D  A  Y  S  F  H  -  T  Y  A  A  M  D  Q  A  Y  R  N  I  F  R  C  -  Q  F  R  A  V  E  -  A  S  Q  E  F  M  I  L  -  G  I  E  A  G  H  I  F  Q  L  G  -  P  L  W  M  G  C  Y  G  I  G  V  S  R  V  A  Q  A  A  V  E 
 > pro_bact_T_maritima
-VLLKIENIVREEMNRIGAQEILMPILQP-MMKLK-DFTLGPTHEEIVTDLVK-PLTLYQIANKYRD-LRAREFIMKDAYSFH-TYEQFKKAYSRIM.RL-RYMIIE-ASHEFVVP-GIELGHIFKLG-PFIMGCYGWGVSRTMAAVVE
-
+ V  L  L  K  I  E  N  I  V  R  E  E  M  N  R  I  G  A  Q  E  I  L  M  P  I  L  Q  P  -  M  M  K  L  K  -  D  F  T  L  G  P  T  H  E  E  I  V  T  D  L  V  K  -  P  L  T  L  Y  Q  I  A  N  K  Y  R  D  -  L  R  A  R  E  F  I  M  K  D  A  Y  S  F  H  -  T  Y  E  Q  F  K  K  A  Y  S  R  I  M  R  L  -  R  Y  M  I  I  E  -  A  S  H  E  F  V  V  P  -  G  I  E  L  G  H  I  F  K  L  G  -  P  F  I  M  G  C  Y  G  W  G  V  S  R  T  M  A  A  V  V  E 
 > ser_bact_2dq3_A_aeolicus
-LERALINFMLDLHTK-GYKEICPPHLVK-LYKCE-NLYLIPTAEVPLTNLYR-PIYLTAYTPCYRR-IRQHQFDKVELVKIV-LEKLVKDAEEVLQLL-PYRVVE-KTYDIEVW-YREISSCSNCE-FVHTLNGS.LAVGRTLAAILE
-
+ L  E  R  A  L  I  N  F  M  L  D  L  H  T  K  -  G  Y  K  E  I  C  P  P  H  L  V  K  -  L  Y  K  C  E  -  N  L  Y  L  I  P  T  A  E  V  P  L  T  N  L  Y  R  -  P  I  Y  L  T  A  Y  T  P  C  Y  R  R  -  I  R  Q  H  Q  F  D  K  V  E  L  V  K  I  V  -  L  E  K  L  V  K  D  A  E  E  V  L  Q  L  L  -  P  Y  R  V  V  E  -  K  T  Y  D  I  E  V  W  -  Y  R  E  I  S  S  C  S  N  C  E  -  F  V  H  T  L  N  G  S  L  A  V  G  R  T  L  A  A  I  L  E 
 > ser_bact_6h9x_K_pneumoniae
-LHRALAQFMLDLHTE.HGYSENYVPYLVN-LFHTR-NYALIPTAEVPLTNLVR-PIKMTAHTPCFRS-IRMHQFDKVEMVQIV-LEEMTGHAEKVLQLL-PYRKVA-KTYDLEVW-YREISSCSNVW-LVHTLNGS.LAVGRTLVALME
-
+ L  H  R  A  L  A  Q  F  M  L  D  L  H  T  E  H  G  Y  S  E  N  Y  V  P  Y  L  V  N  -  L  F  H  T  R  -  N  Y  A  L  I  P  T  A  E  V  P  L  T  N  L  V  R  -  P  I  K  M  T  A  H  T  P  C  F  R  S  -  I  R  M  H  Q  F  D  K  V  E  M  V  Q  I  V  -  L  E  E  M  T  G  H  A  E  K  V  L  Q  L  L  -  P  Y  R  K  V  A  -  K  T  Y  D  L  E  V  W  -  Y  R  E  I  S  S  C  S  N  V  W  -  L  V  H  T  L  N  G  S  L  A  V  G  R  T  L  V  A  L  M  E 
 > ser_bact_1ser_T_thermophilus
-YELALLRFAMDFMAR-GFLPMTLPSYAR-VWAIA-DLYLTGTAEVVLNALHS-PLRYAGYAPAFRS-MRVHQFHKVEQYVLT-FQELLENAEEILRLL-PYRLVE-RQVDIEVY-YRETHSCSALL-YAYTLNNT.LATPRILAMLLE
-
+ Y  E  L  A  L  L  R  F  A  M  D  F  M  A  R  -  G  F  L  P  M  T  L  P  S  Y  A  R  -  V  W  A  I  A  -  D  L  Y  L  T  G  T  A  E  V  V  L  N  A  L  H  S  -  P  L  R  Y  A  G  Y  A  P  A  F  R  S  -  M  R  V  H  Q  F  H  K  V  E  Q  Y  V  L  T  -  F  Q  E  L  L  E  N  A  E  E  I  L  R  L  L  -  P  Y  R  L  V  E  -  R  Q  V  D  I  E  V  Y  -  Y  R  E  T  H  S  C  S  A  L  L  -  Y  A  Y  T  L  N  N  T  L  A  T  P  R  I  L  A  M  L  L  E 
 > ser_bact_A_asiaticus
-LQRALINFFLDEARK-GYEEIQPPILVN-MYELA-PLYLIPTAEVPVTNLYR-PIRHVAYTPCFRR-NRLHQFDKVEIVEIS-LETMRRYVESLVQKL-PYRVLK-FTYDIEVF-WLEVSSISNYD-LLHTLNGS.IALPRIMAALLE
-
+ L  Q  R  A  L  I  N  F  F  L  D  E  A  R  K  -  G  Y  E  E  I  Q  P  P  I  L  V  N  -  M  Y  E  L  A  -  P  L  Y  L  I  P  T  A  E  V  P  V  T  N  L  Y  R  -  P  I  R  H  V  A  Y  T  P  C  F  R  R  -  N  R  L  H  Q  F  D  K  V  E  I  V  E  I  S  -  L  E  T  M  R  R  Y  V  E  S  L  V  Q  K  L  -  P  Y  R  V  L  K  -  F  T  Y  D  I  E  V  F  -  W  L  E  V  S  S  I  S  N  Y  D  -  L  L  H  T  L  N  G  S  I  A  L  P  R  I  M  A  A  L  L  E 
 > ser_bact_B_burgdorferi
-LEIALINFSLNKLRD-GFDVFITPDVAR-IYKIE-DKYLVGTSEITLGGYYY-PIRMAGFSHCFRK-YRVHQFSKVEMFCFC-HDEFLSIQEQIFTEL-PYRVLN-KKYDIEAW-YGEVTSTSNCT-FAHMVNGT.IATTRVIISILE
-
+ L  E  I  A  L  I  N  F  S  L  N  K  L  R  D  -  G  F  D  V  F  I  T  P  D  V  A  R  -  I  Y  K  I  E  -  D  K  Y  L  V  G  T  S  E  I  T  L  G  G  Y  Y  Y  -  P  I  R  M  A  G  F  S  H  C  F  R  K  -  Y  R  V  H  Q  F  S  K  V  E  M  F  C  F  C  -  H  D  E  F  L  S  I  Q  E  Q  I  F  T  E  L  -  P  Y  R  V  L  N  -  K  K  Y  D  I  E  A  W  -  Y  G  E  V  T  S  T  S  N  C  T  -  F  A  H  M  V  N  G  T  I  A  T  T  R  V  I  I  S  I  L  E 
 > ser_bact_B_fragilis
-LQRALINFFLDEARK-GYTEIMPPTVVN-MYHCE-DLYLIPTAEVPVTNIYR-PIKNCAYTQCFRR-NRLHEFSKVELVRID-HQEMLDHVEGLLQKL-PYRILR-LCFDFEVY-WLEVSSVSNFD-LCHTLNGS.LALPRIVAALLE
-
+ L  Q  R  A  L  I  N  F  F  L  D  E  A  R  K  -  G  Y  T  E  I  M  P  P  T  V  V  N  -  M  Y  H  C  E  -  D  L  Y  L  I  P  T  A  E  V  P  V  T  N  I  Y  R  -  P  I  K  N  C  A  Y  T  Q  C  F  R  R  -  N  R  L  H  E  F  S  K  V  E  L  V  R  I  D  -  H  Q  E  M  L  D  H  V  E  G  L  L  Q  K  L  -  P  Y  R  I  L  R  -  L  C  F  D  F  E  V  Y  -  W  L  E  V  S  S  V  S  N  F  D  -  L  C  H  T  L  N  G  S  L  A  L  P  R  I  V  A  A  L  L  E 
 > ser_bact_B_licheniformis
-LERALYNFMLDLHVD.YGYTEVIPPYMVN-AFKIR-DYFLIPTAEVPITNLHR-PINYAAFSACFRS-IRQHQFNKVELVKFV-LEKLTNQAEKVLQLL-PYRVMS-KKYDIEVW-YREISSCSNFE-HVHTLNGS.LAVGRTVAALLE
-
+ L  E  R  A  L  Y  N  F  M  L  D  L  H  V  D  Y  G  Y  T  E  V  I  P  P  Y  M  V  N  -  A  F  K  I  R  -  D  Y  F  L  I  P  T  A  E  V  P  I  T  N  L  H  R  -  P  I  N  Y  A  A  F  S  A  C  F  R  S  -  I  R  Q  H  Q  F  N  K  V  E  L  V  K  F  V  -  L  E  K  L  T  N  Q  A  E  K  V  L  Q  L  L  -  P  Y  R  V  M  S  -  K  K  Y  D  I  E  V  W  -  Y  R  E  I  S  S  C  S  N  F  E  -  H  V  H  T  L  N  G  S  L  A  V  G  R  T  V  A  A  L  L  E 
 > ser_bact_B_thailandensis
-LHRALAQFMLDTHTQ.HGYSETYTPYIVN-MFRVE-TQYLISTSEISLTNTVR-PIKLTAHSPCFRS-IRQHQFDKVEMVQIV-LDEMVGHAEAILQTL-PYRVVA-KTFDLEVW-YREISSCSNTE-LVHTLNGS.LAVGRTLVAVLE
-
+ L  H  R  A  L  A  Q  F  M  L  D  T  H  T  Q  H  G  Y  S  E  T  Y  T  P  Y  I  V  N  -  M  F  R  V  E  -  T  Q  Y  L  I  S  T  S  E  I  S  L  T  N  T  V  R  -  P  I  K  L  T  A  H  S  P  C  F  R  S  -  I  R  Q  H  Q  F  D  K  V  E  M  V  Q  I  V  -  L  D  E  M  V  G  H  A  E  A  I  L  Q  T  L  -  P  Y  R  V  V  A  -  K  T  F  D  L  E  V  W  -  Y  R  E  I  S  S  C  S  N  T  E  -  L  V  H  T  L  N  G  S  L  A  V  G  R  T  L  V  A  V  L  E 
 > ser_bact_C_aggregans
-LQRAVIQWLLDLHLR-GYQEIYTPFVVK-LYRDE-GLWLVPTAEVPLTGLYA-PIYHAAYTPCFRK-KRGHQFDKVEMYMFV-LEKLRRDAEECARLL-PFRTKL-KTYDIEVW-WLEVSSCSNVE-FVHTLNGS.LGLPRTIIAIME
-
+ L  Q  R  A  V  I  Q  W  L  L  D  L  H  L  R  -  G  Y  Q  E  I  Y  T  P  F  V  V  K  -  L  Y  R  D  E  -  G  L  W  L  V  P  T  A  E  V  P  L  T  G  L  Y  A  -  P  I  Y  H  A  A  Y  T  P  C  F  R  K  -  K  R  G  H  Q  F  D  K  V  E  M  Y  M  F  V  -  L  E  K  L  R  R  D  A  E  E  C  A  R  L  L  -  P  F  R  T  K  L  -  K  T  Y  D  I  E  V  W  -  W  L  E  V  S  S  C  S  N  V  E  -  F  V  H  T  L  N  G  S  L  G  L  P  R  T  I  I  A  I  M  E 
 > ser_bact_C_jejuni
-LSRALVNYMIDFNRS-GFEFVNVPFLVN-MYKVD-DLYLISTSEIPVTNLYS-PIKMTCYSACFRK-IRQHQFEKVELVSIT-FNEMLECASDLLSSL-AHRHLM-KTVDLEVW-YREISSVSNCR-LVHTLNGS.LAVGRTLVAIME
-
+ L  S  R  A  L  V  N  Y  M  I  D  F  N  R  S  -  G  F  E  F  V  N  V  P  F  L  V  N  -  M  Y  K  V  D  -  D  L  Y  L  I  S  T  S  E  I  P  V  T  N  L  Y  S  -  P  I  K  M  T  C  Y  S  A  C  F  R  K  -  I  R  Q  H  Q  F  E  K  V  E  L  V  S  I  T  -  F  N  E  M  L  E  C  A  S  D  L  L  S  S  L  -  A  H  R  H  L  M  -  K  T  V  D  L  E  V  W  -  Y  R  E  I  S  S  V  S  N  C  R  -  L  V  H  T  L  N  G  S  L  A  V  G  R  T  L  V  A  I  M  E 
 > ser_bact_D_radiodurans
-LEMAVLMFALDFLSQ-GFTPLSTTALVR-VYKLE-ELLLAGTAEVPINSLYA-PLTFAGFSAAFRR-IRVHEFRKVEQYVLC-FERLLSNAEGLLQAL-PYRVIQ-LMYDIETW-YRETHSCSYLG-YAHTLNNT.IASPRILVPLLE
-
+ L  E  M  A  V  L  M  F  A  L  D  F  L  S  Q  -  G  F  T  P  L  S  T  T  A  L  V  R  -  V  Y  K  L  E  -  E  L  L  L  A  G  T  A  E  V  P  I  N  S  L  Y  A  -  P  L  T  F  A  G  F  S  A  A  F  R  R  -  I  R  V  H  E  F  R  K  V  E  Q  Y  V  L  C  -  F  E  R  L  L  S  N  A  E  G  L  L  Q  A  L  -  P  Y  R  V  I  Q  -  L  M  Y  D  I  E  T  W  -  Y  R  E  T  H  S  C  S  Y  L  G  -  Y  A  H  T  L  N  N  T  I  A  S  P  R  I  L  V  P  L  L  E 
 > ser_bact_E_coli
-MHRALSQFMLDLHTE.HGYSENYVPYLVN-LFHTR-NYALIPTAEVPLTNLVR-PIKMTAHTPCFRS-IRMHQFDKVEMVQIV-LEEMTGHAEKVLQLL-PYRKII-KTYDLEVW-YREISSCSNVW-LVHTLNGS.LAVGRTLVAVME
-
+ M  H  R  A  L  S  Q  F  M  L  D  L  H  T  E  H  G  Y  S  E  N  Y  V  P  Y  L  V  N  -  L  F  H  T  R  -  N  Y  A  L  I  P  T  A  E  V  P  L  T  N  L  V  R  -  P  I  K  M  T  A  H  T  P  C  F  R  S  -  I  R  M  H  Q  F  D  K  V  E  M  V  Q  I  V  -  L  E  E  M  T  G  H  A  E  K  V  L  Q  L  L  -  P  Y  R  K  I  I  -  K  T  Y  D  L  E  V  W  -  Y  R  E  I  S  S  C  S  N  V  W  -  L  V  H  T  L  N  G  S  L  A  V  G  R  T  L  V  A  V  M  E 
 > ser_bact_G_obscuriglobus
-LEIALVQYAMQTAVK-GYTPIITPDLAR-VYTVA-DLCLIATAEITLGGMHR-PKRYVGLSHCFRT-YRVHQFTKVEMFAFC-HEEIRALEEKIFQGL-CFHVID-RKYDLEAW-YGEITSTSNCT-FAHTLNGT.VACTRALVAILE
-
+ L  E  I  A  L  V  Q  Y  A  M  Q  T  A  V  K  -  G  Y  T  P  I  I  T  P  D  L  A  R  -  V  Y  T  V  A  -  D  L  C  L  I  A  T  A  E  I  T  L  G  G  M  H  R  -  P  K  R  Y  V  G  L  S  H  C  F  R  T  -  Y  R  V  H  Q  F  T  K  V  E  M  F  A  F  C  -  H  E  E  I  R  A  L  E  E  K  I  F  Q  G  L  -  C  F  H  V  I  D  -  R  K  Y  D  L  E  A  W  -  Y  G  E  I  T  S  T  S  N  C  T  -  F  A  H  T  L  N  G  T  V  A  C  T  R  A  L  V  A  I  L  E 
 > ser_bact_G_stearothermophilus
-LERALINFMLDIHLD.FGYEEVLPPYLVN-AFHLD-DYFLIPTAEVPVTNLHR-PLYYAAYSACFRA-IRQHQFNKVELVKFV-LEKLTRQAETILQRL-PYRVVA-KTYDIEVW-YREISSCSNFE-YVHTLNGS.LAIGRTVAAILE
-
+ L  E  R  A  L  I  N  F  M  L  D  I  H  L  D  F  G  Y  E  E  V  L  P  P  Y  L  V  N  -  A  F  H  L  D  -  D  Y  F  L  I  P  T  A  E  V  P  V  T  N  L  H  R  -  P  L  Y  Y  A  A  Y  S  A  C  F  R  A  -  I  R  Q  H  Q  F  N  K  V  E  L  V  K  F  V  -  L  E  K  L  T  R  Q  A  E  T  I  L  Q  R  L  -  P  Y  R  V  V  A  -  K  T  Y  D  I  E  V  W  -  Y  R  E  I  S  S  C  S  N  F  E  -  Y  V  H  T  L  N  G  S  L  A  I  G  R  T  V  A  A  I  L  E 
 > ser_bact_H_aurantiacus
-LQRALISWMIDMHVD.HGYTELAVPYLVK-IFHIE-DLWLIPTAEVPVTNLHR-PLRYVAHTPCFRN-KRLYQFDKVEMVKMV-LFSLISNAEDVCKGL-PYRLLQ-VKYDLEMW-WLEVSSCGLFG-FVHTLNGS.LALPRVIIAILE
-
+ L  Q  R  A  L  I  S  W  M  I  D  M  H  V  D  H  G  Y  T  E  L  A  V  P  Y  L  V  K  -  I  F  H  I  E  -  D  L  W  L  I  P  T  A  E  V  P  V  T  N  L  H  R  -  P  L  R  Y  V  A  H  T  P  C  F  R  N  -  K  R  L  Y  Q  F  D  K  V  E  M  V  K  M  V  -  L  F  S  L  I  S  N  A  E  D  V  C  K  G  L  -  P  Y  R  L  L  Q  -  V  K  Y  D  L  E  M  W  -  W  L  E  V  S  S  C  G  L  F  G  -  F  V  H  T  L  N  G  S  L  A  L  P  R  V  I  I  A  I  L  E 
 > ser_bact_M_mobile
-LIRALESFMLDTHEK-GYSEIMPPFLVN-LFKIE-DLYLIPTAEVPVTNLFN-NSKFSSFTNCFRS-IRLHQFNKVELVEFA-FNSVLKNAKYLLELL-PYREVL-KTIDLELW-YREVSSVSYFG-YVHTINGS.LAIDRVLAAILE
-
+ L  I  R  A  L  E  S  F  M  L  D  T  H  E  K  -  G  Y  S  E  I  M  P  P  F  L  V  N  -  L  F  K  I  E  -  D  L  Y  L  I  P  T  A  E  V  P  V  T  N  L  F  N  -  N  S  K  F  S  S  F  T  N  C  F  R  S  -  I  R  L  H  Q  F  N  K  V  E  L  V  E  F  A  -  F  N  S  V  L  K  N  A  K  Y  L  L  E  L  L  -  P  Y  R  E  V  L  -  K  T  I  D  L  E  L  W  -  Y  R  E  V  S  S  V  S  Y  F  G  -  Y  V  H  T  I  N  G  S  L  A  I  D  R  V  L  A  A  I  L  E 
 > ser_bact_M_smegmatis
-LQLGLLQLATQVAVQ-GFTLMIPPVLVR-VYRLE-DMYLVGTSEVPLAGYHA-PRRYAGWSSCFRR-IRVHQFDKVEGFIYC-HQRLLGWQREMLAAI-PYRVID-RKYDCEAW-YRELTSTSNCT-IAATLNGT-ATTRWLVAILE
-
+ L  Q  L  G  L  L  Q  L  A  T  Q  V  A  V  Q  -  G  F  T  L  M  I  P  P  V  L  V  R  -  V  Y  R  L  E  -  D  M  Y  L  V  G  T  S  E  V  P  L  A  G  Y  H  A  -  P  R  R  Y  A  G  W  S  S  C  F  R  R  -  I  R  V  H  Q  F  D  K  V  E  G  F  I  Y  C  -  H  Q  R  L  L  G  W  Q  R  E  M  L  A  A  I  -  P  Y  R  V  I  D  -  R  K  Y  D  C  E  A  W  -  Y  R  E  L  T  S  T  S  N  C  T  -  I  A  A  T  L  N  G  T  -  A  T  T  R  W  L  V  A  I  L  E 
 > ser_bact_P_mikurensis
-LHQAVLRHAFDRMVE.HGFTPMSSAALVK-VYDVA-GLALSGTGEVGLMAYHQ-PRKYVTLSTCFRR-YRIHQFDKVEQVILC-HRDMLGHVTGMLQDL-PHRELQ-DMVDVECW-WGETHSASRLY-FCHSLNNT.AASPRLLIPLLE
-
+ L  H  Q  A  V  L  R  H  A  F  D  R  M  V  E  H  G  F  T  P  M  S  S  A  A  L  V  K  -  V  Y  D  V  A  -  G  L  A  L  S  G  T  G  E  V  G  L  M  A  Y  H  Q  -  P  R  K  Y  V  T  L  S  T  C  F  R  R  -  Y  R  I  H  Q  F  D  K  V  E  Q  V  I  L  C  -  H  R  D  M  L  G  H  V  T  G  M  L  Q  D  L  -  P  H  R  E  L  Q  -  D  M  V  D  V  E  C  W  -  W  G  E  T  H  S  A  S  R  L  Y  -  F  C  H  S  L  N  N  T  A  A  S  P  R  L  L  I  P  L  L  E 
 > ser_bact_S_aureus
-LERALMNYMITKHTT.HGYTEMMVPQLVN-LFKVE-GLYTIPTAEVPLTNFYR-PEKFTGQSACFRS-IRLHQFDKVEMVRFE-LEEMTTNAEAILEEL-PYRRVI-KTYDLEVW-YKEISSCSNCT-LAHTLNGS.LAVGRTFAAIVE
-
+ L  E  R  A  L  M  N  Y  M  I  T  K  H  T  T  H  G  Y  T  E  M  M  V  P  Q  L  V  N  -  L  F  K  V  E  -  G  L  Y  T  I  P  T  A  E  V  P  L  T  N  F  Y  R  -  P  E  K  F  T  G  Q  S  A  C  F  R  S  -  I  R  L  H  Q  F  D  K  V  E  M  V  R  F  E  -  L  E  E  M  T  T  N  A  E  A  I  L  E  E  L  -  P  Y  R  R  V  I  -  K  T  Y  D  L  E  V  W  -  Y  K  E  I  S  S  C  S  N  C  T  -  L  A  H  T  L  N  G  S  L  A  V  G  R  T  F  A  A  I  V  E 
 > ser_bact_S_elongatus
-LERALIAFMLDRQTA-GYTEVAPPYLIN-SFRCD-DLWLTPTAEVPLTSLYR-PLRYCAYTPCFRR-IRLHQFNKVELYQFV-HQQLLANAEAILQAL-PYRTIE-KTYDIEVW-YREISSCSNCG-FVHTLNGS.LAVGRTMAAVLE
-
+ L  E  R  A  L  I  A  F  M  L  D  R  Q  T  A  -  G  Y  T  E  V  A  P  P  Y  L  I  N  -  S  F  R  C  D  -  D  L  W  L  T  P  T  A  E  V  P  L  T  S  L  Y  R  -  P  L  R  Y  C  A  Y  T  P  C  F  R  R  -  I  R  L  H  Q  F  N  K  V  E  L  Y  Q  F  V  -  H  Q  Q  L  L  A  N  A  E  A  I  L  Q  A  L  -  P  Y  R  T  I  E  -  K  T  Y  D  I  E  V  W  -  Y  R  E  I  S  S  C  S  N  C  G  -  F  V  H  T  L  N  G  S  L  A  V  G  R  T  M  A  A  V  L  E 
 > ser_bact_T_maritima
-LERALINFMLDVHTK.HGYTEVWVPHLVK-LYLAE-DLFLIPTAEVPLAALHS-PKKYVSYTPCYRR-IRQHQFDKVELVWVT-LEELVKDAETILRKL-PYRVVS-KTYDIEVW-YKEISSCSNVT-YVHTLNGS.IAVGRALVAILE
-
+ L  E  R  A  L  I  N  F  M  L  D  V  H  T  K  H  G  Y  T  E  V  W  V  P  H  L  V  K  -  L  Y  L  A  E  -  D  L  F  L  I  P  T  A  E  V  P  L  A  A  L  H  S  -  P  K  K  Y  V  S  Y  T  P  C  Y  R  R  -  I  R  Q  H  Q  F  D  K  V  E  L  V  W  V  T  -  L  E  E  L  V  K  D  A  E  T  I  L  R  K  L  -  P  Y  R  V  V  S  -  K  T  Y  D  I  E  V  W  -  Y  K  E  I  S  S  C  S  N  V  T  -  Y  V  H  T  L  N  G  S  I  A  V  G  R  A  L  V  A  I  L  E 
 > ser_bact_C_thermalis
-LERALIQFMLDRQTA-GYVEIIPPFLIN-SFKCA-DLWLSPTAEVPITNFYR-PINHCAYTPCFRR-IRLHQFNKVELYKFV-HQKLLHDAEAILQAL-PYRVLE-KTYDLEVW-YREISSCSNCM-YVHTLNGS.LAVGRTMAAILE
-
+ L  E  R  A  L  I  Q  F  M  L  D  R  Q  T  A  -  G  Y  V  E  I  I  P  P  F  L  I  N  -  S  F  K  C  A  -  D  L  W  L  S  P  T  A  E  V  P  I  T  N  F  Y  R  -  P  I  N  H  C  A  Y  T  P  C  F  R  R  -  I  R  L  H  Q  F  N  K  V  E  L  Y  K  F  V  -  H  Q  K  L  L  H  D  A  E  A  I  L  Q  A  L  -  P  Y  R  V  L  E  -  K  T  Y  D  L  E  V  W  -  Y  R  E  I  S  S  C  S  N  C  M  -  Y  V  H  T  L  N  G  S  L  A  V  G  R  T  M  A  A  I  L  E 
 > thr_bact_1evk_E_coli
-IFRELEVFVRSKLKEYQYQEVKGPFMMD-MFTTS-EYCIKPMNCPGHVQIFN-PLRMAEFGSCHRN-MRVRGFTQDDAHIFC-VNGCIRLVYDMYSTF-KIVVKL-PKIEFTLY-AWQCGTVQLDF-VPVMIHRA.L.SMERFIGILTE
-
+ I  F  R  E  L  E  V  F  V  R  S  K  L  K  E  Y  Q  Y  Q  E  V  K  G  P  F  M  M  D  -  M  F  T  T  S  -  E  Y  C  I  K  P  M  N  C  P  G  H  V  Q  I  F  N  -  P  L  R  M  A  E  F  G  S  C  H  R  N  -  M  R  V  R  G  F  T  Q  D  D  A  H  I  F  C  -  V  N  G  C  I  R  L  V  Y  D  M  Y  S  T  F  -  K  I  V  V  K  L  -  P  K  I  E  F  T  L  Y  -  A  W  Q  C  G  T  V  Q  L  D  F  -  V  P  V  M  I  H  R  A  L  S  M  E  R  F  I  G  I  L  T  E 
 > thr_bact_1nyr_S_aureus
-IRREIERYIVDKEVSMGYDHVYTPVLAN-MFPPM-SMVLRPMNCPHHMMIYA-PIRIAELGTMHRY-QRVRGMTLNDSHIFV-FKRVVNMIIDVYKDF-DYSFRL-PKLDVQVK-EETLSTAQLDF-RPVVIHRGV..TMERFVAFLT
-
+ I  R  R  E  I  E  R  Y  I  V  D  K  E  V  S  M  G  Y  D  H  V  Y  T  P  V  L  A  N  -  M  F  P  P  M  -  S  M  V  L  R  P  M  N  C  P  H  H  M  M  I  Y  A  -  P  I  R  I  A  E  L  G  T  M  H  R  Y  -  Q  R  V  R  G  M  T  L  N  D  S  H  I  F  V  -  F  K  R  V  V  N  M  I  I  D  V  Y  K  D  F  -  D  Y  S  F  R  L  -  P  K  L  D  V  Q  V  K  -  E  E  T  L  S  T  A  Q  L  D  F  -  R  P  V  V  I  H  R  G  V  T  M  E  R  F  V  A  F  L  T  - 
 > thr_bact_S_aureus
-IRREIERYIVDKEVSMGYDHVYTPVLAN-MFPPM-SMVLRPMNCPHHMMIYA-PIRIAELGTMHRY-QRVRGMTLNDSHIFV-FKRVVNMIIDVYKDF-DYSFRL-PKLDVQVK-EETLSTAQLDF-RPVVIHRGV..TMERFVAFLTE
-
+ I  R  R  E  I  E  R  Y  I  V  D  K  E  V  S  M  G  Y  D  H  V  Y  T  P  V  L  A  N  -  M  F  P  P  M  -  S  M  V  L  R  P  M  N  C  P  H  H  M  M  I  Y  A  -  P  I  R  I  A  E  L  G  T  M  H  R  Y  -  Q  R  V  R  G  M  T  L  N  D  S  H  I  F  V  -  F  K  R  V  V  N  M  I  I  D  V  Y  K  D  F  -  D  Y  S  F  R  L  -  P  K  L  D  V  Q  V  K  -  E  E  T  L  S  T  A  Q  L  D  F  -  R  P  V  V  I  H  R  G  V  T  M  E  R  F  V  A  F  L  T  E 
 > thr_bact_A_aeolicus
-YRKVLEDYLREEHLKRGYQLVYTPHVGK-MFPSM-EYYVKPMNCPFHIAIYK-PLKLFELGTVYRY-LRVRGFTQDDAHIVC-IRETLDFALSTLKDF-EFKIYL-PKIDVKIR-MWQLSTIQFDF-RPYMIHRAL..SIERFTGILLE
-
+ Y  R  K  V  L  E  D  Y  L  R  E  E  H  L  K  R  G  Y  Q  L  V  Y  T  P  H  V  G  K  -  M  F  P  S  M  -  E  Y  Y  V  K  P  M  N  C  P  F  H  I  A  I  Y  K  -  P  L  K  L  F  E  L  G  T  V  Y  R  Y  -  L  R  V  R  G  F  T  Q  D  D  A  H  I  V  C  -  I  R  E  T  L  D  F  A  L  S  T  L  K  D  F  -  E  F  K  I  Y  L  -  P  K  I  D  V  K  I  R  -  M  W  Q  L  S  T  I  Q  F  D  F  -  R  P  Y  M  I  H  R  A  L  S  I  E  R  F  T  G  I  L  L  E 
 > thr_bact_A_asiaticus
-LREQLEQFLRRAQVKAGYQPVVTPHIGH-SFQPI-EFFLKPMNCPHHCEIYK-PVRLAEFGTVYRY-VRTRGFTQDDAHIFC-FAKVIDLVTYVFSAL-DYTARL-PKLDFMVK-NWQLGTVQLDY-RPVMIHRA.F.SLERFIAILLE
-
+ L  R  E  Q  L  E  Q  F  L  R  R  A  Q  V  K  A  G  Y  Q  P  V  V  T  P  H  I  G  H  -  S  F  Q  P  I  -  E  F  F  L  K  P  M  N  C  P  H  H  C  E  I  Y  K  -  P  V  R  L  A  E  F  G  T  V  Y  R  Y  -  V  R  T  R  G  F  T  Q  D  D  A  H  I  F  C  -  F  A  K  V  I  D  L  V  T  Y  V  F  S  A  L  -  D  Y  T  A  R  L  -  P  K  L  D  F  M  V  K  -  N  W  Q  L  G  T  V  Q  L  D  Y  -  R  P  V  M  I  H  R  A  F  S  L  E  R  F  I  A  I  L  L  E 
 > thr_bact_B_burgdorferi
-IRALIEDFWREEHSKNGYDILFTPHIGK-MFEKI-DYYLKPMNCPFHIAIYN-PFRWAELGTVYRY-MRARGFTQDDAHIIC-IKEVLRFAIYMWSKF-NLKAYL-PKIDLKIV-EWQMSTIQFDF-RPFMIHRAL..SIERFFGILVE
-
+ I  R  A  L  I  E  D  F  W  R  E  E  H  S  K  N  G  Y  D  I  L  F  T  P  H  I  G  K  -  M  F  E  K  I  -  D  Y  Y  L  K  P  M  N  C  P  F  H  I  A  I  Y  N  -  P  F  R  W  A  E  L  G  T  V  Y  R  Y  -  M  R  A  R  G  F  T  Q  D  D  A  H  I  I  C  -  I  K  E  V  L  R  F  A  I  Y  M  W  S  K  F  -  N  L  K  A  Y  L  -  P  K  I  D  L  K  I  V  -  E  W  Q  M  S  T  I  Q  F  D  F  -  R  P  F  M  I  H  R  A  L  S  I  E  R  F  F  G  I  L  V  E 
 > thr_bact_B_fragilis
-LRLRLQDFLRRIQTRYDYQEVITPPIGN-AFQPI-EYFLKPMNCPHHCEIYK-PLRIAEFGTVCRY-TRVRSFTQDDAHIFC-FLRVMDIISIVFRSM-NFEAQI-PKLDFMVK-RWQLGTIQVDY-RPVMIHRA.F.SMERFVAVLIE
-
+ L  R  L  R  L  Q  D  F  L  R  R  I  Q  T  R  Y  D  Y  Q  E  V  I  T  P  P  I  G  N  -  A  F  Q  P  I  -  E  Y  F  L  K  P  M  N  C  P  H  H  C  E  I  Y  K  -  P  L  R  I  A  E  F  G  T  V  C  R  Y  -  T  R  V  R  S  F  T  Q  D  D  A  H  I  F  C  -  F  L  R  V  M  D  I  I  S  I  V  F  R  S  M  -  N  F  E  A  Q  I  -  P  K  L  D  F  M  V  K  -  R  W  Q  L  G  T  I  Q  V  D  Y  -  R  P  V  M  I  H  R  A  F  S  M  E  R  F  V  A  V  L  I  E 
 > thr_bact_B_licheniformis
-IRRVIERYIVDKELALGYEHVYTPVLGS-MFPPM-TLVLRPMNCPHHMMIYK-PIRIAELGTMHRY-QRVRGMTLNDAHIFV-FIRTVRLIQDVYEDF-EYSFRL-PKLDVQVK-EETLSTVQLDF-RPVVIHRGV..TMERFVAFLIE
-
+ I  R  R  V  I  E  R  Y  I  V  D  K  E  L  A  L  G  Y  E  H  V  Y  T  P  V  L  G  S  -  M  F  P  P  M  -  T  L  V  L  R  P  M  N  C  P  H  H  M  M  I  Y  K  -  P  I  R  I  A  E  L  G  T  M  H  R  Y  -  Q  R  V  R  G  M  T  L  N  D  A  H  I  F  V  -  F  I  R  T  V  R  L  I  Q  D  V  Y  E  D  F  -  E  Y  S  F  R  L  -  P  K  L  D  V  Q  V  K  -  E  E  T  L  S  T  V  Q  L  D  F  -  R  P  V  V  I  H  R  G  V  T  M  E  R  F  V  A  F  L  I  E 
 > thr_bact_B_thailandensis
-LWQRVEQYMRRRLDAAGYLEIKTPMIMD-MFTTE-DYAIKPMNCPGHVQVFK-PLRYAEFGSCHRN-MRVRGFVQDDAHIFC-AIAFNKLAMSVYEDF-RIDIKL-PKIEYHIK-SWQCGTLQLDM-RPVMLHRA.V.SMERFLGILIE
-
+ L  W  Q  R  V  E  Q  Y  M  R  R  R  L  D  A  A  G  Y  L  E  I  K  T  P  M  I  M  D  -  M  F  T  T  E  -  D  Y  A  I  K  P  M  N  C  P  G  H  V  Q  V  F  K  -  P  L  R  Y  A  E  F  G  S  C  H  R  N  -  M  R  V  R  G  F  V  Q  D  D  A  H  I  F  C  -  A  I  A  F  N  K  L  A  M  S  V  Y  E  D  F  -  R  I  D  I  K  L  -  P  K  I  E  Y  H  I  K  -  S  W  Q  C  G  T  L  Q  L  D  M  -  R  P  V  M  L  H  R  A  V  S  M  E  R  F  L  G  I  L  I  E 
 > thr_bact_B_bacillaceae
-IRRIIERYIVDKEIKLGYQHVYTPVLGS-MFPPM-ELVLRPMNCPHHMMIYK-PIRIAELGTMHRY-QRVRGMTLNDAHIFV-FIRVVRLIEEVYEDF-DYSFRL-PKLDVQVR-DETLSTVQLDF-RPVVIHRGV..TMERFVAFLIE
-
+ I  R  R  I  I  E  R  Y  I  V  D  K  E  I  K  L  G  Y  Q  H  V  Y  T  P  V  L  G  S  -  M  F  P  P  M  -  E  L  V  L  R  P  M  N  C  P  H  H  M  M  I  Y  K  -  P  I  R  I  A  E  L  G  T  M  H  R  Y  -  Q  R  V  R  G  M  T  L  N  D  A  H  I  F  V  -  F  I  R  V  V  R  L  I  E  E  V  Y  E  D  F  -  D  Y  S  F  R  L  -  P  K  L  D  V  Q  V  R  -  D  E  T  L  S  T  V  Q  L  D  F  -  R  P  V  V  I  H  R  G  V  T  M  E  R  F  V  A  F  L  I  E 
 > thr_bact_C_aggregans
-IRHEMEKFVREVQTRYGYQHVWTGNVVK-MFPPM-IFRLKPMNCPSHMTLYN-PLRFAEFATLYRY-TRVRALTQDDCHIFC-FSLALQVIREVLGTY-DYKVRL-PKADFLAR-EWQLSTIQVDF-TPVVLHRA.T.TTERFMGILIE
-
+ I  R  H  E  M  E  K  F  V  R  E  V  Q  T  R  Y  G  Y  Q  H  V  W  T  G  N  V  V  K  -  M  F  P  P  M  -  I  F  R  L  K  P  M  N  C  P  S  H  M  T  L  Y  N  -  P  L  R  F  A  E  F  A  T  L  Y  R  Y  -  T  R  V  R  A  L  T  Q  D  D  C  H  I  F  C  -  F  S  L  A  L  Q  V  I  R  E  V  L  G  T  Y  -  D  Y  K  V  R  L  -  P  K  A  D  F  L  A  R  -  E  W  Q  L  S  T  I  Q  V  D  F  -  T  P  V  V  L  H  R  A  T  T  T  E  R  F  M  G  I  L  I  E 
 > thr_bact_C_jejuni
-LRSKLEHMLYKIHRLRGYEPVRGPELLK-MYFTQ-EYGIKPMNCVGHIKIYQ-PLKFFEYGVVHRH-FRVREFTQDDAHIFC-VLEILAFVDNLMKLF-YEMEI-PKIDIKIT-KWQCGTIQVDF-QPVMLHRA.L.SFERFIGILTE
-
+ L  R  S  K  L  E  H  M  L  Y  K  I  H  R  L  R  G  Y  E  P  V  R  G  P  E  L  L  K  -  M  Y  F  T  Q  -  E  Y  G  I  K  P  M  N  C  V  G  H  I  K  I  Y  Q  -  P  L  K  F  F  E  Y  G  V  V  H  R  H  -  F  R  V  R  E  F  T  Q  D  D  A  H  I  F  C  -  V  L  E  I  L  A  F  V  D  N  L  M  K  L  F  -  -  Y  E  M  E  I  -  P  K  I  D  I  K  I  T  -  K  W  Q  C  G  T  I  Q  V  D  F  -  Q  P  V  M  L  H  R  A  L  S  F  E  R  F  I  G  I  L  T  E 
 > thr_bact_D_radiodurans
-LREELTNFMKEQQFQRGYQGVVTPNIGN-QFNPI-EYMLKPMNCPHHVRIYA-PVRLAEFGTVYRY-TRVRGFTQDDAHIFC-FLDVLDLTVLVLKTF-DVRFRV-PKLDFVVK-EWQLGTIQVDY-RPIMIHRA.F.SIERFTGILIE
-
+ L  R  E  E  L  T  N  F  M  K  E  Q  Q  F  Q  R  G  Y  Q  G  V  V  T  P  N  I  G  N  -  Q  F  N  P  I  -  E  Y  M  L  K  P  M  N  C  P  H  H  V  R  I  Y  A  -  P  V  R  L  A  E  F  G  T  V  Y  R  Y  -  T  R  V  R  G  F  T  Q  D  D  A  H  I  F  C  -  F  L  D  V  L  D  L  T  V  L  V  L  K  T  F  -  D  V  R  F  R  V  -  P  K  L  D  F  V  V  K  -  E  W  Q  L  G  T  I  Q  V  D  Y  -  R  P  I  M  I  H  R  A  F  S  I  E  R  F  T  G  I  L  I  E 
 > thr_bact_E_coli
-IFRELEVFVRSKLKEYQYQEVKGPFMMD-MFTT-EYCIKPMNCPGHVQIFN-PLRMAEFGSCHRN-MRVRGFTQDDAHIFC-VNGCIRLVYDMYSTF-KIVVKL-PKIEFTLY-AWQCGTVQLDF-VPVMIHRA.L.SMERFIGILTE
-
+ I  F  R  E  L  E  V  F  V  R  S  K  L  K  E  Y  Q  Y  Q  E  V  K  G  P  F  M  M  D  -  M  F  -  T  T  -  E  Y  C  I  K  P  M  N  C  P  G  H  V  Q  I  F  N  -  P  L  R  M  A  E  F  G  S  C  H  R  N  -  M  R  V  R  G  F  T  Q  D  D  A  H  I  F  C  -  V  N  G  C  I  R  L  V  Y  D  M  Y  S  T  F  -  K  I  V  V  K  L  -  P  K  I  E  F  T  L  Y  -  A  W  Q  C  G  T  V  Q  L  D  F  -  V  P  V  M  I  H  R  A  L  S  M  E  R  F  I  G  I  L  T  E 
 > thr_bact_G_obscuriglobus
-VRRLLETFITDYERRAGYLHVFTPDIAK-MFPPM-ELCLRPMCCPHHIQVYK-PIRIAELGNMYRF-SRVRCMTLNDAHLFV-IAGVLSLMKKAYADL-EYRFRL-PKIDVQVK-EETLSTIQADQ-RPVMIHRG.I.TMERMMSYLIE
-
+ V  R  R  L  L  E  T  F  I  T  D  Y  E  R  R  A  G  Y  L  H  V  F  T  P  D  I  A  K  -  M  F  P  P  M  -  E  L  C  L  R  P  M  C  C  P  H  H  I  Q  V  Y  K  -  P  I  R  I  A  E  L  G  N  M  Y  R  F  -  S  R  V  R  C  M  T  L  N  D  A  H  L  F  V  -  I  A  G  V  L  S  L  M  K  K  A  Y  A  D  L  -  E  Y  R  F  R  L  -  P  K  I  D  V  Q  V  K  -  E  E  T  L  S  T  I  Q  A  D  Q  -  R  P  V  M  I  H  R  G  I  T  M  E  R  M  M  S  Y  L  I  E 
 > thr_bact_H_aurantiacus
-LRDVLERFLRQAQIERGYLPVVTPHMGK-IFPPM-IYLLKPMNCPHHIEIYA-PLRLAEFGTVYRY-LRVRSFTVDDSHLFV-FLKVVDLILFVFGTM-DFQARV-PKLDFIFR-QWQLGTVQVDY-RPIMIHRA.F.SIERFVGTLIE
-
+ L  R  D  V  L  E  R  F  L  R  Q  A  Q  I  E  R  G  Y  L  P  V  V  T  P  H  M  G  K  -  I  F  P  P  M  -  I  Y  L  L  K  P  M  N  C  P  H  H  I  E  I  Y  A  -  P  L  R  L  A  E  F  G  T  V  Y  R  Y  -  L  R  V  R  S  F  T  V  D  D  S  H  L  F  V  -  F  L  K  V  V  D  L  I  L  F  V  F  G  T  M  -  D  F  Q  A  R  V  -  P  K  L  D  F  I  F  R  -  Q  W  Q  L  G  T  V  Q  V  D  Y  -  R  P  I  M  I  H  R  A  F  S  I  E  R  F  V  G  T  L  I  E 
 > thr_bact_P_mikurensis
-IRQELQTFIGEHLARQGYSQVFTPHIGK-QFPPL-GYLLKPMNCPHHIRIYA-PIRLAEFGTVYRW-TRVRGFTQDDAHLFV-VRGCIDLVKAVFETL-DYRVRV-PKIDFVVR-EWQLGTVQVDY-VPVMIHRA.F.SMERFVGCLIE
-
+ I  R  Q  E  L  Q  T  F  I  G  E  H  L  A  R  Q  G  Y  S  Q  V  F  T  P  H  I  G  K  -  Q  F  P  P  L  -  G  Y  L  L  K  P  M  N  C  P  H  H  I  R  I  Y  A  -  P  I  R  L  A  E  F  G  T  V  Y  R  W  -  T  R  V  R  G  F  T  Q  D  D  A  H  L  F  V  -  V  R  G  C  I  D  L  V  K  A  V  F  E  T  L  -  D  Y  R  V  R  V  -  P  K  I  D  F  V  V  R  -  E  W  Q  L  G  T  V  Q  V  D  Y  -  V  P  V  M  I  H  R  A  F  S  M  E  R  F  V  G  C  L  I  E 
 > thr_bact_S_elongatus
-LRSTLEDFLKQEQMKRGYQSVVTPHLAR-MFPMM-GFVLKPMNCPFHIQIYK-PIRLAEFGTVYRY-TRVRGFTVDDSHLFV-FLSVVDLILSVFKAL-KFKARL-PKLDFIFQ-EWQLGTVQVDY-RPVMIHRA.F.SLERLIGILIE
-
+ L  R  S  T  L  E  D  F  L  K  Q  E  Q  M  K  R  G  Y  Q  S  V  V  T  P  H  L  A  R  -  M  F  P  M  M  -  G  F  V  L  K  P  M  N  C  P  F  H  I  Q  I  Y  K  -  P  I  R  L  A  E  F  G  T  V  Y  R  Y  -  T  R  V  R  G  F  T  V  D  D  S  H  L  F  V  -  F  L  S  V  V  D  L  I  L  S  V  F  K  A  L  -  K  F  K  A  R  L  -  P  K  L  D  F  I  F  Q  -  E  W  Q  L  G  T  V  Q  V  D  Y  -  R  P  V  M  I  H  R  A  F  S  L  E  R  L  I  G  I  L  I  E 
 > thr_bact_T_maritima
-VLNELMKFSRELHRERGYQEIFTPLIMN-MYFIE-RYAVKPMNCPGHILVYK-PLRFFEFGRVHRY-MRVRSFTQDDAHIFC-ILGVLDLINTIYSQF-YRVEL-PKIDFHIR-EWQCATIQLDF-RAVMIHRA.Y.SLERFFGILIE
-
+ V  L  N  E  L  M  K  F  S  R  E  L  H  R  E  R  G  Y  Q  E  I  F  T  P  L  I  M  N  -  M  Y  F  I  E  -  R  Y  A  V  K  P  M  N  C  P  G  H  I  L  V  Y  K  -  P  L  R  F  F  E  F  G  R  V  H  R  Y  -  M  R  V  R  S  F  T  Q  D  D  A  H  I  F  C  -  I  L  G  V  L  D  L  I  N  T  I  Y  S  Q  F  -  -  Y  R  V  E  L  -  P  K  I  D  F  H  I  R  -  E  W  Q  C  A  T  I  Q  L  D  F  -  R  A  V  M  I  H  R  A  Y  S  L  E  R  F  F  G  I  L  I  E 
 > thr_bact_C_thermalis
-IRNIIEDYWKKAHLEAGYQLLYTPHLAD-MFDSM-DYQIKPMNCPFHVLAYK-PLRFAELGTVYRY-MRVRGFTQDDAHIFC-ILGVLDLTEKILSDF-NYQVNL-PKIDIKIQ-LWQCSTIQVDF-RPIMIHRA.F.SLERFFGILIE
-
+ I  R  N  I  I  E  D  Y  W  K  K  A  H  L  E  A  G  Y  Q  L  L  Y  T  P  H  L  A  D  -  M  F  D  S  M  -  D  Y  Q  I  K  P  M  N  C  P  F  H  V  L  A  Y  K  -  P  L  R  F  A  E  L  G  T  V  Y  R  Y  -  M  R  V  R  G  F  T  Q  D  D  A  H  I  F  C  -  I  L  G  V  L  D  L  T  E  K  I  L  S  D  F  -  N  Y  Q  V  N  L  -  P  K  I  D  I  K  I  Q  -  L  W  Q  C  S  T  I  Q  V  D  F  -  R  P  I  M  I  H  R  A  F  S  L  E  R  F  F  G  I  L  I  E 
 > thr_bact_T_thermophilus
-VREELMAFMREEQVRRGYQLVTTPHIGS-QFPPI-EYLLKPMNCPHHIRIYA-PLRLAEFGTVYRY-TRVRGFTQDDAHIFC-FLGVLDLVLKVFATL-DYRARI-PKLDFVVK-EWQLGTIQVDY-RPVMLHRA.F.SLERFIGILIE
-
+ V  R  E  E  L  M  A  F  M  R  E  E  Q  V  R  R  G  Y  Q  L  V  T  T  P  H  I  G  S  -  Q  F  P  P  I  -  E  Y  L  L  K  P  M  N  C  P  H  H  I  R  I  Y  A  -  P  L  R  L  A  E  F  G  T  V  Y  R  Y  -  T  R  V  R  G  F  T  Q  D  D  A  H  I  F  C  -  F  L  G  V  L  D  L  V  L  K  V  F  A  T  L  -  D  Y  R  A  R  I  -  P  K  L  D  F  V  V  K  -  E  W  Q  L  G  T  I  Q  V  D  Y  -  R  P  V  M  L  H  R  A  F  S  L  E  R  F  I  G  I  L  I  E 

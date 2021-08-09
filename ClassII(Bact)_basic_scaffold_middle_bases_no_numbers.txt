@@ -1,618 +1,412 @@
 > ala_bact_1yfs_A_aeolicus
-GCAATGATTTGTTAAAGACGTACCCTTC-CTTTTACGTTCTAATTT-AAGCCCGAAGTGT-GAACTTATTGATCTG-AAACTAACGATTCATT-ATATCT-CCCATATA-ATATGATTTTA-CACATACGTGTAGTCCTTAG
-
+ G  C  A  A  T  G  A  T  T  T  G  T  T  A  A  A  G  A  C  G  T  A  C  C  T  T  C  -  -  -  -  -  -  -  -  C  T  T  T  T  A  C  G  T  T  C  T  A  A  T  T  T  -  A  A  G  C  C  C  G  A  A  G  T  G  T  -  G  A  A  C  T  T  A  T  T  G  A  T  C  T  G  -  A  A  A  C  T  A  A  C  G  A  T  T  C  T  T  -  A  T  A  T  C  T  -  C  C  C  A  T  A  T  A  -  A  T  A  T  G  A  T  T  T  T  A  -  C  A  C  A  T  A  C  G  T  G  T  A  G  T  C  C  T  T  A  G 
 > ala_bact_3hxv_E_coli
-GCCATGACTTATTAGAGAATTCGGCTTC-CTTTCACGTAATAATTT-ACGCCCCAGGTGC-GAACTTATTGATGTG-AAACTATCGATTCGAAGT-GTGTCT-CGCATTAA-ATATGATTTTA-CACCTACGTGTAGTCCTTAA
-
+ G  C  C  A  T  G  A  C  T  T  A  T  T  A  G  A  G  A  A  T  T  C  G  G  T  T  C  -  -  -  -  -  -  -  -  C  T  T  T  C  A  C  G  T  A  A  T  A  A  T  T  T  -  A  C  G  C  C  C  C  A  G  G  T  G  C  -  G  A  A  C  T  T  A  T  T  G  A  T  G  T  G  -  A  A  A  C  T  A  T  C  G  A  T  T  C  G  T  -  G  T  G  T  C  T  -  C  G  C  A  T  T  A  A  -  A  T  A  T  G  A  T  T  T  T  A  -  C  A  C  C  T  A  C  G  T  G  T  A  G  T  C  C  T  T  A  A 
 > ala_bact_A_asiaticus
-GGGATGAATTATTAAAAAAATACCCTTA-CTTTCACGTAATAATTT-AAGCTGCACGTGT-AAACTTATTGAGCTG-AAACTCGCGATTCATA-GTATCT-CGCATATA-TTATGATTTTA-CCAATACGTGTAGTCTTTAG
-
+ G  G  G  A  T  G  A  A  T  T  A  T  T  A  A  A  A  A  A  A  T  A  C  C  T  T  A  -  -  -  -  -  -  -  -  C  T  T  T  C  A  C  G  T  A  A  T  A  A  T  T  T  -  A  A  G  C  T  G  C  A  C  G  T  G  T  -  A  A  A  C  T  T  A  T  T  G  A  G  C  T  G  -  A  A  A  C  T  C  G  C  G  A  T  T  C  T  A  -  G  T  A  T  C  T  -  C  G  C  A  T  A  T  A  -  T  T  A  T  G  A  T  T  T  T  A  -  C  C  A  A  T  A  C  G  T  G  T  A  G  T  C  T  T  T  A  G 
 > ala_bact_B_burgdorferi
-CTAATGAAATATTACAAATATTGACTTC-CTTTACCGTACTTCATT-GATTTATAAGTGC-GATCTTATTGAGCTG-AAACTAGGTATTCCCAAT-GTATGT-CACATATA-ATATGAATTTA-GGAGTACGTGTAGCTCTTAG
-
+ C  T  A  A  T  G  A  A  A  T  A  T  T  A  C  A  A  A  T  A  T  T  A  C  T  T  C  -  -  -  -  -  -  -  -  C  T  T  T  A  C  C  G  T  A  C  T  T  C  A  T  T  -  G  A  T  T  T  A  T  A  A  G  T  G  C  -  G  A  T  C  T  T  A  T  T  G  A  G  C  T  G  -  A  A  A  C  T  A  G  G  T  A  T  T  C  A  T  -  G  T  A  T  G  T  -  C  A  C  A  T  A  T  A  -  A  T  A  T  G  A  A  T  T  T  A  -  G  G  A  G  T  A  C  G  T  G  T  A  G  C  T  C  T  T  A  G 
 > ala_bact_B_fragilis
-CCAACGACTAATTACAGAATTCCCCTTT-CTTTCACGTAATAATTT-AAGTCACAAGTGT-AAACTTATTGAGCTG-AAACTGGCGAATTATT-ATACCT-CGCATATA-TTATGATTTTA-CCATTACGTGTAGTGTCTAG
-
+ C  C  A  A  C  G  A  C  T  A  A  T  T  A  C  A  G  A  A  T  T  C  C  C  T  T  T  -  -  -  -  -  -  -  -  C  T  T  T  C  A  C  G  T  A  A  T  A  A  T  T  T  -  A  A  G  T  C  A  C  A  A  G  T  G  T  -  A  A  A  C  T  T  A  T  T  G  A  G  C  T  G  -  A  A  A  C  T  G  G  C  G  A  A  T  T  T  T  -  A  T  A  C  C  T  -  C  G  C  A  T  A  T  A  -  T  T  A  T  G  A  T  T  T  T  A  -  C  C  A  T  T  A  C  G  T  G  T  A  G  T  G  T  C  T  A  G 
 > ala_bact_B_licheniformis
-CCCATGATTTATTAAAGACTACGCCTTC-CTTGTAGGTCCTAAATA-ACGTGACAACTGC-GAACTTATTGATCTG-AAACTAGCGATTCAAAGT-GTCTCT-CACATTAA-ATATGATTTCA-CAAATACGTGTAGTTCTTAA
-
+ C  C  C  A  T  G  A  T  T  T  A  T  T  A  A  A  G  A  C  T  A  C  C  C  T  T  C  -  -  -  -  -  -  -  -  C  T  T  G  T  A  G  G  T  C  C  T  A  A  A  T  A  -  A  C  G  T  G  A  C  A  A  C  T  G  C  -  G  A  A  C  T  T  A  T  T  G  A  T  C  T  G  -  A  A  A  C  T  A  G  C  G  A  T  T  C  G  T  -  G  T  C  T  C  T  -  C  A  C  A  T  T  A  A  -  A  T  A  T  G  A  T  T  T  C  A  -  C  A  A  A  T  A  C  G  T  G  T  A  G  T  T  C  T  T  A  A 
 > ala_bact_B_thailandensis
-ACCATGAATTATTACAGACTTGCCGTTC-CTTTCACGTTATAATTT-ACGCCCCAGGTGC-GAACTTATTGATCTG-AGACTAACGATTCCTA-ATGTCT-CGCATTAA-TATGATTTTA-CACGTACGTGTAGTCCTTAA
-
+ A  C  C  A  T  G  A  A  T  T  A  T  T  A  C  A  G  A  C  T  T  G  C  C  T  T  C  -  -  -  -  -  -  -  -  C  T  T  T  C  A  C  G  T  T  A  T  A  A  T  T  T  -  A  C  G  C  C  C  C  A  G  G  T  G  C  -  G  A  A  C  T  T  A  T  T  G  A  T  C  T  G  -  A  G  A  C  T  A  A  C  G  A  T  T  C  T  A  -  A  T  G  T  C  T  -  C  G  C  A  T  T  A  A  -  T  -  A  T  G  A  T  T  T  T  A  -  C  A  C  G  T  A  C  G  T  G  T  A  G  T  C  C  T  T  A  A 
 > ala_bact_C_aggregans
-CCCATGACTTCTTAGAGACATCGCCTTT-CTTTCACGTTATAATTT-ACGCTCCAAGTGT-GAACTTATTGATCTG-ACACTGTCGATTCAAT-GTGTCT-CGCATCTA-ATATGAATTTA-CGCCTACGTGTAGTCTTTAG
-
+ C  C  C  A  T  G  A  C  T  T  C  T  T  A  G  A  G  A  C  A  T  C  G  G  T  T  T  -  -  -  -  -  -  -  -  C  T  T  T  C  A  C  G  T  T  A  T  A  A  T  T  T  -  A  C  G  C  T  C  C  A  A  G  T  G  T  -  G  A  A  C  T  T  A  T  T  G  A  T  C  T  G  -  A  C  A  C  T  G  T  C  G  A  T  T  C  A  T  -  G  T  G  T  C  T  -  C  G  C  A  T  C  T  A  -  A  T  A  T  G  A  A  T  T  T  A  -  C  G  C  C  T  A  C  G  T  G  T  A  G  T  C  T  T  T  A  G 
 > ala_bact_C_thermalis
-GGAATGAATTATACAGGAATTCGCCTTC-CTTTCTCGTTCTACTTT-TAGCCCCAAGTGC-GAACTTATTGATGTG-AAACTCGGGATCCCTT-GTTCGT-CGCATAAA-T-ATAATTTTA-CAAATACGTGTAGTCATTAA
-
+ G  G  A  A  T  G  A  A  T  T  A  T  A  C  A  G  G  A  A  T  T  C  C  C  T  T  C  -  -  -  -  -  -  -  -  C  T  T  T  C  T  C  G  T  T  C  T  A  C  T  T  T  -  T  A  G  C  C  C  C  A  A  G  T  G  C  -  G  A  A  C  T  T  A  T  T  G  A  T  G  T  G  -  A  A  A  C  T  C  G  G  G  A  T  C  C  T  T  -  G  T  T  C  G  T  -  C  G  C  A  T  A  A  A  -  T  -  A  T  A  A  T  T  T  T  A  -  C  A  A  A  T  A  C  G  T  G  T  A  G  T  C  A  T  T  A  A 
 > ala_bact_D_radiodurans
-CCCATGAGATATTACAGATGTCCACCTC-CCTTCTCGTACTAAATT-GAGTCCCAAGTGT-GATCTTATTGATCTG-AGACTAGCGATTCGCAGT-ATATCT-CGCATAAA-TTATGATTTCA-CTAATACGTGTAGTCGTTAA
-
+ C  C  C  A  T  G  A  G  A  T  A  T  T  A  C  A  G  A  T  G  T  C  A  C  C  T  C  -  -  -  -  -  -  -  -  C  C  T  T  C  T  C  G  T  A  C  T  A  A  A  T  T  -  G  A  G  T  C  C  C  A  A  G  T  G  T  -  G  A  T  C  T  T  A  T  T  G  A  T  C  T  G  -  A  G  A  C  T  A  G  C  G  A  T  T  C  G  T  -  A  T  A  T  C  T  -  C  G  C  A  T  A  A  A  -  T  T  A  T  G  A  T  T  T  C  A  -  C  T  A  A  T  A  C  G  T  G  T  A  G  T  C  G  T  T  A  A 
 > ala_bact_E_faecalis
-CGGATGATATATTACAGACTACGCCTTC-CTTGTACGTCCTAAATA-ACGTCACAACTGC-GAACTTATTGATCTG-AAACTAGCGATTCGCAGT-ATATCT-CACATTAA-ATATGATTTCA-CAAATACGTGTAGTTCTTAA
-
+ C  G  G  A  T  G  A  T  A  T  A  T  T  A  C  A  G  A  C  T  A  C  C  C  T  T  C  -  -  -  -  -  -  -  -  C  T  T  G  T  A  C  G  T  C  C  T  A  A  A  T  A  -  A  C  G  T  C  A  C  A  A  C  T  G  C  -  G  A  A  C  T  T  A  T  T  G  A  T  C  T  G  -  A  A  A  C  T  A  G  C  G  A  T  T  C  G  T  -  A  T  A  T  C  T  -  C  A  C  A  T  T  A  A  -  A  T  A  T  G  A  T  T  T  C  A  -  C  A  A  A  T  A  C  G  T  G  T  A  G  T  T  C  T  T  A  A 
 > ala_bact_G_obscuriglobus
-CCGATGAATTATTGAAAGACATCCCCTTC-CTTTCACGTAATACATT-TTGTCACAAGTGC-AAACTTATTGAGGTG-AAACTCGCGATTCATG-GTATCT-CGCATATA-TTATGATTTTA-CCAATACGTGTAGTGCTTAG
-
+ C  C  C  A  T  G  A  A  T  T  A  T  T  G  A  A  A  A  C  A  T  C  C  C  T  T  C  -  -  -  -  -  -  -  -  C  T  T  T  C  A  C  G  T  A  A  T  A  C  A  T  T  -  T  T  G  T  C  A  C  A  A  G  T  G  C  -  A  A  A  C  T  T  A  T  T  G  A  G  G  T  G  -  A  A  A  C  T  C  G  C  G  A  T  T  C  T  G  -  G  T  A  T  C  T  -  C  G  C  A  T  A  T  A  -  T  T  A  T  G  A  T  T  T  T  A  -  C  C  A  A  T  A  C  G  T  G  T  A  G  T  G  C  T  T  A  G 
 > ala_bact_G_stearothermophilus
-CCCATGGTTTATTAAAGACTACGCCTTC-CTTGTAGGTCCTAAATA-ACGTGACAACTGC-GAACTTATTGATCTG-AGACTAGCGATTCGAAGT-GTCTCT-CACATTAA-T-ATGATTTCA-CAAATACGTGTAGTGCTTAA
-
+ C  C  C  A  T  G  G  T  T  T  A  T  T  A  A  A  G  A  C  T  A  C  C  C  T  T  C  -  -  -  -  -  -  -  -  C  T  T  G  T  A  G  G  T  C  C  T  A  A  A  T  A  -  A  C  G  T  G  A  C  A  A  C  T  G  C  -  G  A  A  C  T  T  A  T  T  G  A  T  C  T  G  -  A  G  A  C  T  A  G  C  G  A  T  T  C  G  T  -  G  T  C  T  C  T  -  C  A  C  A  T  T  A  A  -  T  -  A  T  G  A  T  T  T  C  A  -  C  A  A  A  T  A  C  G  T  G  T  A  G  T  G  C  T  T  A  A 
 > ala_bact_H_aurantiacus
-AGCATGAGTTAATCGAGACTTCGGCTTC-CTTTCTCGTTATAATTT-AGGCTCCAAGTGT-GAACTTATTGATCTG-AAACTGTCGATTCAAT-GTGTGT-CGCATAAA-ATATGATTTTA-CACCTACGTGTAGTCTTAAG
-
+ A  G  C  A  T  G  A  G  T  T  A  A  T  C  G  A  G  A  C  T  T  C  G  G  T  T  C  -  -  -  -  -  -  -  -  C  T  T  T  C  T  C  G  T  T  A  T  A  A  T  T  T  -  A  G  G  C  T  C  C  A  A  G  T  G  T  -  G  A  A  C  T  T  A  T  T  G  A  T  C  T  G  -  A  A  A  C  T  G  T  C  G  A  T  T  C  A  T  -  G  T  G  T  G  T  -  C  G  C  A  T  A  A  A  -  A  T  A  T  G  A  T  T  T  T  A  -  C  A  C  C  T  A  C  G  T  G  T  A  G  T  C  T  T  A  A  G 
 > ala_bact_P_mikurensis
-CCAATGAATTATTCAAAGAATTCCCCTTC-CTTTCACGTACTACATT-AAGTGACAAGTGC-AAACTTATTGAGGTG-AAACTGGCGATTTATG-GTACCA-CGCATAAA-TTATGATTTTA-CCAATACGTGTAGTTGTTAG
-
+ C  C  A  A  T  G  A  A  T  T  A  T  T  C  A  A  A  A  A  T  T  C  C  C  T  T  C  -  -  -  -  -  -  -  -  C  T  T  T  C  A  C  G  T  A  C  T  A  C  A  T  T  -  A  A  G  T  G  A  C  A  A  G  T  G  C  -  A  A  A  C  T  T  A  T  T  G  A  G  G  T  G  -  A  A  A  C  T  G  G  C  G  A  T  T  T  T  G  -  G  T  A  C  C  A  -  C  G  C  A  T  A  A  A  -  T  T  A  T  G  A  T  T  T  T  A  -  C  C  A  A  T  A  C  G  T  G  T  A  G  T  T  G  T  T  A  G 
 > ala_bact_R_palustris
-GTAATGCCTTAATCAAGAATTCCCCTTC-CTTTCACGTTATAATTC-AAGCCCCAAGTGC-GATCTTATTGATCTG-AAGCTATCGATTCGAT-ATTTCT-CGCATTTA-TATGATTTTA-CGCCTACGTGTAGTCCTTAG
-
+ G  T  A  A  T  G  C  C  T  T  A  A  T  C  A  A  G  A  A  T  T  C  C  C  T  T  C  -  -  -  -  -  -  -  -  C  T  T  T  C  A  C  G  T  T  A  T  A  A  T  T  C  -  A  A  G  C  C  C  C  A  A  G  T  G  C  -  G  A  T  C  T  T  A  T  T  G  A  T  C  T  G  -  A  A  G  C  T  A  T  C  G  A  T  T  C  A  T  -  A  T  T  T  C  T  -  C  G  C  A  T  T  T  A  -  -  T  A  T  G  A  T  T  T  T  A  -  C  G  C  C  T  A  C  G  T  G  T  A  G  T  C  C  T  T  A  G 
 > ala_bact_S_elongatus
-GGAATGACTTATTAGAGAGGTCGCCTTC-CTTTCTCGTTCTACTTT-TCGCCCCAAGTGC-GAACTTATTGATGTG-AAACTCTCGATTCATT-GTCTGT-CGCATAA-TTATAATTTTA-AAAATACGTGTAGTCATTAG
-
+ G  G  A  A  T  G  A  C  T  T  A  T  T  A  G  A  G  A  G  G  T  C  C  C  T  T  C  -  -  -  -  -  -  -  -  C  T  T  T  C  T  C  G  T  T  C  T  A  C  T  T  T  -  T  C  G  C  C  C  C  A  A  G  T  G  C  -  G  A  A  C  T  T  A  T  T  G  A  T  G  T  G  -  A  A  A  C  T  C  T  C  G  A  T  T  C  T  T  -  G  T  C  T  G  T  -  C  G  C  A  T  A  A  -  -  T  T  A  T  A  A  T  T  T  T  A  -  A  A  A  A  T  A  C  G  T  G  T  A  G  T  C  A  T  T  A  G 
 > ala_bact_S_haemolyticus
-ACGATGAAATATTTAAGATTACCCCTTC-CTTGTACGTCCTAAATA-ACGTTACAACTGC-GAACTTATTGATCTG-AAACTATCGATTCGAAGT-ATATCT-CACATTAA-ATATGATTTGA-CAAATACGTGTAGTCCTCAA
-
+ A  C  G  A  T  G  A  A  A  T  A  T  T  T  A  A  G  A  T  T  A  C  C  C  T  T  C  -  -  -  -  -  -  -  -  C  T  T  G  T  A  C  G  T  C  C  T  A  A  A  T  A  -  A  C  G  T  T  A  C  A  A  C  T  G  C  -  G  A  A  C  T  T  A  T  T  G  A  T  C  T  G  -  A  A  A  C  T  A  T  C  G  A  T  T  C  G  T  -  A  T  A  T  C  T  -  C  A  C  A  T  T  A  A  -  A  T  A  T  G  A  T  T  T  G  A  -  C  A  A  A  T  A  C  G  T  G  T  A  G  T  C  C  T  C  A  A 
 > ala_bact_T_thermophilus
-GCCATGAATTCTTAGAGATGTCCTGTTC-CTTTCCCGTCCTACATT-GGGTCCGAAGTGT-GAACATATTGATCTG-AAACTTGCGATTCAAT-GTGTCT-CGCATTAA-TTATGATTTCA-CAAATACGTGTAGTCCTTAA
-
+ G  C  C  A  T  G  A  A  T  T  C  T  T  A  G  A  G  A  T  G  T  C  T  G  T  T  C  -  -  -  -  -  -  -  -  C  T  T  T  C  C  C  G  T  C  C  T  A  C  A  T  T  -  G  G  G  T  C  C  G  A  A  G  T  G  T  -  G  A  A  C  A  T  A  T  T  G  A  T  C  T  G  -  A  A  A  C  T  T  G  C  G  A  T  T  C  A  T  -  G  T  G  T  C  T  -  C  G  C  A  T  T  A  A  -  T  T  A  T  G  A  T  T  T  C  A  -  C  A  A  A  T  A  C  G  T  G  T  A  G  T  C  C  T  T  A  A 
 > asn_bact_6pqh_E_anophelis
-TGACTGTCTACTTAAGATTATACCTTCG-TTGTC-ACATCTCGATAGACCCT-TGGTACTGCCTGC-GATCATGTTACATCT-TAAATATCAATTAAT-GCTTTT-CCTATTTCGTGATTGGCAGA-CTCACGTGTGTAGTTTTTCG
-
+ T  G  A  C  T  G  T  C  T  A  C  T  T  A  A  G  A  T  T  A  T  A  C  C  T  T  C  G  -  T  T  G  T  C  -  A  C  A  T  C  T  C  G  A  T  A  G  A  C  C  C  T  -  T  G  G  T  A  C  T  G  C  C  T  G  C  -  G  A  T  C  A  T  G  T  T  A  C  A  T  C  T  -  T  A  A  A  T  A  T  C  A  A  T  T  A  A  T  -  G  C  T  T  T  T  -  C  C  T  A  T  T  T  C  -  G  T  A  T  T  G  G  C  A  G  A  -  C  T  C  A  C  G  T  G  T  G  T  A  G  T  T  T  T  T  C  G 
 > asn_bact_3m4p_E_histolytica
-TGCATAGATGAAAAAAATCATACCCTTA-TTATA-CCATCACCATATACTTC-TGACTGTTCCAGC-GATCAATATACATCT-TAATTAATAATTGCT-GCTTTT-ACTATTTCGTGATTGGCTGT-CGCAGGAGTGTAGTTTGTTG
-
+ T  G  C  A  T  A  G  A  T  G  A  A  A  A  A  A  A  T  C  A  T  A  C  C  C  T  T  A  -  T  T  A  T  A  -  C  C  A  T  C  A  C  C  A  T  A  T  A  C  T  T  C  -  T  G  A  C  T  G  T  T  C  C  A  G  C  -  G  A  T  C  A  A  T  A  T  A  C  A  T  C  T  -  T  A  A  T  T  A  A  T  A  A  T  T  G  C  T  -  G  C  T  T  T  T  -  A  C  T  A  T  T  T  C  -  G  T  A  T  T  G  G  C  T  G  T  -  C  G  C  A  G  G  A  G  T  G  T  A  G  T  T  T  G  T  T  G 
 > asn_bact_5zg8_T_thermophilus
-TGAATAGCTAATTGAGGTTGTACCTTCC-TTATA-ACATCACGATACACGCT-TCATACTGCCT-GATTATGTTACATCT-AAAATCTAAATTGTT-GCTTTA-TAAATTGC-GAGATTGGGAGT-GTCACGTGTGTAGCTCGTGG
-
+ T  G  A  A  T  A  G  C  T  A  A  T  T  G  A  G  G  T  T  G  T  A  C  C  T  T  C  C  -  T  T  A  T  A  -  A  C  A  T  C  A  C  G  A  T  A  C  A  C  G  C  T  -  T  C  A  T  A  C  T  G  C  C  T  -  -  -  G  A  T  T  A  T  G  T  T  A  C  A  T  C  T  -  A  A  A  A  T  C  T  A  A  A  T  T  G  T  T  -  G  C  T  T  T  A  -  T  A  A  A  T  T  G  C  -  G  A  A  T  T  G  G  G  A  G  T  -  G  T  C  A  C  G  T  G  T  G  T  A  G  C  T  C  G  T  G  G 
 > asn_bact_T_thermophilus
-TGAATAGCTAATTGAGGTTGTACCTTCC-TTATA-ACATCACGATACACGCT-TCATACTGCCTGC-GATTATGTTACATCT-AAAATCTAAATTGTT-GCTTTA-TAAATTCC-GAGATTGGGAGT-GTCACGTGTGTAGCTCGTGG
-
+ T  G  A  A  T  A  G  C  T  A  A  T  T  G  A  G  G  T  T  G  T  A  C  C  T  T  C  C  -  T  T  A  T  A  -  A  C  A  T  C  A  C  G  A  T  A  C  A  C  G  C  T  -  T  C  A  T  A  C  T  G  C  C  T  G  C  -  G  A  T  T  A  T  G  T  T  A  C  A  T  C  T  -  A  A  A  A  T  C  T  A  A  A  T  T  G  T  T  -  G  C  T  T  T  A  -  T  A  A  A  T  T  C  C  -  G  A  A  T  T  G  G  G  A  G  T  -  G  T  C  A  C  G  T  G  T  G  T  A  G  C  T  C  G  T  G  G 
 > asn_bact_A_asiaticus
-TGACTGACTAATTAAAGTTATACCTTCC-TTGTC-ACGTCTCGATACACCCT-TCATACTGCCTGC-GATCATGTTACATCT-TCAATCTCAGTTAAT-ACTTTC-CCTATTTCGTGATTGGCAGA-CTCAGGTGTGTAGTTATTCG
-
+ T  G  A  C  T  G  A  C  T  A  A  T  T  A  A  A  G  T  T  A  T  A  C  C  T  T  C  C  -  T  T  G  T  C  -  A  C  G  T  C  T  C  G  A  T  A  C  A  C  C  C  T  -  T  C  A  T  A  C  T  G  C  C  T  G  C  -  G  A  T  C  A  T  G  T  T  A  C  A  T  C  T  -  T  C  A  A  T  C  T  C  A  G  T  T  A  A  T  -  A  C  T  T  T  C  -  C  C  T  A  T  T  T  C  -  G  T  A  T  T  G  G  C  A  G  A  -  C  T  C  A  G  G  T  G  T  G  T  A  G  T  T  A  T  T  C  G 
 > asn_bact_B_burgdorferi
-TGAATCAATAAATAAAGTTATACCTTCC-TTGTC-ACTTCTCGATAGACACT-TCATACTGCCTGC-GACCATGTTACATCT-TAAATCTCAATTAAT-ACTTTT-AGTATTTC-TGATTGGGAGA-CCCACGTGTGTAGTTAACCG
-
+ T  G  A  A  T  C  A  A  T  A  A  A  T  A  A  A  G  T  T  A  T  A  C  C  T  T  C  C  -  T  T  G  T  C  -  A  C  T  T  C  T  C  G  A  T  A  G  A  C  A  C  T  -  T  C  A  T  A  C  T  G  C  C  T  G  C  -  G  A  C  C  A  T  G  T  T  A  C  A  T  C  T  -  T  A  A  A  T  C  T  C  A  A  T  T  A  A  T  -  A  C  T  T  T  T  -  A  G  T  A  T  T  T  C  -  -  T  A  T  T  G  G  G  A  G  A  -  C  C  C  A  C  G  T  G  T  G  T  A  G  T  T  A  A  C  C  G 
 > asn_bact_B_fragilis
-TGAATCTCTAATTAAAGTTATACCTTCC-TTATC-ACGTCTCGATAGATCCC-TGCTACTGCCTGC-GATCATGTTACATCT-TAAATATCAATTAAG-GCTTTC-GCTATTTC-TGATTGGCAGA-CGCACGTGTGTAGTTTTTCG
-
+ T  G  A  A  T  C  T  C  T  A  A  T  T  A  A  A  G  T  T  A  T  A  C  C  T  T  C  C  -  T  T  A  T  C  -  A  C  G  T  C  T  C  G  A  T  A  G  A  T  C  C  C  -  T  G  C  T  A  C  T  G  C  C  T  G  C  -  G  A  T  C  A  T  G  T  T  A  C  A  T  C  T  -  T  A  A  A  T  A  T  C  A  A  T  T  A  A  G  -  G  C  T  T  T  C  -  G  C  T  A  T  T  T  C  -  -  T  A  T  T  G  G  C  A  G  A  -  C  G  C  A  C  G  T  G  T  G  T  A  G  T  T  T  T  T  C  G 
 > asn_bact_C_aggregans
-TGCATTCCCAAGTAAAGTTGTACCTTCC-TTCCA-ACATCACGATATACGTT-TGATAGTGCCTGC-GATCATGTTACATCT-AAAATGTAAATTGCT-GCTTTA-TGCATTCC-GAGATTGGCAGT-CTCAGGTGTGTAGTTCGTCG
-
+ T  G  C  A  T  T  C  C  C  A  A  G  T  A  A  A  G  T  T  G  T  A  C  C  T  T  C  C  -  T  T  C  C  A  -  A  C  A  T  C  A  C  G  A  T  A  T  A  C  G  T  T  -  T  G  A  T  A  G  T  G  C  C  T  G  C  -  G  A  T  C  A  T  G  T  T  A  C  A  T  C  T  -  A  A  A  A  T  G  T  A  A  A  T  T  G  C  T  -  G  C  T  T  T  A  -  T  G  C  A  T  T  C  C  -  G  A  A  T  T  G  G  C  A  G  T  -  C  T  C  A  G  G  T  G  T  G  T  A  G  T  T  C  G  T  C  G 
 > asn_bact_C_thermalis
-TGACGCCCTAATTAAGGTTGTACCTTCG-TTCTC-ACTTCTGGATACATTCT-TGATACTGCCTGC-GATCATGTTACATCT-TTGATATCACTTAAT-ACTTTC-GCTATTCC-TGATTGGCAGA-CTCACGTGTGTAGTTATTCG
-
+ T  G  A  C  G  C  C  C  T  A  A  T  T  A  A  G  G  T  T  G  T  A  C  C  T  T  C  G  -  T  T  C  T  C  -  A  C  T  T  C  T  G  G  A  T  A  C  A  T  T  C  T  -  T  G  A  T  A  C  T  G  C  C  T  G  C  -  G  A  T  C  A  T  G  T  T  A  C  A  T  C  T  -  T  T  G  A  T  A  T  C  A  C  T  T  A  A  T  -  A  C  T  T  T  C  -  G  C  T  A  T  T  C  C  -  -  T  A  T  T  G  G  C  A  G  A  -  C  T  C  A  C  G  T  G  T  G  T  A  G  T  T  A  T  T  C  G 
 > asn_bact_D_radiodurans
-TGAGTAGGTTATTAGAGTTGTACCTTCC-TTATA-ACATCACGATACACGCT-TGATACTGCCTGC-GATTATGTTACATCC-ACAATCTAAGTTGAT-GCTTTA-TGAATTCC-GAGATTGGCAGT-GTCACGAGTGTAGTTCGTCG
-
+ T  G  A  G  T  A  G  G  T  T  A  T  T  A  G  A  G  T  T  G  T  A  C  C  T  T  C  C  -  T  T  A  T  A  -  A  C  A  T  C  A  C  G  A  T  A  C  A  C  G  C  T  -  T  G  A  T  A  C  T  G  C  C  T  G  C  -  G  A  T  T  A  T  G  T  T  A  C  A  T  C  C  -  A  C  A  A  T  C  T  A  A  G  T  T  G  A  T  -  G  C  T  T  T  A  -  T  G  A  A  T  T  C  C  -  G  A  A  T  T  G  G  C  A  G  T  -  G  T  C  A  C  G  A  G  T  G  T  A  G  T  T  C  G  T  C  G 
 > asn_bact_E_coli
-TGACTCACTAGTTAAAGTTGTCCCTTCC-TTGTC-ACTTCTCGATAGACACG-TCATACTGCCTGC-GATCATGTTACATCT-TAATCGTCACTTAAT-CCTTTA-CCTATTCCGTGATTGGCAGA-CTCACGTGTGTAGTTCATCG
-
+ T  G  A  C  T  C  A  C  T  A  G  T  T  A  A  A  G  T  T  G  T  C  C  C  T  T  C  C  -  T  T  G  T  C  -  A  C  T  T  C  T  C  G  A  T  A  G  A  C  A  C  G  -  T  C  A  T  A  C  T  G  C  C  T  G  C  -  G  A  T  C  A  T  G  T  T  A  C  A  T  C  T  -  T  A  A  T  C  G  T  C  A  C  T  T  A  A  T  -  C  C  T  T  T  A  -  C  C  T  A  T  T  C  C  -  G  T  A  T  T  G  G  C  A  G  A  -  C  T  C  A  C  G  T  G  T  G  T  A  G  T  T  C  A  T  C  G 
 > asn_bact_G_obscuriglobus
-TGAATCTCTAATTAAGGTAATACCTTCC-TTGTG-CCATCTGGATAGACTCG-TGATACTGCCTGC-GATCATGTTACATCT-TCAATATCACTTAGT-GCTTTA-GCTATTTCGTGATTGGGAGA-CTCACGTGTGTAGCTTTTGG
-
+ T  G  A  A  T  C  T  C  T  A  A  T  T  A  A  G  G  T  A  A  T  A  C  C  T  T  C  C  -  T  T  G  T  G  -  C  C  A  T  C  T  G  G  A  T  A  G  A  C  T  C  G  -  T  G  A  T  A  C  T  G  C  C  T  G  C  -  G  A  T  C  A  T  G  T  T  A  C  A  T  C  T  -  T  C  A  A  T  A  T  C  A  C  T  T  A  G  T  -  G  C  T  T  T  A  -  G  C  T  A  T  T  T  C  -  G  T  A  T  T  G  G  G  A  G  A  -  C  T  C  A  C  G  T  G  T  G  T  A  G  C  T  T  T  T  G  G 
 > asn_bact_H_aurantiacus
-TGCATTCCCAAATAGAATTGAACCTTCC-TTCCA-ACATCACGATATACGTC-TGGTAGTGCCTGC-GATCATGTTACATCT-AAAATATAAATTCAT-ACTTTA-GGCATTCC-GAGATTGGCAGT-GTCACGTGTGTAGGTCGTCG
-
+ T  G  C  A  T  T  C  C  C  A  A  A  T  A  G  A  A  T  T  G  A  A  C  C  T  T  C  C  -  T  T  C  C  A  -  A  C  A  T  C  A  C  G  A  T  A  T  A  C  G  T  C  -  T  G  G  T  A  G  T  G  C  C  T  G  C  -  G  A  T  C  A  T  G  T  T  A  C  A  T  C  T  -  A  A  A  A  T  A  T  A  A  A  T  T  C  A  T  -  A  C  T  T  T  A  -  G  G  C  A  T  T  C  C  -  G  A  A  T  T  G  G  C  A  G  T  -  G  T  C  A  C  G  T  G  T  G  T  A  G  G  T  C  G  T  C  G 
 > asn_bact_M_mobile
-TGCCTCTATAATAAAGGATGTCCCTTCG-CTTTA-ACCTGTCGATACACACT-TGATACTCCCTGC-AACCATGTTACATCT-TAATTATCAATTGAT-GCTCTT-CCAATTTCGTGATTGGCAGA-ACCGCGTGTGTAGTTTATCG
-
+ T  G  C  C  T  C  T  A  T  A  A  T  A  A  A  G  G  A  T  G  T  C  C  C  T  T  C  G  -  C  T  T  T  A  -  A  C  C  T  G  T  C  G  A  T  A  C  A  C  A  C  T  -  T  G  A  T  A  C  T  C  C  C  T  G  C  -  A  A  C  C  A  T  G  T  T  A  C  A  T  C  T  -  T  A  A  T  T  A  T  C  A  A  T  T  G  A  T  -  G  C  T  C  T  T  -  C  C  A  A  T  T  T  C  -  G  T  A  T  T  G  G  C  A  G  A  -  A  C  C  C  C  G  T  G  T  G  T  A  G  T  T  T  A  T  C  G 
 > asn_bact_S_aureus
-TGAATTGCCAATTAAAGTCATACCTTCC-TTACA-ACTTCAGGATATACCCT-AGATTCTGCCTGC-GATTATGTTAGATCT-ACAGTATAAAATCAT-TCTTTC-TGCATTCC-GAGATTGGCAGT-GTCAGGTGTGTAGCTCGTCG
-
+ T  G  A  A  T  T  G  C  C  A  A  T  T  A  A  A  G  T  C  A  T  A  C  C  T  T  C  C  -  T  T  A  C  A  -  A  C  T  T  C  A  G  G  A  T  A  T  A  C  C  C  T  -  A  G  A  T  T  C  T  G  C  C  T  G  C  -  G  A  T  T  A  T  G  T  T  A  G  A  T  C  T  -  A  C  A  G  T  A  T  A  A  A  A  T  C  A  T  -  T  C  T  T  T  C  -  T  G  C  A  T  T  C  C  -  G  A  A  T  T  G  G  C  A  G  T  -  G  T  C  A  G  G  T  G  T  G  T  A  G  C  T  C  G  T  C  G 
 > asn_bact_S_elongatus
-TGACCCCCTAATTAAGGTTGTACCTTCC-TTCTC-GCATCTGGATACATTCT-TGATACTGCCTGC-GATCATGTTACATCT-TGGATATCACTTATT-ACTTTA-CCTATTCCGTGATTGGCAGA-GTCACGTGTGTAGTTATTCG
-
+ T  G  A  C  C  C  C  C  T  A  A  T  T  A  A  G  G  T  T  G  T  A  C  C  T  T  C  C  -  T  T  C  T  C  -  G  C  A  T  C  T  G  G  A  T  A  C  A  T  T  C  T  -  T  G  A  T  A  C  T  G  C  C  T  G  C  -  G  A  T  C  A  T  G  T  T  A  C  A  T  C  T  -  T  G  G  A  T  A  T  C  A  C  T  T  A  T  T  -  A  C  T  T  T  A  -  C  C  T  A  T  T  C  C  -  G  T  A  T  T  G  G  C  A  G  A  -  G  T  C  A  C  G  T  G  T  G  T  A  G  T  T  A  T  T  C  G 
 > asp_bact_1c0a_E_coli
-CGCATCGTTGGTTAAAGTTATACCTTCA-AATTC-TACTCACCATTAATTTT-TAGAAATTAGTGA-AGACATCATATACCT-CCATGATTACTTGAT-CCTGTT-ACAATTTAGAATGGGCTGT-CCCACGTCTGTAGTCTTTCG
-
+ C  G  C  A  T  C  G  T  T  G  G  T  T  A  A  A  G  T  T  A  T  A  C  C  T  T  C  A  -  A  A  T  T  C  -  T  A  C  T  C  A  C  C  A  T  T  A  A  T  T  T  T  -  T  A  G  A  A  A  T  T  A  G  T  G  A  -  A  G  A  C  A  T  C  A  T  A  T  A  C  C  T  -  C  C  A  T  G  A  T  T  A  C  T  T  G  A  T  -  C  C  T  G  T  T  -  A  C  A  A  T  T  T  A  -  G  A  A  T  G  G  G  C  T  G  T  -  C  C  C  A  C  G  T  C  T  G  T  A  G  T  C  T  T  T  C  G 
 > asp_bact_5w25_M_tuberculosis
-TGCGTACCCGCTTCGAATTATACCCTCG-ATTTC-TACTCAGCATTAATTTT-TAGAAATCGGAGA-AGACATCATATATGT-CAATTCTCAATTCAT-CTTGTT-ACAATTGAGAATGGGCTGT-CCCAGGTCTGGAGCCCTTCG
-
+ T  G  C  G  T  A  C  C  C  G  C  T  T  C  G  A  A  T  T  A  T  A  C  C  C  T  C  G  -  A  T  T  T  C  -  T  A  C  T  C  A  G  C  A  T  T  A  A  T  T  T  T  -  T  A  G  A  A  A  T  C  G  G  A  G  A  -  A  G  A  C  A  T  C  A  T  A  T  A  T  G  T  -  C  A  A  T  T  C  T  C  A  A  T  T  C  A  T  -  C  T  T  G  T  T  -  A  C  A  A  T  T  G  A  -  G  A  A  T  G  G  G  C  T  G  T  -  C  C  C  A  G  G  T  C  T  G  G  A  G  C  C  C  T  T  C  G 
 > asp_bact_5w25_M_tuberculosis
-TGCGTACCCGCTTCGAATTATACCCTCG-ATTTC-TACTCAGCATTAATTTT-TAGAAATCGGAGA-AGACATCATATATGT-CAATTCTCAATTCAT-CTTGTT-ACAATTGAGAATGGGCTGT-CCCAGGTCTGGAGCCCTTCG
-
+ T  G  C  G  T  A  C  C  C  G  C  T  T  C  G  A  A  T  T  A  T  A  C  C  C  T  C  G  -  A  T  T  T  C  -  T  A  C  T  C  A  G  C  A  T  T  A  A  T  T  T  T  -  T  A  G  A  A  A  T  C  G  G  A  G  A  -  A  G  A  C  A  T  C  A  T  A  T  A  T  G  T  -  C  A  A  T  T  C  T  C  A  A  T  T  C  A  T  -  C  T  T  G  T  T  -  A  C  A  A  T  T  G  A  -  G  A  A  T  G  G  G  C  T  G  T  -  C  C  C  A  G  G  T  C  T  G  G  A  G  C  C  C  T  T  C  G 
 > asp_bact_4wj4_P_aeruginosa
-TGCGTCGGTGGATAAAGTTATACCTTGG-AATTC-TTCTCACCATTAATTTT-TAGAAATCAGTGA-AGACATCATATACGT-AGATTGTCAATTGAT-CCTGTT-GCAATTTAGCATGGGCTGT-CCCAGGTCTGTAGTTTTTCG
-
+ T  G  C  G  T  C  G  G  T  G  G  A  T  A  A  A  G  T  T  A  T  A  C  C  T  T  G  G  -  A  A  T  T  C  -  T  T  C  T  C  A  C  C  A  T  T  A  A  T  T  T  T  -  T  A  G  A  A  A  T  C  A  G  T  G  A  -  A  G  A  C  A  T  C  A  T  A  T  A  C  G  T  -  A  G  A  T  T  G  T  C  A  A  T  T  G  A  T  -  C  C  T  G  T  T  -  G  C  A  A  T  T  T  A  -  G  C  A  T  G  G  G  C  T  G  T  -  C  C  C  A  G  G  T  C  T  G  T  A  G  T  T  T  T  T  C  G 
 > asp_bact_1efw_T_thermophilus
-TGAGTTACTGATTAGAGTTATACCTTCA-ATTTC-TACTCACCATTAATTTT-TAGATATCGGTGA-AGACATCATATATGT-TAATTATAAGTTCAT-GTTGTT-TCAATTTAGTATGGGCTGT-CCCAGGTCGGTAGTTCTTCG
-
+ T  G  A  G  T  T  A  C  T  G  A  T  T  A  G  A  G  T  T  A  T  A  C  C  T  T  C  A  -  A  T  T  T  C  -  T  A  C  T  C  A  C  C  A  T  T  A  A  T  T  T  T  -  T  A  G  A  T  A  T  C  G  G  T  G  A  -  A  G  A  C  A  T  C  A  T  A  T  A  T  G  T  -  T  A  A  T  T  A  T  A  A  G  T  T  C  A  T  -  G  T  T  G  T  T  -  T  C  A  A  T  T  T  A  -  G  T  A  T  G  G  G  C  T  G  T  -  C  C  C  A  G  G  T  C  G  G  T  A  G  T  T  C  T  T  C  G 
 > asp_bact_1efw_T_thermophilus
-TGAGTTACTGATTAGAGTTATACCTTCA-ATTTC-TACTCACCATTAATTTT-TAGATATCGGTGA-AGACATCATATATGT-TAATTATAAGTTCAT-GTTGTT-TCAATTTAGTATGGGCTGT-CCCAGGTCGGTAGTTCTTCG
-
+ T  G  A  G  T  T  A  C  T  G  A  T  T  A  G  A  G  T  T  A  T  A  C  C  T  T  C  A  -  A  T  T  T  C  -  T  A  C  T  C  A  C  C  A  T  T  A  A  T  T  T  T  -  T  A  G  A  T  A  T  C  G  G  T  G  A  -  A  G  A  C  A  T  C  A  T  A  T  A  T  G  T  -  T  A  A  T  T  A  T  A  A  G  T  T  C  A  T  -  G  T  T  G  T  T  -  T  C  A  A  T  T  T  A  -  G  T  A  T  G  G  G  C  T  G  T  -  C  C  C  A  G  G  T  C  G  G  T  A  G  T  T  C  T  T  C  G 
 > asp_bact_A_aeolicus
-TGAGTAATCGATTCAAGTTATACCTTCA-ATTTC-TACTCACCATTAATTTT-TAGATATTAGTGA-AGACATCATAAATCT-AAATTATCAGTTCCT-ATTGTT-GCAATTTAGAATGGGCTGT-CCCAGGTCTGTAGTTCTTTG
-
+ T  G  A  G  T  A  A  T  C  G  A  T  T  C  A  A  G  T  T  A  T  A  C  C  T  T  C  A  -  A  T  T  T  C  -  T  A  C  T  C  A  C  C  A  T  T  A  A  T  T  T  T  -  T  A  G  A  T  A  T  T  A  G  T  G  A  -  A  G  A  C  A  T  C  A  T  A  A  A  T  C  T  -  A  A  A  T  T  A  T  C  A  G  T  T  C  C  T  -  A  T  T  G  T  T  -  G  C  A  A  T  T  T  A  -  G  A  A  T  G  G  G  C  T  G  T  -  C  C  C  A  G  G  T  C  T  G  T  A  G  T  T  C  T  T  T  G 
 > asp_bact_B_burgdorferi
-TGGACCATTGATTTAGATTATACCCTTA-ATTTC-TACTCACCATAAATTTT-TAAATATCGGAGA-AGACATCATATATGT-AAATTATTAATTTTT-ATTGTA-ATAATTTAGTATGCGCTGT-CCAAGGTCTGTAGTTTTTCA
-
+ T  G  G  A  C  C  A  T  T  G  A  T  T  T  A  G  A  T  T  A  T  A  C  C  C  T  T  A  -  A  T  T  T  C  -  T  A  C  T  C  A  C  C  A  T  A  A  A  T  T  T  T  -  T  A  A  A  T  A  T  C  G  G  A  G  A  -  A  G  A  C  A  T  C  A  T  A  T  A  T  G  T  -  A  A  A  T  T  A  T  T  A  A  T  T  T  T  T  -  A  T  T  G  T  A  -  A  T  A  A  T  T  T  A  -  G  T  A  T  G  C  G  C  T  G  T  -  C  C  A  A  G  G  T  C  T  G  T  A  G  T  T  T  T  T  C  A 
 > asp_bact_B_fragilis
-TGAATCTATGGATAATGTTATACCTTTG-ATTTC-TACTCACCACTAATTTT-TAGATATCAGTGA-AGACATCATAGATGT-AAATTCCTAGTCAAT-CGTGTT-ACAATTTAGTATGGGCTGT-CCCAGGTCAGTAGGTCTTCG
-
+ T  G  A  A  T  C  T  A  T  G  G  A  T  A  A  T  G  T  T  A  T  A  C  C  T  T  T  G  -  A  T  T  T  C  -  T  A  C  T  C  A  C  C  A  C  T  A  A  T  T  T  T  -  T  A  G  A  T  A  T  C  A  G  T  G  A  -  A  G  A  C  A  T  C  A  T  A  G  A  T  G  T  -  A  A  A  T  T  C  C  T  A  G  T  C  A  A  T  -  C  G  T  G  T  T  -  A  C  A  A  T  T  T  A  -  G  T  A  T  G  G  G  C  T  G  T  -  C  C  C  A  G  G  T  C  A  G  T  A  G  G  T  C  T  T  C  G 
 > asn_bact_B_licheniformis
-TGAATTGCCAATTAAAGTTATACCTTCG-TTCCA-ACATCAGGATATACCCT-TGATTCTGCCTGC-GATTATGTTACATCT-TAAATATAAAATCTT-CTTTC-TGCATTCC-GAGATTGGCAGT-CTCACGTGTGTAGCTCGTGG
-
+ T  G  A  A  T  T  G  C  C  A  A  T  T  A  A  A  G  T  T  A  T  A  C  C  T  T  C  G  -  T  T  C  C  A  -  A  C  A  T  C  A  G  G  A  T  A  T  A  C  C  C  T  -  T  G  A  T  T  C  T  G  C  C  T  G  C  -  G  A  T  T  A  T  G  T  T  A  C  A  T  C  T  -  T  A  A  A  T  A  T  A  A  A  A  T  C  T  T  -  -  C  T  T  T  C  -  T  G  C  A  T  T  C  C  -  G  A  A  T  T  G  G  C  A  G  T  -  C  T  C  A  C  G  T  G  T  G  T  A  G  C  T  C  G  T  G  G 
 > asp_bact_B_thailandensis
-TGAGTCTACGAATAAAGTTATACCTTCA-AATTC-TTCTCACCATTAATTTT-TAGAAATCAGTGA-AGACATCATAGACCT-AAATGATTAATTGAT-ACTGTT-ACAATTTAGGATGGGCTGT-CCCAGGTCTGTAGTTCTTCG
-
+ T  G  A  G  T  C  T  A  C  G  A  A  T  A  A  A  G  T  T  A  T  A  C  C  T  T  C  A  -  A  A  T  T  C  -  T  T  C  T  C  A  C  C  A  T  T  A  A  T  T  T  T  -  T  A  G  A  A  A  T  C  A  G  T  G  A  -  A  G  A  C  A  T  C  A  T  A  G  A  C  C  T  -  A  A  A  T  G  A  T  T  A  A  T  T  G  A  T  -  A  C  T  G  T  T  -  A  C  A  A  T  T  T  A  -  G  G  A  T  G  G  G  C  T  G  T  -  C  C  C  A  G  G  T  C  T  G  T  A  G  T  T  C  T  T  C  G 
 > asp_bact_C_aggregans
-TGAGTTATTGATTACAGTTATACCTTTA-AATTC-TACTCAGCAATAATTTT-AAAATATCGGTGA-AGACATCATATATGT-AAATTATTAGTTCAT-GTCGTT-ACAATTTAGAACGGGGTGT-CCCAGGTCCGTAGTTTTTCA
-
+ T  G  A  G  T  T  A  T  T  G  A  T  T  A  C  A  G  T  T  A  T  A  C  C  T  T  T  A  -  A  A  T  T  C  -  T  A  C  T  C  A  G  C  A  A  T  A  A  T  T  T  T  -  A  A  A  A  T  A  T  C  G  G  T  G  A  -  A  G  A  C  A  T  C  A  T  A  T  A  T  G  T  -  A  A  A  T  T  A  T  T  A  G  T  T  C  A  T  -  G  T  C  G  T  T  -  A  C  A  A  T  T  T  A  -  G  A  A  C  G  G  G  G  T  G  T  -  C  C  C  A  G  G  T  C  C  G  T  A  G  T  T  T  T  T  C  A 
 > asp_bact_C_jejuni
-TGCACGTCCGACTCATGTTATACCTTCA-AATTC-TACTCAGCATTAATTTG-TAGATATCAGTGA-AGACATCATATATGT-AAATTATCACTTAAT-ATTGTT-TCAATTTAGTATGGGGTGT-CCCAGGTCTGTAGTTTTTCG
-
+ T  G  C  A  C  G  T  C  C  G  A  C  T  C  A  T  G  T  T  A  T  A  C  C  T  T  C  A  -  A  A  T  T  C  -  T  A  C  T  C  A  G  C  A  T  T  A  A  T  T  T  G  -  T  A  G  A  T  A  T  C  A  G  T  G  A  -  A  G  A  C  A  T  C  A  T  A  T  A  T  G  T  -  A  A  A  T  T  A  T  C  A  C  T  T  A  A  T  -  A  T  T  G  T  T  -  T  C  A  A  T  T  T  A  -  G  T  A  T  G  G  G  G  T  G  T  -  C  C  C  A  G  G  T  C  T  G  T  A  G  T  T  T  T  T  C  G 
 > asp_bact_A_asiaticus
-TGATTCAACGCATAAAATTATACCTTTA-ATTTC-TACTCACCATTAATTTT-TAGAAATCAGTGA-AGACATCATAGATCT-ACATTATTAATCAAT-CCTGTT-ACAATTTAGTATGGGCTGT-CCCAGGTCTGTAGTGCTTGG
-
+ T  G  A  T  T  C  A  A  C  G  C  A  T  A  A  A  A  T  T  A  T  A  C  C  T  T  T  A  -  A  T  T  T  C  -  T  A  C  T  C  A  C  C  A  T  T  A  A  T  T  T  T  -  T  A  G  A  A  A  T  C  A  G  T  G  A  -  A  G  A  C  A  T  C  A  T  A  G  A  T  C  T  -  A  C  A  T  T  A  T  T  A  A  T  C  A  A  T  -  C  C  T  G  T  T  -  A  C  A  A  T  T  T  A  -  G  T  A  T  G  G  G  C  T  G  T  -  C  C  C  A  G  G  T  C  T  G  T  A  G  T  G  C  T  T  G  G 
 > asp_bact_D_radiodurans
-TACATTACTGCATGGAGTCATGCCATTC-TTCTA-CCATCAGCATAAATTT-TAGTTATCCTAGC-GATAAATCTATATGT-AAATTGTAAGTTCGT-ATTTTC-GGTATTTGGTATCCGGAGT-TCCAGGTCTGCAGTCCATTG
-
+ T  A  C  A  T  T  A  C  T  G  C  A  T  G  G  A  G  T  C  A  T  G  C  C  A  T  T  C  -  T  T  C  T  A  -  C  C  A  T  C  A  G  C  A  T  A  A  A  T  -  T  T  -  T  A  G  T  T  A  T  C  C  T  A  G  C  -  G  A  T  A  A  A  T  C  T  A  T  A  T  G  T  -  A  A  A  T  T  G  T  A  A  G  T  T  C  G  T  -  A  T  T  T  T  C  -  G  G  T  A  T  T  T  G  -  G  T  A  T  C  C  G  G  A  G  T  -  T  C  C  A  G  G  T  C  T  G  C  A  G  T  C  C  A  T  T  G 
 > asp_bact_E_faecalis
-TGAATCACTGAATAAAATTATACCATGA-AATTC-TACTCACCATTAATTTG-TAGAAATTGGTGA-AGACATCATATACCT-CAATACACAATTCAT-ATTGTT-ACAATTTAGAATGGGCTGT-TCCAGGTCTGTAGTCTTTCG
-
+ T  G  A  A  T  C  A  C  T  G  A  A  T  A  A  A  A  T  T  A  T  A  C  C  A  T  G  A  -  A  A  T  T  C  -  T  A  C  T  C  A  C  C  A  T  T  A  A  T  T  T  G  -  T  A  G  A  A  A  T  T  G  G  T  G  A  -  A  G  A  C  A  T  C  A  T  A  T  A  C  C  T  -  C  A  A  T  A  C  A  C  A  A  T  T  C  A  T  -  A  T  T  G  T  T  -  A  C  A  A  T  T  T  A  -  G  A  A  T  G  G  G  C  T  G  T  -  T  C  C  A  G  G  T  C  T  G  T  A  G  T  C  T  T  T  C  G 
 > asp_bact_G_stearothermophilus
-TGAATCACTGATTAGAGTTATACCTTCA-AATTC-TACTCACCATTAATTTT-TAGAAATCGGTGA-AGACATCATATATCT-AAATTATCAGTTCCT-CTTGTC-ACAATTTAGAATGGGCTGT-CCCAGGTCTGTAGTTTTTCG
-
+ T  G  A  A  T  C  A  C  T  G  A  T  T  A  G  A  G  T  T  A  T  A  C  C  T  T  C  A  -  A  A  T  T  C  -  T  A  C  T  C  A  C  C  A  T  T  A  A  T  T  T  T  -  T  A  G  A  A  A  T  C  G  G  T  G  A  -  A  G  A  C  A  T  C  A  T  A  T  A  T  C  T  -  A  A  A  T  T  A  T  C  A  G  T  T  C  C  T  -  C  T  T  G  T  C  -  A  C  A  A  T  T  T  A  -  G  A  A  T  G  G  G  C  T  G  T  -  C  C  C  A  G  G  T  C  T  G  T  A  G  T  T  T  T  T  C  G 
 > asp_bact_H_aurantiacus
-TGAGCTATTGAGTAGAGTGATACCTTTA-AATTC-TACTCACCAATAATTTT-TAAATATCGGTGA-AGACATCATATATGT-AAATTATTAGTTCAT-ATCGTT-CCAATTGAGAATCCGCTGT-CCCAGGTCCGTAGTTTTTCA
-
+ T  G  A  G  C  T  A  T  T  G  A  G  T  A  G  A  G  T  G  A  T  A  C  C  T  T  T  A  -  A  A  T  T  C  -  T  A  C  T  C  A  C  C  A  A  T  A  A  T  T  T  T  -  T  A  A  A  T  A  T  C  G  G  T  G  A  -  A  G  A  C  A  T  C  A  T  A  T  A  T  G  T  -  A  A  A  T  T  A  T  T  A  G  T  T  C  A  T  -  A  T  C  G  T  T  -  C  C  A  A  T  T  G  A  -  G  A  A  T  C  C  G  C  T  G  T  -  C  C  C  A  G  G  T  C  C  G  T  A  G  T  T  T  T  T  C  A 
 > asp_bact_M_mobile
-TGAATCGCTGATTAGAAATATACCATGG-ATTTC-TTCTCACCATAAATTTC-TAAAAATCGCTGA-AGATATCATATATCA-AATTTATTAATTAAT-CTCGTT-GCAATTTAGAATGGGCTGT-TCCAGGTCTGTAGTTCTTCA
-
+ T  G  A  A  T  C  G  C  T  G  A  T  T  A  G  A  A  A  T  A  T  A  C  C  A  T  G  G  -  A  T  T  T  C  -  T  T  C  T  C  A  C  C  A  T  A  A  A  T  T  T  C  -  T  A  A  A  A  A  T  C  G  C  T  G  A  -  A  G  A  T  A  T  C  A  T  A  T  A  T  C  A  -  A  A  T  T  T  A  T  T  A  A  T  T  A  A  T  -  C  T  C  G  T  T  -  G  C  A  A  T  T  T  A  -  G  A  A  T  G  G  G  C  T  G  T  -  T  C  C  A  G  G  T  C  T  G  T  A  G  T  T  C  T  T  C  A 
 > asp_bact_M_smegmatis
-TGCATACCCGCTTCAAATTATACCCTCG-ATTTC-TACTCAGCATTAATTTT-TAGAAATCGGAGA-AGACATCATATATGT-CAATTCTCAATTACT-CTCGTT-ACAATTGAGAATGGGCTGT-CCCAGGTCTGGAGTCCTTCG
-
+ T  G  C  A  T  A  C  C  C  G  C  T  T  C  A  A  A  T  T  A  T  A  C  C  C  T  C  G  -  A  T  T  T  C  -  T  A  C  T  C  A  G  C  A  T  T  A  A  T  T  T  T  -  T  A  G  A  A  A  T  C  G  G  A  G  A  -  A  G  A  C  A  T  C  A  T  A  T  A  T  G  T  -  C  A  A  T  T  C  T  C  A  A  T  T  A  C  T  -  C  T  C  G  T  T  -  A  C  A  A  T  T  G  A  -  G  A  A  T  G  G  G  C  T  G  T  -  C  C  C  A  G  G  T  C  T  G  G  A  G  T  C  C  T  T  C  G 
 > asp_bact_P_mikurensis
-AGAGTCACTGATGAAAGTTATACCTTGG-ATTTC-TACTCAGCATTAATTTT-CAGATATTGGTGA-AGACATCATATATGT-AAATTGTGAGTTGGT-CGTGTT-ACAATTTAGGATGGGGTGT-CCCAGGTCTGTAGTTTATTG
-
+ A  G  A  G  T  C  A  C  T  G  A  T  G  A  A  A  G  T  T  A  T  A  C  C  T  T  G  G  -  A  T  T  T  C  -  T  A  C  T  C  A  G  C  A  T  T  A  A  T  T  T  T  -  C  A  G  A  T  A  T  T  G  G  T  G  A  -  A  G  A  C  A  T  C  A  T  A  T  A  T  G  T  -  A  A  A  T  T  G  T  G  A  G  T  T  G  G  T  -  C  G  T  G  T  T  -  A  C  A  A  T  T  T  A  -  G  G  A  T  G  G  G  G  T  G  T  -  C  C  C  A  G  G  T  C  T  G  T  A  G  T  T  T  A  T  T  G 
 > asp_bact_S_aureus
-TGAATCGCTGAATAAAGTTATACCTTCA-AATTC-TACTCACCATTAATTTT-TAAAAATTAGTGA-AGACATCATATATGT-AAATTATGAATTAAT-ATTGTC-ACAATTTAGAATGGGCTGT-CCCAGGTCTGTAGTTTTTCA
-
+ T  G  A  A  T  C  G  C  T  G  A  A  T  A  A  A  G  T  T  A  T  A  C  C  T  T  C  A  -  A  A  T  T  C  -  T  A  C  T  C  A  C  C  A  T  T  A  A  T  T  T  T  -  T  A  A  A  A  A  T  T  A  G  T  G  A  -  A  G  A  C  A  T  C  A  T  A  T  A  T  G  T  -  A  A  A  T  T  A  T  G  A  A  T  T  A  A  T  -  A  T  T  G  T  C  -  A  C  A  A  T  T  T  A  -  G  A  A  T  G  G  G  C  T  G  T  -  C  C  C  A  G  G  T  C  T  G  T  A  G  T  T  T  T  T  C  A 
 > asp_bact_S_elongatus
-TGAATTACTGGTTAAAAATTATACCTTCA-AATTC-GTCTCACCATTAATTTT-TAGAAATCGGTGA-AGACATCATATATGT-AAATTATAAGTTCAT-ATTGTT-ACAATTTAGTATGGGGTGT-CCCAGGTCAGTAGTTTTTCG
-
+ T  G  A  A  T  T  A  C  T  G  G  T  T  A  A  A  A  T  T  A  T  A  C  C  T  T  C  A  -  A  A  T  T  C  -  G  T  C  T  C  A  C  C  A  T  T  A  A  T  T  T  T  -  T  A  G  A  A  A  T  C  G  G  T  G  A  -  A  G  A  C  A  T  C  A  T  A  T  A  T  G  T  -  A  A  A  T  T  A  T  A  A  G  T  T  C  A  T  -  A  T  T  G  T  T  -  A  C  A  A  T  T  T  A  -  G  T  A  T  G  G  G  G  T  G  T  -  C  C  C  A  G  G  T  C  A  G  T  A  G  T  T  T  T  T  C  G 
 > asp_bact_S_haemolyticus
-TGAACCGCTGAATAAAGTTATACCTTCA-AATTC-TACTCACCATTAATTTT-TAAAAATTAGTGA-AGACATCATATATGT-AAATTATGAATTGAT-ATTGTC-ACAATTTAGAATGGGCTGT-CCCAGGTCTGTAGTTTTTCA
-
+ T  G  A  A  C  C  G  C  T  G  A  A  T  A  A  A  G  T  T  A  T  A  C  C  T  T  C  A  -  A  A  T  T  C  -  T  A  C  T  C  A  C  C  A  T  T  A  A  T  T  T  T  -  T  A  A  A  A  A  T  T  A  G  T  G  A  -  A  G  A  C  A  T  C  A  T  A  T  A  T  G  T  -  A  A  A  T  T  A  T  G  A  A  T  T  G  A  T  -  A  T  T  G  T  C  -  A  C  A  A  T  T  T  A  -  G  A  A  T  G  G  G  C  T  G  T  -  C  C  C  A  G  G  T  C  T  G  T  A  G  T  T  T  T  T  C  A 
 > asp_bact_T_maritima
-TGAGTCATTGAATAATGTTATACCTTCG-ATTTC-TACTCACCATTAATTTT-TAGATATTGGTGA-AGACATCATATATCT-TAATTATGAGTTCGT-TTGTT-ACAATTTAGAATGGGGTGT-TCCAGGTCTGTAGTTGTTCG
-
+ T  G  A  G  T  C  A  T  T  G  A  A  T  A  A  T  G  T  T  A  T  A  C  C  T  T  C  G  -  A  T  T  T  C  -  T  A  C  T  C  A  C  C  A  T  T  A  A  T  T  T  T  -  T  A  G  A  T  A  T  T  G  G  T  G  A  -  A  G  A  C  A  T  C  A  T  A  T  A  T  C  T  -  T  A  A  T  T  A  T  G  A  G  T  T  C  G  T  -  -  T  T  G  T  T  -  A  C  A  A  T  T  T  A  -  G  A  A  T  G  G  G  G  T  G  T  -  T  C  C  A  G  G  T  C  T  G  T  A  G  T  T  G  T  T  C  G 
 > gly_bact_1ati_T_thermophilus
-TAAATAACGGGGATAAGAATAGTACGTTCA-TTACATGCTAAA-TCATGCACCAGTTTATA-CTGTCATGACTGA-TGTGATAATATAATT-AGAGTAAGTAGGAAT-ATTCAA-CCTATTAG-GTAATAGTCAGC-TCATTACCCGTAGGTTCTTC
-
+ T  A  A  A  T  A  A  C  G  G  G  G  A  A  A  G  A  T  A  G  T  A  C  G  T  T  C  A  -  T  T  A  A  A  -  T  C  A  T  G  C  A  C  C  A  G  T  T  T  A  T  A  -  C  T  G  T  C  A  T  G  A  C  T  G  A  -  T  G  T  G  A  T  A  A  T  A  T  A  A  T  T  -  A  G  A  G  T  A  A  G  T  A  G  G  A  A  T  -  A  T  T  C  A  A  -  C  C  T  A  T  T  A  G  -  G  T  A  T  A  G  T  C  A  G  C  -  T  C  A  T  T  A  C  C  C  G  T  A  G  G  T  T  C  T  T  C 
 > gly_bact_A_asiaticus
-TAGATAATGGAGTCATAGATTGTACCTTTA-TTCCA-CTATGCACCAGTTTATT-CTGTCATGACTGA-TGTGATAATATATTT-TAAGAACGGAGATCT-ATGTAC-CCTATAAA-AAATAGTACGC-TCATTACCTGGAGTTTTTTG
-
+ T  A  G  A  T  A  A  T  G  G  A  G  T  A  T  A  G  T  T  G  T  A  C  C  T  T  T  A  -  T  T  C  C  A  -  C  T  A  T  G  C  A  C  C  A  G  T  T  T  A  T  T  -  C  T  G  T  C  A  T  G  A  C  T  G  A  -  T  G  T  G  A  T  A  A  T  A  T  A  T  T  T  -  T  A  A  G  A  A  C  G  G  A  G  A  T  C  T  -  A  T  G  T  A  C  -  C  C  T  A  T  A  A  A  -  A  A  A  T  A  G  T  A  C  G  C  -  T  C  A  T  T  A  C  C  T  G  G  A  G  T  T  T  T  T  T  G 
 > gly_bact_B_burgdorferi
-TAAATAAAGGAGTTATAAATTGTAGCTTTG-TTACA-ATATGCACCAGTTTATG-CTGTCATGACTGA-TGCGATAATATATTT-TGAGAAAGTATTTACT-GTGTAC-CCTATAAA-TAATAGTAAGG-TCATTACCCGTCGCTTTCTG
-
+ T  A  A  A  T  A  A  A  G  G  A  G  T  A  T  A  A  T  T  G  T  A  G  C  T  T  T  G  -  T  T  A  C  A  -  A  T  A  T  G  C  A  C  C  A  G  T  T  T  A  T  G  -  C  T  G  T  C  A  T  G  A  C  T  G  A  -  T  G  C  G  A  T  A  A  T  A  T  A  T  T  T  -  T  G  A  G  A  A  A  G  T  A  T  T  T  C  T  -  G  T  G  T  A  C  -  C  C  T  A  T  A  A  A  -  T  A  A  T  A  G  T  A  A  G  G  -  T  C  A  T  T  A  C  C  C  G  T  C  G  C  T  T  T  C  T  G 
 > gly_bact_B_fragilis
-TAAATAAAGGAGTTTTAAATTGTACCTTTA-TTCCA-ATATGCACCAGTTTAAT-CTGTCATGACTGA-TGTGATAATATATTT-TAAGAATGTAGAACT-AAGTAA-CCCATATT-TAATAGTACGC-CCATTACCTGTAGTTTGTTC
-
+ T  A  A  A  T  A  A  A  G  G  A  G  T  T  T  A  A  T  T  G  T  A  C  C  T  T  T  A  -  T  T  C  C  A  -  A  T  A  T  G  C  A  C  C  A  G  T  T  T  A  A  T  -  C  T  G  T  C  A  T  G  A  C  T  G  A  -  T  G  T  G  A  T  A  A  T  A  T  A  T  T  T  -  T  A  A  G  A  A  T  G  T  A  G  A  A  C  T  -  A  A  G  T  A  A  -  C  C  C  A  T  A  T  T  -  T  A  A  T  A  G  T  A  C  G  C  -  C  C  A  T  T  A  C  C  T  G  T  A  G  T  T  T  G  T  T  C 
 > gly_bact_C_aggregans
-TAAATTCAGGGCATAAGAATAGTACCTTTA-TTGCA-TCATGCACCAGTTTATC-CTGTCATGACTGA-TGTGATAATATAATT-AAGGTACGTCGGAAT-GTCTAA-GCTATTAA-TAATAGTCAGC-TCATTACCCGTGGGTTCTTG
-
+ T  A  A  A  T  T  C  A  G  G  G  C  A  A  A  G  A  T  A  G  T  A  C  C  T  T  T  A  -  T  T  G  C  A  -  T  C  A  T  G  C  A  C  C  A  G  T  T  T  A  T  C  -  C  T  G  T  C  A  T  G  A  C  T  G  A  -  T  G  T  G  A  T  A  A  T  A  T  A  A  T  T  -  A  A  G  G  T  A  C  G  T  C  G  G  A  A  T  -  G  T  C  T  A  A  -  G  C  T  A  T  T  A  A  -  T  A  A  T  A  G  T  C  A  G  C  -  T  C  A  T  T  A  C  C  C  G  T  G  G  G  T  T  C  T  T  G 
 > gly_bact_D_radiodurans
-TAAATACCGGGCATAAGAATAGTACCTTTA-TTGCCTGCTCAAAGAGATGCACCAGTTCATA-CTGTCATGACTGA-TGTGATAATATATTT-AAAGTAAGTAGGAAA-ATATTA-GCAATTAA-AAATAGTCAGC-TCTTTACCCGTAGCTTCTTG
-
+ T  A  A  A  T  A  C  C  G  G  G  C  A  A  A  G  A  T  A  G  T  A  C  C  T  T  T  A  -  T  A  A  G  A  -  -  G  A  T  G  C  A  C  C  A  G  T  T  C  A  T  A  -  C  T  G  T  C  A  T  G  A  C  T  G  A  -  T  G  T  G  A  T  A  A  T  A  T  A  T  T  T  -  A  A  A  G  T  A  A  G  T  A  G  G  A  A  A  -  A  T  A  T  T  A  -  G  C  A  A  T  T  A  A  -  A  A  A  T  A  G  T  C  A  G  C  -  T  C  T  T  T  A  C  C  C  G  T  A  G  C  T  T  C  T  T  G 
 > gly_bact_G_obscuriglobus
-TAGATAACGGAATTGA-TTGTAGCTTTA-TTAGA-ATATGCACCAGTTCAAA-CTGTCATGACTGA-TGCGATAATATATTG-AAAGGATGGAGACGT-ATTCGA-GCCATAAT-CAATAGTCAGG-TCATTACGCGCAGTCTCTTG
-
+ T  A  G  A  T  A  A  C  G  G  A  A  T  G  A  -  -  T  T  G  T  A  G  C  T  T  T  A  -  T  T  A  G  A  -  A  T  A  T  G  C  A  C  C  A  G  T  T  C  A  A  A  -  C  T  G  T  C  A  T  G  A  C  T  G  A  -  T  G  C  G  A  T  A  A  T  A  T  A  T  T  G  -  A  A  A  G  G  A  T  G  G  A  G  A  C  G  T  -  A  T  T  C  G  A  -  G  C  C  A  T  A  A  T  -  C  A  A  T  A  G  T  C  A  G  G  -  T  C  A  T  T  A  C  G  C  G  C  A  G  T  C  T  C  T  T  G 
 > gly_bact_G_stearothermophilus
-TAAATAGCGGAATTAACCAATGTACCTTTA-ATATGCACCAGTTTATA-CTGTCATGAGTGA-TGCGATAATATATTG-TAAGAATGAAGTTCT-ATGTGA-CCCATAAA-GGATGGTCCGC-TCAGTACCTGCAGTCTCTTT
-
+ T  A  A  A  T  A  G  C  G  G  A  A  T  A  A  C  C  A  T  G  T  A  C  C  T  T  T  A  -  -  -  -  -  -  -  A  T  A  T  G  C  A  C  C  A  G  T  T  T  A  T  A  -  C  T  G  T  C  A  T  G  A  G  T  G  A  -  T  G  C  G  A  T  A  A  T  A  T  A  T  T  G  -  T  A  A  G  A  A  T  G  A  A  G  T  T  C  T  -  A  T  G  T  G  A  -  C  C  C  A  T  A  A  A  -  G  G  A  T  G  G  T  C  C  G  C  -  T  C  A  G  T  A  C  C  T  G  C  A  G  T  C  T  C  T  T  T 
 > gly_bact_H_aurantiacus
-TAAATACCGGGCTTAAGAATAGTACCTTCA-TTACC-TCATGCACCAGTTCATA-CTGTCATGACTGA-TGTGATAATATATTT-AGAGTACGTAGGGAA-ATACAA-CCTATTAA-TAATAGTCAGC-TCTTTACCCGTAGGTTCTTC
-
+ T  A  A  A  T  A  C  C  G  G  G  C  T  A  A  G  A  T  A  G  T  A  C  C  T  T  C  A  -  T  T  A  C  C  -  T  C  A  T  G  C  A  C  C  A  G  T  T  C  A  T  A  -  C  T  G  T  C  A  T  G  A  C  T  G  A  -  T  G  T  G  A  T  A  A  T  A  T  A  T  T  T  -  A  G  A  G  T  A  C  G  T  A  G  G  G  A  A  -  A  T  A  C  A  A  -  C  C  T  A  T  T  A  A  -  T  A  A  T  A  G  T  C  A  G  C  -  T  C  T  T  T  A  C  C  C  G  T  A  G  G  T  T  C  T  T  C 
 > gly_bact_P_mikurensis
-TAAATGAAGGAACTAG-TTGTACCTTAA-TTACA-ACATGCACCAGTTTAAT-CTGTCATGAGTGA-TGCGATAATATAGTG-AATGAAAGTGGGACT-ATGTGA-CGTATAAG-TGATAGTCAGG-CCATTACCGGTCGCTTTTTG
-
+ T  A  A  A  T  G  A  A  G  G  A  A  C  A  G  -  -  T  T  G  T  A  C  C  T  T  A  A  -  T  T  A  C  A  -  A  C  A  T  G  C  A  C  C  A  G  T  T  T  A  A  T  -  C  T  G  T  C  A  T  G  A  G  T  G  A  -  T  G  C  G  A  T  A  A  T  A  T  A  G  T  G  -  A  A  T  G  A  A  A  G  T  G  G  G  A  C  T  -  A  T  G  T  G  A  -  C  G  T  A  T  A  A  G  -  T  G  A  T  A  G  T  C  A  G  G  -  C  C  A  T  T  A  C  C  G  G  T  C  G  C  T  T  T  T  T  G 
 > gly_bact_S_aureus
-TAAATAACGGAATTCACCTATGTACCTTTA-TTACT-ATTTGCACCAGTTTAAA-CTGTGATGACTGA-TGCGATAATATATTG-AAAGACTCGAGTCGT-ATGTGA-CCCATAAA-GGATGGTCGGC-TCAGTACCTGCAGTCTCTTG
-
+ T  A  A  A  T  A  A  C  G  G  A  A  T  C  A  C  C  A  T  G  T  A  C  C  T  T  T  A  -  T  T  A  C  T  -  A  T  T  T  G  C  A  C  C  A  G  T  T  T  A  A  A  -  C  T  G  T  G  A  T  G  A  C  T  G  A  -  T  G  C  G  A  T  A  A  T  A  T  A  T  T  G  -  A  A  A  G  A  C  T  C  G  A  G  T  C  G  T  -  A  T  G  T  G  A  -  C  C  C  A  T  A  A  A  -  G  G  A  T  G  G  T  C  G  G  C  -  T  C  A  G  T  A  C  C  T  G  C  A  G  T  C  T  C  T  T  G 
 > gly_bact_5f5w_A_aeolicus
-ATAATTTCTAATGCAAGGTTGACAATATGCGCTACCCTTATT-CGATCATACCGGC-AGTAAAAATATTTAC-GACAATATAGTAGT-AATGTTA-TGGATGTAGTATCATCATA-AATCTATCAGTAGTCTATAA
-
+ A  T  A  A  T  T  T  C  T  A  A  T  G  C  A  A  G  G  T  T  G  A  A  A  T  -  -  -  -  -  -  -  -  -  -  -  -  -  A  T  G  C  G  C  T  A  C  T  T  A  T  T  -  C  G  A  T  C  A  T  A  C  C  G  G  C  -  A  G  T  A  A  A  A  A  T  A  T  T  T  A  C  -  -  G  A  C  A  A  T  A  T  A  G  T  A  G  T  -  A  T  G  T  T  A  -  T  G  G  A  T  G  T  A  -  G  T  A  T  C  A  T  C  A  T  A  -  A  A  T  C  T  A  T  C  A  G  T  A  G  T  C  T  A  T  A  A 
 > gly_bact_3ufg_C_jejuni
-CTCATTTATAAAGAAAGGCTTACAATCCGCGCTACCCTTGGT-CGCCCATCCGGGC-AGTGCAAATATTTAC-AATAATATAGTAAT-AATGTTA-TGGATGTAGTATCATCATA-ATTGCATCAGTAGTCTATAA
-
+ C  T  C  A  T  T  T  A  T  A  A  A  G  A  A  A  G  G  C  T  T  A  A  A  T  -  -  -  -  -  -  -  -  -  -  -  -  -  C  C  G  C  G  C  T  A  C  T  T  G  G  T  -  C  G  C  C  C  A  T  C  C  G  G  G  C  -  A  G  T  G  C  A  A  A  T  A  T  T  T  A  C  -  -  A  A  T  A  A  T  A  T  A  G  T  A  A  T  -  A  T  G  T  T  A  -  T  G  G  A  T  G  T  A  -  G  T  A  T  C  A  T  C  A  T  A  -  A  T  T  G  C  A  T  C  A  G  T  A  G  T  C  T  A  T  A  A 
 > gly_bact_1j5w_T_maritima
-ATAATTTATAATGCCAGGTTAACAATATGCGCTACCCTTGGT-CGATCATACGGGC-AGTAGATAAATTTAC-AACAATATACTAAT-AATGTTA-TGGATGTAGTATCATCATA-AATCTATCAGTAGTCTATAG
-
+ A  T  A  A  T  T  T  A  T  A  A  T  G  C  C  A  G  G  T  T  A  A  A  A  T  -  -  -  -  -  -  -  -  -  -  -  -  -  A  T  G  C  G  C  T  A  C  T  T  G  G  T  -  C  G  A  T  C  A  T  A  C  G  G  G  C  -  A  G  T  A  G  A  T  A  A  A  T  T  T  A  C  -  -  A  A  C  A  A  T  A  T  A  C  T  A  A  T  -  A  T  G  T  T  A  -  T  G  G  A  T  G  T  A  -  G  T  A  T  C  A  T  C  A  T  A  -  A  A  T  C  T  A  T  C  A  G  T  A  G  T  C  T  A  T  A  G 
 > gly_bact_B_thailandensis
-TAATTTCTACAGAGAGGCTTACTATATGCGCCATACTTGCT-CGGCCATACCGGC-AGTAAAAAAATTTAC-AATTATATGCTACT-AATGTTA-TGGATGTAGTATCATCATA-ACTTGATCAGTAGTCTATAA
-
+ -  T  A  A  T  T  T  C  T  A  C  A  G  A  G  A  G  G  C  T  T  A  T  A  T  -  -  -  -  -  -  -  -  -  -  -  -  -  A  T  G  C  G  C  C  A  C  T  T  G  C  T  -  C  G  G  C  C  A  T  A  C  C  G  G  C  -  A  G  T  A  A  A  A  A  A  A  T  T  T  A  C  -  -  A  A  T  T  A  T  A  T  G  C  T  A  C  T  -  A  T  G  T  T  A  -  T  G  G  A  T  G  T  A  -  G  T  A  T  C  A  T  C  A  T  A  -  A  C  T  T  G  A  T  C  A  G  T  A  G  T  C  T  A  T  A  A 
 > gly_bact_E_coli
-CTAGTTTCTAAAGCGAGGCTTACTATATGCGCCACTCGTGCT-CTCCCATACCGGC-AGTAAAAATATTTAC-AATAATATGCTAAT-AATGTTA-TGGATGTAGTATCATCATA-ACTCGATCAGTAGTCTATAG
-
+ C  T  A  G  T  T  T  C  T  A  A  A  G  C  G  A  G  G  C  T  T  A  T  A  T  -  -  -  -  -  -  -  -  -  -  -  -  -  A  T  G  C  G  C  C  A  C  G  T  G  C  T  -  C  T  C  C  C  A  T  A  C  C  G  G  C  -  A  G  T  A  A  A  A  A  T  A  T  T  T  A  C  -  -  A  A  T  A  A  T  A  T  G  C  T  A  A  T  -  A  T  G  T  T  A  -  T  G  G  A  T  G  T  A  -  G  T  A  T  C  A  T  C  A  T  A  -  A  C  T  C  G  A  T  C  A  G  T  A  G  T  C  T  A  T  A  G 
 > his_bact_3rac_A_acidocaldarius
-GGGCTACGTTCTTAACGAACTCGGTTAA-GTGTT-CTCTGCATCCCTCGTCC-CTGGGAGAGTAGG-CACCATGTAGTG-ATATTGTTAACGCCC-AAGTTT-TTTATTCC-CTCAGGGAA-GCCCTGTCTATAGTTCTTAC
-
+ G  G  G  C  T  A  C  G  T  T  C  T  T  A  A  C  G  A  A  C  T  C  G  G  T  T  A  A  -  G  T  G  T  T  -  C  T  C  T  G  C  A  T  C  C  C  T  C  G  T  C  C  -  C  T  G  G  G  A  G  A  G  T  A  G  G  -  -  -  -  C  A  C  C  A  T  G  T  A  G  T  G  -  A  T  A  T  T  G  T  T  A  A  C  G  C  C  C  -  A  A  G  T  T  T  -  T  T  T  A  T  T  C  C  -  -  -  C  T  C  A  G  G  G  A  A  -  G  C  C  C  T  G  T  C  T  A  T  A  G  T  T  C  T  T  A  C 
 > his_bact_5e3i_A_baumann
-CGGGTAAATCCTTACAGAAATGTCTTAA-TACTT-CTCTGCAGCCGGTGCTT-CCGTGATGCTTGA-GGAGATAATGTACTG-ACATTTTCCGTGAGT-TTATAT-CTTAGCCC-CTGCGGGAA-CTCCTGTCTGTAGTTTTTAA
-
+ C  G  G  G  T  A  A  A  T  C  C  T  T  A  C  A  G  A  A  A  T  G  T  C  T  T  A  A  -  T  A  C  T  T  -  C  T  C  T  G  C  A  G  C  C  G  G  T  G  C  T  T  -  C  C  G  T  G  A  T  G  C  T  T  G  A  -  G  G  A  G  A  T  A  A  T  G  T  A  C  T  G  -  A  C  A  T  T  T  T  C  C  G  T  G  A  G  T  -  T  T  A  T  A  T  -  C  T  T  A  G  C  C  C  -  -  -  C  T  G  C  G  G  G  A  A  -  C  T  C  C  T  G  T  C  T  G  T  A  G  T  T  T  T  T  A  A 
 > his_bact_4e51_B_thailandensis
-TGATTACCTACTTGCAGAAATGCCTTAA-TAGTT-ATCTGCAACCCTTGCCT-CAGTGATGCTTGA-CAGGGAGATAATGTACTG-ACATTTTGAGTGAAT-GTATAT-CTTAGTCA-CTCCGGGAA-CCCCGGGCTGTAGTTATTAA
-
+ T  G  A  T  T  A  C  C  T  A  C  T  T  G  C  A  G  A  A  A  T  G  C  C  T  T  A  A  -  T  A  G  T  T  -  A  T  C  T  G  C  A  A  C  C  C  T  T  G  C  C  T  -  C  A  G  T  G  A  T  G  C  T  T  G  A  -  C  G  A  G  A  T  A  A  T  G  T  A  C  T  G  -  A  C  A  T  T  T  T  G  A  G  T  G  A  A  T  -  G  T  A  T  A  T  -  C  T  T  A  G  T  C  A  -  -  -  C  T  C  C  G  G  G  A  A  -  C  C  C  C  G  G  G  C  T  G  T  A  G  T  T  A  T  T  A  A 
 > his_bact_1htt_E_coli
-TGAGTAGCTAATTGGAGAGATGTCTTAA-TACTA-GTCTGCAGCCGGTGCGT-AAGTGATGCTTGA-GGAGATAATGGATTG-ACATTTTCCGGGGCT-ATCTAT-CTTAGTC-CTGCGGGAA-CCCCTGTCTGTAGTTTTTAC
-
+ T  G  A  G  T  A  G  C  T  A  A  T  T  G  G  A  G  A  G  A  T  G  T  C  T  T  A  A  -  T  A  C  T  A  -  G  T  C  T  G  C  A  G  C  C  G  G  T  G  C  G  T  -  A  A  G  T  G  A  T  G  C  T  T  G  A  -  G  G  A  G  A  T  A  A  T  G  G  A  T  T  G  -  A  C  A  T  T  T  T  C  C  G  G  G  G  C  T  -  A  T  C  T  A  T  -  C  T  T  A  G  T  C  -  -  -  -  C  T  G  C  G  G  G  A  A  -  C  C  C  C  T  G  T  C  T  G  T  A  G  T  T  T  T  T  A  C 
 > his_bact_3net_N_nostoc
-TATATTACTGGTAAGAGTCCTACCCTAG-TAGTA-CGCTATAACTCTCCATC-CTCGAATATTTGG-TGATGAGATATTG-ACATCCTTCATTACT-ATTTGT-CTAACCTT-GTGCGGGAA-ATCGTGTCTGTCGTTGGTTAC
-
+ T  A  T  A  T  T  A  C  T  G  G  T  A  A  G  A  G  T  C  C  T  A  C  C  C  T  A  G  -  T  A  G  T  A  -  C  G  C  T  A  T  A  A  C  T  C  T  C  C  A  T  C  -  C  T  C  G  A  A  T  A  T  T  T  G  G  -  -  -  T  G  A  T  G  A  G  A  T  A  T  T  G  -  A  C  A  T  C  C  T  T  C  A  T  T  A  C  T  -  A  T  T  T  G  T  -  C  T  A  A  C  C  T  T  -  -  -  G  T  G  C  G  G  G  A  A  -  A  T  C  G  T  G  T  C  T  G  T  C  G  T  T  G  G  T  T  C 
 > his_bact_1qe0_S_aureus
-AGGATAAATAATTCTAAAAATGCCTTAG-TACTA-GTCTGCAGCCCTTGCAT-CTATAAAGCTTGA-AGATAATGTACTG-ACATTCTTTATAACT-ATATTT-CCTATTTA-CTGGGGGAA-GACGTGTCTGTAGTTTCTAA
-
+ A  G  G  A  T  A  A  A  T  A  A  T  T  C  T  A  A  A  A  A  T  G  C  C  T  T  A  G  -  T  A  C  T  A  -  G  T  C  T  G  C  A  G  C  C  C  T  T  G  C  A  T  -  C  T  A  T  A  A  A  G  C  T  T  G  A  -  -  -  A  G  A  T  A  A  T  G  T  A  C  T  G  -  A  C  A  T  T  C  T  T  T  A  T  A  A  C  T  -  A  T  A  T  T  T  -  C  C  T  A  T  T  T  A  -  -  -  C  T  G  G  G  G  G  A  A  -  G  A  C  G  T  G  T  C  T  G  T  A  G  T  T  T  C  T  A  A 
 > his_bact_1adj_T_thermophilus
-TAAGTTCCCGATTACCGCTATTCCTTAA-TTCTA-CTCTGCAGCCCTTGCAT-CTGTGTCGCTTGC-GGAGATAATAAACTG-ACACTTTTAAGTAAT-GTATAT-CCTATAAA-CTGGGGGAA-GTCGTGTCTGTAGTCTCTAC
-
+ T  A  A  G  T  T  C  C  C  G  A  T  T  A  C  C  G  C  T  A  T  T  C  C  T  T  A  A  -  T  T  C  T  A  -  C  T  C  T  G  C  A  G  C  C  C  T  T  G  C  A  T  -  C  T  G  T  G  T  C  G  C  T  T  G  C  -  G  G  A  G  A  T  A  A  T  A  A  A  C  T  G  -  A  C  A  C  T  T  T  T  A  A  G  T  A  A  T  -  G  T  A  T  A  T  -  C  C  T  A  T  A  A  A  -  -  -  C  T  G  G  G  G  G  A  A  -  G  T  C  G  T  G  T  C  T  G  T  A  G  T  C  T  C  T  A  C 
 > his_bact_A_asiaticus
-AGGATTACTGATAAAAGTCCTACCCTAA-TTGTT-AAGTGAATCTCTTGATC-CTGGAATACTGGC-GGAGATAAGACATTG-ACATTCTCAATTAGT-ATTTAT-CTTATATC-GTCGGGGAA-GTCGTGTCTGTAGTATCTAA
-
+ A  G  G  A  T  T  A  C  T  G  A  T  A  A  A  A  G  T  C  C  T  A  C  C  C  T  A  A  -  T  T  G  T  T  -  A  A  G  T  G  A  A  T  C  T  C  T  T  G  A  T  C  -  C  T  G  G  A  A  T  A  C  T  G  G  C  -  G  G  A  G  A  T  A  A  G  A  C  A  T  T  G  -  A  C  A  T  T  C  T  C  A  A  T  T  A  G  T  -  A  T  T  T  A  T  -  C  T  T  A  T  A  T  C  -  -  -  G  T  C  G  G  G  G  A  A  -  G  T  C  G  T  G  T  C  T  G  T  A  G  T  A  T  C  T  A  A 
 > his_bact_B_burgdorferi
-TGTATTGATTGTTACAATATTACCTTAA-TAGTA-ATCTGTATCTCTCGTTC-CTGGCATGATTGG-GGAGATTATATATTG-ACATTCTTAAGTAAT-ATTTAA-TTTACATT-GTGGGGGAA-ATCGTGGCTGTAGTAATTAT
-
+ T  G  T  A  T  T  G  A  T  T  G  T  T  A  C  A  A  T  A  T  T  A  C  C  T  T  A  A  -  T  A  G  T  A  -  A  T  C  T  G  T  A  T  C  T  C  T  C  G  T  T  C  -  C  T  G  G  C  A  T  G  A  T  T  G  G  -  G  G  A  G  A  T  T  A  T  A  T  A  T  T  G  -  A  C  A  T  T  C  T  T  A  A  G  T  A  A  T  -  A  T  T  T  A  A  -  T  T  T  A  C  A  T  T  -  -  -  G  T  G  G  G  G  G  A  A  -  A  T  C  G  T  G  G  C  T  G  T  A  G  T  A  A  T  T  A  T 
 > his_bact_B_fragilis
-AGAATTACTGATAATAGTAATACCCTAT-TTATA-AAGTGAATCTCTCGATT-CTAGAATACTGGC-GGAGATAAGACATTG-ATATTATTACTTCGT-TGTAT-CTTATACT-GTCGGGGAA-GTCGTGTCTGCAGTTATTAA
-
+ A  G  A  A  T  T  A  C  T  G  A  T  A  A  T  A  G  T  A  A  T  A  C  C  C  T  A  T  -  T  T  A  T  A  -  A  A  G  T  G  A  A  T  C  T  C  T  C  G  A  T  T  -  C  T  A  G  A  A  T  A  C  T  G  G  C  -  G  G  A  G  A  T  A  A  G  A  C  A  T  T  G  -  A  T  A  T  T  A  T  T  A  C  T  T  C  G  T  -  -  T  G  T  A  T  -  C  T  T  A  T  A  C  T  -  -  -  G  T  C  G  G  G  G  A  A  -  G  T  C  G  T  G  T  C  T  G  C  A  G  T  T  A  T  T  A  A 
 > his_bact_B_licheniformis
-GGAATAATCGACGACAAAAATGCCTTAA-TACTC-GTCTGCAGCCCCTGCTT-CCATAATGCTTGA-GGAGATAATGTACTG-ACATTCTCTGTAGAC-ATATTT-CCTATTGA-CTCGGGGAA-ACCGTGTCTGTAGTTCCTAC
-
+ G  G  A  A  T  A  A  T  C  G  A  C  G  A  C  A  A  A  A  A  T  G  C  C  T  T  A  A  -  T  A  C  T  C  -  G  T  C  T  G  C  A  G  C  C  C  C  T  G  C  T  T  -  C  C  A  T  A  A  T  G  C  T  T  G  A  -  G  G  A  G  A  T  A  A  T  G  T  A  C  T  G  -  A  C  A  T  T  C  T  C  T  G  T  A  G  A  C  -  A  T  A  T  T  T  -  C  C  T  A  T  T  G  A  -  -  -  C  T  C  G  G  G  G  A  A  -  A  C  C  G  T  G  T  C  T  G  T  A  G  T  T  C  C  T  A  C 
 > his_bact_C_aggregans
-CGGATACTTAGCTCGTGAATTACCTTAA-TAATG-ATCTGCAGCCCTTGCAT-CTGTGACGCTTGA-ACAGATCATGGATTG-ACATTCTCGCGTACC-AACTGT-TTTATAAG-ATGGGGGAA-CTCCTGTCAGTAGTTCCCC
-
+ C  G  G  A  T  A  C  T  T  A  G  C  T  C  G  T  G  A  A  T  T  A  C  C  T  T  A  A  -  T  A  A  T  G  -  A  T  C  T  G  C  A  G  C  C  C  T  T  G  C  A  T  -  C  T  G  T  G  A  C  G  C  T  T  G  A  -  A  C  A  G  A  T  C  A  T  G  G  A  T  T  G  -  A  C  A  T  T  C  T  C  G  C  G  T  A  C  C  -  A  A  C  T  G  T  -  T  T  T  A  T  A  A  G  -  -  -  A  T  G  G  G  G  G  A  A  -  C  T  C  C  T  G  T  C  A  G  T  A  G  T  T  C  C  C  C  - 
 > his_bact_C_jejuni
-AAAATTATGAATCAAAGTCTTACCATAT-TAATT-ATGTGCAGCCGTTGCAT-TAGGTAAGCTTGA-GGTGATAATGTAGTG-ACGTTTTTTATTCGT-TATAT-CCTATTGA-CTCGGGGAA-GGAGTGTCTGTAGTTCTTAA
-
+ A  A  A  A  T  T  A  T  G  A  A  T  C  A  A  A  G  T  C  T  T  A  C  C  A  T  A  T  -  T  A  A  T  T  -  A  T  G  T  G  C  A  G  C  C  G  T  T  G  C  A  T  -  T  A  G  G  T  A  A  G  C  T  T  G  A  -  G  G  T  G  A  T  A  A  T  G  T  A  G  T  G  -  A  C  G  T  T  T  T  T  T  A  T  T  C  G  T  -  -  T  A  T  A  T  -  C  C  T  A  T  T  G  A  -  -  -  C  T  C  G  G  G  G  A  A  -  G  G  A  G  T  G  T  C  T  G  T  A  G  T  T  C  T  T  A  A 
 > his_bact_C_thermalis
-AAAGTAAGTAATTAGGGAAGTTCCCTAG-TTATA-ATGTGCATCCCTCGCCT-CAGTAAACATTGG-GATATAACGTATTG-ACATTTTTCAGTAAT-AGATTT-TTTATTGA-TTGAGGGAA-CTCGTGTTTACAATAACTTC
-
+ A  A  A  G  T  A  A  G  T  A  A  T  T  A  G  G  G  A  A  G  T  T  C  C  C  T  A  G  -  T  T  A  T  A  -  A  T  G  T  G  C  A  T  C  C  C  T  C  G  C  C  T  -  C  A  G  T  A  A  A  C  A  T  T  G  G  -  -  G  A  T  A  T  A  A  C  G  T  A  T  T  G  -  A  C  A  T  T  T  T  T  C  A  G  T  A  A  T  -  A  G  A  T  T  T  -  T  T  T  A  T  T  G  A  -  -  -  T  T  G  A  G  G  G  A  A  -  C  T  C  G  T  G  T  T  T  A  C  A  A  T  A  A  C  T  T  C 
 > his_bact_G_obscuriglobus
-CGAATTGGCGATAGCAGTCCTACCCGAC-TAGTT-ATGTGTATCTCTCGTGC-CTAGACTGCTGGG-GGAGATGAGATACTG-ATACCTTTAATTCCT-GTATGT-CTAACTTC-GTGGGGGAA-TTCGTGCCTGTAGTTCCTAA
-
+ C  G  A  A  T  T  G  G  C  G  A  T  A  G  C  A  G  T  C  C  T  A  C  C  C  G  A  C  -  T  A  G  T  T  -  A  T  G  T  G  T  A  T  C  T  C  T  C  G  T  G  C  -  C  T  A  G  A  C  T  G  C  T  G  G  G  -  G  G  A  G  A  T  G  A  G  A  T  A  C  T  G  -  A  T  A  C  C  T  T  T  A  A  T  T  C  C  T  -  G  T  A  T  G  T  -  C  T  A  A  C  T  T  C  -  -  -  G  T  G  G  G  G  G  A  A  -  T  T  C  G  T  G  C  C  T  G  T  A  G  T  T  C  C  T  A  A 
 > his_bact_G_stearothermophilus
-AGAATAATTGGTGGGAGAAATGCCTTAA-TACTA-CTCTGCAGCCCTCGCTT-CTATAACGCTTGA-GGTGATTATGTATTG-ACATTCTCTATAAAT-ATGTTT-CCTATTGA-CTGGGGGAA-ACCGTGTCTGTAGTTCCTAC
-
+ A  G  A  A  T  A  A  T  T  G  G  T  G  G  G  A  G  A  A  A  T  G  C  C  T  T  A  A  -  T  A  C  T  A  -  C  T  C  T  G  C  A  G  C  C  C  T  C  G  C  T  T  -  C  T  A  T  A  A  C  G  C  T  T  G  A  -  G  G  T  G  A  T  T  A  T  G  T  A  T  T  G  -  A  C  A  T  T  C  T  C  T  A  T  A  A  A  T  -  A  T  G  T  T  T  -  C  C  T  A  T  T  G  A  -  -  -  C  T  G  G  G  G  G  A  A  -  A  C  C  G  T  G  T  C  T  G  T  A  G  T  T  C  C  T  A  C 
 > his_bact_H_aurantiacus
-TGGTTCACTTGTTAGAGTACTCCCTTAA-TAGTA-CTCTGAAACTCTCGTTC-CTAGACTGACAGG-GGAGATGATACATTG-ACATTCTTTAGTGCT-GCATTT-GTTACTTA-CTTGGGGAA-CTCCTGGCTGTAGTTATTTA
-
+ T  G  G  T  T  C  A  C  T  T  G  T  T  A  G  A  G  T  A  C  T  C  C  C  T  T  A  A  -  T  A  G  T  A  -  C  T  C  T  G  A  A  A  C  T  C  T  C  G  T  T  C  -  C  T  A  G  A  C  T  G  A  C  A  G  G  -  G  G  A  G  A  T  G  A  T  A  C  A  T  T  G  -  A  C  A  T  T  C  T  T  T  A  G  T  G  C  T  -  G  C  A  T  T  T  -  G  T  T  A  C  T  T  A  -  -  -  C  T  T  G  G  G  G  A  A  -  C  T  C  C  T  G  G  C  T  G  T  A  G  T  T  A  T  T  T  A 
 > his_bact_M_mobile
-TTAATTACTGAACATTAAGATACCTTAT-TTTTA-ATCTGCAACCGTTGCTT-AAATAAAGCTTGA-GGAGATCATGGAGTA-ATATTTTCCATTGAT-ATTTAT-TTTATTAA-CTTGGGGAC-AAACTGTCCGTAGTTTTTAA
-
+ T  T  A  A  T  T  A  C  T  G  A  A  C  A  T  T  A  A  G  A  T  A  C  C  T  T  A  T  -  T  T  T  T  A  -  A  T  C  T  G  C  A  A  C  C  G  T  T  G  C  T  T  -  A  A  A  T  A  A  A  G  C  T  T  G  A  -  G  G  A  G  A  T  C  A  T  G  G  A  G  T  A  -  A  T  A  T  T  T  T  C  C  A  T  T  G  A  T  -  A  T  T  T  A  T  -  T  T  T  A  T  T  A  A  -  -  -  C  T  T  G  G  G  G  A  C  -  A  A  A  C  T  G  T  C  C  G  T  A  G  T  T  T  T  T  A  A 
 > his_bact_P_mikurensis
-GAGGTTACGGGTCTGAGTAATAGCTTAC-TTGTG-AACTGCATCCCTCGTTC-CTAGTCCCATGGC-GGTGATGAGATATTG-ACATTTTTTATTGAT-ATATGT-CTTACTAC-CTCGGGGAA-CTCCTGTGTGATTTCATTGA
-
+ G  A  G  G  T  T  A  C  G  G  G  T  C  T  G  A  G  T  A  A  T  A  G  C  T  T  A  C  -  T  T  G  T  G  -  A  A  C  T  G  C  A  T  C  C  C  T  C  G  T  T  C  -  C  T  A  G  T  C  C  C  A  T  G  G  C  -  G  G  T  G  A  T  G  A  G  A  T  A  T  T  G  -  A  C  A  T  T  T  T  T  T  A  T  T  G  A  T  -  A  T  A  T  G  T  -  C  T  T  A  C  T  A  C  -  -  -  C  T  C  G  G  G  G  A  A  -  C  T  C  C  T  G  T  G  T  G  A  T  T  T  C  A  T  T  G  A 
 > his_bact_S_aureus
-AGGATAAATAATTCTAAAAATGCCTTAG-TACTA-GTCTGCAGCCCTTGCAT-CTATAAAGCTTGA-GGAGATAATGTACTG-ACATTCTTTATAACT-ATATTT-CCTATTTA-CTGGGGGAA-GACGTGTCTGTAGTTTCTAA
-
+ A  G  G  A  T  A  A  A  T  A  A  T  T  C  T  A  A  A  A  A  T  G  C  C  T  T  A  G  -  T  A  C  T  A  -  G  T  C  T  G  C  A  G  C  C  C  T  T  G  C  A  T  -  C  T  A  T  A  A  A  G  C  T  T  G  A  -  G  G  A  G  A  T  A  A  T  G  T  A  C  T  G  -  A  C  A  T  T  C  T  T  T  A  T  A  A  C  T  -  A  T  A  T  T  T  -  C  C  T  A  T  T  T  A  -  -  -  C  T  G  G  G  G  G  A  A  -  G  A  C  G  T  G  T  C  T  G  T  A  G  T  T  T  C  T  A  A 
 > his_bact_S_elongatus
-AAGGTAGGTAATTAAGGAAGTTCCCTAG-TTATA-GTGTGCATCCCTCGCCT-CTGTAATCATTGC-TAAGATTACGTATTG-ACATTATTCACTCAT-GATTT-TTTATTAA-TTCAGGGAA-GACGTGTCGATAATAATTTC
-
+ A  A  G  G  T  A  G  G  T  A  A  T  T  A  A  G  G  A  A  G  T  T  C  C  C  T  A  G  -  T  T  A  T  A  -  G  T  G  T  G  C  A  T  C  C  C  T  C  G  C  C  T  -  C  T  G  T  A  A  T  C  A  T  T  G  C  -  T  A  A  G  A  T  T  A  C  G  T  A  T  T  G  -  A  C  A  T  T  A  T  T  C  A  C  T  C  A  T  -  -  G  A  T  T  T  -  T  T  T  A  T  T  A  A  -  -  -  T  T  C  A  G  G  G  A  A  -  G  A  C  G  T  G  T  C  G  A  T  A  A  T  A  A  T  T  T  C 
 > his_bact_T_maritima
-AGGATAACTGATGAGCGTAATGCCTTAA-TACTA-GTCTGCAGCCCTTGCTT-AAGAAATGCTTGA-GGTGATAATGTATTG-ATATTTTTACTTGGT-AAATAT-CTTATGAA-CTCGGGGAA-CTCCTGTCGGTAGTTTCTAC
-
+ A  G  G  A  T  A  A  C  T  G  A  T  G  A  G  C  G  T  A  A  T  G  C  C  T  T  A  A  -  T  A  C  T  A  -  G  T  C  T  G  C  A  G  C  C  C  T  T  G  C  T  T  -  A  A  G  A  A  A  T  G  C  T  T  G  A  -  G  G  T  G  A  T  A  A  T  G  T  A  T  T  G  -  A  T  A  T  T  T  T  T  A  C  T  T  G  G  T  -  A  A  A  T  A  T  -  C  T  T  A  T  G  A  A  -  -  -  C  T  C  G  G  G  G  A  A  -  C  T  C  C  T  G  T  C  G  G  T  A  G  T  T  T  C  T  A  C 
 > lys_bact_4ex5_B_thailandensis
-CGCACTCCTGATTGACATTATACCTTAC-CTTCA-ATTTGTCCATATAGTTT-TAGTTATAGATGA-GAACATCTTATACCA-AGGTTATCAGTTGAC-ACCTTT-AGTATTTCGGATCAGTCAT-TCCCGGGGTGTAGTTTTTCA
-
+ C  G  C  A  C  T  C  C  T  G  A  T  T  G  A  C  A  T  T  A  T  A  C  C  T  T  A  C  -  C  T  T  C  A  -  A  T  T  T  G  T  C  C  A  T  A  T  A  G  T  T  T  -  T  A  G  T  T  A  T  A  G  A  T  G  A  -  G  A  A  C  A  T  C  T  T  A  T  A  C  C  A  -  A  G  G  T  T  A  T  C  A  G  T  T  G  A  C  -  A  C  C  T  T  T  -  A  G  T  A  T  T  T  C  -  G  G  A  T  C  A  G  T  C  A  T  -  T  C  C  C  G  G  G  G  T  G  T  A  G  T  T  T  T  T  C  A 
 > lys_bact_6ns0_C_trachomatis
-CGGGTTATTGAATAAAGTTATACCTTAC-CTTCC-ATTTGTCTATCTAATTT-TCGTAATGATTGA-CAACATCTTACACCA-AAATTAGTAATTAAT-CCAATC-AGTAGTGTGAATGACACAT-TCCCGGTGTGTAGTTTTTCA
-
+ C  G  G  G  T  T  A  T  T  G  A  A  T  A  A  A  G  T  T  A  T  A  C  C  T  T  A  C  -  C  T  T  C  C  -  A  T  T  T  G  T  C  T  A  T  C  T  A  A  T  T  T  -  T  C  G  T  A  A  T  G  A  T  T  G  A  -  C  A  A  C  A  T  C  T  T  A  C  A  C  C  A  -  A  A  A  T  T  A  G  T  A  A  T  T  A  A  T  -  C  C  A  A  T  C  -  A  G  T  A  G  T  G  T  -  G  A  A  T  G  A  C  A  C  A  T  -  T  C  C  C  G  G  T  G  T  G  T  A  G  T  T  T  T  T  C  A 
 > lys_bact_1e1o_E_coli
-TGCATTCCTGATTTCGGTTATACCTTAT-CTTCA-ATATGTCCATATAGTTT-TAGTTATAGATGA-AACATCTTATATCA-AAATTATCACTTGCT-ACCTTC-AGTATTTGGGATGAGTGAT-TCCCCGTGTGTAGTTTTTCA
-
+ T  G  C  A  T  T  C  C  T  G  A  T  T  T  C  G  G  T  T  A  T  A  C  C  T  T  A  T  -  C  T  T  C  A  -  A  T  A  T  G  T  C  C  A  T  A  T  A  G  T  T  T  -  T  A  G  T  T  A  T  A  G  A  T  G  A  -  -  A  A  C  A  T  C  T  T  A  T  A  T  C  A  -  A  A  A  T  T  A  T  C  A  C  T  T  G  C  T  -  A  C  C  T  T  C  -  A  G  T  A  T  T  T  G  -  G  G  A  T  G  A  G  T  G  A  T  -  T  C  C  C  C  G  T  G  T  G  T  A  G  T  T  T  T  T  C  A 
 > lys_bact_E_coli
-TGCATTCGTGATTTAGGTTATACCTTAT-CTTCA-ATATGTCCATATAGTTT-TAGTTATAGATGA-GAACATCTTATATCA-AAATTATCACTTGCT-ACCTTC-AGTATTTGGGATGAGTGAT-TCCCCGTGTGTAGTTTTTCA
-
+ T  G  C  A  T  T  C  G  T  G  A  T  T  T  A  G  G  T  T  A  T  A  C  C  T  T  A  T  -  C  T  T  C  A  -  A  T  A  T  G  T  C  C  A  T  A  T  A  G  T  T  T  -  T  A  G  T  T  A  T  A  G  A  T  G  A  -  G  A  A  C  A  T  C  T  T  A  T  A  T  C  A  -  A  A  A  T  T  A  T  C  A  C  T  T  G  C  T  -  A  C  C  T  T  C  -  A  G  T  A  T  T  T  G  -  G  G  A  T  G  A  G  T  G  A  T  -  T  C  C  C  C  G  T  G  T  G  T  A  G  T  T  T  T  T  C  A 
 > lys_bact_3e9h_G_stearothermophilus
-CGGTTTACTGGATAGAGATATACCTTAC-CTTCA-CTATGTCTATATAGTTT-TAATAATGGTTGA-GAACATCTTATAACA-TGATTATCAATTCAT-ACCTTA-AGTATTTTGGAACACTCAT-TCCCGGTGTGTAGTTTTTCA
-
+ C  G  G  T  T  T  A  C  T  G  G  A  T  A  G  A  G  A  T  A  T  A  C  C  T  T  A  C  -  C  T  T  C  A  -  C  T  A  T  G  T  C  T  A  T  A  T  A  G  T  T  T  -  T  A  A  T  A  A  T  G  G  T  T  G  A  -  G  A  A  C  A  T  C  T  T  A  T  A  A  C  A  -  T  G  A  T  T  A  T  C  A  A  T  T  C  A  T  -  A  C  C  T  T  A  -  A  G  T  A  T  T  T  T  -  G  G  A  A  C  A  C  T  C  A  T  -  T  C  C  C  G  G  T  G  T  G  T  A  G  T  T  T  T  T  C  A 
 > lys_bact_6aqh_M_thermosresistibile
-AGTCTTGCTGCCTAGGGTTATACCTTAC-CTTCA-ATATGTCCATTTAGGTT-TAGTTATAGTTGA-CACCATTTTACAACA-AAACCTTCGATTAAT-CCCTTA-AAGATATGGTATCCGACAT-TCCCCGCGTGTAGTTTCTCG
-
+ A  G  T  C  T  T  G  C  T  G  C  C  T  A  G  G  G  T  T  A  T  A  C  C  T  T  A  C  -  C  T  T  C  A  -  A  T  A  T  G  T  C  C  A  T  T  T  A  G  G  T  T  -  T  A  G  T  T  A  T  A  G  T  T  G  A  -  C  A  C  C  A  T  T  T  T  A  C  A  A  C  A  -  A  A  A  C  C  T  T  C  G  A  T  T  A  A  T  -  C  C  C  T  T  A  -  A  A  G  A  T  A  T  G  -  G  T  A  T  C  C  G  A  C  A  T  -  T  C  C  C  C  G  C  G  T  G  T  A  G  T  T  T  C  T  C  G 
 > lys_bact_6aqg_M_ulcerans
-AGTCTTGCTGACTAGGGTTATACCTTAC-CTTCA-ATATGTCCATTTAGGTT-TAGTTATAGTTGA-CACCATCTTACAACA-AAACCTTCGATTAAT-CCCTTA-AAGATATGGTATCCGACAT-TCCGCGCGTGTAGTTTGTCG
-
+ A  G  T  C  T  T  G  C  T  G  A  C  T  A  G  G  G  T  T  A  T  A  C  C  T  T  A  C  -  C  T  T  C  A  -  A  T  A  T  G  T  C  C  A  T  T  T  A  G  G  T  T  -  T  A  G  T  T  A  T  A  G  T  T  G  A  -  C  A  C  C  A  T  C  T  T  A  C  A  A  C  A  -  A  A  A  C  C  T  T  C  G  A  T  T  A  A  T  -  C  C  C  T  T  A  -  A  A  G  A  T  A  T  G  -  G  T  A  T  C  C  G  A  C  A  T  -  T  C  C  G  C  G  C  G  T  G  T  A  G  T  T  T  G  T  C  G 
 > lys_bact_A_aeolicus
-TGCATTCATGATTATAGTTATACCTTAC-CTTCA-ATATGTCCATATAGTTT-TCGTAATGAATGA-CAACATCTTATACCA-AAATTATCAATTTAT-ACCTTT-AGTATTTCGAATCACACAT-TCCCCGAGTGTAGTTTTTCA
-
+ T  G  C  A  T  T  C  A  T  G  A  T  T  A  T  A  G  T  T  A  T  A  C  C  T  T  A  C  -  C  T  T  C  A  -  A  T  A  T  G  T  C  C  A  T  A  T  A  G  T  T  T  -  T  C  G  T  A  A  T  G  A  A  T  G  A  -  C  A  A  C  A  T  C  T  T  A  T  A  C  C  A  -  A  A  A  T  T  A  T  C  A  A  T  T  T  A  T  -  A  C  C  T  T  T  -  A  G  T  A  T  T  T  C  -  G  A  A  T  C  A  C  A  C  A  T  -  T  C  C  C  C  G  A  G  T  G  T  A  G  T  T  T  T  T  C  A 
 > lys_bact_A_asiaticus
-AGCATTACTGAATAGAGAAATACCTTAC-CTACA-CTATGTCAATATAGTTT-AAGTAATCAATGA-TAACATCTTATATCA-AAGTTATCAATTAAT-ACCTTC-AGTATTGAGAATGACTCAT-TCCCCGTGTGTAGTCTTTCA
-
+ A  G  C  A  T  T  A  C  T  G  A  A  T  A  G  A  G  A  A  A  T  A  C  C  T  T  A  C  -  C  T  A  C  A  -  C  T  A  T  G  T  C  A  A  T  A  T  A  G  T  T  T  -  A  A  G  T  A  A  T  C  A  A  T  G  A  -  T  A  A  C  A  T  C  T  T  A  T  A  T  C  A  -  A  A  G  T  T  A  T  C  A  A  T  T  A  A  T  -  A  C  C  T  T  C  -  A  G  T  A  T  T  G  A  -  G  A  A  T  G  A  C  T  C  A  T  -  T  C  C  C  C  G  T  G  T  G  T  A  G  T  C  T  T  T  C  A 
 > lys_bact_B_fragilis
-AGGATAGCTGAATACAGATATACCTTAC-CTTCA-CTATGTCGATATAGTTT-TAGTAATGAATGA-CAACATCGTATATCA-AAGTTATCAATTAAT-ACCTTC-AGTATTTAGAATGACACAT-TCCCCGTGTGTAGTCTTTCG
-
+ A  G  G  A  T  A  G  G  T  G  A  A  T  A  C  A  G  A  T  A  T  A  C  C  T  T  A  C  -  C  T  T  C  A  -  C  T  A  T  G  T  C  G  A  T  A  T  A  G  T  T  T  -  T  A  G  T  A  A  T  G  A  A  T  G  A  -  C  A  A  C  A  T  C  G  T  A  T  A  T  C  A  -  A  A  G  T  T  A  T  C  A  A  T  T  A  A  T  -  A  C  C  T  T  C  -  A  G  T  A  T  T  T  A  -  G  A  A  T  G  A  C  A  C  A  T  -  T  C  C  C  C  G  T  G  T  G  T  A  G  T  C  T  T  T  C  G 
 > lys_bact_B_licheniformis
-CGGATTACTGGATAAAGATATACCCTAC-CTTCA-CTATGTCTATATAGTTT-TAATAATGGTTGA-GAACATCTTATAACA-AAATTGTCAATTCAT-ACCTTA-AGTATTTTGGAACACTCAT-TCCCGGTGTGTAGTTTTTCA
-
+ C  G  G  A  T  T  A  C  T  G  G  A  T  A  A  A  G  A  T  A  T  A  C  C  C  T  A  C  -  C  T  T  C  A  -  C  T  A  T  G  T  C  T  A  T  A  T  A  G  T  T  T  -  T  A  A  T  A  A  T  G  G  T  T  G  A  -  G  A  A  C  A  T  C  T  T  A  T  A  A  C  A  -  A  A  A  T  T  G  T  C  A  A  T  T  C  A  T  -  A  C  C  T  T  A  -  A  G  T  A  T  T  T  T  -  G  G  A  A  C  A  C  T  C  A  T  -  T  C  C  C  G  G  T  G  T  G  T  A  G  T  T  T  T  T  C  A 
 > lys_bact_C_aggregans
-CGCATTGCTGGTTAAGGTTATACCTTAC-CTTCA-ATATGTCCATATAGTTT-TCGTAATGAATGA-CAACATCTTAGAACA-AACTTCTTAATTGAT-ACCTTT-AGTACTTCGTATGACTCAT-TCCCGGTGTGTAGTTTTTCA
-
+ C  G  C  A  T  T  G  C  T  G  G  T  T  A  A  G  G  T  T  A  T  A  C  C  T  T  A  C  -  C  T  T  C  A  -  A  T  A  T  G  T  C  C  A  T  A  T  A  G  T  T  T  -  T  C  G  T  A  A  T  G  A  A  T  G  A  -  C  A  A  C  A  T  C  T  T  A  G  A  A  C  A  -  A  A  C  T  T  C  T  T  A  A  T  T  G  A  T  -  A  C  C  T  T  T  -  A  G  T  A  C  T  T  C  -  G  T  A  T  G  A  C  T  C  A  T  -  T  C  C  C  G  G  T  G  T  G  T  A  G  T  T  T  T  T  C  A 
 > lys_bact_C_jejuni
-TGCATTGTTGATTAAAGTTATACCTTAC-CTTCT-AGTTGTCCATATAGTTT-TACTTATAGGTGA-CAACATCCTATAGCA-AAATTATCAATTCTT-ACCTTT-AGTATTTGGGATCAGTAAT-TCCCCGAGTGTAGTTTTTCA
-
+ T  G  C  A  T  T  G  T  T  G  A  T  T  A  A  A  G  T  T  A  T  A  C  C  T  T  A  C  -  C  T  T  C  T  -  A  G  T  T  G  T  C  C  A  T  A  T  A  G  T  T  T  -  T  A  C  T  T  A  T  A  G  G  T  G  A  -  C  A  A  C  A  T  C  C  T  A  T  A  G  C  A  -  A  A  A  T  T  A  T  C  A  A  T  T  C  T  T  -  A  C  C  T  T  T  -  A  G  T  A  T  T  T  G  -  G  G  A  T  C  A  G  T  A  A  T  -  T  C  C  C  C  G  A  G  T  G  T  A  G  T  T  T  T  T  C  A 
 > lys_bact_D_radiodurans
-CGGGTTGATGAATAAGGTTATAGCCTAT-CTTCA-ATATGTGTATATAGTTT-TAGTAATGGTAGA-CAACATCTTATAGCA-AGATCATTAATTGGT-ACCTTT-AGTATTGCGTATCACTCAT-TCCCGGTGTGTAGTCTTTCA
-
+ C  G  G  G  T  T  G  A  T  G  A  A  T  A  A  G  G  T  T  A  T  A  G  C  C  T  A  T  -  C  T  T  C  A  -  A  T  A  T  G  T  G  T  A  T  A  T  A  G  T  T  T  -  T  A  G  T  A  A  T  G  G  T  A  G  A  -  C  A  A  C  A  T  C  T  T  A  T  A  G  C  A  -  A  G  A  T  C  A  T  T  A  A  T  T  G  G  T  -  A  C  C  T  T  T  -  A  G  T  A  T  T  G  C  -  G  T  A  T  C  A  C  T  C  A  T  -  T  C  C  C  G  G  T  G  T  G  T  A  G  T  C  T  T  T  C  A 
 > lys_bact_G_obscuriglobus
-AGTATTGCTGCATACAGATATACCCTAC-CTACA-ATTTGTCTATCTAGTTT-TAATAATGGTTGA-GAACATCTTATAACA-AGGTTATCAGTTTCG-GCTTTA-AGTATATAGTATCACACAT-TCCCGGTGTGTAGTTTTTCA
-
+ A  G  T  A  T  T  G  C  T  G  C  A  T  A  C  A  G  A  T  A  T  A  C  C  C  T  A  C  -  C  T  A  C  A  -  A  T  T  T  G  T  C  T  A  T  C  T  A  G  T  T  T  -  T  A  A  T  A  A  T  G  G  T  T  G  A  -  G  A  A  C  A  T  C  T  T  A  T  A  A  C  A  -  A  G  G  T  T  A  T  C  A  G  T  T  T  C  G  -  G  C  T  T  T  A  -  A  G  T  A  T  A  T  A  -  G  T  A  T  C  A  C  A  C  A  T  -  T  C  C  C  G  G  T  G  T  G  T  A  G  T  T  T  T  T  C  A 
 > lys_bact_H_aurantiacus
-TGCGTTCCTGGATAAGGTTATACCTTAG-CTCCA-ATATGTCCATATAGTTT-TAGTAATGAATGA-CAACATCTTATAACA-AACTTATCAGTTGTC-ACCTTC-AGTATTTTGCATCACTGAT-TCCCGGTGTGTAGTGTTTCA
-
+ T  G  C  G  T  T  C  C  T  G  G  A  T  A  A  G  G  T  T  A  T  A  C  C  T  T  A  G  -  C  T  C  C  A  -  A  T  A  T  G  T  C  C  A  T  A  T  A  G  T  T  T  -  T  A  G  T  A  A  T  G  A  A  T  G  A  -  C  A  A  C  A  T  C  T  T  A  T  A  A  C  A  -  A  A  C  T  T  A  T  C  A  G  T  T  G  T  C  -  A  C  C  T  T  C  -  A  G  T  A  T  T  T  T  -  G  C  A  T  C  A  C  T  G  A  T  -  T  C  C  C  G  G  T  G  T  G  T  A  G  T  G  T  T  T  C  A 
 > lys_bact_M_mobile
-TGGGTTCTTGAATAATAATATACCTTAC-CTTCA-ATATGTCCATCTAATTT-TAGTAATGGTTGA-CAACATCCTAAAACA-AAGTTAGCAATTATT-ACCTTA-AGCATTTGCAAACATTCAT-TCCCGGGGTGTAGTTTTTCA
-
+ T  G  G  G  T  T  C  T  T  G  A  A  T  A  A  T  A  A  T  A  T  A  C  C  T  T  A  C  -  C  T  T  C  A  -  A  T  A  T  G  T  C  C  A  T  C  T  A  A  T  T  T  -  T  A  G  T  A  A  T  G  G  T  T  G  A  -  C  A  A  C  A  T  C  C  T  A  A  A  A  C  A  -  A  A  G  T  T  A  G  C  A  A  T  T  A  T  T  -  A  C  C  T  T  A  -  A  G  C  A  T  T  T  G  -  C  A  A  A  C  A  T  T  C  A  T  -  T  C  C  C  G  G  G  G  T  G  T  A  G  T  T  T  T  T  C  A 
 > lys_bact_P_mikurensis
-CGCGTTACCGATTAGGGTTATACCTTAC-CTTCA-ATTTGTCCATATAGTTT-TCGTTATAGATGA-GAACATCTTATAACA-TAGTTAACAGTTAAT-ACCTTT-AGTATTTCGTATCACACAT-TCCCGGTGTGTAGTTTTTCA
-
+ C  G  C  G  T  T  A  C  C  G  A  T  T  A  G  G  G  T  T  A  T  A  C  C  T  T  A  C  -  C  T  T  C  A  -  A  T  T  T  G  T  C  C  A  T  A  T  A  G  T  T  T  -  T  C  G  T  T  A  T  A  G  A  T  G  A  -  G  A  A  C  A  T  C  T  T  A  T  A  A  C  A  -  T  A  G  T  T  A  A  C  A  G  T  T  A  A  T  -  A  C  C  T  T  T  -  A  G  T  A  T  T  T  C  -  G  T  A  T  C  A  C  A  C  A  T  -  T  C  C  C  G  G  T  G  T  G  T  A  G  T  T  T  T  T  C  A 
 > lys_bact_S_aureus
-AGGATTAATGAATAAAGTTATACCTTAA-CTTCA-CTATGTCTATATAGTTT-TAATAATGGTTGA-GAACATCTTATAACA-AAATTATCACTTGAT-ACCTTA-AGTATTTTGGAACACTCAT-TCCCGGTGTGTAGTTTTTCA
-
+ A  G  G  A  T  T  A  A  T  G  A  A  T  A  A  A  G  T  T  A  T  A  C  C  T  T  A  A  -  C  T  T  C  A  -  C  T  A  T  G  T  C  T  A  T  A  T  A  G  T  T  T  -  T  A  A  T  A  A  T  G  G  T  T  G  A  -  G  A  A  C  A  T  C  T  T  A  T  A  A  C  A  -  A  A  A  T  T  A  T  C  A  C  T  T  G  A  T  -  A  C  C  T  T  A  -  A  G  T  A  T  T  T  T  -  G  G  A  A  C  A  C  T  C  A  T  -  T  C  C  C  G  G  T  G  T  G  T  A  G  T  T  T  T  T  C  A 
 > lys_bact_S_elongatus
-GGCATCCCTGGATAAAGTTATACCTTAC-CTTCA-ATATGTCCATATAGTTT-TAATTATGGTTGA-GAACATCCTATAACA-AAATTGTCACTTCAT-ACCTTT-AGTATTTTGGACCAGTCAT-TCCCGGTGTGTAGTTTTTCA
-
+ G  G  C  A  T  C  C  C  T  G  G  A  T  A  A  A  G  T  T  A  T  A  C  C  T  T  A  C  -  C  T  T  C  A  -  A  T  A  T  G  T  C  C  A  T  A  T  A  G  T  T  T  -  T  A  A  T  T  A  T  G  G  T  T  G  A  -  G  A  A  C  A  T  C  C  T  A  T  A  A  C  A  -  A  A  A  T  T  G  T  C  A  C  T  T  C  A  T  -  A  C  C  T  T  T  -  A  G  T  A  T  T  T  T  -  G  G  A  C  C  A  G  T  C  A  T  -  T  C  C  C  G  G  T  G  T  G  T  A  G  T  T  T  T  T  C  A 
 > lys_bact_T_maritima
-AGTACTGTTGATTAGGGTTATACCTTAA-CTTCA-ATATGTCCATATAGTTT-TAATAATGAATGA-AAGCATCGTATAACA-AAATTATCAATTTAT-ACCTTT-AGTATTTTGGATCACTGAT-TCCCGGTGTGTAGTTTTTCA
-
+ A  G  T  A  C  T  G  T  T  G  A  T  T  A  G  G  G  T  T  A  T  A  C  C  T  T  A  A  -  C  T  T  C  A  -  A  T  A  T  G  T  C  C  A  T  A  T  A  G  T  T  T  -  T  A  A  T  A  A  T  G  A  A  T  G  A  -  A  A  G  C  A  T  C  G  T  A  T  A  A  C  A  -  A  A  A  T  T  A  T  C  A  A  T  T  T  A  T  -  A  C  C  T  T  T  -  A  G  T  A  T  T  T  T  -  G  G  A  T  C  A  C  T  G  A  T  -  T  C  C  C  G  G  T  G  T  G  T  A  G  T  T  T  T  T  C  A 
 > lys_bact_T_thermophilus
-GGCATTGATGGTTACAGTTATACCTTAC-CTACA-ATATGTCTATATAGTTT-AAATTATGGATGA-AAACATCTTACAGCA-AAATCGTTAATTCGT-ACCTTT-AGGATACGGTATCCGACAT-TCCCCGTGTGTAGTCTTTCA
-
+ G  G  C  A  T  T  G  A  T  G  G  T  T  A  C  A  G  T  T  A  T  A  C  C  T  T  A  C  -  C  T  A  C  A  -  A  T  A  T  G  T  C  T  A  T  A  T  A  G  T  T  T  -  A  A  A  T  T  A  T  G  G  A  T  G  A  -  A  A  A  C  A  T  C  T  T  A  C  A  G  C  A  -  A  A  A  T  C  G  T  T  A  A  T  T  C  G  T  -  A  C  C  T  T  T  -  A  G  G  A  T  A  C  G  -  G  T  A  T  C  C  G  A  C  A  T  -  T  C  C  C  C  G  T  G  T  G  T  A  G  T  C  T  T  T  C  A 
 > phe_bact_3pco_E_coli
-CTCGCTAGTAGTTGATGTCTCCGCATAA-CTGTA-CGTTGCACCGTATGCTA-CTGTTCCGGTAGA-CACCTTAATAGTTTA-TCATAGCTAATTGAT-ATGTGC-CCCATAT-GTATTGGGTTAC-CATACGTCTGTGTAGTCTTGAG
-
+ C  T  C  G  C  T  A  G  T  A  G  T  T  G  A  T  G  T  C  T  C  C  G  C  A  T  A  A  -  C  T  G  T  A  -  C  G  T  T  G  C  A  C  C  G  T  A  T  G  C  T  A  -  C  T  G  T  T  C  C  G  G  T  A  G  A  -  C  A  C  C  T  T  A  A  T  A  G  T  T  T  A  -  T  C  A  T  A  G  C  T  A  A  T  T  G  A  T  -  A  T  G  T  G  C  -  C  C  C  A  T  A  T  -  -  G  T  A  T  T  G  G  G  T  A  C  -  C  A  C  G  T  C  T  G  T  G  T  A  G  T  C  T  T  G  A  G 
 > phe_bact_2rhq_S_haemolyticus
-CTCGCTAATAATTTGTGAATTAGAATAA-GTATC-ATTTGCACCCTACGCTA-CTATTGCGATAGG-CAGAATCATAGTTTA-TGATAGCTATTCAAT-ATGTGC-CCTATATC-GTATTGCGTTAC-CAAACGTCTGTGCAGTCTTAAG
-
+ C  T  C  G  C  T  A  A  T  A  A  T  T  T  G  T  G  A  A  T  T  A  G  A  A  T  A  A  -  G  T  A  T  C  -  A  T  T  T  G  C  A  C  C  C  T  A  C  G  C  T  A  -  C  T  A  T  T  G  C  G  A  T  A  G  G  -  C  A  G  A  A  T  C  A  T  A  G  T  T  T  A  -  T  G  A  T  A  G  C  T  A  T  T  C  A  A  T  -  A  T  G  T  G  C  -  C  C  T  A  T  A  T  C  -  G  T  A  T  T  G  C  G  T  A  C  -  C  A  C  G  T  C  T  G  T  G  C  A  G  T  C  T  T  A  A  G 
 > phe_bact_2aly_T_thermophilus
-CTCTTAGATTATTGCTGAACTAGCATAG-CTGTC-GTTTGCACCCTATGATT-CTGTTTCGGTTGT-CAACTTAATAGTTTG-TCATAGCTAATCACT-ATGTAC-CGCATCTG-GTATGGCGTTAC-TCGTCTGTGTAGTCTTGAG
-
+ C  T  C  T  T  A  G  A  T  T  A  T  T  G  C  T  G  A  A  C  T  A  G  C  A  T  A  G  -  C  T  G  T  C  -  G  T  T  T  G  C  A  C  C  C  T  A  T  G  A  T  T  -  C  T  G  T  T  T  C  G  G  T  T  G  T  -  C  A  A  C  T  T  A  A  T  A  G  T  T  T  G  -  T  C  A  T  A  G  C  T  A  A  T  C  A  C  T  -  A  T  G  T  A  C  -  C  G  C  A  T  C  T  G  -  G  T  A  T  G  G  C  G  T  A  C  -  -  T  C  G  T  C  T  G  T  G  T  A  G  T  C  T  T  G  A  G 
 > phe_bact_A_aeolicus
-CTCTCTAGTTCTTGGTGTATAAGCATAG-CTATA-GATTGCACCCTATGCTT-CTATTCCGATAGG-CACCTTAATAGTTTA-TGATAATTAATTAAT-CTGTGC-CCCATATG-GTATTGGGTTAC-CATAAGTCTGTGTAGTCTTTTG
-
+ C  T  C  T  C  T  A  G  T  T  C  T  T  G  G  T  G  T  A  T  A  A  G  C  A  T  A  G  -  C  T  A  T  A  -  G  A  T  T  G  C  A  C  C  C  T  A  T  G  C  T  T  -  C  T  A  T  T  C  C  G  A  T  A  G  G  -  C  A  C  C  T  T  A  A  T  A  G  T  T  T  A  -  T  G  A  T  A  A  T  T  A  A  T  T  A  A  T  -  C  T  G  T  G  C  -  C  C  C  A  T  A  T  G  -  G  T  A  T  T  G  G  G  T  A  C  -  C  A  A  G  T  C  T  G  T  G  T  A  G  T  C  T  T  T  T  G 
 > phe_bact_A_asiaticus
-CTGTTAAGTTATTAATGTGTTAGCATAA-CTTTC-ATTTGCACCCTATGTCA-CTGCTCTGGTAGA-GCAGTTAATACTATA-TTATAATTTATTGGT-ATGTGC-CGTATATA-GTATTGCGTTAC-CCCACGACTGTGTAGTCTTTAA
-
+ C  T  G  T  T  A  A  G  T  T  A  T  T  A  A  T  G  T  G  T  T  A  G  C  A  T  A  A  -  C  T  T  T  C  -  A  T  T  T  G  C  A  C  C  C  T  A  T  G  T  C  A  -  C  T  G  C  T  C  T  G  G  T  A  G  A  -  G  C  A  G  T  T  A  A  T  A  C  T  A  T  A  -  T  T  A  T  A  A  T  T  T  A  T  T  G  G  T  -  A  T  G  T  G  C  -  C  G  T  A  T  A  T  A  -  G  T  A  T  T  G  C  G  T  A  C  -  C  A  C  G  A  C  T  G  T  G  T  A  G  T  C  T  T  T  A  A 
 > phe_bact_B_fragilis
-CTCTTGAATTATTCGTGTATCAGCATAA-CTTTA-ATTTGCACCCTAGGTTA-CTGTTGCGGTAGA-GCAGTTAATACTATA-TCATAATTTTTCAAT-ATGTGC-CGCATATG-GTATTGGGTTAC-GATAGGACTGTGTAGTCATAAA
-
+ C  T  C  T  T  G  A  A  T  T  A  T  T  C  G  T  G  T  A  T  C  A  G  C  A  T  A  A  -  C  T  T  T  A  -  A  T  T  T  G  C  A  C  C  C  T  A  G  G  T  T  A  -  C  T  G  T  T  G  C  G  G  T  A  G  A  -  G  C  A  G  T  T  A  A  T  A  C  T  A  T  A  -  T  C  A  T  A  A  T  T  T  T  T  C  A  A  T  -  A  T  G  T  G  C  -  C  G  C  A  T  A  T  G  -  G  T  A  T  T  G  G  G  T  A  C  -  G  A  G  G  A  C  T  G  T  G  T  A  G  T  C  A  T  A  A  A 
 > phe_bact_B_licheniformis
-CTCTTTAATAATTTGTGACTAAGCATAC-GTATC-ACTTGCACCCTACGCTA-CTATTGCGATAGG-CACAATTATAGTGTA-TGATAGCTACTCAAT-ATGTGC-CCTATATC-GTATTGCGTTAC-CAAAAGTCTGTGTAGTCTTAAG
-
+ C  T  C  T  T  T  A  A  T  A  A  T  T  T  G  T  G  A  C  T  A  A  G  C  A  T  A  C  -  G  T  A  T  C  -  A  C  T  T  G  C  A  C  C  C  T  A  C  G  C  T  A  -  C  T  A  T  T  G  C  G  A  T  A  G  G  -  C  A  C  A  A  T  T  A  T  A  G  T  G  T  A  -  T  G  A  T  A  G  C  T  A  C  T  C  A  A  T  -  A  T  G  T  G  C  -  C  C  T  A  T  A  T  C  -  G  T  A  T  T  G  C  G  T  A  C  -  C  A  A  G  T  C  T  G  T  G  T  A  G  T  C  T  T  A  A  G 
 > phe_bact_B_thailandensis
-CTTGCGAGTAATTGCTGTATCAGCATAC-CTATA-GTTTGCACGCTATGACG-CTATTCCGGCAGT-CACCTTAATAGTGTA-TCATAGTACATTAAT-TTGTGC-CCCATATT-GTATCGCGATAC-CAGATGTCTGGGTAGTCTTGAG
-
+ C  T  T  G  C  G  A  G  T  A  A  T  T  G  C  T  G  T  A  T  C  A  G  C  A  T  A  C  -  C  T  A  T  A  -  G  T  T  T  G  C  A  C  G  C  T  A  T  G  A  C  G  -  C  T  A  T  T  C  C  G  G  C  A  G  T  -  C  A  C  C  T  T  A  A  T  A  G  T  G  T  A  -  T  C  A  T  A  G  T  A  C  A  T  T  A  A  T  -  T  T  G  T  G  C  -  C  C  C  A  T  A  T  T  -  G  T  A  T  C  G  C  G  A  A  C  -  C  A  T  G  T  C  T  G  G  G  T  A  G  T  C  T  T  G  A  G 
 > phe_bact_C_aggregans
-TCAATTGATAATTCATGTATGAGCATAA-CTATA-CTTTGCACCCGATACTG-CTGTTTCGATAGA-GGATTTAATATTCTG-TCATAGCTGTTCAGT-ATGTGC-CGCATATC-GTATGGGGTTAC-CCATGGTCGGTGCAGTCTTAAG
-
+ T  C  A  A  T  T  G  A  T  A  A  T  T  C  A  T  G  T  A  T  G  A  G  C  A  T  A  A  -  C  T  A  T  A  -  C  T  T  T  G  C  A  C  C  C  G  A  T  A  C  T  G  -  C  T  G  T  T  T  C  G  A  T  A  G  A  -  G  G  A  T  T  T  A  A  T  A  T  T  C  T  G  -  T  C  A  T  A  G  C  T  G  T  T  C  A  G  T  -  A  T  G  T  G  C  -  C  G  C  A  T  A  T  C  -  G  T  A  T  G  G  G  G  T  A  C  -  C  T  G  G  T  C  G  G  T  G  C  A  G  T  C  T  T  A  A  G 
 > phe_bact_C_jejuni
-CTTGCTAATTAATTCTATGTAAGCTTAA-CTATA-AGTTGCACCCTATGCTT-CTGTTCCGCTTGG-CACCTTAATAGTTTA-TCATAGTTAATTGAT-ATGTGC-CCCATATC-GTATTGGGTTACA-GGACTGTGTAGTCTTTAA
-
+ C  T  T  G  C  T  A  A  T  T  A  A  T  T  C  T  A  T  G  T  A  A  G  C  T  T  A  A  -  C  T  A  T  A  -  A  G  T  T  G  C  A  C  C  C  T  A  T  G  C  T  T  -  C  T  G  T  T  C  C  G  C  T  T  G  G  -  C  A  C  C  T  T  A  A  T  A  G  T  T  T  A  -  T  C  A  T  A  G  T  T  A  A  T  T  G  A  T  -  A  T  G  T  G  C  -  C  C  C  A  T  A  T  C  -  G  T  A  T  T  G  G  G  T  A  C  -  A  -  G  G  A  C  T  G  T  G  T  A  G  T  C  T  T  T  A  A 
 > phe_bact_C_thermalis
-CTAGCCAGTTATTTGTGACTCCGCATAC-CTATC-GATTGCACCAGATAATA-CTGTTTCGGGAGG-CACCTTAATATTCTA-TCATAGCTATTTAAT-CTGTGC-CCCATATA-GTATTGGGCTAC-CATACGTCCGTGTAGTCTTTAA
-
+ C  T  A  G  C  C  A  G  T  T  A  T  T  T  G  T  G  A  C  T  C  C  G  C  A  T  A  C  -  C  T  A  T  C  -  G  A  T  T  G  C  A  C  C  A  G  A  T  A  A  T  A  -  C  T  G  T  T  T  C  G  G  G  A  G  G  -  C  A  C  C  T  T  A  A  T  A  T  T  C  T  A  -  T  C  A  T  A  G  C  T  A  T  T  T  A  A  T  -  C  T  G  T  G  C  -  C  C  C  A  T  A  T  A  -  G  T  A  T  T  G  G  G  C  A  C  -  C  A  C  G  T  C  C  G  T  G  T  A  G  T  C  T  T  T  A  A 
 > phe_bact_D_radiodurans
-CTCGTTAATTGTAGATGACTTAGCATAA-CTGTA-GGTTGCACCCTATGATT-CTATTTGGATAGA-CAACTTAATAGTTTG-TGATAGCTCATCGGT-ACGTAC-CGCATCTA-GTATGGGGTTAC-ACGTCTGTGTAGTCTTAAG
-
+ C  T  C  G  T  T  A  A  T  T  G  T  A  G  A  T  G  A  C  T  T  A  G  C  A  T  A  A  -  C  T  G  T  A  -  G  G  T  T  G  C  A  C  C  C  T  A  T  G  A  T  T  -  C  T  A  T  T  T  G  G  A  T  A  G  A  -  C  A  A  C  T  T  A  A  T  A  G  T  T  T  G  -  T  G  A  T  A  G  C  T  C  A  T  C  G  G  T  -  A  C  G  T  A  C  -  C  G  C  A  T  C  T  A  -  G  T  A  T  G  G  G  G  T  A  C  -  -  A  C  G  T  C  T  G  T  G  T  A  G  T  C  T  T  A  A  G 
 > phe_bact_E_faecalis
-TTCATTAATAATTTGTGAATTAGAATAC-CTATC-ATTTGCACCCTACGCTA-CTGTTCCGATTGG-CAGAATAATAGTTTA-TGATAGCTATTTAAT-ATGTGC-CCTATATG-GTATTGCGTTAC-CCAACGTCTGTGCAGTCTTGAG
-
+ T  T  C  A  T  T  A  A  T  A  A  T  T  T  G  T  G  A  A  T  T  A  G  A  A  T  A  C  -  C  T  A  T  C  -  A  T  T  T  G  C  A  C  C  C  T  A  C  G  C  T  A  -  C  T  G  T  T  C  C  G  A  T  T  G  G  -  C  A  G  A  A  T  A  A  T  A  G  T  T  T  A  -  T  G  A  T  A  G  C  T  A  T  T  T  A  A  T  -  A  T  G  T  G  C  -  C  C  T  A  T  A  T  G  -  G  T  A  T  T  G  C  G  T  A  C  -  C  A  C  G  T  C  T  G  T  G  C  A  G  T  C  T  T  G  A  G 
 > phe_bact_G_obscuriglobus
-CCCATTGATACTTCATGTATAGCAATAC-CTTCC-GTTTGCACGCGATATTG-CTGTTTCGTGAGA-GGATATAATAGTTTG-TCATAGCTCCTCGGT-ATGTGG-CCTATATA-GTATTGCGTTAC-CAATCGTCTGTGCAGTTTTAAC
-
+ C  C  C  A  T  T  G  A  T  A  C  T  T  C  A  T  G  T  A  T  A  G  C  A  A  T  A  C  -  C  T  T  C  C  -  G  T  T  T  G  C  A  C  G  C  G  A  T  A  T  T  G  -  C  T  G  T  T  T  C  G  T  G  A  G  A  -  G  G  A  T  A  T  A  A  T  A  G  T  T  T  G  -  T  C  A  T  A  G  C  T  C  C  T  C  G  G  T  -  A  T  G  T  G  G  -  C  C  T  A  T  A  T  A  -  G  T  A  T  T  G  C  G  T  A  C  -  C  T  C  G  T  C  T  G  T  G  C  A  G  T  T  T  T  A  A  C 
 > phe_bact_H_aurantiacus
-CGCACTGGTAATTCATGTATGAGGATAC-CTATA-ATTTGCACCCGATATTG-CTGTTTCGAGAGA-GCATTTAATAGTTTG-TCATAGCTCATCGGT-ATGAGC-CGTATATA-GTATTGCGTTAC-CCAGGGTCTGTGCAGACTTGAA
-
+ C  G  C  A  C  T  G  G  T  A  A  T  T  C  A  T  G  T  A  T  G  A  G  G  A  T  A  C  -  C  T  A  T  A  -  A  T  T  T  G  C  A  C  C  C  G  A  T  A  T  T  G  -  C  T  G  T  T  T  C  G  A  G  A  G  A  -  G  C  A  T  T  T  A  A  T  A  G  T  T  T  G  -  T  C  A  T  A  G  C  T  C  A  T  C  G  G  T  -  A  T  G  A  G  C  -  C  G  T  A  T  A  T  A  -  G  T  A  T  T  G  C  G  T  A  C  -  C  G  G  G  T  C  T  G  T  G  C  A  G  A  C  T  T  G  A  A 
 > phe_bact_M_mobile
-CTCTTAAGTGCGTTAAGAAACAGGATCC-CTATA-ATTTGCAACGTGTTATT-CTCCTCTGATAGA-CACAATCATATTTCG-TCATTGTTACTTGAT-ATGTGC-CGGATATT-GTATTGCGTTAA-TACTCGGTGTAGTCTTAAG
-
+ C  T  C  T  T  A  A  G  T  G  C  G  T  T  A  A  G  A  A  A  C  A  G  G  A  T  C  C  -  C  T  A  T  A  -  A  T  T  T  G  C  A  A  C  G  T  G  T  T  A  T  T  -  C  T  C  C  T  C  T  G  A  T  A  G  A  -  C  A  C  A  A  T  C  A  T  A  T  T  T  C  G  -  T  C  A  T  T  G  T  T  A  C  T  T  G  A  T  -  A  T  G  T  G  C  -  C  G  G  A  T  A  T  T  -  G  T  A  T  T  G  C  G  T  A  A  -  -  T  A  C  T  C  G  G  T  G  T  A  G  T  C  T  T  A  A  G 
 > phe_bact_M_smegmatis
-CTCTTCAATCACTTCTGGATCAGCATAC-CTATC-GATTGCACCCTATGCTT-CTATTCTGGCTGC-CACCTTAATAGTCTA-TCATGGCTACTCGCA-GCGTGC-CCCATATG-GTAGGGGGTTAC-CATACGTCTGTGTAGCTATGAG
-
+ C  T  C  T  T  C  A  A  T  C  A  C  T  T  C  T  G  G  A  T  C  A  G  C  A  T  A  C  -  C  T  A  T  C  -  G  A  T  T  G  C  A  C  C  C  T  A  T  G  C  T  T  -  C  T  A  T  T  C  T  G  G  C  T  G  C  -  C  A  C  C  T  T  A  A  T  A  G  T  C  T  A  -  T  C  A  T  G  G  C  T  A  C  T  C  G  C  A  -  G  C  G  T  G  C  -  C  C  C  A  T  A  T  G  -  G  T  A  G  G  G  G  G  T  A  C  -  C  A  C  G  T  C  T  G  T  G  T  A  G  C  T  A  T  G  A  G 
 > phe_bact_P_mikurensis
-TTCACTAATTATTGGTGTATCAGCATAA-ATATC-CCTTGCACGCTATGTTA-CTGTTCCGGTAGC-CACCTTAATAGTGTA-TTATACCTTATCACT-ATATTC-CGCATATA-GTATGGGGTTAC-CAAGCGTCTGTGTAGTTTGAAA
-
+ T  T  C  A  C  T  A  A  T  T  A  T  T  G  G  T  G  T  A  T  C  A  G  C  A  T  A  A  -  A  T  A  T  C  -  C  C  T  T  G  C  A  C  G  C  T  A  T  G  T  T  A  -  C  T  G  T  T  C  C  G  G  T  A  G  C  -  C  A  C  C  T  T  A  A  T  A  G  T  G  T  A  -  T  T  A  T  A  C  C  T  T  A  T  C  A  C  T  -  A  T  A  T  T  C  -  C  G  C  A  T  A  T  A  -  G  T  A  T  G  G  G  G  T  A  C  -  C  G  C  G  T  C  T  G  T  G  T  A  G  T  T  T  G  A  A  A 
 > pro_bact_2j3m_E_faecalis
-TTAATACTTGAATAATACTATTTCCTTC-TAGTA-AATTGCCAAACTCATTG-CTATAATACAAGA-TGGGATTTAAGACTA-CAGAAAACACGTTAGG-ATGCTT-ACAATTCT-GTATGATTATG-CTTTGGAGTGTGGTTCCTTA
-
+ T  T  A  A  T  A  C  T  T  G  A  A  T  A  A  T  A  C  T  A  T  T  T  C  C  T  T  C  -  T  A  G  T  A  -  A  A  T  T  G  C  C  A  A  A  C  T  C  A  T  T  G  -  C  T  A  T  A  A  T  A  C  A  A  G  A  -  T  G  G  G  A  T  T  T  A  A  G  A  C  T  A  -  C  A  G  A  A  A  A  C  A  C  G  T  T  G  G  -  A  T  G  C  T  T  -  A  C  A  A  T  T  C  T  -  G  T  A  T  G  A  T  T  A  T  G  -  C  T  T  T  G  G  A  G  T  G  T  G  G  T  T  C  C  T  T  A 
 > pro_bact_5ucm_P_aeruginosa
-TTGATACTTGAATACCGCTATTTCCTAC-TTGTA-ATGTGCCAAATTCATCG-CTATAATACATGA-TGGGATTTAACACTA-CAAGTAACAGATTCGT-ATGCTA-GCAATATT-GTATGATTATG-ATTTGGAGTGTCGTTCCCTA
-
+ T  T  G  A  T  A  C  T  T  G  A  A  T  A  C  C  G  C  T  A  T  T  T  C  C  T  A  C  -  T  T  G  T  A  -  A  T  G  T  G  C  C  A  A  A  T  T  C  A  T  C  G  -  C  T  A  T  A  A  T  A  C  A  T  G  A  -  T  G  G  G  A  T  T  T  A  A  C  A  C  T  A  -  C  A  A  G  T  A  A  C  A  G  A  T  T  G  T  -  A  T  G  C  T  A  -  G  C  A  A  T  A  T  T  -  G  T  A  T  G  A  T  T  A  T  G  -  A  T  T  T  G  G  A  G  T  G  T  C  G  T  T  C  C  C  T  A 
 > pro_bact_2i4l_R_palustris
-TTAATAATTGAAAAGCGCTATTTCCTAT-TTGTC-ATTAGCCAAATTCATTG-CTATAATAGATGA-TGGGATTTAACACTA-CAAATTTCATGCTCGT-ACTCTG-TGAATTTT-GTATGATTATG-CTAGGCAGTGTCGTTGCTTA
-
+ T  T  A  A  T  A  A  T  T  G  A  A  A  A  G  C  G  C  T  A  T  T  T  C  C  T  A  T  -  T  T  G  T  C  -  A  T  T  A  G  C  C  A  A  A  T  T  C  A  T  T  G  -  C  T  A  T  A  A  T  A  G  A  T  G  A  -  T  G  G  G  A  T  T  T  A  A  C  A  C  T  A  -  C  A  A  A  T  T  T  C  A  T  G  C  T  G  T  -  A  C  T  C  T  G  -  T  G  A  A  T  T  T  T  -  G  T  A  T  G  A  T  T  A  T  G  -  C  T  A  G  G  C  A  G  T  G  T  C  G  T  T  G  C  T  T  A 
 > pro_bact_5znj_S_aureus
-TTAATCCTTGAATAGTACTATTTCCTAA-TTGTA-ATCTGCCAAATTCCTTG-CTCTTATACATGA-TGGGATTTAACACTA-CAAATAACAGGTTAGT-ACGCTT-ACAATTCT-GTATGATTATG-CTTTGGAGTGTCGCTGCTTA
-
+ T  T  A  A  T  C  C  T  T  G  A  A  T  A  G  T  A  C  T  A  T  T  T  C  C  T  A  A  -  T  T  G  T  A  -  A  T  C  T  G  C  C  A  A  A  T  T  C  C  T  T  G  -  C  T  C  T  T  A  T  A  C  A  T  G  A  -  T  G  G  G  A  T  T  T  A  A  C  A  C  T  A  -  C  A  A  A  T  A  A  C  A  G  G  T  T  G  T  -  A  C  G  C  T  T  -  A  C  A  A  T  T  C  T  -  G  T  A  T  G  A  T  T  A  T  G  -  C  T  T  T  G  G  A  G  T  G  T  C  G  C  T  G  C  T  T  A 
 > pro_bact_S_aureus
-TTAATCCTTGAATAGTACTATTTCCTAA-TTGTA-ATCTGCCAAATTCCTTG-CTCTTATACATGA-TGGGATTTAACACTA-CAAATAACAGGTTAGT-ACGCTT-ACAATTCT-GTATGATTATG-CTTTGGAGTGTCGCTGCTTA
-
+ T  T  A  A  T  C  C  T  T  G  A  A  T  A  G  T  A  C  T  A  T  T  T  C  C  T  A  A  -  T  T  G  T  A  -  A  T  C  T  G  C  C  A  A  A  T  T  C  C  T  T  G  -  C  T  C  T  T  A  T  A  C  A  T  G  A  -  T  G  G  G  A  T  T  T  A  A  C  A  C  T  A  -  C  A  A  A  T  A  A  C  A  G  G  T  T  G  T  -  A  C  G  C  T  T  -  A  C  A  A  T  T  C  T  -  G  T  A  T  G  A  T  T  A  T  G  -  C  T  T  T  G  G  A  G  T  G  T  C  G  C  T  G  C  T  T  A 
 > pro_bact_1hc7_T_thermophilus
-TGAATAATTAGTTAACGAAACATCTTTC-TCTTC-CTCTGCCCACTTGATGC-CATTAAGGATTGG-TGCGATTGAAGACCA-TGGTTCTACGTCGAAC-CTTAGT-ACCCTACT-CTACGCGAATG-ATACCGGGTCGGTTGCTTT
-
+ T  G  A  A  T  A  A  T  T  A  G  T  T  A  A  C  G  A  A  A  C  A  T  C  T  T  T  C  -  T  C  T  T  C  -  C  T  C  T  G  C  C  C  A  C  T  T  G  A  T  G  C  -  C  A  T  T  A  A  G  G  A  T  T  G  G  -  T  G  C  G  A  T  T  G  A  A  G  A  C  C  A  -  T  G  G  T  T  C  T  A  C  G  T  C  G  A  C  -  C  T  T  A  G  T  -  A  C  C  C  T  A  C  T  -  C  T  A  C  G  C  G  A  A  T  G  -  A  T  A  C  C  G  G  G  T  C  -  G  G  T  T  G  C  T  T  T 
 > pro_bact_A_aeolicus
-TTAATACTTGAATAGGGCAATTTCTTAC-TTATA-AAGTGCCAAAATCATTG-CTTTAATATATGA-TGCGATTTAACACTA-CAACTATCAAGTTAAT-ATTTCA-TCAATTCT-GTATGATTTTG-CTTTGGAGTGTCGTTCCTTA
-
+ T  T  A  A  T  A  C  T  T  G  A  A  T  A  G  G  G  C  A  A  T  T  T  C  T  T  A  C  -  T  T  A  T  A  -  A  A  G  T  G  C  C  A  A  A  A  T  C  A  T  T  G  -  C  T  T  T  A  A  T  A  T  A  T  G  A  -  T  G  C  G  A  T  T  T  A  A  C  A  C  T  A  -  C  A  A  C  T  A  T  C  A  A  G  T  T  A  T  -  A  T  T  T  C  A  -  T  C  A  A  T  T  C  T  -  G  T  A  T  G  A  T  T  T  T  G  -  C  T  T  T  G  G  A  G  T  G  T  C  G  T  T  C  C  T  T  A 
 > pro_bact_A_asiaticus
-TGAATACTTAACTACCGAAACATCTTTC-GCTTC-ATTTGCCCACTTGAGAA-CTTTAAGGATTGG-TGCCATTGAAGACCA-ACTATTATACATGAAAT-CTTAGT-ACACTACT-CTACGCCATTG-ATGGCCGGTCCGTTGCTTT
-
+ T  G  A  A  T  A  C  T  T  A  A  C  T  A  C  C  G  A  A  A  C  A  T  C  T  T  T  C  -  G  C  T  T  C  -  A  T  T  T  G  C  C  C  A  C  T  T  G  A  G  A  A  -  C  T  T  T  A  A  G  G  A  T  T  G  G  -  T  G  C  C  A  T  T  G  A  A  G  A  C  C  A  -  A  C  T  A  T  T  A  T  A  C  A  T  G  A  T  -  C  T  T  A  G  T  -  A  C  A  C  T  A  C  T  -  C  T  A  C  G  C  C  A  T  T  G  -  A  T  G  G  C  C  G  G  T  C  -  C  G  T  T  G  C  T  T  T 
 > pro_bact_B_burgdorferi
-TGGATAGTTAAATAACGAAACATCTTTC-TCTTA-CTTTGCCCACTTGATAG-CTATAAGCATTGG-TGCCATTGAAGACCA-ACTTTTATAAGTTAAAT-CTTGGA-CCACTACT-CTACCCCAATG-ATTCGGGGTCCGTTGCTTT
-
+ T  G  G  A  T  A  G  T  T  A  A  A  T  A  A  C  G  A  A  A  C  A  T  C  T  T  T  C  -  T  C  T  T  A  -  C  T  T  T  G  C  C  C  A  C  T  T  G  A  T  A  G  -  C  T  A  T  A  A  G  C  A  T  T  G  G  -  T  G  C  C  A  T  T  G  A  A  G  A  C  C  A  -  A  C  T  T  T  T  A  T  A  A  G  T  T  A  T  -  C  T  T  G  G  A  -  C  C  A  C  T  A  C  T  -  C  T  A  C  C  C  C  A  A  T  G  -  A  T  T  C  G  G  G  G  T  C  -  C  G  T  T  G  C  T  T  T 
 > pro_bact_B_fragilis
-TGAATAGATAATTAACGATACATCTTTC-GCTTC-ATTTGCCCACTTGACAA-CTTGAAGCATTGG-TGCCATTGAAGACCA-ACTGTTATACATCAAAT-CTTAGT-ACACTACT-CTAGGCCATTG-ATGCCCGGTCCGTTGCTTT
-
+ T  G  A  A  T  A  G  A  T  A  A  T  T  A  A  C  G  A  T  A  C  A  T  C  T  T  T  C  -  G  C  T  T  C  -  A  T  T  T  G  C  C  C  A  C  T  T  G  A  C  A  A  -  C  T  T  G  A  A  G  C  A  T  T  G  G  -  T  G  C  C  A  T  T  G  A  A  G  A  C  C  A  -  A  C  T  G  T  T  A  T  A  C  A  T  C  A  T  -  C  T  T  A  G  T  -  A  C  A  C  T  A  C  T  -  C  T  A  G  G  C  C  A  T  T  G  -  A  T  G  C  C  C  G  G  T  C  -  C  G  T  T  G  C  T  T  T 
 > pro_bact_B_licheniformis
-TTAATAGTTGAATAATACTATTTCCTAA-TTGTA-ATCTGCCAAATTCGTTG-CTCTAATACATGA-TGGGATTTAACACTA-CAAATAACACATTCGG-ATGCTT-ACAATTCT-GTATGATTATG-CTTTGGAGTGTCGCTCCTTA
-
+ T  T  A  A  T  A  G  T  T  G  A  A  T  A  A  T  A  C  T  A  T  T  T  C  C  T  A  A  -  T  T  G  T  A  -  A  T  C  T  G  C  C  A  A  A  T  T  C  G  T  T  G  -  C  T  C  T  A  A  T  A  C  A  T  G  A  -  T  G  G  G  A  T  T  T  A  A  C  A  C  T  A  -  C  A  A  A  T  A  A  C  A  C  A  T  T  G  G  -  A  T  G  C  T  T  -  A  C  A  A  T  T  C  T  -  G  T  A  T  G  A  T  T  A  T  G  -  C  T  T  T  G  G  A  G  T  G  T  C  G  C  T  C  C  T  T  A 
 > pro_bact_B_thailandensis
-CTGATACTTGAATAGCGCTATTTCCTAC-TTGTA-ATTTGCCAAATTCATCG-CTATAATACATGA-TGGGATTTAACACTA-CAAATAACATGTTCGT-ATGCTC-GCAATATT-GTATGATTATG-CTTTGGAGTGTCGTTGCCTA
-
+ C  T  G  A  T  A  C  T  T  G  A  A  T  A  G  C  G  C  T  A  T  T  T  C  C  T  A  C  -  T  T  G  T  A  -  A  T  T  T  G  C  C  A  A  A  T  T  C  A  T  C  G  -  C  T  A  T  A  A  T  A  C  A  T  G  A  -  T  G  G  G  A  T  T  T  A  A  C  A  C  T  A  -  C  A  A  A  T  A  A  C  A  T  G  T  T  G  T  -  A  T  G  C  T  C  -  G  C  A  A  T  A  T  T  -  G  T  A  T  G  A  T  T  A  T  G  -  C  T  T  T  G  G  A  G  T  G  T  C  G  T  T  G  C  C  T  A 
 > pro_bact_C_aggregans
-TGATTAGCTAAGTACCGACATATCTTTC-TCATC-CATTGCCGACTTGATAG-CTTAAAGCATTGG-TGCCATGGAAGACCA-ACTGTTAATACATTAAAT-CTTGGT-GCAGTACT-CTACGCCAATG-ACGCCGGGTGCGTTGCTTT
-
+ T  G  A  T  T  A  G  C  T  A  A  G  T  A  C  C  G  A  C  A  T  A  T  C  T  T  T  C  -  T  C  A  T  C  -  C  A  T  T  G  C  C  G  A  C  T  T  G  A  T  A  G  -  C  T  T  A  A  A  G  C  A  T  T  G  G  -  T  G  C  C  A  T  G  G  A  A  G  A  C  C  A  -  A  C  T  G  T  T  A  A  T  A  C  A  T  A  T  -  C  T  T  G  G  T  -  G  C  A  G  T  A  C  T  -  C  T  A  C  G  C  C  A  A  T  G  -  A  C  G  C  C  G  G  G  T  G  -  C  G  T  T  G  C  T  T  T 
 > pro_bact_C_jejuni
-TTAATAATTAAATAACGCAATATGTTCC-TTGTA-ATTTGCCAAACTTCTTA-CTATAATGTATGA-TGGGATTTAAGAGTA-ATATTAACACATTAGT-ATGCTA-GCAATTTT-GTATGATTATG-CTATGGAGTGTCGTTCTCTA
-
+ T  T  A  A  T  A  A  T  T  A  A  A  T  A  A  C  G  C  A  A  T  A  T  G  T  T  C  C  -  T  T  G  T  A  -  A  T  T  T  G  C  C  A  A  A  C  T  T  C  T  T  A  -  C  T  A  T  A  A  T  G  T  A  T  G  A  -  T  G  G  G  A  T  T  T  A  A  G  A  G  T  A  -  A  T  A  T  T  A  A  C  A  C  A  T  T  G  T  -  A  T  G  C  T  A  -  G  C  A  A  T  T  T  T  -  G  T  A  T  G  A  T  T  A  T  G  -  C  T  A  T  G  G  A  G  T  G  T  C  G  T  T  C  T  C  T  A 
 > pro_bact_C_thermalis
-TGAATAACTAGTTAACGACACATCTTTC-GCTTC-CTTTGCCGACTTGCCAG-CTTTAAGCATGGG-TGCCATTGAAGACCA-ACGATTATAACTTAAAT-CTTCGG-ACACTACT-CTATGCGAATG-ACTCCGGGTCCGTTGCTTT
-
+ T  G  A  A  T  A  A  C  T  A  G  T  T  A  A  C  G  A  C  A  C  A  T  C  T  T  T  C  -  G  C  T  T  C  -  C  T  T  T  G  C  C  G  A  C  T  T  G  C  C  A  G  -  C  T  T  T  A  A  G  C  A  T  G  G  G  -  T  G  C  C  A  T  T  G  A  A  G  A  C  C  A  -  A  C  G  A  T  T  A  T  A  A  C  T  T  A  T  -  C  T  T  C  G  G  -  A  C  A  C  T  A  C  T  -  C  T  A  T  G  C  G  A  A  T  G  -  A  C  T  C  C  G  G  G  T  C  -  C  G  T  T  G  C  T  T  T 
 > pro_bact_D_radiodurans
-TGAATAGGTAAGTACGGAACTTTCCTTC-TTCTA-CATTGCCCACTTGATGG-CTTAAAGGGTTGC-TGCCATTGAAGACCA-ATGAATATAAATGGATT-CTTGGA-CCACTAGT-CTACGCCAATG-TCACCCGCTCGGTTGCTTT
-
+ T  G  A  A  T  A  G  G  T  A  A  G  T  A  C  G  G  A  A  C  T  T  T  C  C  T  T  C  -  T  T  C  T  A  -  C  A  T  T  G  C  C  C  A  C  T  T  G  A  T  G  G  -  C  T  T  A  A  A  G  G  G  T  T  G  C  -  T  G  C  C  A  T  T  G  A  A  G  A  C  C  A  -  A  T  G  A  A  T  A  T  A  A  A  T  G  T  T  -  C  T  T  G  G  A  -  C  C  A  C  T  A  G  T  -  C  T  A  C  G  C  C  A  A  T  G  -  T  C  A  C  C  C  G  C  T  C  -  C  G  T  T  G  C  T  T  T 
 > pro_bact_E_coli
-TTAATAATTGAATAACGCTATTTCTTAC-TTGTC-CTTTGCCAAATTCATTG-CTATAATACATGA-TGCGATTTAACACTA-CAACTACCAGATTGGT-ATGCTA-CCAATATT-GTATGATTATG-TTCTGGAGTGTCGTTCCCTA
-
+ T  T  A  A  T  A  A  T  T  G  A  A  T  A  A  C  G  C  T  A  T  T  T  C  T  T  A  C  -  T  T  G  T  C  -  C  T  T  T  G  C  C  A  A  A  T  T  C  A  T  T  G  -  C  T  A  T  A  A  T  A  C  A  T  G  A  -  T  G  C  G  A  T  T  T  A  A  C  A  C  T  A  -  C  A  A  C  T  A  C  C  A  G  A  T  T  G  T  -  A  T  G  C  T  A  -  C  C  A  A  T  A  T  T  -  G  T  A  T  G  A  T  T  A  T  G  -  T  T  C  T  G  G  A  G  T  G  T  C  G  T  T  C  C  C  T  A 
 > pro_bact_G_obscuriglobus
-TGAATAGCTAGTTAACGATACATCTTTC-GCTTC-CTTTGCCCACTTGACAA-CTTTAAGCATTGG-TGCCATTGAAGACCA-ACTATTGTAAATCAAGT-CTTTGC-ACTGTACT-CTACGCCATTG-TCGCCGGGTGCGTTGGTTT
-
+ T  G  A  A  T  A  G  C  T  A  G  T  T  A  A  C  G  A  T  A  C  A  T  C  T  T  T  C  -  G  C  T  T  C  -  C  T  T  T  G  C  C  C  A  C  T  T  G  A  C  A  A  -  C  T  T  T  A  A  G  C  A  T  T  G  G  -  T  G  C  C  A  T  T  G  A  A  G  A  C  C  A  -  A  C  T  A  T  T  G  T  A  A  A  T  C  G  T  -  C  T  T  T  G  C  -  A  C  T  G  T  A  C  T  -  C  T  A  C  G  C  C  A  T  T  G  -  T  C  G  C  C  G  G  G  T  G  -  C  G  T  T  G  G  T  T  T 
 > pro_bact_G_stearothermophilus
-TTAATACTTGAATAGTGGTATTTCCTAC-TTGTA-ATCTGCCAAATTCCTTG-CTTTAATACATGA-TGGGATTTAACACTA-CAAATAACACATTGGG-ATGCTT-ACAATTTT-GTATGATTATG-CTTTGGAGTGTCGTTCCTCA
-
+ T  T  A  A  T  A  C  T  T  G  A  A  T  A  G  T  G  G  T  A  T  T  T  C  C  T  A  C  -  T  T  G  T  A  -  A  T  C  T  G  C  C  A  A  A  T  T  C  C  T  T  G  -  C  T  T  T  A  A  T  A  C  A  T  G  A  -  T  G  G  G  A  T  T  T  A  A  C  A  C  T  A  -  C  A  A  A  T  A  A  C  A  C  A  T  T  G  G  -  A  T  G  C  T  T  -  A  C  A  A  T  T  T  T  -  G  T  A  T  G  A  T  T  A  T  G  -  C  T  T  T  G  G  A  G  T  G  T  C  G  T  T  C  C  T  C  A 
 > pro_bact_H_aurantiacus
-CCAATCATTGAATACTAGAATTTCTTCG-TTGTA-ATTTATCAAATTCATTG-CTTTAATACAAGA-TGTGATCTAACACTA-AAAATTACAAGTAAGG-CTATTA-TCAATTCT-CTATGATTATG-CCTTGGAGTGTAGTTCCTTA
-
+ C  C  A  A  T  C  A  T  T  G  A  A  T  A  C  T  A  G  A  A  T  T  T  C  T  T  C  G  -  T  T  G  T  A  -  A  T  T  T  A  T  C  A  A  A  T  T  C  A  T  T  G  -  C  T  T  T  A  A  T  A  C  A  A  G  A  -  T  G  T  G  A  T  C  T  A  A  C  A  C  T  A  -  A  A  A  A  T  T  A  C  A  A  G  T  A  G  G  -  C  T  A  T  T  A  -  T  C  A  A  T  T  C  T  -  C  T  A  T  G  A  T  T  A  T  G  -  C  C  T  T  G  G  A  G  T  G  T  A  G  T  T  C  C  T  T  A 
 > pro_bact_M_mobile
-TGAATAGATAATTAATATAATATCCTTC-TTCTA-ATTTGCCGATTTCAATA-CTTTAAGCATTGG-TGAGATTGAAGACCA-TCAATTATACATTAATT-CTTTGA-CCACTACT-CTAGGCGAATG-TTAACCGGTCCGTTGCTTT
-
+ T  G  A  A  T  A  G  A  T  A  A  T  T  A  A  T  A  T  A  A  T  A  T  C  C  T  T  C  -  T  T  C  T  A  -  A  T  T  T  G  C  C  G  A  T  T  T  C  A  A  T  A  -  C  T  T  T  A  A  G  C  A  T  T  G  G  -  T  G  A  G  A  T  T  G  A  A  G  A  C  C  A  -  T  C  A  A  T  T  A  T  A  C  A  T  T  T  T  -  C  T  T  T  G  A  -  C  C  A  C  T  A  C  T  -  C  T  A  G  G  C  G  A  A  T  G  -  T  T  A  A  C  C  G  G  T  C  -  C  G  T  T  G  C  T  T  T 
 > pro_bact_M_smegmatis
-TTGATAATTGCATACTGCAATTTCCTTC-TTGTA-AATTGCCAAATTCTCTA-CTTTAATACAAGA-TGGGATTTAACACTA-CAAAAGACAAGTTCGT-GATTTC-CCAATTCA-GTATGATTATG-GTCTGCAGTGTCGTTCTTCA
-
+ T  T  G  A  T  A  A  T  T  G  C  A  T  A  C  T  G  C  A  A  T  T  T  C  C  T  T  C  -  T  T  G  T  A  -  A  A  T  T  G  C  C  A  A  A  T  T  C  T  C  T  A  -  C  T  T  T  A  A  T  A  C  A  A  G  A  -  T  G  G  G  A  T  T  T  A  A  C  A  C  T  A  -  C  A  A  A  A  G  A  C  A  A  G  T  T  G  T  -  G  A  T  T  T  C  -  C  C  A  A  T  T  C  A  -  G  T  A  T  G  A  T  T  A  T  G  -  G  T  C  T  G  C  A  G  T  G  T  C  G  T  T  C  T  T  C  A 
 > pro_bact_P_mikurensis
-GTGATAGTTGAAAACCGCTATGTCGTAC-TTTTA-ACCTCCCCAACTCATTG-CGATAATACATGA-TGCGATTTAAGAGTA-CAGCAACCAAGTTAGG-AACTTA-CGAATCTT-GTATGATTATG-CCTTGGAGTGTAGTTCCCTA
-
+ G  T  G  A  T  A  G  T  T  G  A  A  A  A  C  C  G  C  T  A  T  G  T  C  G  T  A  C  -  T  T  T  T  A  -  A  C  C  T  C  C  C  C  A  A  C  T  C  A  T  T  G  -  C  G  A  T  A  A  T  A  C  A  T  G  A  -  T  G  C  G  A  T  T  T  A  A  G  A  G  T  A  -  C  A  G  C  A  A  C  C  A  A  G  T  T  G  G  -  A  A  C  T  T  A  -  C  G  A  A  T  C  T  T  -  G  T  A  T  G  A  T  T  A  T  G  -  C  C  T  T  G  G  A  G  T  G  T  A  G  T  T  C  C  C  T  A 
 > pro_bact_S_elongatus
-TTGATCATTGAATACCGCAACTTCATAC-TTCTA-ATGTGCCAAATTCCTCG-CAATAATACATGA-TGGGATTTAACACTA-CACCTAACAGATTGGG-ATGCTA-CCAATTTT-GTACGATTATG-CTGTGGAGTGTCGTCACCTA
-
+ T  T  G  A  T  C  A  T  T  G  A  A  T  A  C  C  G  C  A  A  C  T  T  C  A  T  A  C  -  T  T  C  T  A  -  A  T  G  T  G  C  C  A  A  A  T  T  C  C  T  C  G  -  C  A  A  T  A  A  T  A  C  A  T  G  A  -  T  G  G  G  A  T  T  T  A  A  C  A  C  T  A  -  C  A  C  C  T  A  A  C  A  G  A  T  T  G  G  -  A  T  G  C  T  A  -  C  C  A  A  T  T  T  T  -  G  T  A  C  G  A  T  T  A  T  G  -  C  T  G  T  G  G  A  G  T  G  T  C  G  T  C  A  C  C  T  A 
 > pro_bact_T_maritima
-TTTATAATTGAATAGTGCAATTTCTTAC-TTATA-ATCTGCCAAATTCATTA-CTCTAATCAAAGA-TGCGATTTAACAGTA-CAAATAACACGTTAGT-GATTTA-CCAATTTC-GTATGATTATG-CTTTGGAGGGTCGCTCCTTA
-
+ T  T  T  A  T  A  A  T  T  G  A  A  T  A  G  T  G  C  A  A  T  T  T  C  T  T  A  C  -  T  T  A  T  A  -  A  T  C  T  G  C  C  A  A  A  T  T  C  A  T  T  A  -  C  T  C  T  A  A  T  C  A  A  A  G  A  -  T  G  C  G  A  T  T  T  A  A  C  A  G  T  A  -  C  A  A  A  T  A  A  C  A  C  G  T  T  G  T  -  G  A  T  T  T  A  -  C  C  A  A  T  T  T  C  -  G  T  A  T  G  A  T  T  A  T  G  -  C  T  T  T  G  G  A  G  G  G  T  C  G  C  T  C  C  T  T  A 
 > ser_bact_2dq3_A_aeolicus
-TAGCTTATTTATACA-GAAATGCCATTA-TAAGA-ATATTCCCATCTCATAG-CTATCCACCGAGG-TGAAATAATATTATT-TAATTAACAATTATT-CAGTTA-ACAATATG-AGATCCGCAGA-TTACTAGCGTCTGGCTCCTTA
-
+ T  A  G  C  T  T  A  T  T  T  A  T  A  C  A  -  G  A  A  A  T  G  C  C  A  T  T  A  -  T  A  A  G  A  -  A  T  A  T  T  C  C  C  A  T  C  T  C  A  T  A  G  -  C  T  A  T  C  C  A  C  C  G  A  G  G  -  T  G  A  A  A  T  A  A  T  A  T  T  A  T  T  -  T  A  A  T  T  A  A  C  A  A  T  T  A  T  T  -  C  A  G  T  T  A  -  A  C  A  A  T  A  T  G  -  A  G  A  T  C  C  G  C  A  G  A  -  T  T  A  C  T  A  G  C  T  C  T  G  G  C  T  C  C  T  T  A 
 > ser_bact_6h9x_K_pneumoniae
-TAGCTCATTTATACAAAGAGAAATCATTA-TTACG-AACTTCCCATCTCATTG-CTATCCACCGTGC-TGTAATAATATTATT-TAATCGACAATTATT-CAGATC-ACAATATG-AGATCCGCATG-TTACTAGCGTCTGGCTTCTTA
-
+ T  A  G  C  T  C  A  T  T  T  A  T  A  C  A  A  G  A  G  A  A  A  T  C  A  T  T  A  -  T  T  A  C  G  -  A  A  C  T  T  C  C  C  A  T  C  T  C  A  T  T  G  -  C  T  A  T  C  C  A  C  C  G  T  G  C  -  T  G  T  A  A  T  A  A  T  A  T  T  A  T  T  -  T  A  A  T  C  G  A  C  A  A  T  T  A  T  T  -  C  A  G  A  T  C  -  A  C  A  A  T  A  T  G  -  A  G  A  T  C  C  G  C  A  T  G  -  T  T  A  C  T  A  G  C  T  C  T  G  G  C  T  T  C  T  T  A 
 > ser_bact_1ser_T_thermophilus
-AATCTTGTCTATTCG-GTTCTCTCCACG-TGCTC-ATATCGCCATTTACTAC-CTGACGACCCTGC-TGTAATAATAAATTC-TAATTAACAATTGTT-CAGTTA-GATATATA-AGACACGCCTT-ACACTAACCTCCCGTTCTTTA
-
+ A  A  T  C  T  T  G  T  C  T  A  T  T  C  G  -  G  T  T  C  T  C  T  C  C  A  C  G  -  T  G  C  T  C  -  A  T  A  T  C  G  C  C  A  T  T  T  A  C  T  A  C  -  C  T  G  A  C  G  A  C  C  C  T  G  C  -  T  G  T  A  A  T  A  A  T  A  A  A  T  T  C  -  T  A  A  T  T  A  A  C  A  A  T  T  G  T  T  -  C  A  G  T  T  A  -  G  A  T  A  T  A  T  A  -  A  G  A  C  A  C  G  C  C  T  T  -  A  C  A  C  T  A  A  C  T  C  C  C  G  T  T  C  T  T  T  A 
 > ser_bact_A_asiaticus
-TAGCTTATTTAACGA-GAAATACCTTTA-TAATC-CTATTCCCATCTCATAG-CTGATCACCGTGG-AGTAATAATATTATG-TACTGGATAGTTAAT-CAGTTA-TCAATATT-GTATGCTGAAA-TTACTAGGCTCTCGTTCCTTA
-
+ T  A  G  C  T  T  A  T  T  T  A  A  C  G  A  -  G  A  A  A  T  A  C  C  T  T  T  A  -  T  A  A  T  C  -  C  T  A  T  T  C  C  C  A  T  C  T  C  A  T  A  G  -  C  T  G  A  T  C  A  C  C  G  T  G  G  -  A  G  T  A  A  T  A  A  T  A  T  T  A  T  G  -  T  A  C  T  G  G  A  T  A  G  T  T  A  A  T  -  C  A  G  T  T  A  -  T  C  A  A  T  A  T  T  -  G  T  A  T  G  G  T  G  A  A  A  -  T  T  A  C  T  A  G  G  T  C  T  C  G  T  T  C  C  T  T  A 
 > ser_bact_B_burgdorferi
-TATCTTATCTAATGA-GTATTTCCATCG-TAATA-AAATTGCCATCTGGAAA-CTGTCGTCAGTGA-AGTAATGATATTGTG-AAATTGTAAATTCAT-CAGTTA-AAAATACG-AGATCCCCAGC-TCATTAGCCTCCCGTTTCTTA
-
+ T  A  T  C  T  T  A  T  C  T  A  A  T  G  A  -  G  T  A  T  T  T  C  C  A  T  C  G  -  T  A  A  T  A  -  A  A  A  T  T  G  C  C  A  T  C  T  G  G  A  A  A  -  C  T  G  T  C  G  T  C  A  G  T  G  A  -  A  G  T  A  A  T  G  A  T  A  T  T  G  T  G  -  A  A  A  T  T  G  T  A  A  A  T  T  C  A  T  -  C  A  G  T  T  A  -  A  A  A  A  T  A  C  G  -  A  G  A  T  C  C  C  C  A  G  C  -  T  C  A  T  T  A  G  C  T  C  C  C  G  T  T  T  C  T  T  A 
 > ser_bact_B_fragilis
-TAGCTTATTTAACGA-GACATTCCCTTA-TAAGA-ATATTCCCATCTCATAG-CTAAGCACAGTGG-AGTAATCATATTGTA-AAATTAATAGTTAAT-CAGTTG-TGTATATA-GTATGCTCATA-TGACTAGCCTCTCGTTCCTTA
-
+ T  A  G  C  T  T  A  T  T  T  A  A  C  G  A  -  G  A  C  A  T  T  C  C  C  T  T  A  -  T  A  A  G  A  -  A  T  A  T  T  C  C  C  A  T  C  T  C  A  T  A  G  -  C  T  A  A  G  C  A  C  A  G  T  G  G  -  A  G  T  A  A  T  C  A  T  A  T  T  G  T  A  -  A  A  A  T  T  A  A  T  A  G  T  T  A  A  T  -  C  A  G  T  T  G  -  T  G  T  A  T  A  T  A  -  G  T  A  T  G  G  T  C  A  T  A  -  T  G  A  C  T  A  G  C  T  C  T  C  G  T  T  C  C  T  T  A 
 > ser_bact_B_licheniformis
-TAGCTAATTTATATAAAGACATTCCATTA-CTATG-AATTTCCCATCTCATAG-CTAACCTGCGTGC-TGAAATAATATTATT-TAATCAACAATTATT-CAGTTG-AAAATATG-AGATCCGGATA-ATACTAGCGTCTGGCTCCTTA
-
+ T  A  G  C  T  A  A  T  T  T  A  T  A  T  A  A  G  A  C  A  T  T  C  C  A  T  T  A  -  C  T  A  T  G  -  A  A  T  T  T  C  C  C  A  T  C  T  C  A  T  A  G  -  C  T  A  A  C  C  T  G  C  G  T  G  C  -  T  G  A  A  A  T  A  A  T  A  T  T  A  T  T  -  T  A  A  T  C  A  A  C  A  A  T  T  A  T  T  -  C  A  G  T  T  G  -  A  A  A  A  T  A  T  G  -  A  G  A  T  C  C  G  G  A  T  A  -  A  T  A  C  T  A  G  C  T  C  T  G  G  C  T  C  C  T  T  A 
 > ser_bact_B_thailandensis
-TAGCTCATTTACACAAAGAGACACCATTA-TTGTA-CAATTCCCATCTCACTG-CTATCCACCGTGC-TGAAATAATATTATT-TAATTGACACTTACT-CAGTTC-ACTATATG-AGATCGGCACA-TTACTAGCGTCTGGCTTCTTA
-
+ T  A  G  C  T  C  A  T  T  T  A  C  A  C  A  A  G  A  G  A  C  A  C  C  A  T  T  A  -  T  T  G  T  A  -  C  A  A  T  T  C  C  C  A  T  C  T  C  A  C  T  G  -  C  T  A  T  C  C  A  C  C  G  T  G  C  -  T  G  A  A  A  T  A  A  T  A  T  T  A  T  T  -  T  A  A  T  T  G  A  C  A  C  T  T  A  C  T  -  C  A  G  T  T  C  -  A  C  T  A  T  A  T  G  -  A  G  A  T  C  C  G  C  A  C  A  -  T  T  A  C  T  A  G  C  T  C  T  G  G  C  T  T  C  T  T  A 
 > ser_bact_C_aggregans
-TAGCTTAGTTATATG-GAAATACCTTTA-TAGAA-GTGTTCCCATCTCGTAC-CTAACCACCGTGA-AGGAATAATATATTT-TAATGGACAAGCGTT-CTGCAT-ACAATATG-GTATGCGCATA-TTACTAGCGTGTCGCTTCTTA
-
+ T  A  G  C  T  T  A  G  T  T  A  T  A  T  G  -  G  A  A  A  T  A  C  C  T  T  T  A  -  T  A  G  A  A  -  G  T  G  T  T  C  C  C  A  T  C  T  C  G  T  A  C  -  C  T  A  A  C  C  A  C  C  G  T  G  A  -  A  G  G  A  A  T  A  A  T  A  T  A  T  T  T  -  T  A  A  T  G  G  A  C  A  A  G  C  G  T  T  -  C  T  G  C  A  T  -  A  C  A  A  T  A  T  G  -  G  T  A  T  G  G  G  C  A  T  A  -  T  T  A  C  T  A  G  C  T  G  T  C  G  C  T  T  C  T  T  A 
 > ser_bact_C_jejuni
-TGGCTTAATTATAGG-GTATTATCTTTA-TAATA-ATATTCCCATCTCATAG-CTATCGAGCGTGA-TGAAATAATATTGTC-TAATTAGCGATTGCT-CAGATT-ACTATATG-AGATGCTCAGG-TTACTAGCCTCTGGCTTCTTA
-
+ T  G  G  C  T  T  A  A  T  T  A  T  A  G  G  -  G  T  A  T  T  A  T  C  T  T  T  A  -  T  A  A  T  A  -  A  T  A  T  T  C  C  C  A  T  C  T  C  A  T  A  G  -  C  T  A  T  C  G  A  G  C  G  T  G  A  -  T  G  A  A  A  T  A  A  T  A  T  T  G  T  C  -  T  A  A  T  T  A  G  C  G  A  T  T  G  G  T  -  C  A  G  A  T  T  -  A  C  T  A  T  A  T  G  -  A  G  A  T  G  G  T  C  A  G  G  -  T  T  A  C  T  A  G  C  T  C  T  G  G  C  T  T  C  T  T  A 
 > ser_bact_D_radiodurans
-TATCTTTTCTATTCA-GTCCTCCCCTTG-TAATA-ATTTCGCCATCTAGTAC-CTCTCGTGCCTGG-TGTAATGATAAATTG-TAGTTGACAGTTACT-CAGTTA-TTAATACG-AGACACGCATG-ACACTAACGTCGCGTTTCTTA
-
+ T  A  T  C  T  T  T  T  C  T  A  T  T  C  A  -  G  T  C  C  T  C  C  C  C  T  T  G  -  T  A  A  T  A  -  A  T  T  T  C  G  C  C  A  T  C  T  A  G  T  A  C  -  C  T  C  T  C  G  T  G  C  C  T  G  G  -  T  G  T  A  A  T  G  A  T  A  A  A  T  T  G  -  T  A  G  T  T  G  A  C  A  G  T  T  A  C  T  -  C  A  G  T  T  A  -  T  T  A  A  T  A  C  G  -  A  G  A  C  A  C  G  C  A  T  G  -  A  C  A  C  T  A  A  C  T  C  G  C  G  T  T  T  C  T  T  A 
 > ser_bact_E_coli
-TAGCTCATTTATACAAAGAGAAATCATTA-TTACG-AACTTCCCATCTCATTG-CTATCCACCGTGC-TGTAATAATATTATT-TAATCGACAATTATT-CAGATT-ACAATATG-AGATCCGCATG-TTACTAGCGTCTGGCTTCTTA
-
+ T  A  G  C  T  C  A  T  T  T  A  T  A  C  A  A  G  A  G  A  A  A  T  C  A  T  T  A  -  T  T  A  C  G  -  A  A  C  T  T  C  C  C  A  T  C  T  C  A  T  T  G  -  C  T  A  T  C  C  A  C  C  G  T  G  C  -  T  G  T  A  A  T  A  A  T  A  T  T  A  T  T  -  T  A  A  T  C  G  A  C  A  A  T  T  A  T  T  -  C  A  G  A  T  T  -  A  C  A  A  T  A  T  G  -  A  G  A  T  C  C  G  C  A  T  G  -  T  T  A  C  T  A  G  C  T  C  T  G  G  C  T  T  C  T  T  A 
 > ser_bact_G_obscuriglobus
-TATCTTAACTACCTA-GACCTTCCATCG-TACTC-ATGTTCCCATCTGGTAG-CAGATGTCAGTGC-AGTAATCATATTCTG-AAATGCTAAATTAGT-GTATTA-GAAATACG-AGATCGCCAGC-TCACTAGCCTCGCGCTTCTTA
-
+ T  A  T  C  T  T  A  A  C  T  A  C  C  T  A  -  G  A  C  C  T  T  C  C  A  T  C  G  -  T  A  C  T  C  -  A  T  G  T  T  C  C  C  A  T  C  T  G  G  T  A  G  -  C  A  G  A  T  G  T  C  A  G  T  G  C  -  A  G  T  A  A  T  C  A  T  A  T  T  C  T  G  -  A  A  A  T  G  C  T  A  A  A  T  T  A  G  T  -  G  T  A  T  T  A  -  G  A  A  A  T  A  C  G  -  A  G  A  T  C  G  C  C  A  G  C  -  T  C  A  C  T  A  G  C  T  C  G  C  G  C  T  T  C  T  T  A 
 > ser_bact_G_stearothermophilus
-TAGCTTATTTATATAATGAAATTCCATTA-CTATA-AATTTCCCATCTCATAG-CTAACCAGCGTGC-TGAAATAATATTATT-TAATCGACACTTAGT-CAGTTC-ACAATATG-AGATCCGGATA-ATACTAGCGTCTGGCTCCTTA
-
+ T  A  G  C  T  T  A  T  T  T  A  T  A  T  A  T  G  A  A  A  T  T  C  C  A  T  T  A  -  C  T  A  T  A  -  A  A  T  T  T  C  C  C  A  T  C  T  C  A  T  A  G  -  C  T  A  A  C  C  A  G  C  G  T  G  C  -  T  G  A  A  A  T  A  A  T  A  T  T  A  T  T  -  T  A  A  T  C  G  A  C  A  C  T  T  A  G  T  -  C  A  G  T  T  C  -  A  C  A  A  T  A  T  G  -  A  G  A  T  C  C  G  G  A  T  A  -  A  T  A  C  T  A  G  C  T  C  T  G  G  C  T  C  C  T  T  A 
 > ser_bact_H_aurantiacus
-TAGCTTGGTTATATAAAGACATCTCATTA-TTATA-ATGTTCCCATCTCATAG-CTGATCACCGTGA-AGTAATAATATTATT-TTCTTGACAATGAGT-CAGTTA-TAAATATG-GTATCCGGTTG-TTACTAGCGTCTCGTTTCTTA
-
+ T  A  G  C  T  T  G  G  T  T  A  T  A  T  A  A  G  A  C  A  T  C  T  C  A  T  T  A  -  T  T  A  T  A  -  A  T  G  T  T  C  C  C  A  T  C  T  C  A  T  A  G  -  C  T  G  A  T  C  A  C  C  G  T  G  A  -  A  G  T  A  A  T  A  A  T  A  T  T  A  T  T  -  T  T  C  T  T  G  A  C  A  A  T  G  A  G  T  -  C  A  G  T  T  A  -  T  A  A  A  T  A  T  G  -  G  T  A  T  C  C  G  G  T  T  G  -  T  T  A  C  T  A  G  C  T  C  T  C  G  T  T  T  C  T  T  A 
 > ser_bact_M_mobile
-TTGCTACTTTACAAA-GAGATTCCTTTA-TTATA-ATATTCCCATCTCATTA-ACATGCTCAGTGC-TGTAATAATATTATC-TACTTAACAATTATT-CAGATT-ACTATATG-AGATCGTCATG-ATACTAGCGTCTAGTTCCTTA
-
+ T  T  G  C  T  A  C  T  T  T  A  C  A  A  A  -  G  A  G  A  T  T  C  C  T  T  T  A  -  T  T  A  T  A  -  A  T  A  T  T  C  C  C  A  T  C  T  C  A  T  T  A  -  A  C  A  T  G  G  T  C  A  G  T  G  C  -  T  G  T  A  A  T  A  A  T  A  T  T  A  T  C  -  T  A  C  T  T  A  A  C  A  A  T  T  A  T  T  -  C  A  G  A  T  T  -  A  C  T  A  T  A  T  G  -  A  G  A  T  C  C  T  C  A  T  G  -  A  T  A  C  T  A  G  C  T  C  T  A  G  T  T  C  C  T  T  A 
 > ser_bact_M_smegmatis
-TATGTTATCCATCTA-GTCTTTCCTTTG-TAGTA-ATATTGCCATCTCGAAC-CGGACGGCCGTGG-TGTAATAATAGTTAG-AAGTTGGAGATTCCT-CAGTTA-GAAAGACG-AGATCCCCAGC-TCCCTAGC-CCCGGTTCTTA
-
+ T  A  T  G  T  T  A  T  C  C  A  T  C  T  A  -  G  T  C  T  T  T  C  C  T  T  T  G  -  T  A  G  T  A  -  A  T  A  T  T  G  C  C  A  T  C  T  C  G  A  A  C  -  C  G  G  A  C  G  G  C  C  G  T  G  G  -  T  G  T  A  A  T  A  A  T  A  G  T  T  A  G  -  A  A  G  T  T  G  G  A  G  A  T  T  C  C  T  -  C  A  G  T  T  A  -  G  A  A  A  G  A  C  G  -  A  G  A  T  C  C  C  C  A  G  C  -  T  C  C  C  T  A  G  C  -  C  C  C  G  G  T  T  C  T  T  A 
 > ser_bact_P_mikurensis
-TAACTTGACTAGTTAGAGTCCTCCCCTTA-TAATC-GTCTCGCGATGTTCAAA-CGAATCTCCGTGG-AGTAATAATAATTTG-AGATTGATCGTTAAT-CAGATA-ATTATAGG-GGACACCGGTA-TGAGTAACTCCGCGTTTCTTA
-
+ T  A  A  C  T  T  G  A  C  T  A  G  T  T  A  A  G  T  C  C  T  C  C  C  C  T  T  A  -  T  A  A  T  C  -  G  T  C  T  C  G  C  G  A  T  G  T  T  C  A  A  A  -  C  G  A  A  T  C  T  C  C  G  T  G  G  -  A  G  T  A  A  T  A  A  T  A  A  T  T  T  G  -  A  G  A  T  T  G  A  T  C  G  T  T  A  A  T  -  C  A  G  A  T  A  -  A  T  T  A  T  A  G  G  -  G  G  A  C  A  C  C  G  G  T  A  -  T  G  A  G  T  A  A  C  C  C  G  C  G  T  T  T  C  T  T  A 
 > ser_bact_S_aureus
-TAGCTTAATTCAACCAAGACATTTCATTA-TTATA-GTACTCCCATCTCATAG-CAATCGACCGTGG-TGTAATAATATTGTA-TAATCCACACTTAAT-CAGGTT-ACAATATG-AAATGCGCAGC-TCACTAGGGTCTGGCTCCTTA
-
+ T  A  G  C  T  T  A  A  T  T  C  A  A  C  C  A  G  A  C  A  T  T  T  C  A  T  T  A  -  T  T  A  T  A  -  G  T  A  C  T  C  C  C  A  T  C  T  C  A  T  A  G  -  C  A  A  T  C  G  A  C  C  G  T  G  G  -  T  G  T  A  A  T  A  A  T  A  T  T  G  T  A  -  T  A  A  T  C  C  A  C  A  C  T  T  A  A  T  -  C  A  G  G  T  T  -  A  C  A  A  T  A  T  G  -  A  A  A  T  G  G  G  C  A  G  C  -  T  C  A  C  T  A  G  G  T  C  T  G  G  C  T  C  C  T  T  A 
 > ser_bact_S_elongatus
-TAGCTTCTTTAGACC-GACATCCCATTA-GTGGA-ATGTCCCCATCTCGTAG-CTGAGCACCGTGG-TGTAATAATATAATT-AAATTCACACTTACT-CAGCTA-ACAATATG-AGATCGGCAGG-TTACTAGCGTCTGGCTCCTTA
-
+ T  A  G  C  T  T  C  T  T  T  A  G  A  C  C  -  G  A  C  A  T  C  C  C  A  T  T  A  -  G  T  G  G  A  -  A  T  G  T  C  C  C  C  A  T  C  T  C  G  T  A  G  -  C  T  G  A  G  C  A  C  C  G  T  G  G  -  T  G  T  A  A  T  A  A  T  A  T  A  A  T  T  -  A  A  A  T  T  C  A  C  A  C  T  T  A  C  T  -  C  A  G  C  T  A  -  A  C  A  A  T  A  T  G  -  A  G  A  T  C  C  G  C  A  G  G  -  T  T  A  C  T  A  G  C  T  C  T  G  G  C  T  C  C  T  T  A 
 > ser_bact_T_maritima
-TAGCTTATTTATACAAAGACATGTCATTA-TATCA-ATTTTCCCATCTCCTAG-CAAATCACCGAGG-TGAAATAATATTGTC-TAATTAACACTTGAT-CAGTTC-ACAATATG-AAATCCGGATC-ATACTAGCGTCTGGCTTCTTA
-
+ T  A  G  C  T  T  A  T  T  T  A  T  A  C  A  A  G  A  C  A  T  G  T  C  A  T  T  A  -  T  A  T  C  A  -  A  T  T  T  T  C  C  C  A  T  C  T  C  C  T  A  G  -  C  A  A  A  T  C  A  C  C  G  A  G  G  -  T  G  A  A  A  T  A  A  T  A  T  T  G  T  C  -  T  A  A  T  T  A  A  C  A  C  T  T  G  A  T  -  C  A  G  T  T  C  -  A  C  A  A  T  A  T  G  -  A  A  A  T  C  C  G  G  A  T  C  -  A  T  A  C  T  A  G  C  T  C  T  G  G  C  T  T  C  T  T  A 
 > ser_bact_C_thermalis
-TAGCTTATTTAGACC-GATATTCCTTTA-GTAGC-ATGTGCCCATCTCATAG-CTAAGCACCGTGG-TGTAATAATATAATT-AAATTAACACTTACT-CAGTTA-ACAATATG-AGATCGGCAGT-ATACTAGCGTCTGGCTCCTTA
-
+ T  A  G  C  T  T  A  T  T  T  A  G  A  C  C  -  G  A  T  A  T  T  C  C  T  T  T  A  -  G  T  A  G  C  -  A  T  G  T  G  C  C  C  A  T  C  T  C  A  T  A  G  -  C  T  A  A  G  C  A  C  C  G  T  G  G  -  T  G  T  A  A  T  A  A  T  A  T  A  A  T  T  -  A  A  A  T  T  A  A  C  A  C  T  T  A  C  T  -  C  A  G  T  T  A  -  A  C  A  A  T  A  T  G  -  A  G  A  T  C  C  G  C  A  G  T  -  A  T  A  C  T  A  G  C  T  C  T  G  G  C  T  C  C  T  T  A 
 > thr_bact_1evk_E_coli
-TTGATATTTGCATAAAAAAATAGCTTTA-TTCCC-AAGTACTAGCGATATTA-CTGTCATGGGAGA-TGTGGTCAAACATTG-TAGGTGTTAATAGCT-ATTTAT-CATATCTA-CGAGGCTATAT-TCTTTAGCTTGCTAGTTGTTCA
-
+ T  T  G  A  T  A  T  T  T  G  C  A  T  A  A  A  A  A  A  A  T  A  G  C  T  T  T  A  -  T  T  C  C  C  -  A  A  G  T  A  C  T  A  G  C  G  A  T  A  T  T  A  -  C  T  G  T  C  A  T  G  G  G  A  G  A  -  T  G  T  G  G  T  C  A  A  A  C  A  T  T  G  -  T  A  G  G  T  G  T  T  A  A  T  A  G  C  T  -  A  T  T  T  A  T  -  C  A  T  A  T  C  T  A  -  C  G  A  G  G  C  T  A  T  A  T  -  T  C  T  T  T  A  G  C  T  C  T  A  G  T  T  G  T  T  C  A 
 > thr_bact_1nyr_S_aureus
-TGGATAGATTAAATGTGAAATACCTTCA-TTCCT-CTTTGCTAGCAATTTAC-CTGTCATGCTAGA-AGTGGTCTAACATTT-TAGTTATTTATAAAT-AAGTGT-CATATATA-AACTCCCATAT-GCTTTAGGTTCCTAGTTCTTC
-
+ T  G  G  A  T  A  G  A  T  T  A  A  A  T  G  T  G  A  A  A  T  A  C  C  T  T  C  A  -  T  T  C  C  T  -  C  T  T  T  G  C  T  A  G  C  A  A  T  T  T  A  C  -  C  T  G  T  C  A  T  G  C  T  A  G  A  -  A  G  T  G  G  T  C  T  A  A  C  A  T  T  T  -  T  A  G  T  T  A  T  T  T  A  T  A  A  A  T  -  A  A  G  T  G  T  -  C  A  T  A  T  A  T  A  -  A  A  C  T  C  C  C  A  T  A  T  -  G  C  T  T  T  A  G  G  T  C  T  A  G  T  T  C  T  T  C  - 
 > thr_bact_S_aureus
-TGGATAGATTAAATGTGAAATACCTTCA-TTCCT-CTTTGCTAGCAATTTAC-CTGTCATGCTAGA-AGTGGTCTAACATTT-TAGTTATTTATAAAT-AAGTGT-CATATATA-AACTCCCATAT-GCTTTAGGTTCCTAGTTCTTCA
-
+ T  G  G  A  T  A  G  A  T  T  A  A  A  T  G  T  G  A  A  A  T  A  C  C  T  T  C  A  -  T  T  C  C  T  -  C  T  T  T  G  C  T  A  G  C  A  A  T  T  T  A  C  -  C  T  G  T  C  A  T  G  C  T  A  G  A  -  A  G  T  G  G  T  C  T  A  A  C  A  T  T  T  -  T  A  G  T  T  A  T  T  T  A  T  A  A  A  T  -  A  A  G  T  G  T  -  C  A  T  A  T  A  T  A  -  A  A  C  T  C  C  C  A  T  A  T  -  G  C  T  T  T  A  G  G  T  C  T  A  G  T  T  C  T  T  C  A 
 > thr_bact_A_aeolicus
-AGATTAAATGAAATAGGAATTACCATGA-TTCCT-AAATACTAGCTATCTAA-CTATTATGCTAGA-TGTGGTCAAACATTG-TGACTATCTGCTAAT-ATATAT-CATATATG-TGATCCTATAT-GCATTAGCTTGCTAGTCGTTTA
-
+ A  G  A  T  T  A  A  A  T  G  A  A  A  T  A  G  G  A  A  T  T  A  C  C  A  T  G  A  -  T  T  C  C  T  -  A  A  A  T  A  C  T  A  G  C  T  A  T  C  T  A  A  -  C  T  A  T  T  A  T  G  C  T  A  G  A  -  T  G  T  G  G  T  C  A  A  A  C  A  T  T  G  -  T  G  A  C  T  A  T  C  T  G  C  T  A  A  T  -  A  T  A  T  A  T  -  C  A  T  A  T  A  T  G  -  T  G  A  T  C  C  T  A  T  A  T  -  G  C  A  T  T  A  G  C  T  C  T  A  G  T  C  G  T  T  T  A 
 > thr_bact_A_asiaticus
-TGAATAATTGGCATACGAACTTCCATGA-CTACT-ATTTACTAGCAAGATAA-CTGTCATGCTAGA-TGCGGTCAAACATTG-TCATTATTCATTGCT-AACCGT-CATATTTA-AGATGCTATAA-GCTTTAGCCTGCTAGTTCTTTA
-
+ T  G  A  A  T  A  A  T  T  G  G  C  A  T  A  C  G  A  A  C  T  T  C  C  A  T  G  A  -  C  T  A  C  T  -  A  T  T  T  A  C  T  A  G  C  A  A  G  A  T  A  A  -  C  T  G  T  C  A  T  G  C  T  A  G  A  -  T  G  C  G  G  T  C  A  A  A  C  A  T  T  G  -  T  C  A  T  T  A  T  T  C  A  T  T  G  C  T  -  A  A  C  C  G  T  -  C  A  T  A  T  T  T  A  -  A  G  A  T  G  C  T  A  T  A  A  -  G  C  T  T  T  A  G  C  T  C  T  A  G  T  T  C  T  T  T  A 
 > thr_bact_B_burgdorferi
-TGCTTAATGGAAACAAGAATTTCCATGA-TTAAT-AAATACTAGCTATCTAA-CTGGCATGCTAGA-TGCGGTCAAACATTG-TAATTGTCTATGGAT-ATACAT-CATATATT-AGATGCTATAT-GCTTTAGCTTGCTAGTTGTTTA
-
+ T  G  C  T  T  A  A  T  G  G  A  A  A  C  A  A  G  A  A  T  T  T  C  C  A  T  G  A  -  T  T  A  A  T  -  A  A  A  T  A  C  T  A  G  C  T  A  T  C  T  A  A  -  C  T  G  G  C  A  T  G  C  T  A  G  A  -  T  G  C  G  G  T  C  A  A  A  C  A  T  T  G  -  T  A  A  T  T  G  T  C  T  A  T  G  G  A  T  -  A  T  A  C  A  T  -  C  A  T  A  T  A  T  T  -  A  G  A  T  G  C  T  A  T  A  T  -  G  C  T  T  T  A  G  C  T  C  T  A  G  T  T  G  T  T  T  A 
 > thr_bact_B_fragilis
-TGTGTAATTGGTACGAAAAATTCCCTGA-CTACT-AATTACTAGCAAGATAA-CTGTCATGCTGGA-CGTGGTCAAACATTG-TTGTTATTCTTTGCT-ATACAT-CATATTTA-GGATGCTATAA-GCTTTAGCCTGCTAGTTCTTTA
-
+ T  G  T  G  T  A  A  T  T  G  G  T  A  C  G  A  A  A  A  A  T  T  C  C  C  T  G  A  -  C  T  A  C  T  -  A  A  T  T  A  C  T  A  G  C  A  A  G  A  T  A  A  -  C  T  G  T  C  A  T  G  C  T  G  G  A  -  C  G  T  G  G  T  C  A  A  A  C  A  T  T  G  -  T  T  G  T  T  A  T  T  C  T  T  T  G  C  T  -  A  T  A  C  A  T  -  C  A  T  A  T  T  T  A  -  G  G  A  T  G  C  T  A  T  A  A  -  G  C  T  T  T  A  G  C  T  C  T  A  G  T  T  C  T  T  T  A 
 > thr_bact_B_licheniformis
-TGGTTAGATTAAATCTGAAATACCTTGG-TTCCT-CTTTGCTAGCAATTTAA-CTGTCATGCTAGA-AGTGGTCTAACATTT-TTGCTGTTAATAAAT-AACTGT-CATATATA-AACTCCTATAT-GCTTTAGGTTCCTAGTTCTTTA
-
+ T  G  G  T  T  A  G  A  T  T  A  A  A  T  C  T  G  A  A  A  T  A  C  C  T  T  G  G  -  T  T  C  C  T  -  C  T  T  T  G  C  T  A  G  C  A  A  T  T  T  A  A  -  C  T  G  T  C  A  T  G  C  T  A  G  A  -  A  G  T  G  G  T  C  T  A  A  C  A  T  T  T  -  T  T  G  C  T  G  T  T  A  A  T  A  A  A  T  -  A  A  C  T  G  T  -  C  A  T  A  T  A  T  A  -  A  A  C  T  C  C  T  A  T  A  T  -  G  C  T  T  T  A  G  G  T  C  T  A  G  T  T  C  T  T  T  A 
 > thr_bact_B_thailandensis
-TGAGTAAATGGGTACCGATATACCTTTA-TTCCA-AACTACTAGCGATATTA-CTGACATGCGAGA-TGTGGTTAAACATTG-CTCTAATCTGTAAAT-GTATAT-CATAAATA-CGAGGCTATAT-GCTTTAGCTTGCTAGTTGTTTA
-
+ T  G  A  G  T  A  A  A  T  G  G  G  T  A  C  C  G  A  T  A  T  A  C  C  T  T  T  A  -  T  T  C  C  A  -  A  A  C  T  A  C  T  A  G  C  G  A  T  A  T  T  A  -  C  T  G  A  C  A  T  G  C  G  A  G  A  -  T  G  T  G  G  T  T  A  A  A  C  A  T  T  G  -  C  T  C  T  A  A  T  C  T  G  T  A  A  A  T  -  G  T  A  T  A  T  -  C  A  T  A  A  A  T  A  -  C  G  A  G  G  C  T  A  T  A  T  -  G  C  T  T  T  A  G  C  T  C  T  A  G  T  T  G  T  T  T  A 
 > thr_bact_B_bacillaceae
-TGGTTAGATTAAATATGAAATACCTTGG-TTCCT-ATTTGCTAGCAATTTAA-CTGTCATGCTAGA-AGTGGTCTAACATTT-TTGTTGTTAATAAAT-AACTGT-CATATATG-AACTCCTATAT-GCTTTAGGTTCCTAGTTCTTTA
-
+ T  G  G  T  T  A  G  A  T  T  A  A  A  T  A  T  G  A  A  A  T  A  C  C  T  T  G  G  -  T  T  C  C  T  -  A  T  T  T  G  C  T  A  G  C  A  A  T  T  T  A  A  -  C  T  G  T  C  A  T  G  C  T  A  G  A  -  A  G  T  G  G  T  C  T  A  A  C  A  T  T  T  -  T  T  G  T  T  G  T  T  A  A  T  A  A  A  T  -  A  A  C  T  G  T  -  C  A  T  A  T  A  T  G  -  A  A  C  T  C  C  T  A  T  A  T  -  G  C  T  T  T  A  G  G  T  C  T  A  G  T  T  C  T  T  T  A 
 > thr_bact_C_aggregans
-TGAATAATTGATACGAGAAATGCGATTA-TTCCT-TTGTACTAGCGATCTAA-CTGTCATCCTAGA-CGTGCTCAAAGATTG-TGTCTATTGATTGCA-AAATGT-CACATTCG-AGATGCTATAT-CCTTTAGCTCGCCAGTTGTTTA
-
+ T  G  A  A  T  A  A  T  T  G  A  T  A  C  G  A  G  A  A  A  T  G  C  G  A  T  T  A  -  T  T  C  C  T  -  T  T  G  T  A  C  T  A  G  C  G  A  T  C  T  A  A  -  C  T  G  T  C  A  T  C  C  T  A  G  A  -  C  G  T  G  C  T  C  A  A  A  G  A  T  T  G  -  T  G  T  C  T  A  T  T  G  A  T  T  G  C  A  -  A  A  A  T  G  T  -  C  A  C  A  T  T  C  G  -  A  G  A  T  G  C  T  A  T  A  T  -  C  C  T  T  T  A  G  C  C  C  C  A  G  T  T  G  T  T  T  A 
 > thr_bact_C_jejuni
-TGCATAATTAATAGTGGAACTGGCATTA-TATCA-AAGTACTAGTGATATAA-CTATTAAGTTAGA-TGTGATCAAACATTG-TTATTCTTAATTATT-AATAT-CATATATC-AGAGGCTATAT-ACTTTAGCTTGCTAGTTGTTCA
-
+ T  G  C  A  T  A  A  T  T  A  A  T  A  G  T  G  G  A  A  C  T  G  G  C  A  T  T  A  -  T  A  T  C  A  -  A  A  G  T  A  C  T  A  G  T  G  A  T  A  T  A  A  -  C  T  A  T  T  A  A  G  T  T  A  G  A  -  T  G  T  G  A  T  C  A  A  A  C  A  T  T  G  -  T  T  A  T  T  C  T  T  A  A  T  T  A  T  T  -  -  A  A  T  A  T  -  C  A  T  A  T  A  T  C  -  A  G  A  G  G  C  T  A  T  A  T  -  A  C  T  T  T  A  G  C  T  C  T  A  G  T  T  G  T  T  C  A 
 > thr_bact_D_radiodurans
-TGAATCATTAAAATAGGAAGTTCCATGA-ATACT-AATTACTAGCAATGTAC-CTGTCATGCTAGA-CGTGGTCAAACATTG-TTATTATCTTTTACT-ATGTGT-CATATTTA-AGATGCTATAA-GCTTTAGCCTGCTAGTCGTTTA
-
+ T  G  A  A  T  C  A  T  T  A  A  A  A  T  A  G  G  A  A  G  T  T  C  C  A  T  G  A  -  A  T  A  C  T  -  A  A  T  T  A  C  T  A  G  C  A  A  T  G  T  A  C  -  C  T  G  T  C  A  T  G  C  T  A  G  A  -  C  G  T  G  G  T  C  A  A  A  C  A  T  T  G  -  T  T  A  T  T  A  T  C  T  T  T  T  A  C  T  -  A  T  G  T  G  T  -  C  A  T  A  T  T  T  A  -  A  G  A  T  G  C  T  A  T  A  A  -  G  C  T  T  T  A  G  C  T  C  T  A  G  T  C  G  T  T  T  A 
 > thr_bact_E_coli
-TTGATATTTGCATAAAAAAATAGCTTTA-TTCC-AAGTACTAGCGATATTA-CTGTCATGGGAGA-TGTGGTCAAACATTG-TAGGTGTTAATAGCT-ATTTAT-CATATCTA-CGAGGCTATAT-TCTTTAGCTTGCTAGTTGTTCA
-
+ T  T  G  A  T  A  T  T  T  G  C  A  T  A  A  A  A  A  A  A  T  A  G  C  T  T  T  A  -  T  T  -  C  C  -  A  A  G  T  A  C  T  A  G  C  G  A  T  A  T  T  A  -  C  T  G  T  C  A  T  G  G  G  A  G  A  -  T  G  T  G  G  T  C  A  A  A  C  A  T  T  G  -  T  A  G  G  T  G  T  T  A  A  T  A  G  C  T  -  A  T  T  T  A  T  -  C  A  T  A  T  C  T  A  -  C  G  A  G  G  C  T  A  T  A  T  -  T  C  T  T  T  A  G  C  T  C  T  A  G  T  T  G  T  T  C  A 
 > thr_bact_G_obscuriglobus
-TGGTTACTTCAAAGGCGATATTCCATCA-TTCCT-ATGTGCTGGCAATATAA-CTGTCATGATAGT-CGTGGTCTAACATTT-TCGTTGTTAACACAT-AAGTGT-CATATATA-AACTGCTACAA-GCTTTAGGTTCCTAGTTCATTA
-
+ T  G  G  T  T  A  C  T  T  C  A  A  A  G  G  C  G  A  T  A  T  T  C  C  A  T  C  A  -  T  T  C  C  T  -  A  T  G  T  G  C  T  G  G  C  A  A  T  A  T  A  A  -  C  T  G  T  C  A  T  G  A  T  A  G  T  -  C  G  T  G  G  T  C  T  A  A  C  A  T  T  T  -  T  C  G  T  T  G  T  T  A  A  C  A  C  A  T  -  A  A  G  T  G  T  -  C  A  T  A  T  A  T  A  -  A  A  C  T  G  C  T  A  C  A  A  -  G  C  T  T  T  A  G  G  T  C  T  A  G  T  T  C  A  T  T  A 
 > thr_bact_H_aurantiacus
-TGATTAGTTGACATAGGATCTTCCATGA-TTCCT-TATTACTAGCAATATAC-CTGTCATGCTAGA-TGTGCTCTAACATTT-TTATTATTTTTTGCT-ATACGT-CATATTTG-AGATGCTATAA-GCTTTAGCCTGCTAGTTGCTTA
-
+ T  G  A  T  T  A  G  T  T  G  A  C  A  T  A  G  G  A  T  C  T  T  C  C  A  T  G  A  -  T  T  C  C  T  -  T  A  T  T  A  C  T  A  G  C  A  A  T  A  T  A  C  -  C  T  G  T  C  A  T  G  C  T  A  G  A  -  T  G  T  G  C  T  C  T  A  A  C  A  T  T  T  -  T  T  A  T  T  A  T  T  T  T  T  T  G  C  T  -  A  T  A  C  G  T  -  C  A  T  A  T  T  T  G  -  A  G  A  T  G  C  T  A  T  A  A  -  G  C  T  T  T  A  G  C  T  C  T  A  G  T  T  G  C  T  T  A 
 > thr_bact_P_mikurensis
-TGAATACTTGAATCGAGAGATTCCATGA-ATCCT-GATTACTAGCAATGTAC-CTGTCATGCTAGG-CGTGGTCAAACATTT-TGGGTATTACTTACT-AAGTGT-CATATTTG-AGATGCTATAA-TCTTTAGCCTGGTAGTTGGTTA
-
+ T  G  A  A  T  A  C  T  T  G  A  A  T  C  G  A  G  A  G  A  T  T  C  C  A  T  G  A  -  A  T  C  C  T  -  G  A  T  T  A  C  T  A  G  C  A  A  T  G  T  A  C  -  C  T  G  T  C  A  T  G  C  T  A  G  G  -  C  G  T  G  G  T  C  A  A  A  C  A  T  T  T  -  T  G  G  G  T  A  T  T  A  C  T  T  A  C  T  -  A  A  G  T  G  T  -  C  A  T  A  T  T  T  G  -  A  G  A  T  G  C  T  A  T  A  A  -  T  C  T  T  T  A  G  C  T  G  T  A  G  T  T  G  G  T  T  A 
 > thr_bact_S_elongatus
-TGCCTAATTAAAATAGGAACTTCCATCG-TTCTT-GTTTACTAGCTATATAA-CTGTCATGCTAGA-CGTGGTCTAACATTT-TTGTTATTTCTTACT-ATACGT-CATATTTA-AGATGCTATAA-GCTTTAGCCTGCTAGTTGTTTA
-
+ T  G  C  C  T  A  A  T  T  A  A  A  A  T  A  G  G  A  A  C  T  T  C  C  A  T  C  G  -  T  T  C  T  T  -  G  T  T  T  A  C  T  A  G  C  T  A  T  A  T  A  A  -  C  T  G  T  C  A  T  G  C  T  A  G  A  -  C  G  T  G  G  T  C  T  A  A  C  A  T  T  T  -  T  T  G  T  T  A  T  T  T  C  T  T  A  C  T  -  A  T  A  C  G  T  -  C  A  T  A  T  T  T  A  -  A  G  A  T  G  C  T  A  T  A  A  -  G  C  T  T  T  A  G  C  T  C  T  A  G  T  T  G  T  T  T  A 
 > thr_bact_T_maritima
-TTAATTATCGATAGAGGAAATTCCTTTA-TATTA-GACTACTAGCGATTTAA-CTGTTATGGTAGA-TGTGCTCAAACATTG-TTGTTATTACTAGAT-AGTAT-CATATATG-AGAGCCTATAT-GCTTTAGCTAGCTAGTTGTTTA
-
+ T  T  A  A  T  T  A  T  C  G  A  T  A  G  A  G  G  A  A  A  T  T  C  C  T  T  T  A  -  T  A  T  T  A  -  G  A  C  T  A  C  T  A  G  C  G  A  T  T  T  A  A  -  C  T  G  T  T  A  T  G  G  T  A  G  A  -  T  G  T  G  C  T  C  A  A  A  C  A  T  T  G  -  T  T  G  T  T  A  T  T  A  C  T  A  G  A  T  -  -  A  G  T  A  T  -  C  A  T  A  T  A  T  G  -  A  G  A  G  C  C  T  A  T  A  T  -  G  C  T  T  T  A  G  C  A  C  T  A  G  T  T  G  T  T  T  A 
 > thr_bact_C_thermalis
-TGATTAAAGAACATACGAATTACCATCA-TTACT-AAATACTAGCTATTCAA-CTGTCATGCTAGA-TGTGGTCAAACATTG-TTGTTATCAATTCAT-AAATAT-CATATATA-TGAGCCTATAT-GCTTTAGCTTGCTAGTTGTTTA
-
+ T  G  A  T  T  A  A  A  G  A  A  C  A  T  A  C  G  A  A  T  T  A  C  C  A  T  C  A  -  T  T  A  C  T  -  A  A  A  T  A  C  T  A  G  C  T  A  T  T  C  A  A  -  C  T  G  T  C  A  T  G  C  T  A  G  A  -  T  G  T  G  G  T  C  A  A  A  C  A  T  T  G  -  T  T  G  T  T  A  T  C  A  A  T  T  C  A  T  -  A  A  A  T  A  T  -  C  A  T  A  T  A  T  A  -  T  G  A  G  C  C  T  A  T  A  T  -  G  C  T  T  T  A  G  C  T  C  T  A  G  T  T  G  T  T  T  A 
 > thr_bact_T_thermophilus
-TGAATTCTTGAAATGGGAATTCCCATGG-ATCCT-AATTACTAGCAATGTAC-CTGTCATGCTAGA-CGTGGTCAAACATTG-TTGTTATTTATTCCT-AAGCGT-CATATTTA-AGATGCTATAA-GCTTTAGCCTGCTAGTTGTTTA
-
+ T  G  A  A  T  T  C  T  T  G  A  A  A  T  G  G  G  A  A  T  T  C  C  C  A  T  G  G  -  A  T  C  C  T  -  A  A  T  T  A  C  T  A  G  C  A  A  T  G  T  A  C  -  C  T  G  T  C  A  T  G  C  T  A  G  A  -  C  G  T  G  G  T  C  A  A  A  C  A  T  T  G  -  T  T  G  T  T  A  T  T  T  A  T  T  C  C  T  -  A  A  G  C  G  T  -  C  A  T  A  T  T  T  A  -  A  G  A  T  G  C  T  A  T  A  A  -  G  C  T  T  T  A  G  C  T  C  T  A  G  T  T  G  T  T  T  A 
